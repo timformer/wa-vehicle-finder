@@ -1,6 +1,6 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-09-26T13:44:51.142865+00:00",
+  "updatedAt": "2026-09-27T14:42:00.360191+00:00",
   "snapshots": [
     {
       "date": "2026-09-21",
@@ -59,6 +59,17 @@
     },
     {
       "date": "2026-09-26",
+      "vins": [
+        "7JDDA3VL3TG060621",
+        "7JDE23KL9SG005966",
+        "7JDE23KLXSG000680",
+        "7JDE23VL3SG007904",
+        "7JDEV3KL2SG000597",
+        "7JDEV3VK4SG016898"
+      ]
+    },
+    {
+      "date": "2026-09-27",
       "vins": [
         "7JDDA3VL3TG060621",
         "7JDE23KL9SG005966",
@@ -137,6 +148,12 @@
           "price": 58075,
           "mileage": 21804,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 58075,
+          "mileage": 21804,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -148,7 +165,7 @@
         "make": "Volvo",
         "model": "EX90",
         "trim": "Twin Motor Performance Ultra 6-Seater",
-        "price": 62800,
+        "price": 64650,
         "mileage": 5645,
         "exteriorColor": "Silver Dawn",
         "interiorColor": "Charcoal",
@@ -205,6 +222,12 @@
         {
           "date": "2026-09-26",
           "price": 62800,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 64650,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -274,6 +297,12 @@
         },
         {
           "date": "2026-09-26",
+          "price": 62025,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-27",
           "price": 62025,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
@@ -347,6 +376,12 @@
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -417,6 +452,12 @@
           "price": 58875,
           "mileage": 7980,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 58875,
+          "mileage": 7980,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -427,26 +468,26 @@
         "year": 2026,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Ultra",
-        "price": 86088,
+        "trim": "Twin Motor Performance Ultra",
+        "price": 85388,
         "mileage": 8299,
-        "exteriorColor": "Denim Blue Metallic",
-        "interiorColor": "Charcoal",
-        "seats": null,
-        "drivetrain": null,
+        "exteriorColor": "Blue",
+        "interiorColor": "Black",
+        "seats": 7,
+        "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Swickard Toyota",
-        "officialBrandDealer": false,
-        "city": "Edmonds",
+        "dealer": "Volvo Cars Bellevue",
+        "officialBrandDealer": true,
+        "city": "Bellevue",
         "state": "WA",
-        "zip": "98026",
+        "zip": "98004",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": false,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDDA3VL3TG060621-1.jpg",
-        "photoCount": 2,
+        "photoCount": 34,
         "url": "https://www.swickardtoyota.com/used-Edmonds-2026-Volvo-EX90-Ultra-7JDDA3VL3TG060621",
         "listedAt": "2026-09-17 19:36:31",
         "firstSeenDate": "2026-09-19"
@@ -487,6 +528,12 @@
           "price": 86088,
           "mileage": 8299,
           "dealer": "Swickard Toyota"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 85388,
+          "mileage": 8299,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     }
