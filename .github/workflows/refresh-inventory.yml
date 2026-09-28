@@ -2,8 +2,12 @@ name: Refresh configured inventories
 
 on:
   schedule:
-    # One off-peak check; each vehicle's cadence is defined in data/vehicles.json.
+    # Staggered checks tolerate delayed or omitted scheduled events. Durable
+    # reservations ensure only the first eligible check uses provider calls.
     - cron: "17 9 * * *"
+    - cron: "17 13 * * *"
+    - cron: "17 17 * * *"
+    - cron: "17 21 * * *"
   workflow_dispatch:
     inputs:
       vehicles:
