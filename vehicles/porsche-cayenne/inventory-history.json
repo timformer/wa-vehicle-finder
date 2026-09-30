@@ -1,48 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-09-28T16:45:01.414404+00:00",
+  "updatedAt": "2026-09-30T15:56:50.354655+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-22",
-      "vins": [
-        "WP1AA2AY0PDA09025",
-        "WP1AA2AY0RDA11392",
-        "WP1AA2AY1NDA00301",
-        "WP1AA2AY1TDA00540",
-        "WP1AA2AY3PDA02098",
-        "WP1AA2AY3PDA10850",
-        "WP1AA2AY4SDA02247",
-        "WP1AA2AY5NDA01645",
-        "WP1AA2AY5PDA04628",
-        "WP1AA2AY5PDA05780",
-        "WP1AA2AY5PDA09988",
-        "WP1AA2AY5TDA01805",
-        "WP1AA2AY5TDA02159",
-        "WP1AA2AY5TDA02162",
-        "WP1AA2AY6RDA10179",
-        "WP1AA2AY6SDA04579",
-        "WP1AA2AY6TDA02204",
-        "WP1AA2AY7PDA10849",
-        "WP1AA2AY7TDA02163",
-        "WP1AA2AY8TDA02169",
-        "WP1AA2AYXNDA07537",
-        "WP1AE2AY2NDA26703",
-        "WP1AE2AY3NDA26614",
-        "WP1AE2AYXNDA26755",
-        "WP1AL2AY3RDA32375",
-        "WP1AL2AY5RDA32264",
-        "WP1AM2AY0RDA48143",
-        "WP1BA2AY3SDA31811",
-        "WP1BA2AY5SDA33446",
-        "WP1BA2AY9RDA51717",
-        "WP1BA2AY9TDA36044",
-        "WP1BE2AY3SDA37290",
-        "WP1BF2AYXPDA35279",
-        "WP1BK2AY0RDA72579",
-        "WP1BK2AY9PDA39142",
-        "WP1BK2AYXRDA72458"
-      ]
-    },
     {
       "date": "2026-09-24",
       "vins": [
@@ -171,6 +130,50 @@
         "WP1BK2AY9PDA39142",
         "WP1BK2AYXRDA72458"
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "vins": [
+        "WP1AA2AY0PDA09025",
+        "WP1AA2AY0RDA11392",
+        "WP1AA2AY1NDA00301",
+        "WP1AA2AY1TDA00540",
+        "WP1AA2AY3PDA02098",
+        "WP1AA2AY3PDA10850",
+        "WP1AA2AY4SDA02247",
+        "WP1AA2AY5NDA01645",
+        "WP1AA2AY5PDA04628",
+        "WP1AA2AY5PDA05780",
+        "WP1AA2AY5PDA09988",
+        "WP1AA2AY5TDA01805",
+        "WP1AA2AY5TDA02159",
+        "WP1AA2AY5TDA02162",
+        "WP1AA2AY6RDA10179",
+        "WP1AA2AY6SDA04579",
+        "WP1AA2AY6TDA02204",
+        "WP1AA2AY7PDA10849",
+        "WP1AA2AY7RDA14225",
+        "WP1AA2AY7TDA02163",
+        "WP1AA2AY8TDA02169",
+        "WP1AA2AYXNDA07537",
+        "WP1AE2AY2NDA26703",
+        "WP1AE2AY3NDA26614",
+        "WP1AE2AY5NDA26100",
+        "WP1AE2AYXNDA26755",
+        "WP1AG2AY4SDA25073",
+        "WP1AG2AY6SDA25477",
+        "WP1AL2AY3RDA32375",
+        "WP1AL2AY5RDA32264",
+        "WP1AL2AY9RDA32512",
+        "WP1AM2AY0RDA48143",
+        "WP1BA2AY3SDA31811",
+        "WP1BA2AY5SDA33446",
+        "WP1BA2AY9RDA51717",
+        "WP1BA2AY9TDA36044",
+        "WP1BK2AY0RDA72579",
+        "WP1BK2AY9PDA39142",
+        "WP1BK2AYXRDA72458"
+      ]
     }
   ],
   "vehicles": {
@@ -181,15 +184,15 @@
         "year": 2022,
         "make": "Porsche",
         "model": "Cayenne",
-        "trim": "Trim not listed",
-        "price": 50747,
+        "trim": "AWD",
+        "price": 50197,
         "mileage": 39701,
-        "exteriorColor": "Black",
-        "interiorColor": "Black leather",
+        "exteriorColor": "Unspecified",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Driveway",
+        "dealer": "BMW of Spokane",
         "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
@@ -207,12 +210,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 50197,
-          "mileage": 39701,
-          "dealer": "BMW of Spokane"
-        },
-        {
           "date": "2026-09-24",
           "price": 50197,
           "mileage": 39701,
@@ -229,6 +226,12 @@
           "price": 50747,
           "mileage": 39701,
           "dealer": "Driveway"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 50197,
+          "mileage": 39701,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -265,12 +268,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 48720,
-          "mileage": 43502,
-          "dealer": "CARR Vancouver Buick GMC"
-        },
-        {
           "date": "2026-09-24",
           "price": 48720,
           "mileage": 43502,
@@ -284,6 +281,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 48520,
+          "mileage": 43502,
+          "dealer": "Carr Vancouver Buick GMC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 48520,
           "mileage": 43502,
           "dealer": "Carr Vancouver Buick GMC"
@@ -323,12 +326,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 60199,
-          "mileage": 47669,
-          "dealer": "unique motors seattle"
-        },
-        {
           "date": "2026-09-24",
           "price": 60199,
           "mileage": 47669,
@@ -342,6 +339,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 60000,
+          "mileage": 47669,
+          "dealer": "unique motors seattle"
+        },
+        {
+          "date": "2026-09-30",
           "price": 60000,
           "mileage": 47669,
           "dealer": "unique motors seattle"
@@ -381,12 +384,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 69788,
-          "mileage": 22749,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 69788,
           "mileage": 22749,
@@ -400,6 +397,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 68888,
+          "mileage": 22749,
+          "dealer": "Porsche Seattle North"
+        },
+        {
+          "date": "2026-09-30",
           "price": 68888,
           "mileage": 22749,
           "dealer": "Porsche Seattle North"
@@ -439,12 +442,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 46700,
-          "mileage": 53766,
-          "dealer": "Auto Quest Inc. (WA)"
-        },
-        {
           "date": "2026-09-24",
           "price": 46700,
           "mileage": 53766,
@@ -458,6 +455,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 46100,
+          "mileage": 53766,
+          "dealer": "Auto Quest Inc. (WA)"
+        },
+        {
+          "date": "2026-09-30",
           "price": 46100,
           "mileage": 53766,
           "dealer": "Auto Quest Inc. (WA)"
@@ -497,12 +500,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 60150,
-          "mileage": 24319,
-          "dealer": "Park Place LTD"
-        },
-        {
           "date": "2026-09-24",
           "price": 60150,
           "mileage": 24319,
@@ -516,6 +513,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 60150,
+          "mileage": 24319,
+          "dealer": "Park Place LTD"
+        },
+        {
+          "date": "2026-09-30",
           "price": 60150,
           "mileage": 24319,
           "dealer": "Park Place LTD"
@@ -555,12 +558,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 53951,
-          "mileage": 36763,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 53751,
           "mileage": 36763,
@@ -577,6 +574,12 @@
           "price": 54999,
           "mileage": 36763,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 54999,
+          "mileage": 36763,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -587,24 +590,24 @@
         "year": 2023,
         "make": "Porsche",
         "model": "Cayenne",
-        "trim": "Trim not listed",
+        "trim": "Cayenne",
         "price": 60999,
         "mileage": 16330,
         "exteriorColor": "Carrara White Metallic",
-        "interiorColor": "Black leather",
-        "seats": 5,
+        "interiorColor": "Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Porsche Seattle North",
-        "officialBrandDealer": true,
-        "city": "Lynnwood",
+        "dealer": "Volvo Cars Bellevue",
+        "officialBrandDealer": false,
+        "city": "Bellevue",
         "state": "WA",
-        "zip": "98037",
-        "cpo": true,
+        "zip": "98004",
+        "cpo": false,
         "oneOwner": false,
         "accidentFree": false,
         "accidentCount": 1,
-        "usageType": "Lease",
+        "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/WP1AA2AY3PDA02098-1.jpg",
         "photoCount": 30,
         "url": "https://volvocarsbellevue.com/used/Porsche/2023-Porsche-Cayenne-for-sale-Bellevue-WA-6d96465eac1813b262e6ac1030626c01.htm",
@@ -612,12 +615,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 61750,
-          "mileage": 16330,
-          "dealer": "BMW of Lynnwood"
-        },
         {
           "date": "2026-09-24",
           "price": 61550,
@@ -635,6 +632,12 @@
           "price": 60999,
           "mileage": 16330,
           "dealer": "Porsche Seattle North"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 60999,
+          "mileage": 16330,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -671,12 +674,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 99299,
-          "mileage": 19765,
-          "dealer": "Audi Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 99299,
           "mileage": 19765,
@@ -693,7 +690,7 @@
         "model": "Cayenne",
         "trim": "Platinum Edition",
         "price": 65380,
-        "mileage": 29685,
+        "mileage": 29694,
         "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
@@ -717,12 +714,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 65380,
-          "mileage": 29685,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 65380,
           "mileage": 29685,
@@ -738,6 +729,12 @@
           "date": "2026-09-28",
           "price": 65380,
           "mileage": 29685,
+          "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 65380,
+          "mileage": 29694,
           "dealer": "Porsche Tacoma"
         }
       ]
@@ -775,12 +772,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 160150,
-          "mileage": 7059,
-          "dealer": "Park Place LTD"
-        },
-        {
           "date": "2026-09-24",
           "price": 160150,
           "mileage": 7059,
@@ -794,6 +785,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 160150,
+          "mileage": 7059,
+          "dealer": "Park Place LTD"
+        },
+        {
+          "date": "2026-09-30",
           "price": 160150,
           "mileage": 7059,
           "dealer": "Park Place LTD"
@@ -833,12 +830,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 58399,
-          "mileage": 25962,
-          "dealer": "University Audi Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 58399,
           "mileage": 25962,
@@ -855,6 +846,12 @@
           "price": 56399,
           "mileage": 25962,
           "dealer": "University Audi Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 56399,
+          "mileage": 25962,
+          "dealer": "University Audi Lynnwood"
         }
       ]
     },
@@ -866,7 +863,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 63260,
+        "price": 62890,
         "mileage": 30318,
         "exteriorColor": "Blue",
         "interiorColor": "Black",
@@ -891,12 +888,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 63260,
-          "mileage": 30318,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 63260,
           "mileage": 30318,
@@ -913,6 +904,12 @@
           "price": 63260,
           "mileage": 30318,
           "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 62890,
+          "mileage": 30318,
+          "dealer": "Porsche Tacoma"
         }
       ]
     },
@@ -924,7 +921,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Platinum Edition",
-        "price": 57036,
+        "price": 56036,
         "mileage": 32665,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -949,12 +946,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 56999,
-          "mileage": 32665,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 56999,
           "mileage": 32665,
@@ -971,6 +962,12 @@
           "price": 57036,
           "mileage": 32665,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 56036,
+          "mileage": 32665,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -982,7 +979,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Platinum Edition",
-        "price": 63036,
+        "price": 61036,
         "mileage": 14249,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -1007,12 +1004,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 62999,
-          "mileage": 14249,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 62999,
           "mileage": 14249,
@@ -1027,6 +1018,12 @@
         {
           "date": "2026-09-28",
           "price": 63036,
+          "mileage": 14249,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 61036,
           "mileage": 14249,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -1065,12 +1062,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 58791,
-          "mileage": 43512,
-          "dealer": "Renton Chrysler Jeep Dodge Ram"
-        },
-        {
           "date": "2026-09-24",
           "price": 58791,
           "mileage": 43512,
@@ -1087,6 +1078,12 @@
           "price": 58691,
           "mileage": 43512,
           "dealer": "Renton Chrysler Jeep Dodge Ram"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 58691,
+          "mileage": 43512,
+          "dealer": "Renton Chrysler Jeep Dodge Ram"
         }
       ]
     },
@@ -1100,8 +1097,8 @@
         "trim": "Trim not listed",
         "price": 69999,
         "mileage": 26761,
-        "exteriorColor": "White",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Chromite Black Metallic",
+        "interiorColor": "Black leather",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -1114,7 +1111,7 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Multiple Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WP1AA2AY0RDA11392-1.jpg",
         "photoCount": 32,
         "url": "https://www.autolist.com/porsche-cayenne#vin=WP1AA2AY0RDA11392",
@@ -1122,12 +1119,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 69999,
-          "mileage": 26761,
-          "dealer": "BMW Seattle"
-        },
         {
           "date": "2026-09-24",
           "price": 69999,
@@ -1142,6 +1133,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 69999,
+          "mileage": 26761,
+          "dealer": "BMW Seattle"
+        },
+        {
+          "date": "2026-09-30",
           "price": 69999,
           "mileage": 26761,
           "dealer": "BMW Seattle"
@@ -1181,12 +1178,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 70183,
-          "mileage": 40492,
-          "dealer": "Mercedes-Benz of Spokane"
-        },
-        {
           "date": "2026-09-24",
           "price": 70183,
           "mileage": 40492,
@@ -1200,6 +1191,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 70183,
+          "mileage": 40492,
+          "dealer": "Mercedes-Benz of Spokane"
+        },
+        {
+          "date": "2026-09-30",
           "price": 70183,
           "mileage": 40492,
           "dealer": "Mercedes-Benz of Spokane"
@@ -1239,12 +1236,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 86799,
-          "mileage": 27228,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 86599,
           "mileage": 27228,
@@ -1258,6 +1249,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 85999,
+          "mileage": 27228,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 85999,
           "mileage": 27228,
           "dealer": "Volvo Cars Bellevue"
@@ -1297,12 +1294,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 93199,
-          "mileage": 9151,
-          "dealer": "Findlay Lexus of Spokane"
-        },
-        {
           "date": "2026-09-24",
           "price": 93199,
           "mileage": 9151,
@@ -1319,6 +1310,12 @@
           "price": 92199,
           "mileage": 9151,
           "dealer": "Findlay Lexus of Spokane"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 92199,
+          "mileage": 9151,
+          "dealer": "Findlay Lexus of Spokane"
         }
       ]
     },
@@ -1330,7 +1327,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Turbo GT",
-        "price": 163200,
+        "price": 163080,
         "mileage": 14306,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -1355,12 +1352,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 163200,
-          "mileage": 14306,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 163200,
           "mileage": 14306,
@@ -1375,6 +1366,12 @@
         {
           "date": "2026-09-28",
           "price": 163200,
+          "mileage": 14306,
+          "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 163080,
           "mileage": 14306,
           "dealer": "Porsche Tacoma"
         }
@@ -1413,12 +1410,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 119090,
-          "mileage": 12421,
-          "dealer": "Fields Motorcars Bellevue LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 121586,
           "mileage": 12421,
@@ -1432,6 +1423,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 107743,
+          "mileage": 12421,
+          "dealer": "Fields Motorcars Bellevue LLC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 107743,
           "mileage": 12421,
           "dealer": "Fields Motorcars Bellevue LLC"
@@ -1462,7 +1459,7 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/WP1AA2AY4SDA02247-1.jpg",
         "photoCount": 1,
         "url": "https://bmwbellevue.com/used/Porsche/2025-Porsche-Cayenne-8288efc3ac1806568f439d17217bb9a9.htm",
@@ -1470,12 +1467,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 79550,
-          "mileage": 16144,
-          "dealer": "BMW of Bellevue"
-        },
         {
           "date": "2026-09-24",
           "price": 79550,
@@ -1490,6 +1481,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 79550,
+          "mileage": 16144,
+          "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 79550,
           "mileage": 16144,
           "dealer": "BMW of Bellevue"
@@ -1529,12 +1526,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 100199,
-          "mileage": 24840,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 99999,
           "mileage": 24840,
@@ -1562,7 +1553,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 92380,
+        "price": 90388,
         "mileage": 5425,
         "exteriorColor": "Blue",
         "interiorColor": "Black",
@@ -1587,12 +1578,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 92380,
-          "mileage": 5425,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 92380,
           "mileage": 5425,
@@ -1609,6 +1594,12 @@
           "price": 92380,
           "mileage": 5425,
           "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 90388,
+          "mileage": 5425,
+          "dealer": "Porsche Tacoma"
         }
       ]
     },
@@ -1620,7 +1611,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 93380,
+        "price": 93060,
         "mileage": 5036,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -1645,12 +1636,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 93380,
-          "mileage": 5036,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 93380,
           "mileage": 5036,
@@ -1667,6 +1652,12 @@
           "price": 93380,
           "mileage": 5036,
           "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 93060,
+          "mileage": 5036,
+          "dealer": "Porsche Tacoma"
         }
       ]
     },
@@ -1678,7 +1669,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 74436,
+        "price": 73636,
         "mileage": 6719,
         "exteriorColor": "Montego BLU MET",
         "interiorColor": "Black Artificial Leather",
@@ -1703,12 +1694,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 74399,
-          "mileage": 6719,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 74399,
           "mileage": 6719,
@@ -1723,6 +1708,12 @@
         {
           "date": "2026-09-28",
           "price": 74436,
+          "mileage": 6719,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 73636,
           "mileage": 6719,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -1761,12 +1752,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 98689,
-          "mileage": 5415,
-          "dealer": "Porsche Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 98689,
           "mileage": 5415,
@@ -1783,6 +1768,12 @@
           "price": 99876,
           "mileage": 5415,
           "dealer": "Porsche Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 99876,
+          "mileage": 5415,
+          "dealer": "Porsche Bellevue"
         }
       ]
     },
@@ -1794,7 +1785,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 97995,
+        "price": 96990,
         "mileage": 4444,
         "exteriorColor": "Arctic Grey",
         "interiorColor": "Black",
@@ -1819,12 +1810,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 97995,
-          "mileage": 4444,
-          "dealer": "Porsche Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 97995,
           "mileage": 4444,
@@ -1839,6 +1824,12 @@
         {
           "date": "2026-09-28",
           "price": 97995,
+          "mileage": 4444,
+          "dealer": "Porsche Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 96990,
           "mileage": 4444,
           "dealer": "Porsche Bellevue"
         }
@@ -1877,12 +1868,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 97995,
-          "mileage": 5023,
-          "dealer": "Porsche Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 97995,
           "mileage": 5023,
@@ -1899,6 +1884,12 @@
           "price": 97995,
           "mileage": 5023,
           "dealer": "Porsche Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 97995,
+          "mileage": 5023,
+          "dealer": "Porsche Bellevue"
         }
       ]
     },
@@ -1910,7 +1901,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 97995,
+        "price": 96990,
         "mileage": 8609,
         "exteriorColor": "Arctic Grey",
         "interiorColor": "Black",
@@ -1935,12 +1926,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 97995,
-          "mileage": 8609,
-          "dealer": "Porsche Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 97995,
           "mileage": 8609,
@@ -1957,6 +1942,12 @@
           "price": 97995,
           "mileage": 8609,
           "dealer": "Porsche Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 96990,
+          "mileage": 8609,
+          "dealer": "Porsche Bellevue"
         }
       ]
     },
@@ -1968,7 +1959,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 97995,
+        "price": 96841,
         "mileage": 5152,
         "exteriorColor": "Carrara White Metallic",
         "interiorColor": "Black",
@@ -1984,7 +1975,7 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/WP1AA2AY8TDA02169-1.jpg",
         "photoCount": 1,
         "url": "https://www.carfax.com/vehicle/WP1AA2AY8TDA02169",
@@ -1992,12 +1983,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 97995,
-          "mileage": 5152,
-          "dealer": "Porsche Bellevue"
-        },
         {
           "date": "2026-09-24",
           "price": 97995,
@@ -2015,6 +2000,12 @@
           "price": 97995,
           "mileage": 5152,
           "dealer": "Porsche Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 96841,
+          "mileage": 5152,
+          "dealer": "Porsche Bellevue"
         }
       ]
     },
@@ -2026,7 +2017,7 @@
         "make": "Porsche",
         "model": "Cayenne",
         "trim": "Trim not listed",
-        "price": 100280,
+        "price": 98400,
         "mileage": 5299,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -2051,12 +2042,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 100280,
-          "mileage": 5299,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 100280,
           "mileage": 5299,
@@ -2071,6 +2056,12 @@
         {
           "date": "2026-09-28",
           "price": 100280,
+          "mileage": 5299,
+          "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 98400,
           "mileage": 5299,
           "dealer": "Porsche Tacoma"
         }
@@ -2109,12 +2100,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 98386,
-          "mileage": 4357,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 98386,
           "mileage": 4357,
@@ -2128,6 +2113,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 98386,
+          "mileage": 4357,
+          "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
           "price": 98386,
           "mileage": 4357,
           "dealer": "Porsche Tacoma"
@@ -2167,12 +2158,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 98060,
-          "mileage": 5718,
-          "dealer": "Porsche Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 98060,
           "mileage": 5718,
@@ -2186,6 +2171,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 98060,
+          "mileage": 5718,
+          "dealer": "Porsche Tacoma"
+        },
+        {
+          "date": "2026-09-30",
           "price": 98060,
           "mileage": 5718,
           "dealer": "Porsche Tacoma"
@@ -2225,12 +2216,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 167695,
-          "mileage": 25781,
-          "dealer": "Fields Motorcars Bellevue LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 167695,
           "mileage": 25781,
@@ -2247,6 +2232,12 @@
           "price": 167695,
           "mileage": 25781,
           "dealer": "Fields Motorcars Bellevue LLC"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 167695,
+          "mileage": 25781,
+          "dealer": "Fields Motorcars Bellevue LLC"
         }
       ]
     },
@@ -2260,12 +2251,12 @@
         "trim": "Trim not listed",
         "price": 70977,
         "mileage": 13290,
-        "exteriorColor": "Arctic Grey",
-        "interiorColor": "Black leather",
+        "exteriorColor": "Gray",
+        "interiorColor": "Unspecified",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Seattle Hyundai",
+        "dealer": "Seattle Jeep",
         "officialBrandDealer": false,
         "city": "Seattle",
         "state": "WA",
@@ -2274,7 +2265,7 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/WP1AA2AY7RDA14225-1.jpg",
         "photoCount": 32,
         "url": "https://www.autolist.com/porsche-cayenne#vin=WP1AA2AY7RDA14225",
@@ -2299,6 +2290,12 @@
           "price": 70977,
           "mileage": 13290,
           "dealer": "Seattle Hyundai"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 70977,
+          "mileage": 13290,
+          "dealer": "Seattle Jeep"
         }
       ]
     },
@@ -2351,6 +2348,12 @@
           "price": 124798,
           "mileage": 21214,
           "dealer": "Jaguar Land Rover Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 124798,
+          "mileage": 21214,
+          "dealer": "Jaguar Land Rover Bellevue"
         }
       ]
     },
@@ -2397,6 +2400,92 @@
           "price": 59900,
           "mileage": 49508,
           "dealer": "West State Motorsport"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 59900,
+          "mileage": 49508,
+          "dealer": "West State Motorsport"
+        }
+      ]
+    },
+    "WP1AL2AY9RDA32512": {
+      "lastKnown": {
+        "id": "wp1al2ay9rda32512",
+        "vin": "WP1AL2AY9RDA32512",
+        "year": 2024,
+        "make": "Porsche",
+        "model": "Cayenne",
+        "trim": "S",
+        "price": 89555,
+        "mileage": 17526,
+        "exteriorColor": "Beige",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Gasoline",
+        "dealer": "Bud Clary Auburn VW",
+        "officialBrandDealer": false,
+        "city": "Auburn",
+        "state": "WA",
+        "zip": "98002",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": false,
+        "accidentCount": 1,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/WP1AL2AY9RDA32512-1.jpg",
+        "photoCount": 13,
+        "url": "https://www.carfax.com/vehicle/WP1AL2AY9RDA32512",
+        "listedAt": "2026-09-29 22:00:42",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 89555,
+          "mileage": 17526,
+          "dealer": "Bud Clary Auburn VW"
+        }
+      ]
+    },
+    "WP1AG2AY6SDA25477": {
+      "lastKnown": {
+        "id": "wp1ag2ay6sda25477",
+        "vin": "WP1AG2AY6SDA25477",
+        "year": 2025,
+        "make": "Porsche",
+        "model": "Cayenne",
+        "trim": "GTS",
+        "price": 129858,
+        "mileage": 13085,
+        "exteriorColor": "Paint to Sample",
+        "interiorColor": "Black/Mojave Beige",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Gasoline",
+        "dealer": "Porsche Bellevue",
+        "officialBrandDealer": true,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": true,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/WP1AG2AY6SDA25477-1.jpg",
+        "photoCount": 1,
+        "url": "https://www.carfax.com/vehicle/WP1AG2AY6SDA25477",
+        "listedAt": "2026-09-29 21:43:56",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 129858,
+          "mileage": 13085,
+          "dealer": "Porsche Bellevue"
         }
       ]
     }

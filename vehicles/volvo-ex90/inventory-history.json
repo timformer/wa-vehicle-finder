@@ -1,18 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-09-29T15:51:26.128625+00:00",
+  "updatedAt": "2026-09-30T15:55:28.991349+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-23",
-      "vins": [
-        "7JDDA3VL3TG060621",
-        "7JDE23KL9SG005966",
-        "7JDE23KLXSG000680",
-        "7JDE23VL3SG007904",
-        "7JDEV3KL2SG000597",
-        "7JDEV3VK4SG016898"
-      ]
-    },
     {
       "date": "2026-09-24",
       "vins": [
@@ -78,6 +67,17 @@
         "7JDEV3KL2SG000597",
         "7JDEV3VK4SG016898"
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "vins": [
+        "7JDDA3VL3TG060621",
+        "7JDE23KL9SG005966",
+        "7JDE23KLXSG000680",
+        "7JDE23VL3SG007904",
+        "7JDEV3KL2SG000597",
+        "7JDEV3VK4SG016898"
+      ]
     }
   ],
   "vehicles": {
@@ -114,12 +114,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 58150,
-          "mileage": 21804,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 57950,
           "mileage": 21804,
@@ -151,6 +145,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 58075,
+          "mileage": 21804,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 58075,
           "mileage": 21804,
           "dealer": "Volvo Cars Bellevue"
@@ -190,12 +190,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 63000,
-          "mileage": 5645,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 62800,
           "mileage": 5645,
@@ -227,6 +221,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 64650,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 64650,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
@@ -266,12 +266,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 60800,
-          "mileage": 13861,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 60600,
           "mileage": 13861,
@@ -303,6 +297,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 62025,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 62025,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
@@ -342,12 +342,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 64188,
-          "mileage": 13793,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 63988,
           "mileage": 13793,
@@ -379,6 +373,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
@@ -418,12 +418,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 59800,
-          "mileage": 7980,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 59600,
           "mileage": 7980,
@@ -455,6 +449,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 58875,
+          "mileage": 7980,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 58875,
           "mileage": 7980,
           "dealer": "Volvo Cars Bellevue"
@@ -494,12 +494,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-23",
-          "price": 86088,
-          "mileage": 8299,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 86088,
           "mileage": 8299,
@@ -531,6 +525,12 @@
         },
         {
           "date": "2026-09-29",
+          "price": 85388,
+          "mileage": 8299,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 85388,
           "mileage": 8299,
           "dealer": "Volvo Cars Bellevue"

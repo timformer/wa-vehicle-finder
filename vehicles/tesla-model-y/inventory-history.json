@@ -1,167 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-09-28T16:44:46.560407+00:00",
+  "updatedAt": "2026-09-30T15:55:46.913913+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-22",
-      "vins": [
-        "7SAYGAEE0RF079003",
-        "7SAYGAEE0SF258566",
-        "7SAYGAEE1RF984379",
-        "7SAYGAEE2RF039201",
-        "7SAYGAEE2RF064132",
-        "7SAYGAEE2RF981524",
-        "7SAYGAEE2RF986125",
-        "7SAYGAEE3NF569929",
-        "7SAYGAEE3SF237615",
-        "7SAYGAEE5NF393062",
-        "7SAYGAEE5RF986863",
-        "7SAYGAEE6PF714805",
-        "7SAYGAEE7PF812550",
-        "7SAYGAEE7RF155722",
-        "7SAYGAEE7RF983186",
-        "7SAYGAEE8PF750110",
-        "7SAYGAEE9NF429206",
-        "7SAYGAEE9PF711221",
-        "7SAYGAEE9SF235092",
-        "7SAYGAEEXNF350739",
-        "7SAYGAEEXNF542047",
-        "7SAYGAEEXRF121595",
-        "7SAYGDED0TA500487",
-        "7SAYGDED0TF388924",
-        "7SAYGDED1RF087717",
-        "7SAYGDED1RF118447",
-        "7SAYGDED1SF237895",
-        "7SAYGDED2SF273899",
-        "7SAYGDED3TF383197",
-        "7SAYGDED3TF456388",
-        "7SAYGDED4RF121293",
-        "7SAYGDED5TA608720",
-        "7SAYGDED9TF383897",
-        "7SAYGDEDXTF451351",
-        "7SAYGDEE0NF350797",
-        "7SAYGDEE0NF357555",
-        "7SAYGDEE0PA157646",
-        "7SAYGDEE0PF591374",
-        "7SAYGDEE0PF648706",
-        "7SAYGDEE0PF742584",
-        "7SAYGDEE0PF883686",
-        "7SAYGDEE0RF981913",
-        "7SAYGDEE1NF355944",
-        "7SAYGDEE1NF436538",
-        "7SAYGDEE1NF462461",
-        "7SAYGDEE1PF585843",
-        "7SAYGDEE1PF613415",
-        "7SAYGDEE1PF794063",
-        "7SAYGDEE1PF857579",
-        "7SAYGDEE1RA227805",
-        "7SAYGDEE1RA234088",
-        "7SAYGDEE1TA651055",
-        "7SAYGDEE1TA680717",
-        "7SAYGDEE1TF342026",
-        "7SAYGDEE2PA075045",
-        "7SAYGDEE2PA078950",
-        "7SAYGDEE2PF586662",
-        "7SAYGDEE2PF615903",
-        "7SAYGDEE2PF807600",
-        "7SAYGDEE2RA235783",
-        "7SAYGDEE2RF983582",
-        "7SAYGDEE2SF282739",
-        "7SAYGDEE2TF352306",
-        "7SAYGDEE3PA026775",
-        "7SAYGDEE3RA278688",
-        "7SAYGDEE3TF596269",
-        "7SAYGDEE4NF364329",
-        "7SAYGDEE4PA151414",
-        "7SAYGDEE4PF622089",
-        "7SAYGDEE4PF653181",
-        "7SAYGDEE4TF634785",
-        "7SAYGDEE5NF413067",
-        "7SAYGDEE5NF486276",
-        "7SAYGDEE5NF506672",
-        "7SAYGDEE5RA245725",
-        "7SAYGDEE5SF277339",
-        "7SAYGDEE6NF369645",
-        "7SAYGDEE6RF059887",
-        "7SAYGDEE6RF148830",
-        "7SAYGDEE7NF371291",
-        "7SAYGDEE7PA075249",
-        "7SAYGDEE7PA078216",
-        "7SAYGDEE7PA117256",
-        "7SAYGDEE7PF748589",
-        "7SAYGDEE7PF865783",
-        "7SAYGDEE7PF899108",
-        "7SAYGDEE7TA648516",
-        "7SAYGDEE7TF372034",
-        "7SAYGDEE8NF457872",
-        "7SAYGDEE8PA193536",
-        "7SAYGDEE8PF645455",
-        "7SAYGDEE8PF647089",
-        "7SAYGDEE8PF876422",
-        "7SAYGDEE8RA231091",
-        "7SAYGDEE9NF454267",
-        "7SAYGDEE9PA125889",
-        "7SAYGDEE9PA205287",
-        "7SAYGDEE9PA210795",
-        "7SAYGDEE9PF610021",
-        "7SAYGDEE9PF617955",
-        "7SAYGDEE9PF624873",
-        "7SAYGDEE9PF804757",
-        "7SAYGDEE9PF858608",
-        "7SAYGDEE9PF876963",
-        "7SAYGDEE9RF070463",
-        "7SAYGDEE9RF080894",
-        "7SAYGDEE9TA649540",
-        "7SAYGDEE9TF344543",
-        "7SAYGDEE9TF351363",
-        "7SAYGDEE9TF401856",
-        "7SAYGDEEXNF462054",
-        "7SAYGDEEXNF505341",
-        "7SAYGDEEXPA129983",
-        "7SAYGDEEXPA167052",
-        "7SAYGDEEXPF848010",
-        "7SAYGDEEXTA415701",
-        "7SAYGDEEXTA636456",
-        "7SAYGDEEXTF452668",
-        "7SAYGDEF0PF702689",
-        "7SAYGDEF1NF336111",
-        "7SAYGDEF1NF348307",
-        "7SAYGDEF2NF469086",
-        "7SAYGDEF2NF510168",
-        "7SAYGDEF2PF647095",
-        "7SAYGDEF3NF507585",
-        "7SAYGDEF3NF511202",
-        "7SAYGDEF4NF383178",
-        "7SAYGDEF4NF492465",
-        "7SAYGDEF4SA353820",
-        "7SAYGDEF5NF349928",
-        "7SAYGDEF5NF410551",
-        "7SAYGDEF5NF521083",
-        "7SAYGDEF5NF552236",
-        "7SAYGDEF5PF644109",
-        "7SAYGDEF5PF746848",
-        "7SAYGDEF5PF778375",
-        "7SAYGDEF6NF553251",
-        "7SAYGDEF6NF553346",
-        "7SAYGDEF6PF743621",
-        "7SAYGDEF6PF776859",
-        "7SAYGDEF6PF886262",
-        "7SAYGDEF7NF463719",
-        "7SAYGDEF7NF485770",
-        "7SAYGDEF7NF550956",
-        "7SAYGDEF7PF603545",
-        "7SAYGDEF7PF763778",
-        "7SAYGDEF8NF367386",
-        "7SAYGDEF8NF382891",
-        "7SAYGDEF8NF438358",
-        "7SAYGDEF8PF698701",
-        "7SAYGDEF8PF740347",
-        "7SAYGDEF9RF024494",
-        "7SAYGDEFXNF449006",
-        "7SAYGDEFXNF491434",
-        "7SAYGDET8TA611909"
-      ]
-    },
     {
       "date": "2026-09-24",
       "vins": [
@@ -594,6 +434,145 @@
         "7SAYGDEFXNF491434",
         "7SAYGDET8TA611909"
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "vins": [
+        "7SAYGAEE0RF079003",
+        "7SAYGAEE0SF258566",
+        "7SAYGAEE1RF984379",
+        "7SAYGAEE2RF039201",
+        "7SAYGAEE2RF064132",
+        "7SAYGAEE2RF981524",
+        "7SAYGAEE3NF569929",
+        "7SAYGAEE3SF237615",
+        "7SAYGAEE5NF393062",
+        "7SAYGAEE5RF077070",
+        "7SAYGAEE5RF986863",
+        "7SAYGAEE6PF714805",
+        "7SAYGAEE6PF915815",
+        "7SAYGAEE7PF611909",
+        "7SAYGAEE7PF812550",
+        "7SAYGAEE8PF750110",
+        "7SAYGAEE9PF711221",
+        "7SAYGAEE9RF194442",
+        "7SAYGAEE9RF983206",
+        "7SAYGAEE9SF235092",
+        "7SAYGAEEXNF312346",
+        "7SAYGAEEXNF350739",
+        "7SAYGAEEXRF121595",
+        "7SAYGDED0TA500487",
+        "7SAYGDED0TF388924",
+        "7SAYGDED1RF087717",
+        "7SAYGDED1SF237895",
+        "7SAYGDED2SF273899",
+        "7SAYGDED3TF456388",
+        "7SAYGDED4RF121293",
+        "7SAYGDED5TA608720",
+        "7SAYGDEDXTF451351",
+        "7SAYGDEE0NF350797",
+        "7SAYGDEE0NF437261",
+        "7SAYGDEE0PA025115",
+        "7SAYGDEE0PA157646",
+        "7SAYGDEE0PF591374",
+        "7SAYGDEE0PF693600",
+        "7SAYGDEE0TF365233",
+        "7SAYGDEE0TF644777",
+        "7SAYGDEE1NF355944",
+        "7SAYGDEE1NF436538",
+        "7SAYGDEE1PF585843",
+        "7SAYGDEE1PF613415",
+        "7SAYGDEE1RA227805",
+        "7SAYGDEE1RA234088",
+        "7SAYGDEE1TA651055",
+        "7SAYGDEE1TF342026",
+        "7SAYGDEE2NF449265",
+        "7SAYGDEE2PA075045",
+        "7SAYGDEE2PA077071",
+        "7SAYGDEE2PF586662",
+        "7SAYGDEE2PF615903",
+        "7SAYGDEE2PF807600",
+        "7SAYGDEE2PF814482",
+        "7SAYGDEE2RF177614",
+        "7SAYGDEE2RF983582",
+        "7SAYGDEE3PA026775",
+        "7SAYGDEE4NF364329",
+        "7SAYGDEE4PA151414",
+        "7SAYGDEE4PF873906",
+        "7SAYGDEE4RF988279",
+        "7SAYGDEE4TF634785",
+        "7SAYGDEE5NF486276",
+        "7SAYGDEE5NF506672",
+        "7SAYGDEE5RA245725",
+        "7SAYGDEE5SF277339",
+        "7SAYGDEE6NF369645",
+        "7SAYGDEE6PF630839",
+        "7SAYGDEE6PF928470",
+        "7SAYGDEE6RF059887",
+        "7SAYGDEE7NF423695",
+        "7SAYGDEE7NF572771",
+        "7SAYGDEE7PA117256",
+        "7SAYGDEE7PF748589",
+        "7SAYGDEE7RF179780",
+        "7SAYGDEE7TA648516",
+        "7SAYGDEE8NF457872",
+        "7SAYGDEE8PA193536",
+        "7SAYGDEE8PF585547",
+        "7SAYGDEE8PF645455",
+        "7SAYGDEE8PF647089",
+        "7SAYGDEE8PF876422",
+        "7SAYGDEE8PF923531",
+        "7SAYGDEE8TF522667",
+        "7SAYGDEE9NF454267",
+        "7SAYGDEE9PA125889",
+        "7SAYGDEE9PA205287",
+        "7SAYGDEE9PF617955",
+        "7SAYGDEE9PF624873",
+        "7SAYGDEE9PF804757",
+        "7SAYGDEE9PF827780",
+        "7SAYGDEE9RF070463",
+        "7SAYGDEE9RF080894",
+        "7SAYGDEE9TA413941",
+        "7SAYGDEE9TA649540",
+        "7SAYGDEE9TF344543",
+        "7SAYGDEE9TF351363",
+        "7SAYGDEE9TF401856",
+        "7SAYGDEEXNF360060",
+        "7SAYGDEEXNF505341",
+        "7SAYGDEEXPA129983",
+        "7SAYGDEEXPF598784",
+        "7SAYGDEEXPF848010",
+        "7SAYGDEEXTA636456",
+        "7SAYGDEEXTF452668",
+        "7SAYGDEF0NF465957",
+        "7SAYGDEF0PF702689",
+        "7SAYGDEF1NF336111",
+        "7SAYGDEF1NF344306",
+        "7SAYGDEF2NF510168",
+        "7SAYGDEF4NF383178",
+        "7SAYGDEF4NF492465",
+        "7SAYGDEF4RF061713",
+        "7SAYGDEF4SA353820",
+        "7SAYGDEF5NF349928",
+        "7SAYGDEF5NF410551",
+        "7SAYGDEF5NF552236",
+        "7SAYGDEF5PF644109",
+        "7SAYGDEF5PF746848",
+        "7SAYGDEF5PF778375",
+        "7SAYGDEF6PF886262",
+        "7SAYGDEF7NF463719",
+        "7SAYGDEF7NF550956",
+        "7SAYGDEF7PF763778",
+        "7SAYGDEF8NF367386",
+        "7SAYGDEF8NF382891",
+        "7SAYGDEF8NF395933",
+        "7SAYGDEF8NF438358",
+        "7SAYGDEF8PF698701",
+        "7SAYGDEF9RF024494",
+        "7SAYGDEFXNF449006",
+        "7SAYGDEFXNF491434",
+        "7SAYGDET8TA611909"
+      ]
     }
   ],
   "vehicles": {
@@ -605,7 +584,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range Dual Motor All-Wheel Drive",
-        "price": 33297,
+        "price": 33497,
         "mileage": 37815,
         "exteriorColor": "Silver",
         "interiorColor": "White",
@@ -630,12 +609,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33897,
-          "mileage": 37815,
-          "dealer": "Northwest Chevrolet of Bellingham"
-        },
-        {
           "date": "2026-09-24",
           "price": 33297,
           "mileage": 37815,
@@ -652,86 +625,12 @@
           "price": 33297,
           "mileage": 37815,
           "dealer": "northwest chevrolet of bellingham"
-        }
-      ]
-    },
-    "7SAYGDEF1NF348307": {
-      "lastKnown": {
-        "id": "7saygdef1nf348307",
-        "vin": "7SAYGDEF1NF348307",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 31035,
-        "mileage": 56124,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": null,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "pierre chevrolet",
-        "officialBrandDealer": false,
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "98125",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Vehicle Use",
-        "image": "https://retail.photos.vin/7SAYGDEF1NF348307-1.jpg",
-        "photoCount": 41,
-        "url": "https://pierrechevrolet.com/used/Tesla/2022-Tesla-Model-Y-61086811ac1851c1ca6e0f38a3c9dbbc.htm",
-        "listedAt": "2026-08-09 03:47:33",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 31035,
-          "mileage": 56124,
-          "dealer": "pierre chevrolet"
-        }
-      ]
-    },
-    "7SAYGDEE5NF413067": {
-      "lastKnown": {
-        "id": "7saygdee5nf413067",
-        "vin": "7SAYGDEE5NF413067",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 26198,
-        "mileage": 61285,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Leskovar Mitsubishi",
-        "officialBrandDealer": false,
-        "city": "Kennewick",
-        "state": "WA",
-        "zip": "99336",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE5NF413067-1.jpg",
-        "photoCount": 32,
-        "url": "https://leskovar.com/electric-used/Tesla/2022-Tesla-Model-Y-600b1e57ac184f13ed91f8cb014743e2.htm",
-        "listedAt": "2026-09-02 04:47:22",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 26198,
-          "mileage": 61285,
-          "dealer": "Leskovar Mitsubishi"
+          "date": "2026-09-30",
+          "price": 33497,
+          "mileage": 37815,
+          "dealer": "northwest chevrolet of bellingham"
         }
       ]
     },
@@ -743,7 +642,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range",
-        "price": 29198,
+        "price": 28198,
         "mileage": 48237,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -768,12 +667,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29198,
-          "mileage": 48237,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 29198,
           "mileage": 48237,
@@ -788,6 +681,12 @@
         {
           "date": "2026-09-28",
           "price": 29198,
+          "mileage": 48237,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 28198,
           "mileage": 48237,
           "dealer": "Leskovar Mitsubishi"
         }
@@ -826,12 +725,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 23198,
-          "mileage": 154593,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 23198,
           "mileage": 154593,
@@ -845,6 +738,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 23198,
+          "mileage": 154593,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 23198,
           "mileage": 154593,
           "dealer": "Leskovar Mitsubishi"
@@ -884,12 +783,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 25198,
-          "mileage": 119202,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 25198,
           "mileage": 119202,
@@ -903,6 +796,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 25198,
+          "mileage": 119202,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 25198,
           "mileage": 119202,
           "dealer": "Leskovar Mitsubishi"
@@ -941,12 +840,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 26198,
-          "mileage": 101341,
-          "dealer": "Leskovar Mitsubishi"
-        },
         {
           "date": "2026-09-24",
           "price": 26198,
@@ -1000,12 +893,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 31603,
-          "mileage": 55231,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-09-24",
           "price": 31603,
           "mileage": 55231,
@@ -1019,6 +906,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 31594,
+          "mileage": 55231,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-09-30",
           "price": 31594,
           "mileage": 55231,
           "dealer": "Volkswagen of Puyallup"
@@ -1058,56 +951,10 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 36888,
-          "mileage": 46266,
-          "dealer": "cortes nissan"
-        },
-        {
           "date": "2026-09-24",
           "price": 33700,
           "mileage": 46266,
           "dealer": "Cortes Nissan"
-        }
-      ]
-    },
-    "7SAYGDEEXNF462054": {
-      "lastKnown": {
-        "id": "7saygdeexnf462054",
-        "vin": "7SAYGDEEXNF462054",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 23975,
-        "mileage": 110513,
-        "exteriorColor": "White",
-        "interiorColor": "White",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "4 Season Motors LLC",
-        "officialBrandDealer": false,
-        "city": "Sunnyside",
-        "state": "WA",
-        "zip": "98944",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEEXNF462054-1.jpg",
-        "photoCount": 27,
-        "url": "https://www.4seasonmotor.com/pre-owned-cars/detail/x/1566633",
-        "listedAt": "2026-08-15 14:11:24",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 23975,
-          "mileage": 110513,
-          "dealer": "4 Season Motors LLC"
         }
       ]
     },
@@ -1144,12 +991,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 27991,
-          "mileage": 99687,
-          "dealer": "Inline Motors LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 27991,
           "mileage": 99687,
@@ -1163,6 +1004,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 27991,
+          "mileage": 99687,
+          "dealer": "Inline Motors"
+        },
+        {
+          "date": "2026-09-30",
           "price": 27991,
           "mileage": 99687,
           "dealer": "Inline Motors"
@@ -1202,12 +1049,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28859,
-          "mileage": 71997,
-          "dealer": "Del Sol Auto Sales"
-        },
-        {
           "date": "2026-09-24",
           "price": 28859,
           "mileage": 71997,
@@ -1221,6 +1062,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 28859,
+          "mileage": 71997,
+          "dealer": "Del Sol Auto Sales"
+        },
+        {
+          "date": "2026-09-30",
           "price": 28859,
           "mileage": 71997,
           "dealer": "Del Sol Auto Sales"
@@ -1260,12 +1107,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28644,
-          "mileage": 85410,
-          "dealer": "Honda of Walla Walla"
-        },
-        {
           "date": "2026-09-24",
           "price": 28644,
           "mileage": 85410,
@@ -1279,6 +1120,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 28644,
+          "mileage": 85410,
+          "dealer": "Honda of Walla Walla"
+        },
+        {
+          "date": "2026-09-30",
           "price": 28644,
           "mileage": 85410,
           "dealer": "Honda of Walla Walla"
@@ -1318,12 +1165,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29385,
-          "mileage": 88965,
-          "dealer": "Toyota of Puyallup"
-        },
-        {
           "date": "2026-09-24",
           "price": 29385,
           "mileage": 88965,
@@ -1337,6 +1178,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 29385,
+          "mileage": 88965,
+          "dealer": "Toyota of Puyallup"
+        },
+        {
+          "date": "2026-09-30",
           "price": 29385,
           "mileage": 88965,
           "dealer": "Toyota of Puyallup"
@@ -1376,12 +1223,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30699,
-          "mileage": 61072,
-          "dealer": "NorthWest Motor Group"
-        },
-        {
           "date": "2026-09-24",
           "price": 30699,
           "mileage": 61072,
@@ -1398,46 +1239,12 @@
           "price": 30699,
           "mileage": 61072,
           "dealer": "NorthWest Motor Group"
-        }
-      ]
-    },
-    "7SAYGDEF3NF511202": {
-      "lastKnown": {
-        "id": "7saygdef3nf511202",
-        "vin": "7SAYGDEF3NF511202",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 31495,
-        "mileage": 58996,
-        "exteriorColor": "Midnight Silver Metallic",
-        "interiorColor": "Black and White leatherette",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Seattle Finest Motors",
-        "officialBrandDealer": false,
-        "city": "Lynnwood",
-        "state": "WA",
-        "zip": "98037",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEF3NF511202-1.jpg",
-        "photoCount": 67,
-        "url": "https://www.seattlefinestmotors.com/pre-owned-cars/detail/x/1569562",
-        "listedAt": "2026-08-21 03:47:51",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 31495,
-          "mileage": 58996,
-          "dealer": "Seattle Finest Motors"
+          "date": "2026-09-30",
+          "price": 30699,
+          "mileage": 61072,
+          "dealer": "NorthWest Motor Group"
         }
       ]
     },
@@ -1474,12 +1281,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 31870,
-          "mileage": 53269,
-          "dealer": "Supreme Motors, LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 31870,
           "mileage": 53269,
@@ -1493,6 +1294,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 31860,
+          "mileage": 53269,
+          "dealer": "Supreme Motors, LLC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 31860,
           "mileage": 53269,
           "dealer": "Supreme Motors, LLC"
@@ -1532,12 +1339,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32668,
-          "mileage": 64444,
-          "dealer": "Dinsmore Auto Group Used Cars"
-        },
-        {
           "date": "2026-09-24",
           "price": 32668,
           "mileage": 64444,
@@ -1551,6 +1352,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 33022,
+          "mileage": 64444,
+          "dealer": "Dinsmore Auto Group Used Cars"
+        },
+        {
+          "date": "2026-09-30",
           "price": 33022,
           "mileage": 64444,
           "dealer": "Dinsmore Auto Group Used Cars"
@@ -1590,12 +1397,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33050,
-          "mileage": 46230,
-          "dealer": "South Tacoma Auto Sales, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 32550,
           "mileage": 46230,
@@ -1609,6 +1410,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32550,
+          "mileage": 46230,
+          "dealer": "South Tacoma Auto Sales, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 32550,
           "mileage": 46230,
           "dealer": "South Tacoma Auto Sales, Inc."
@@ -1648,12 +1455,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 34995,
-          "mileage": 44725,
-          "dealer": "ZAG Motors Everett"
-        },
-        {
           "date": "2026-09-24",
           "price": 34995,
           "mileage": 44725,
@@ -1667,6 +1468,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 34995,
+          "mileage": 44725,
+          "dealer": "ZAG Motors Everett"
+        },
+        {
+          "date": "2026-09-30",
           "price": 34995,
           "mileage": 44725,
           "dealer": "ZAG Motors Everett"
@@ -1706,12 +1513,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 34796,
-          "mileage": 21799,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 34796,
           "mileage": 21799,
@@ -1725,6 +1526,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 34496,
+          "mileage": 21799,
+          "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 34496,
           "mileage": 21799,
           "dealer": "Art Gamblin Motors, Inc."
@@ -1763,12 +1570,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 34996,
-          "mileage": 23175,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
         {
           "date": "2026-09-24",
           "price": 34996,
@@ -1822,12 +1623,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 36195,
-          "mileage": 19122,
-          "dealer": "Way Scarff Ford"
-        },
-        {
           "date": "2026-09-24",
           "price": 5003,
           "mileage": 19122,
@@ -1873,12 +1668,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 29998,
-          "mileage": 87263,
-          "dealer": "CarMax Lynnwood"
-        },
         {
           "date": "2026-09-24",
           "price": 29998,
@@ -1932,12 +1721,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30998,
-          "mileage": 75804,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 30998,
           "mileage": 75804,
@@ -1951,6 +1734,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 30998,
+          "mileage": 75804,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
           "price": 30998,
           "mileage": 75804,
           "dealer": "CarMax Lynnwood"
@@ -1990,12 +1779,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32000,
-          "mileage": 44231,
-          "dealer": "Dodge Chrysler Jeep of Kirkland"
-        },
-        {
           "date": "2026-09-24",
           "price": 32138,
           "mileage": 44231,
@@ -2009,6 +1792,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32992,
+          "mileage": 44231,
+          "dealer": "Dodge Chrysler Jeep of Kirkland"
+        },
+        {
+          "date": "2026-09-30",
           "price": 32992,
           "mileage": 44231,
           "dealer": "Dodge Chrysler Jeep of Kirkland"
@@ -2048,12 +1837,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33193,
-          "mileage": 45293,
-          "dealer": "Prestige Motors Yakima"
-        },
-        {
           "date": "2026-09-24",
           "price": 33193,
           "mileage": 45293,
@@ -2067,6 +1850,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32499,
+          "mileage": 45293,
+          "dealer": "Prestige Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 32499,
           "mileage": 45293,
           "dealer": "Prestige Motors, Inc."
@@ -2106,12 +1895,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33799,
-          "mileage": 30995,
-          "dealer": "CarCousins"
-        },
-        {
           "date": "2026-09-24",
           "price": 33799,
           "mileage": 30995,
@@ -2128,46 +1911,12 @@
           "price": 33799,
           "mileage": 30995,
           "dealer": "CarCousins"
-        }
-      ]
-    },
-    "7SAYGDEE7PF899108": {
-      "lastKnown": {
-        "id": "7saygdee7pf899108",
-        "vin": "7SAYGDEE7PF899108",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 35495,
-        "mileage": 48262,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Puyallup Nissan",
-        "officialBrandDealer": false,
-        "city": "Puyallup",
-        "state": "WA",
-        "zip": "98371",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE7PF899108-1.jpg",
-        "photoCount": 36,
-        "url": "https://puyallupnissan.com/used/Tesla/2023-Tesla-Model-Y-4798ebf8ac182f002812faeb8036f867.htm",
-        "listedAt": "2026-08-29 03:02:24",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 35495,
-          "mileage": 48262,
-          "dealer": "Puyallup Nissan"
+          "date": "2026-09-30",
+          "price": 33799,
+          "mileage": 30995,
+          "dealer": "CarCousins"
         }
       ]
     },
@@ -2203,12 +1952,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36995,
-          "mileage": 27365,
-          "dealer": "Puyallup Nissan"
-        },
         {
           "date": "2026-09-24",
           "price": 37195,
@@ -2262,12 +2005,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 36398,
-          "mileage": 43519,
-          "dealer": "Acura of Seattle"
-        },
-        {
           "date": "2026-09-24",
           "price": 35998,
           "mileage": 43519,
@@ -2284,46 +2021,6 @@
           "price": 36398,
           "mileage": 43519,
           "dealer": "acura of seattle"
-        }
-      ]
-    },
-    "7SAYGDEE7PF865783": {
-      "lastKnown": {
-        "id": "7saygdee7pf865783",
-        "vin": "7SAYGDEE7PF865783",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 37939,
-        "mileage": 20332,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Acura of Seattle",
-        "officialBrandDealer": false,
-        "city": "Tukwila",
-        "state": "WA",
-        "zip": "98188",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE7PF865783-1.jpg",
-        "photoCount": 24,
-        "url": "https://acuraofseattle.com/used/Tesla/2023-Tesla-Model-Y-6e44b0e9ac1838ffae3a022a0a2f5781.htm",
-        "listedAt": "2026-09-05 03:18:27",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 37939,
-          "mileage": 20332,
-          "dealer": "Acura of Seattle"
         }
       ]
     },
@@ -2360,12 +2057,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 38086,
-          "mileage": 23266,
-          "dealer": "Acura of Seattle"
-        },
-        {
           "date": "2026-09-24",
           "price": 38998,
           "mileage": 23266,
@@ -2379,6 +2070,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 38998,
+          "mileage": 23266,
+          "dealer": "acura of seattle"
+        },
+        {
+          "date": "2026-09-30",
           "price": 38998,
           "mileage": 23266,
           "dealer": "acura of seattle"
@@ -2418,12 +2115,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30700,
-          "mileage": 64999,
-          "dealer": "pierre ford of seattle"
-        },
-        {
           "date": "2026-09-24",
           "price": 30700,
           "mileage": 64999,
@@ -2437,6 +2128,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 30700,
+          "mileage": 64999,
+          "dealer": "pierre chevrolet"
+        },
+        {
+          "date": "2026-09-30",
           "price": 30700,
           "mileage": 64999,
           "dealer": "pierre chevrolet"
@@ -2476,12 +2173,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 37800,
-          "mileage": 17604,
-          "dealer": "Michael's Subaru of Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 37600,
           "mileage": 17604,
@@ -2495,6 +2186,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 37800,
+          "mileage": 17604,
+          "dealer": "Michael's Subaru of Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 37800,
           "mileage": 17604,
           "dealer": "Michael's Subaru of Bellevue"
@@ -2534,12 +2231,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 27198,
-          "mileage": 111632,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 27198,
           "mileage": 111632,
@@ -2556,6 +2247,12 @@
           "price": 27198,
           "mileage": 111632,
           "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 27198,
+          "mileage": 111632,
+          "dealer": "Leskovar Mitsubishi"
         }
       ]
     },
@@ -2568,7 +2265,7 @@
         "model": "Model Y",
         "trim": "Long Range",
         "price": 29998,
-        "mileage": 49557,
+        "mileage": 49569,
         "exteriorColor": "Silver",
         "interiorColor": "Black",
         "seats": 5,
@@ -2592,12 +2289,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29998,
-          "mileage": 49557,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 29998,
           "mileage": 49557,
@@ -2613,6 +2304,12 @@
           "date": "2026-09-28",
           "price": 29998,
           "mileage": 49557,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 29998,
+          "mileage": 49569,
           "dealer": "Leskovar Mitsubishi"
         }
       ]
@@ -2650,12 +2347,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 27198,
-          "mileage": 107767,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 27198,
           "mileage": 107767,
@@ -2669,6 +2360,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 27198,
+          "mileage": 107767,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 27198,
           "mileage": 107767,
           "dealer": "Leskovar Mitsubishi"
@@ -2708,12 +2405,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35198,
-          "mileage": 23618,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 35198,
           "mileage": 23618,
@@ -2727,6 +2418,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 35198,
+          "mileage": 23618,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 35198,
           "mileage": 23618,
           "dealer": "Leskovar Mitsubishi"
@@ -2766,12 +2463,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29998,
-          "mileage": 53041,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 29998,
           "mileage": 53041,
@@ -2785,6 +2476,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 29198,
+          "mileage": 53041,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 29198,
           "mileage": 53041,
           "dealer": "Leskovar Mitsubishi"
@@ -2824,12 +2521,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 26973,
-          "mileage": 93142,
-          "dealer": "AutoNation Honda Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 26973,
           "mileage": 93142,
@@ -2846,46 +2537,12 @@
           "price": 26973,
           "mileage": 93142,
           "dealer": "AutoNation Honda Renton"
-        }
-      ]
-    },
-    "7SAYGDEF7PF603545": {
-      "lastKnown": {
-        "id": "7saygdef7pf603545",
-        "vin": "7SAYGDEF7PF603545",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 27100,
-        "mileage": 105969,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Allwheels Inc",
-        "officialBrandDealer": false,
-        "city": "Everett",
-        "state": "WA",
-        "zip": "98203",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEF7PF603545-1.jpg",
-        "photoCount": 31,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEF7PF603545",
-        "listedAt": "2026-08-06 06:30:00",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 27100,
-          "mileage": 105969,
-          "dealer": "Allwheels Inc"
+          "date": "2026-09-30",
+          "price": 26973,
+          "mileage": 93142,
+          "dealer": "AutoNation Honda Renton"
         }
       ]
     },
@@ -2922,12 +2579,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30891,
-          "mileage": 87356,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-09-24",
           "price": 30891,
           "mileage": 87356,
@@ -2941,6 +2592,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 30891,
+          "mileage": 87356,
+          "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-09-30",
           "price": 30891,
           "mileage": 87356,
           "dealer": "Legend Auto Sales"
@@ -2980,12 +2637,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32097,
-          "mileage": 76732,
-          "dealer": "Maxx Autos Plus"
-        },
-        {
           "date": "2026-09-24",
           "price": 33199,
           "mileage": 76732,
@@ -3002,46 +2653,6 @@
           "price": 33187,
           "mileage": 76732,
           "dealer": "Maxx Autos Plus"
-        }
-      ]
-    },
-    "7SAYGDEE9PF610021": {
-      "lastKnown": {
-        "id": "7saygdee9pf610021",
-        "vin": "7SAYGDEE9PF610021",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 32912,
-        "mileage": 57801,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Westlie Ford",
-        "officialBrandDealer": false,
-        "city": "Washougal",
-        "state": "WA",
-        "zip": "98671",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE9PF610021-1.jpg",
-        "photoCount": 22,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE9PF610021",
-        "listedAt": "2026-09-01 08:54:38",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 32912,
-          "mileage": 57801,
-          "dealer": "Westlie Ford"
         }
       ]
     },
@@ -3077,12 +2688,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 33991,
-          "mileage": 35737,
-          "dealer": "Legend Auto Sales"
-        },
         {
           "date": "2026-09-24",
           "price": 33991,
@@ -3124,12 +2729,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33999,
-          "mileage": 45633,
-          "dealer": "MILLS MOTORS LLC."
-        },
-        {
           "date": "2026-09-24",
           "price": 33999,
           "mileage": 45633,
@@ -3143,6 +2742,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 33999,
+          "mileage": 45633,
+          "dealer": "MILLS MOTORS LLC."
+        },
+        {
+          "date": "2026-09-30",
           "price": 33999,
           "mileage": 45633,
           "dealer": "MILLS MOTORS LLC."
@@ -3182,12 +2787,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 34786,
-          "mileage": 38471,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 34786,
           "mileage": 38471,
@@ -3201,6 +2800,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 34786,
+          "mileage": 38471,
+          "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 34786,
           "mileage": 38471,
           "dealer": "Art Gamblin Motors, Inc."
@@ -3239,12 +2844,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 34996,
-          "mileage": 45932,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
         {
           "date": "2026-09-24",
           "price": 34996,
@@ -3298,12 +2897,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35495,
-          "mileage": 28612,
-          "dealer": "Seattle Finest Motors LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 35495,
           "mileage": 28612,
@@ -3317,6 +2910,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 35495,
+          "mileage": 28612,
+          "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 35495,
           "mileage": 28612,
           "dealer": "Seattle Finest Motors LLC"
@@ -3355,12 +2954,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 37080,
-          "mileage": 19996,
-          "dealer": "J & A Auto Sales"
-        },
         {
           "date": "2026-09-24",
           "price": 37080,
@@ -3402,12 +2995,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32990,
-          "mileage": 49348,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-09-24",
           "price": 32990,
           "mileage": 49348,
@@ -3421,6 +3008,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32990,
+          "mileage": 49348,
+          "dealer": "Carvana"
+        },
+        {
+          "date": "2026-09-30",
           "price": 32990,
           "mileage": 49348,
           "dealer": "Carvana"
@@ -3460,12 +3053,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35998,
-          "mileage": 44436,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 35998,
           "mileage": 44436,
@@ -3479,6 +3066,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 35998,
+          "mileage": 44436,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
           "price": 35998,
           "mileage": 44436,
           "dealer": "CarMax Lynnwood"
@@ -3518,12 +3111,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 38998,
-          "mileage": 21064,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 38998,
           "mileage": 21064,
@@ -3537,6 +3124,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 38998,
+          "mileage": 21064,
+          "dealer": "CarMax Renton"
+        },
+        {
+          "date": "2026-09-30",
           "price": 38998,
           "mileage": 21064,
           "dealer": "CarMax Renton"
@@ -3576,12 +3169,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33998,
-          "mileage": 52586,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 33998,
           "mileage": 52586,
@@ -3595,6 +3182,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 33998,
+          "mileage": 52586,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
           "price": 33998,
           "mileage": 52586,
           "dealer": "CarMax Lynnwood"
@@ -3633,12 +3226,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36998,
-          "mileage": 38044,
-          "dealer": "CarMax Vancouver"
-        },
         {
           "date": "2026-09-24",
           "price": 36998,
@@ -3680,12 +3267,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 27802,
-          "mileage": 113796,
-          "dealer": "Prestige Motors Pasco"
-        },
-        {
           "date": "2026-09-24",
           "price": 27556,
           "mileage": 113796,
@@ -3699,6 +3280,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 27354,
+          "mileage": 113796,
+          "dealer": "Prestige Motors, Inc"
+        },
+        {
+          "date": "2026-09-30",
           "price": 27354,
           "mileage": 113796,
           "dealer": "Prestige Motors, Inc"
@@ -3738,12 +3325,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28402,
-          "mileage": 95768,
-          "dealer": "Prestige Motors Yakima"
-        },
-        {
           "date": "2026-09-24",
           "price": 28066,
           "mileage": 95768,
@@ -3757,6 +3338,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 27864,
+          "mileage": 95768,
+          "dealer": "Prestige Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 27864,
           "mileage": 95768,
           "dealer": "Prestige Motors, Inc."
@@ -3796,12 +3383,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33458,
-          "mileage": 59510,
-          "dealer": "Prestige Motors Pasco"
-        },
-        {
           "date": "2026-09-24",
           "price": 33458,
           "mileage": 59510,
@@ -3818,46 +3399,12 @@
           "price": 33343,
           "mileage": 59510,
           "dealer": "Prestige Motors"
-        }
-      ]
-    },
-    "7SAYGDEF6PF776859": {
-      "lastKnown": {
-        "id": "7saygdef6pf776859",
-        "vin": "7SAYGDEF6PF776859",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 36372,
-        "mileage": 21069,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Rairdon's Honda of Sumner",
-        "officialBrandDealer": false,
-        "city": "Sumner",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEF6PF776859-1.jpg",
-        "photoCount": 35,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEF6PF776859",
-        "listedAt": "2026-07-23 06:07:20",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 36372,
-          "mileage": 21069,
-          "dealer": "Rairdon's Honda of Sumner"
+          "date": "2026-09-30",
+          "price": 33343,
+          "mileage": 59510,
+          "dealer": "Prestige Motors"
         }
       ]
     },
@@ -3894,12 +3441,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 46398,
-          "mileage": 4501,
-          "dealer": "Acura of Seattle"
-        },
-        {
           "date": "2026-09-24",
           "price": 45998,
           "mileage": 4501,
@@ -3913,6 +3454,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 45998,
+          "mileage": 4501,
+          "dealer": "acura of seattle"
+        },
+        {
+          "date": "2026-09-30",
           "price": 45998,
           "mileage": 4501,
           "dealer": "acura of seattle"
@@ -3934,7 +3481,7 @@
         "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Hyundai of Everett",
+        "dealer": "hyundai of everett",
         "officialBrandDealer": false,
         "city": "Everett",
         "state": "WA",
@@ -3952,12 +3499,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 41199,
-          "mileage": 26451,
-          "dealer": "Hyundai of Everett"
-        },
-        {
           "date": "2026-09-24",
           "price": 45535,
           "mileage": 26451,
@@ -3974,6 +3515,12 @@
           "price": 45535,
           "mileage": 26451,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 45535,
+          "mileage": 26451,
+          "dealer": "hyundai of everett"
         }
       ]
     },
@@ -4009,12 +3556,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 42199,
-          "mileage": 14625,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-09-24",
           "price": 45535,
@@ -4068,12 +3609,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 37794,
-          "mileage": 45169,
-          "dealer": "Evergreen Chevrolet"
-        },
-        {
           "date": "2026-09-24",
           "price": 37394,
           "mileage": 45169,
@@ -4087,6 +3622,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 37394,
+          "mileage": 45169,
+          "dealer": "evergreen ford"
+        },
+        {
+          "date": "2026-09-30",
           "price": 37394,
           "mileage": 45169,
           "dealer": "evergreen ford"
@@ -4126,12 +3667,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30991,
-          "mileage": 117994,
-          "dealer": "Daytona Motor Co"
-        },
-        {
           "date": "2026-09-24",
           "price": 30991,
           "mileage": 117994,
@@ -4145,6 +3680,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 30991,
+          "mileage": 117994,
+          "dealer": "Daytona Motor Co"
+        },
+        {
+          "date": "2026-09-30",
           "price": 30991,
           "mileage": 117994,
           "dealer": "Daytona Motor Co"
@@ -4184,12 +3725,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 31991,
-          "mileage": 86831,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-09-24",
           "price": 31991,
           "mileage": 86831,
@@ -4203,6 +3738,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 31991,
+          "mileage": 86831,
+          "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-09-30",
           "price": 31991,
           "mileage": 86831,
           "dealer": "Legend Auto Sales"
@@ -4241,12 +3782,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36780,
-          "mileage": 31026,
-          "dealer": "Auto 206 Inc."
-        },
         {
           "date": "2026-09-24",
           "price": 36680,
@@ -4300,12 +3835,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 40998,
-          "mileage": 18633,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 40998,
           "mileage": 18633,
@@ -4346,12 +3875,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 45998,
-          "mileage": 14820,
-          "dealer": "CarMax Vancouver"
-        },
-        {
           "date": "2026-09-24",
           "price": 44998,
           "mileage": 14820,
@@ -4368,6 +3891,12 @@
           "price": 44998,
           "mileage": 14820,
           "dealer": "CarMax Vancouver"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 44998,
+          "mileage": 14820,
+          "dealer": "CarMax Vancouver"
         }
       ]
     },
@@ -4379,14 +3908,14 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range",
-        "price": 36600,
+        "price": 36800,
         "mileage": 50030,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
+        "exteriorColor": "Stealth Grey",
+        "interiorColor": "All Black leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Prestige Motors, Inc",
+        "dealer": "Prestige Motors",
         "officialBrandDealer": false,
         "city": "Pasco",
         "state": "WA",
@@ -4404,12 +3933,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 36912,
-          "mileage": 50030,
-          "dealer": "Prestige Motors Pasco"
-        },
-        {
           "date": "2026-09-24",
           "price": 36737,
           "mileage": 50030,
@@ -4426,46 +3949,12 @@
           "price": 36600,
           "mileage": 50030,
           "dealer": "Prestige Motors, Inc"
-        }
-      ]
-    },
-    "7SAYGDEE3RA278688": {
-      "lastKnown": {
-        "id": "7saygdee3ra278688",
-        "vin": "7SAYGDEE3RA278688",
-        "year": 2024,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 40399,
-        "mileage": 21955,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "University Audi Lynnwood",
-        "officialBrandDealer": false,
-        "city": "Lynnwood",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE3RA278688-1.jpg",
-        "photoCount": 28,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE3RA278688",
-        "listedAt": "2026-08-11 09:30:55",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 40399,
-          "mileage": 21955,
-          "dealer": "University Audi Lynnwood"
+          "date": "2026-09-30",
+          "price": 36800,
+          "mileage": 50030,
+          "dealer": "Prestige Motors"
         }
       ]
     },
@@ -4502,12 +3991,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 41495,
-          "mileage": 22216,
-          "dealer": "Puyallup Nissan"
-        },
-        {
           "date": "2026-09-24",
           "price": 41495,
           "mileage": 22216,
@@ -4523,7 +4006,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range",
-        "price": 38588,
+        "price": 38188,
         "mileage": 29055,
         "exteriorColor": "Stealth Grey",
         "interiorColor": "Black",
@@ -4548,12 +4031,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 39188,
-          "mileage": 29055,
-          "dealer": "Swickard Toyota"
-        },
-        {
           "date": "2026-09-24",
           "price": 39188,
           "mileage": 29055,
@@ -4568,6 +4045,12 @@
         {
           "date": "2026-09-28",
           "price": 38588,
+          "mileage": 29055,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 38188,
           "mileage": 29055,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -4606,12 +4089,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32211,
-          "mileage": 91899,
-          "dealer": "G TOWN MOTORS"
-        },
-        {
           "date": "2026-09-24",
           "price": 32211,
           "mileage": 91899,
@@ -4625,6 +4102,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32211,
+          "mileage": 91899,
+          "dealer": "g town motors"
+        },
+        {
+          "date": "2026-09-30",
           "price": 32211,
           "mileage": 91899,
           "dealer": "g town motors"
@@ -4664,12 +4147,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 39350,
-          "mileage": 33867,
-          "dealer": "South Tacoma Auto Sales, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 39350,
           "mileage": 33867,
@@ -4683,6 +4160,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 39350,
+          "mileage": 33867,
+          "dealer": "South Tacoma Auto Sales, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 39350,
           "mileage": 33867,
           "dealer": "South Tacoma Auto Sales, Inc."
@@ -4722,12 +4205,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 38195,
-          "mileage": 39143,
-          "dealer": "Three 21 Auto Sales, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 38195,
           "mileage": 39143,
@@ -4741,6 +4218,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 38195,
+          "mileage": 39143,
+          "dealer": "Three 21 Auto Sales, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 38195,
           "mileage": 39143,
           "dealer": "Three 21 Auto Sales, Inc."
@@ -4780,12 +4263,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 44993,
-          "mileage": 10876,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 44993,
           "mileage": 10876,
@@ -4799,6 +4276,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 44993,
+          "mileage": 10876,
+          "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
           "price": 44993,
           "mileage": 10876,
           "dealer": "Art Gamblin Motors, Inc."
@@ -4838,12 +4321,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 38850,
-          "mileage": 21801,
-          "dealer": "Rainier Dodge"
-        },
-        {
           "date": "2026-09-24",
           "price": 38850,
           "mileage": 21801,
@@ -4857,6 +4334,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 38850,
+          "mileage": 21801,
+          "dealer": "Rainier Dodge"
+        },
+        {
+          "date": "2026-09-30",
           "price": 38850,
           "mileage": 21801,
           "dealer": "Rainier Dodge"
@@ -4896,12 +4379,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 52495,
-          "mileage": 19143,
-          "dealer": "Puyallup Nissan"
-        },
-        {
           "date": "2026-09-24",
           "price": 52995,
           "mileage": 19143,
@@ -4916,11 +4393,11 @@
         "year": 2026,
         "make": "Tesla",
         "model": "Model Y",
-        "trim": "Long Range",
-        "price": 49998,
+        "trim": "Premium",
+        "price": 49198,
         "mileage": 2949,
-        "exteriorColor": "Diamond Black",
-        "interiorColor": "Black leatherette",
+        "exteriorColor": "Black",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -4930,7 +4407,7 @@
         "state": "WA",
         "zip": "99336",
         "cpo": false,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
@@ -4941,12 +4418,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 49998,
-          "mileage": 2949,
-          "dealer": "Leskovar Mitsubishi"
-        },
         {
           "date": "2026-09-24",
           "price": 49998,
@@ -4962,6 +4433,12 @@
         {
           "date": "2026-09-28",
           "price": 49998,
+          "mileage": 2949,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 49198,
           "mileage": 2949,
           "dealer": "Leskovar Mitsubishi"
         }
@@ -4999,12 +4476,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 51198,
-          "mileage": 882,
-          "dealer": "Leskovar Mitsubishi"
-        },
         {
           "date": "2026-09-24",
           "price": 51198,
@@ -5052,12 +4523,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 48198,
-          "mileage": 22580,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 48198,
           "mileage": 22580,
@@ -5074,6 +4539,12 @@
           "price": 48198,
           "mileage": 22640,
           "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 48198,
+          "mileage": 22640,
+          "dealer": "Leskovar Mitsubishi"
         }
       ]
     },
@@ -5084,37 +4555,31 @@
         "year": 2026,
         "make": "Tesla",
         "model": "Model Y",
-        "trim": "Long Range",
-        "price": 45154,
+        "trim": "Premium",
+        "price": 45981,
         "mileage": 8967,
-        "exteriorColor": "White",
-        "interiorColor": "White",
+        "exteriorColor": "Pearl White Multi-Coat",
+        "interiorColor": "Black and White leatherette",
         "seats": 5,
         "drivetrain": "RWD",
         "powertrain": "Electric",
-        "dealer": "Jaguar Land Rover Volvo of Tacoma",
+        "dealer": "Land Rover of Tacoma at Fife",
         "officialBrandDealer": false,
         "city": "Fife",
         "state": "WA",
         "zip": "98424",
         "cpo": false,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDED0TA500487-1.jpg",
-        "photoCount": 29,
+        "photoCount": 28,
         "url": "https://www.carfax.com/vehicle/7SAYGDED0TA500487",
         "listedAt": "2026-08-27 21:21:37",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 45154,
-          "mileage": 8967,
-          "dealer": "Jaguar Land Rover Volvo of Tacoma"
-        },
         {
           "date": "2026-09-24",
           "price": 45154,
@@ -5132,6 +4597,12 @@
           "price": 45154,
           "mileage": 8967,
           "dealer": "Jaguar Land Rover Volvo of Tacoma"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 45981,
+          "mileage": 8967,
+          "dealer": "Land Rover of Tacoma at Fife"
         }
       ]
     },
@@ -5168,12 +4639,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 43450,
-          "mileage": 27369,
-          "dealer": "Auburn Chrysler Dodge Jeep Ram"
-        },
-        {
           "date": "2026-09-24",
           "price": 43200,
           "mileage": 27369,
@@ -5190,6 +4655,12 @@
           "price": 43200,
           "mileage": 27369,
           "dealer": "Bud Clary Hyundai"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 43200,
+          "mileage": 27369,
+          "dealer": "Bud Clary Hyundai"
         }
       ]
     },
@@ -5200,21 +4671,21 @@
         "year": 2026,
         "make": "Tesla",
         "model": "Model Y",
-        "trim": "Premium",
+        "trim": "Long Range Launch Series",
         "price": 51881,
-        "mileage": 11300,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
+        "mileage": 11312,
+        "exteriorColor": "Pearl White Multi-Coat",
+        "interiorColor": "Black leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Art Gamblin Motors, Inc.",
+        "dealer": "Art Gamblin Motors",
         "officialBrandDealer": false,
         "city": "Enumclaw",
         "state": "WA",
         "zip": "98022",
         "cpo": false,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
@@ -5225,12 +4696,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 51881,
-          "mileage": 11298,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
         {
           "date": "2026-09-24",
           "price": 51881,
@@ -5248,46 +4713,12 @@
           "price": 51881,
           "mileage": 11300,
           "dealer": "Art Gamblin Motors, Inc."
-        }
-      ]
-    },
-    "7SAYGDEE1TA680717": {
-      "lastKnown": {
-        "id": "7saygdee1ta680717",
-        "vin": "7SAYGDEE1TA680717",
-        "year": 2026,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Premium",
-        "price": 44195,
-        "mileage": 14236,
-        "exteriorColor": "White",
-        "interiorColor": "Unspecified",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "405 Motors",
-        "officialBrandDealer": false,
-        "city": "Woodinville",
-        "state": "WA",
-        "zip": "98072",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE1TA680717-1.jpg",
-        "photoCount": 63,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE1TA680717",
-        "listedAt": "2026-08-23 23:32:14",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 44195,
-          "mileage": 14236,
-          "dealer": "405 Motors"
+          "date": "2026-09-30",
+          "price": 51881,
+          "mileage": 11312,
+          "dealer": "Art Gamblin Motors"
         }
       ]
     },
@@ -5299,7 +4730,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Trim not listed",
-        "price": 50199,
+        "price": 49999,
         "mileage": 8814,
         "exteriorColor": "Pearl White Multi-Coat",
         "interiorColor": "Black leatherette",
@@ -5324,12 +4755,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 50199,
-          "mileage": 8814,
-          "dealer": "Titus-Will Ford"
-        },
-        {
           "date": "2026-09-24",
           "price": 50199,
           "mileage": 8814,
@@ -5344,6 +4769,12 @@
         {
           "date": "2026-09-28",
           "price": 50199,
+          "mileage": 8814,
+          "dealer": "Titus-Will Ford"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 49999,
           "mileage": 8814,
           "dealer": "Titus-Will Ford"
         }
@@ -5382,12 +4813,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 44500,
-          "mileage": 2412,
-          "dealer": "Rairdon's Subaru of Auburn"
-        },
-        {
           "date": "2026-09-24",
           "price": 44500,
           "mileage": 2412,
@@ -5401,6 +4826,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 44200,
+          "mileage": 2412,
+          "dealer": "Rairdon's Subaru of Auburn"
+        },
+        {
+          "date": "2026-09-30",
           "price": 44200,
           "mileage": 2412,
           "dealer": "Rairdon's Subaru of Auburn"
@@ -5440,13 +4871,13 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
+          "date": "2026-09-26",
           "price": 31499,
           "mileage": 6214,
           "dealer": "Sound Auto Land"
         },
         {
-          "date": "2026-09-26",
+          "date": "2026-09-30",
           "price": 31499,
           "mileage": 6214,
           "dealer": "Sound Auto Land"
@@ -5486,56 +4917,10 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 46150,
-          "mileage": 7811,
-          "dealer": "Motorcars Limited"
-        },
-        {
           "date": "2026-09-26",
           "price": 46150,
           "mileage": 7811,
           "dealer": "Motorcars Limited"
-        }
-      ]
-    },
-    "7SAYGDEE2TF352306": {
-      "lastKnown": {
-        "id": "7saygdee2tf352306",
-        "vin": "7SAYGDEE2TF352306",
-        "year": 2026,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Premium",
-        "price": 49998,
-        "mileage": 11930,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "CarMax Tri-Cities - Kennewick",
-        "officialBrandDealer": false,
-        "city": "Richland",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE2TF352306-1.jpg",
-        "photoCount": 23,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE2TF352306",
-        "listedAt": "2026-09-01 01:12:22",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 49998,
-          "mileage": 11930,
-          "dealer": "CarMax Tri-Cities - Kennewick"
         }
       ]
     },
@@ -5571,12 +4956,6 @@
         "firstSeenDate": "2026-09-09"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 26601,
-          "mileage": 96834,
-          "dealer": "Prestige Motors Yakima"
-        },
         {
           "date": "2026-09-24",
           "price": 26601,
@@ -5618,12 +4997,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28192,
-          "mileage": 113939,
-          "dealer": "Prestige Motors Yakima"
-        },
-        {
           "date": "2026-09-24",
           "price": 27742,
           "mileage": 113939,
@@ -5640,46 +5013,12 @@
           "price": 27540,
           "mileage": 113939,
           "dealer": "Prestige Motors, Inc."
-        }
-      ]
-    },
-    "7SAYGDEE0PF648706": {
-      "lastKnown": {
-        "id": "7saygdee0pf648706",
-        "vin": "7SAYGDEE0PF648706",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 35695,
-        "mileage": 31561,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Brotherton Buick GMC in Renton",
-        "officialBrandDealer": false,
-        "city": "Renton",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE0PF648706-1.jpg",
-        "photoCount": 32,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE0PF648706",
-        "listedAt": "2026-09-07 08:55:41",
-        "firstSeenDate": "2026-09-09"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 35695,
-          "mileage": 31561,
-          "dealer": "Brotherton Buick GMC in Renton"
+          "date": "2026-09-30",
+          "price": 27540,
+          "mileage": 113939,
+          "dealer": "Prestige Motors, Inc."
         }
       ]
     },
@@ -5716,12 +5055,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 42998,
-          "mileage": 9383,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 42998,
           "mileage": 9383,
@@ -5738,86 +5071,12 @@
           "price": 42998,
           "mileage": 9383,
           "dealer": "CarMax Renton"
-        }
-      ]
-    },
-    "7SAYGDEF3NF507585": {
-      "lastKnown": {
-        "id": "7saygdef3nf507585",
-        "vin": "7SAYGDEF3NF507585",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 30999,
-        "mileage": 62548,
-        "exteriorColor": "Deep Blue",
-        "interiorColor": "Black",
-        "seats": null,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "BMW of Bellevue",
-        "officialBrandDealer": false,
-        "city": "Bellevue",
-        "state": "WA",
-        "zip": "98005",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEF3NF507585-1.jpg",
-        "photoCount": 30,
-        "url": "https://bmwbellevue.com/used/Tesla/2022-Tesla-Model-Y-920e690cac182637dfe2060eab4e3cb5.htm",
-        "listedAt": "2026-09-12 01:53:41",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 30999,
-          "mileage": 62548,
-          "dealer": "BMW of Bellevue"
-        }
-      ]
-    },
-    "7SAYGAEEXNF542047": {
-      "lastKnown": {
-        "id": "7saygaeexnf542047",
-        "vin": "7SAYGAEEXNF542047",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 32593,
-        "mileage": 36214,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Cadillac of Bellevue",
-        "officialBrandDealer": false,
-        "city": "Bellevue",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGAEEXNF542047-1.jpg",
-        "photoCount": 26,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGAEEXNF542047",
-        "listedAt": "2026-08-28 11:31:24",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 32593,
-          "mileage": 36214,
-          "dealer": "Cadillac of Bellevue"
+          "date": "2026-09-30",
+          "price": 42998,
+          "mileage": 9383,
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -5854,12 +5113,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35695,
-          "mileage": 33892,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 35695,
           "mileage": 33892,
@@ -5873,6 +5126,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 35088,
+          "mileage": 33892,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-09-30",
           "price": 35088,
           "mileage": 33892,
           "dealer": "Brotherton Buick GMC in Renton"
@@ -5912,12 +5171,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30995,
-          "mileage": 65168,
-          "dealer": "Seattle Finest Motors LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 30995,
           "mileage": 65168,
@@ -5931,6 +5184,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 30995,
+          "mileage": 65168,
+          "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 30995,
           "mileage": 65168,
           "dealer": "Seattle Finest Motors LLC"
@@ -5970,12 +5229,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 25198,
-          "mileage": 121846,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 25198,
           "mileage": 121846,
@@ -5992,45 +5245,11 @@
           "price": 25198,
           "mileage": 121846,
           "dealer": "Leskovar Mitsubishi"
-        }
-      ]
-    },
-    "7SAYGDEE0NF357555": {
-      "lastKnown": {
-        "id": "7saygdee0nf357555",
-        "vin": "7SAYGDEE0NF357555",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 27198,
-        "mileage": 56149,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Leskovar Mitsubishi",
-        "officialBrandDealer": false,
-        "city": "Kennewick",
-        "state": "WA",
-        "zip": "99336",
-        "cpo": false,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE0NF357555-1.jpg",
-        "photoCount": 31,
-        "url": "https://leskovar.com/electric-used/Tesla/2022-Tesla-Model-Y-8e638cadac18112a41dc78aee15fe56f.htm",
-        "listedAt": "2026-09-12 02:00:58",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 27198,
-          "mileage": 56149,
+          "date": "2026-09-30",
+          "price": 25198,
+          "mileage": 121846,
           "dealer": "Leskovar Mitsubishi"
         }
       ]
@@ -6068,12 +5287,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29191,
-          "mileage": 99573,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-09-24",
           "price": 29191,
           "mileage": 99573,
@@ -6084,46 +5297,6 @@
           "price": 29191,
           "mileage": 99573,
           "dealer": "Legend Auto Sales"
-        }
-      ]
-    },
-    "7SAYGDEF7NF485770": {
-      "lastKnown": {
-        "id": "7saygdef7nf485770",
-        "vin": "7SAYGDEF7NF485770",
-        "year": 2022,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Performance",
-        "price": 34938,
-        "mileage": 54736,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "GT Auto Sales",
-        "officialBrandDealer": false,
-        "city": "Tacoma",
-        "state": "WA",
-        "zip": "98409",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEF7NF485770-1.jpg",
-        "photoCount": 10,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEF7NF485770",
-        "listedAt": "2026-09-09 14:08:24",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 34938,
-          "mileage": 54736,
-          "dealer": "GT Auto Sales"
         }
       ]
     },
@@ -6160,12 +5333,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 26700,
-          "mileage": 97426,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 26700,
           "mileage": 97426,
@@ -6179,6 +5346,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 26700,
+          "mileage": 97426,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 26700,
           "mileage": 97426,
           "dealer": "Leskovar Mitsubishi"
@@ -6218,12 +5391,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28700,
-          "mileage": 81173,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 28700,
           "mileage": 81173,
@@ -6237,6 +5404,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 28198,
+          "mileage": 81173,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 28198,
           "mileage": 81173,
           "dealer": "Leskovar Mitsubishi"
@@ -6276,12 +5449,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 28198,
-          "mileage": 66861,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 28198,
           "mileage": 66861,
@@ -6295,6 +5462,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 28198,
+          "mileage": 66861,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 28198,
           "mileage": 66861,
           "dealer": "Leskovar Mitsubishi"
@@ -6334,12 +5507,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32190,
-          "mileage": 52717,
-          "dealer": "BMW of Bellevue"
-        },
-        {
           "date": "2026-09-24",
           "price": 32190,
           "mileage": 52717,
@@ -6353,6 +5520,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32190,
+          "mileage": 52717,
+          "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-09-30",
           "price": 32190,
           "mileage": 52717,
           "dealer": "BMW of Bellevue"
@@ -6392,12 +5565,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 38998,
-          "mileage": 23641,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 38998,
           "mileage": 23641,
@@ -6414,6 +5581,12 @@
           "price": 38998,
           "mileage": 23641,
           "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 38998,
+          "mileage": 23641,
+          "dealer": "CarMax Lynnwood"
         }
       ]
     },
@@ -6425,7 +5598,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Performance",
-        "price": 47198,
+        "price": 45198,
         "mileage": 38504,
         "exteriorColor": "Green",
         "interiorColor": "Black",
@@ -6450,12 +5623,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 49198,
-          "mileage": 38504,
-          "dealer": "Quality Auto Center"
-        },
-        {
           "date": "2026-09-24",
           "price": 47198,
           "mileage": 38504,
@@ -6470,6 +5637,12 @@
         {
           "date": "2026-09-28",
           "price": 47198,
+          "mileage": 38504,
+          "dealer": "Quality Auto Center"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 45198,
           "mileage": 38504,
           "dealer": "Quality Auto Center"
         }
@@ -6486,7 +5659,7 @@
         "price": 37680,
         "mileage": 26973,
         "exteriorColor": "Solid Black",
-        "interiorColor": "Black",
+        "interiorColor": "Unspecified",
         "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -6496,10 +5669,10 @@
         "state": "WA",
         "zip": "98032",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDEE7PA117256-1.jpg",
         "photoCount": 1,
         "url": "https://www.auto206.com/pre-owned-cars/detail/x/1583452",
@@ -6507,12 +5680,6 @@
         "firstSeenDate": "2026-09-14"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 33139,
-          "mileage": 26973,
-          "dealer": "auto 206 inc"
-        },
         {
           "date": "2026-09-24",
           "price": 33139,
@@ -6527,6 +5694,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 37680,
+          "mileage": 26973,
+          "dealer": "auto 206 inc"
+        },
+        {
+          "date": "2026-09-30",
           "price": 37680,
           "mileage": 26973,
           "dealer": "auto 206 inc"
@@ -6566,12 +5739,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 37500,
-          "mileage": 24214,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-09-24",
           "price": 37300,
           "mileage": 24214,
@@ -6585,6 +5752,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 37300,
+          "mileage": 24214,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-09-30",
           "price": 37300,
           "mileage": 24214,
           "dealer": "Volkswagen of Kirkland"
@@ -6623,12 +5796,6 @@
         "firstSeenDate": "2026-09-14"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36190,
-          "mileage": 22820,
-          "dealer": "Bud Clary Ford of Moses Lake"
-        },
         {
           "date": "2026-09-24",
           "price": 35781,
@@ -6682,56 +5849,10 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35995,
-          "mileage": 36792,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-09-24",
           "price": 35995,
           "mileage": 36792,
           "dealer": "Legend Auto Sales"
-        }
-      ]
-    },
-    "7SAYGDEE7PA078216": {
-      "lastKnown": {
-        "id": "7saygdee7pa078216",
-        "vin": "7SAYGDEE7PA078216",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 35998,
-        "mileage": 38772,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "CarMax Puyallup",
-        "officialBrandDealer": false,
-        "city": "Puyallup",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE7PA078216-1.jpg",
-        "photoCount": 27,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE7PA078216",
-        "listedAt": "2026-09-11 00:20:47",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 35998,
-          "mileage": 38772,
-          "dealer": "CarMax Puyallup"
         }
       ]
     },
@@ -6767,12 +5888,6 @@
         "firstSeenDate": "2026-09-14"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 32198,
-          "mileage": 54022,
-          "dealer": "Leskovar Mitsubishi"
-        },
         {
           "date": "2026-09-24",
           "price": 32198,
@@ -6820,12 +5935,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 32198,
-          "mileage": 31426,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 32198,
           "mileage": 31426,
@@ -6866,12 +5975,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 27198,
-          "mileage": 110553,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 27198,
           "mileage": 110553,
@@ -6885,6 +5988,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 27198,
+          "mileage": 110553,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 27198,
           "mileage": 110553,
           "dealer": "Leskovar Mitsubishi"
@@ -6924,12 +6033,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30198,
-          "mileage": 97421,
-          "dealer": "Leskovar Mitsubishi"
-        },
-        {
           "date": "2026-09-24",
           "price": 30198,
           "mileage": 97421,
@@ -6943,6 +6046,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 29700,
+          "mileage": 97421,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 29700,
           "mileage": 97421,
           "dealer": "Leskovar Mitsubishi"
@@ -6982,12 +6091,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 40998,
-          "mileage": 23972,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-09-24",
           "price": 40998,
           "mileage": 23972,
@@ -7001,6 +6104,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 40998,
+          "mileage": 23972,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
           "price": 40998,
           "mileage": 23972,
           "dealer": "CarMax Lynnwood"
@@ -7040,12 +6149,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 41195,
-          "mileage": 33419,
-          "dealer": "Brotherton Cadillac NW"
-        },
-        {
           "date": "2026-09-24",
           "price": 40088,
           "mileage": 33419,
@@ -7062,46 +6165,12 @@
           "price": 40088,
           "mileage": 33419,
           "dealer": "Brotherton Cadillac NW"
-        }
-      ]
-    },
-    "7SAYGAEE7RF983186": {
-      "lastKnown": {
-        "id": "7saygaee7rf983186",
-        "vin": "7SAYGAEE7RF983186",
-        "year": 2024,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 40588,
-        "mileage": 31337,
-        "exteriorColor": "White",
-        "interiorColor": "White",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Volkswagen of Kirkland",
-        "officialBrandDealer": false,
-        "city": "Kirkland",
-        "state": "WA",
-        "zip": "98034",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGAEE7RF983186-1.jpg",
-        "photoCount": 20,
-        "url": "https://vwofkirkland.com/used/Tesla/2024-Tesla-Model-Y-9852b417ac180452357e7dbb91579536.htm",
-        "listedAt": "2026-09-16 07:07:13",
-        "firstSeenDate": "2026-09-14"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 40588,
-          "mileage": 31337,
-          "dealer": "Volkswagen of Kirkland"
+          "date": "2026-09-30",
+          "price": 40088,
+          "mileage": 33419,
+          "dealer": "Brotherton Cadillac NW"
         }
       ]
     },
@@ -7138,12 +6207,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 41695,
-          "mileage": 42865,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-09-24",
           "price": 41695,
           "mileage": 42865,
@@ -7157,6 +6220,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 41088,
+          "mileage": 42865,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-09-30",
           "price": 41088,
           "mileage": 42865,
           "dealer": "Brotherton Buick GMC in Renton"
@@ -7196,12 +6265,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 53881,
-          "mileage": 6455,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 53881,
           "mileage": 6455,
@@ -7215,6 +6278,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 53881,
+          "mileage": 6479,
+          "dealer": "Art Gamblin Motors"
+        },
+        {
+          "date": "2026-09-30",
           "price": 53881,
           "mileage": 6479,
           "dealer": "Art Gamblin Motors"
@@ -7254,12 +6323,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 30777,
-          "mileage": 75762,
-          "dealer": "West Coast Auto Works"
-        },
-        {
           "date": "2026-09-24",
           "price": 30777,
           "mileage": 75762,
@@ -7276,6 +6339,12 @@
           "price": 30777,
           "mileage": 75762,
           "dealer": "West Coast Auto Works"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 30777,
+          "mileage": 75762,
+          "dealer": "West Coast Auto Works"
         }
       ]
     },
@@ -7288,7 +6357,7 @@
         "model": "Model Y",
         "trim": "Performance",
         "price": 31690,
-        "mileage": 75683,
+        "mileage": 75685,
         "exteriorColor": "Deep Blue Metallic",
         "interiorColor": "Not listed",
         "seats": null,
@@ -7305,18 +6374,12 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/7SAYGDEF5NF349928-1.jpg",
-        "photoCount": 1,
+        "photoCount": 31,
         "url": "https://bmwnorthwest.com/inventory/Used-2022-Tesla-Model_Y-Performance-7SAYGDEF5NF349928",
         "listedAt": "2026-09-18 05:35:26",
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 31690,
-          "mileage": 75683,
-          "dealer": "BMW Northwest"
-        },
         {
           "date": "2026-09-24",
           "price": 31690,
@@ -7333,6 +6396,12 @@
           "date": "2026-09-28",
           "price": 31690,
           "mileage": 75683,
+          "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 31690,
+          "mileage": 75685,
           "dealer": "BMW Northwest"
         }
       ]
@@ -7370,12 +6439,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33999,
-          "mileage": 46237,
-          "dealer": "Seattle Finest Motors LLC"
-        },
-        {
           "date": "2026-09-24",
           "price": 33999,
           "mileage": 46237,
@@ -7389,6 +6452,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 33999,
+          "mileage": 46237,
+          "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-09-30",
           "price": 33999,
           "mileage": 46237,
           "dealer": "Seattle Finest Motors LLC"
@@ -7428,12 +6497,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 34000,
-          "mileage": 44777,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 34000,
           "mileage": 44777,
@@ -7457,20 +6520,20 @@
         "trim": "Performance",
         "price": 36996,
         "mileage": 32007,
-        "exteriorColor": "White",
-        "interiorColor": "White",
+        "exteriorColor": "Pearl White Multi-Coat",
+        "interiorColor": "Black and White leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Landmark Motors Inc",
+        "dealer": "Landmark Motors",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
         "zip": "98005",
         "cpo": false,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
+        "accidentFree": true,
+        "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDEF0PF702689-1.jpg",
         "photoCount": 26,
@@ -7479,12 +6542,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36996,
-          "mileage": 32007,
-          "dealer": "Landmark Motors Inc"
-        },
         {
           "date": "2026-09-24",
           "price": 36996,
@@ -7502,46 +6559,12 @@
           "price": 36996,
           "mileage": 32007,
           "dealer": "Landmark Motors Inc"
-        }
-      ]
-    },
-    "7SAYGDEEXPA167052": {
-      "lastKnown": {
-        "id": "7saygdeexpa167052",
-        "vin": "7SAYGDEEXPA167052",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 34590,
-        "mileage": 32017,
-        "exteriorColor": "Gray",
-        "interiorColor": "White",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Carvana",
-        "officialBrandDealer": false,
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "98115",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEEXPA167052-1.jpg",
-        "photoCount": 55,
-        "url": "https://www.carvana.com/vehicle/4727386",
-        "listedAt": "2026-09-06 13:32:21",
-        "firstSeenDate": "2026-09-22"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 34590,
-          "mileage": 32017,
-          "dealer": "Carvana"
+          "date": "2026-09-30",
+          "price": 36996,
+          "mileage": 32007,
+          "dealer": "Landmark Motors"
         }
       ]
     },
@@ -7560,9 +6583,9 @@
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "CarMax Puyallup",
+        "dealer": "CarMax Renton",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Renton",
         "state": "WA",
         "zip": "",
         "cpo": false,
@@ -7578,12 +6601,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 35998,
-          "mileage": 50041,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-09-24",
           "price": 35998,
           "mileage": 50041,
@@ -7594,6 +6611,12 @@
           "price": 35998,
           "mileage": 50041,
           "dealer": "CarMax Puyallup"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 35998,
+          "mileage": 50041,
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -7612,9 +6635,9 @@
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "CarMax Puyallup",
+        "dealer": "CarMax Renton",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Renton",
         "state": "WA",
         "zip": "",
         "cpo": false,
@@ -7630,50 +6653,10 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
+          "date": "2026-09-30",
           "price": 36998,
           "mileage": 38931,
-          "dealer": "CarMax Puyallup"
-        }
-      ]
-    },
-    "7SAYGDEE4PF622089": {
-      "lastKnown": {
-        "id": "7saygdee4pf622089",
-        "vin": "7SAYGDEE4PF622089",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 41998,
-        "mileage": 13123,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "CarMax Lynnwood",
-        "officialBrandDealer": false,
-        "city": "Lynnwood",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE4PF622089-1.jpg",
-        "photoCount": 29,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE4PF622089",
-        "listedAt": "2026-09-18 07:11:35",
-        "firstSeenDate": "2026-09-22"
-      },
-      "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 41998,
-          "mileage": 13123,
-          "dealer": "CarMax Lynnwood"
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -7710,12 +6693,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 33195,
-          "mileage": 67965,
-          "dealer": "Brotherton Cadillac NW"
-        },
-        {
           "date": "2026-09-24",
           "price": 33195,
           "mileage": 67966,
@@ -7729,6 +6706,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 32695,
+          "mileage": 67966,
+          "dealer": "Brotherton Cadillac NW"
+        },
+        {
+          "date": "2026-09-30",
           "price": 32695,
           "mileage": 67966,
           "dealer": "Brotherton Cadillac NW"
@@ -7761,18 +6744,12 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/7SAYGDEE8PF645455-1.jpg",
-        "photoCount": 1,
+        "photoCount": 34,
         "url": "https://lithiajeepspokane.com/used/Tesla/2023-Tesla-Model-Y-spokane-wa-ac4f9ae9ac183ecbd73d4eaef715cfa9.htm",
         "listedAt": "2026-09-17 02:23:15",
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 28795,
-          "mileage": 114236,
-          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
-        },
         {
           "date": "2026-09-24",
           "price": 27895,
@@ -7790,46 +6767,12 @@
           "price": 27695,
           "mileage": 114236,
           "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
-        }
-      ]
-    },
-    "7SAYGDEE1PF794063": {
-      "lastKnown": {
-        "id": "7saygdee1pf794063",
-        "vin": "7SAYGDEE1PF794063",
-        "year": 2023,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 35138,
-        "mileage": 51342,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "GT Auto Sales",
-        "officialBrandDealer": false,
-        "city": "Tacoma",
-        "state": "WA",
-        "zip": "98409",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/7SAYGDEE1PF794063-1.jpg",
-        "photoCount": 10,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE1PF794063",
-        "listedAt": "2026-09-09 22:30:01",
-        "firstSeenDate": "2026-09-22"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 35138,
-          "mileage": 51342,
-          "dealer": "GT Auto Sales"
+          "date": "2026-09-30",
+          "price": 27695,
+          "mileage": 114236,
+          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
         }
       ]
     },
@@ -7859,18 +6802,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDED4RF121293-1.jpg",
-        "photoCount": 2,
+        "photoCount": 31,
         "url": "https://vwofpuyallup.com/used/Tesla/2024-Tesla-Model-Y-a4b7e035ac1804415d9b37e0668357cb.htm",
         "listedAt": "2026-09-16 07:00:48",
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 36963,
-          "mileage": 24173,
-          "dealer": "Volkswagen of Puyallup"
-        },
         {
           "date": "2026-09-24",
           "price": 36994,
@@ -7885,6 +6822,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 36994,
+          "mileage": 24174,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-09-30",
           "price": 36994,
           "mileage": 24174,
           "dealer": "Volkswagen of Puyallup"
@@ -7923,12 +6866,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 38996,
-          "mileage": 34708,
-          "dealer": "Eastlake Auto Brokers"
-        },
         {
           "date": "2026-09-24",
           "price": 38996,
@@ -7970,12 +6907,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 40195,
-          "mileage": 32746,
-          "dealer": "Subaru of Spokane"
-        },
-        {
           "date": "2026-09-24",
           "price": 41719,
           "mileage": 32746,
@@ -7989,6 +6920,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 40194,
+          "mileage": 32746,
+          "dealer": "Subaru of Spokane"
+        },
+        {
+          "date": "2026-09-30",
           "price": 40194,
           "mileage": 32746,
           "dealer": "Subaru of Spokane"
@@ -8028,12 +6965,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 37990,
-          "mileage": 35203,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-09-24",
           "price": 37990,
           "mileage": 35203,
@@ -8049,7 +6980,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range",
-        "price": 44998,
+        "price": 43998,
         "mileage": 23218,
         "exteriorColor": "Solid Black",
         "interiorColor": "All Black leatherette",
@@ -8074,12 +7005,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 44998,
-          "mileage": 23218,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-09-26",
           "price": 44998,
           "mileage": 23218,
@@ -8088,6 +7013,12 @@
         {
           "date": "2026-09-28",
           "price": 44998,
+          "mileage": 23218,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 43998,
           "mileage": 23218,
           "dealer": "CarMax Lynnwood"
         }
@@ -8126,12 +7057,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 31195,
-          "mileage": 125435,
-          "dealer": "Rairdon's Nissan of Auburn"
-        },
-        {
           "date": "2026-09-24",
           "price": 31195,
           "mileage": 125435,
@@ -8148,46 +7073,12 @@
           "price": 31195,
           "mileage": 125435,
           "dealer": "Rairdon's Nissan of Auburn"
-        }
-      ]
-    },
-    "7SAYGDED1RF118447": {
-      "lastKnown": {
-        "id": "7saygded1rf118447",
-        "vin": "7SAYGDED1RF118447",
-        "year": 2024,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 37998,
-        "mileage": 27346,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "RWD",
-        "powertrain": "Electric",
-        "dealer": "CarMax Vancouver",
-        "officialBrandDealer": false,
-        "city": "Vancouver",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDED1RF118447-1.jpg",
-        "photoCount": 27,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDED1RF118447",
-        "listedAt": "2026-09-19 23:18:22",
-        "firstSeenDate": "2026-09-22"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 37998,
-          "mileage": 27346,
-          "dealer": "CarMax Vancouver"
+          "date": "2026-09-30",
+          "price": 31195,
+          "mileage": 125435,
+          "dealer": "Rairdon's Nissan of Auburn"
         }
       ]
     },
@@ -8199,7 +7090,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Long Range",
-        "price": 39390,
+        "price": 38843,
         "mileage": 23485,
         "exteriorColor": "White",
         "interiorColor": "Not listed",
@@ -8224,12 +7115,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 39390,
-          "mileage": 23478,
-          "dealer": "Larson Chrysler Jeep Dodge of Puyallup"
-        },
-        {
           "date": "2026-09-24",
           "price": 39390,
           "mileage": 23478,
@@ -8244,6 +7129,12 @@
         {
           "date": "2026-09-28",
           "price": 39390,
+          "mileage": 23485,
+          "dealer": "Larson Chrysler Jeep Dodge of Puyallup"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 38843,
           "mileage": 23485,
           "dealer": "Larson Chrysler Jeep Dodge of Puyallup"
         }
@@ -8282,12 +7173,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 42195,
-          "mileage": 27750,
-          "dealer": "Brotherton Cadillac NW"
-        },
-        {
           "date": "2026-09-24",
           "price": 42195,
           "mileage": 27750,
@@ -8301,6 +7186,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 41695,
+          "mileage": 27750,
+          "dealer": "Brotherton Cadillac NW"
+        },
+        {
+          "date": "2026-09-30",
           "price": 41695,
           "mileage": 27750,
           "dealer": "Brotherton Cadillac NW"
@@ -8340,12 +7231,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 29998,
-          "mileage": 32391,
-          "dealer": "Platinum Autos"
-        },
-        {
           "date": "2026-09-24",
           "price": 29998,
           "mileage": 32391,
@@ -8362,46 +7247,12 @@
           "price": 29998,
           "mileage": 32391,
           "dealer": "Platinum Autos"
-        }
-      ]
-    },
-    "7SAYGDEE6RF148830": {
-      "lastKnown": {
-        "id": "7saygdee6rf148830",
-        "vin": "7SAYGDEE6RF148830",
-        "year": 2024,
-        "make": "Tesla",
-        "model": "Model Y",
-        "trim": "Long Range",
-        "price": 34999,
-        "mileage": 39409,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "State Street Motors",
-        "officialBrandDealer": false,
-        "city": "Bellingham",
-        "state": "WA",
-        "zip": "",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/7SAYGDEE6RF148830-1.jpg",
-        "photoCount": 33,
-        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE6RF148830",
-        "listedAt": "2026-09-17 22:35:16",
-        "firstSeenDate": "2026-09-22"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-09-22",
-          "price": 34999,
-          "mileage": 39409,
-          "dealer": "State Street Motors"
+          "date": "2026-09-30",
+          "price": 29998,
+          "mileage": 32391,
+          "dealer": "Platinum Autos"
         }
       ]
     },
@@ -8412,21 +7263,21 @@
         "year": 2026,
         "make": "Tesla",
         "model": "Model Y",
-        "trim": "Premium",
+        "trim": "Long Range Launch Series",
         "price": 51881,
         "mileage": 12402,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
+        "exteriorColor": "Pearl White Multi-Coat",
+        "interiorColor": "Black leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Art Gamblin Motors, Inc.",
+        "dealer": "Art Gamblin Motors",
         "officialBrandDealer": false,
         "city": "Enumclaw",
         "state": "WA",
         "zip": "98022",
         "cpo": false,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
@@ -8438,12 +7289,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 51881,
-          "mileage": 12402,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 51881,
           "mileage": 12402,
@@ -8460,6 +7305,12 @@
           "price": 51881,
           "mileage": 12402,
           "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
+          "price": 51881,
+          "mileage": 12402,
+          "dealer": "Art Gamblin Motors"
         }
       ]
     },
@@ -8470,24 +7321,24 @@
         "year": 2026,
         "make": "Tesla",
         "model": "Model Y",
-        "trim": "Premium",
+        "trim": "Long Range Launch Series",
         "price": 51881,
         "mileage": 19018,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
+        "exteriorColor": "Stealth Grey",
+        "interiorColor": "Black leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Art Gamblin Motors, Inc.",
+        "dealer": "Art Gamblin Motors",
         "officialBrandDealer": false,
         "city": "Enumclaw",
         "state": "WA",
         "zip": "98022",
         "cpo": false,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/7SAYGDEE9TF344543-1.jpg",
         "photoCount": 12,
         "url": "https://www.gamblinmotors.com/used-Enumclaw-2026-Tesla-Model+Y-Long+Range-7SAYGDEE9TF344543",
@@ -8495,12 +7346,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 51881,
-          "mileage": 19018,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
         {
           "date": "2026-09-24",
           "price": 51881,
@@ -8518,6 +7363,12 @@
           "price": 51881,
           "mileage": 19018,
           "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-09-30",
+          "price": 51881,
+          "mileage": 19018,
+          "dealer": "Art Gamblin Motors"
         }
       ]
     },
@@ -8553,12 +7404,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 53191,
-          "mileage": 2869,
-          "dealer": "Legend Auto Sales"
-        },
         {
           "date": "2026-09-24",
           "price": 53191,
@@ -8600,12 +7445,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 54881,
-          "mileage": 3890,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-09-24",
           "price": 54881,
           "mileage": 3890,
@@ -8622,6 +7461,12 @@
           "price": 54881,
           "mileage": 3921,
           "dealer": "Art Gamblin Motors"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 54881,
+          "mileage": 3921,
+          "dealer": "Art Gamblin Motors"
         }
       ]
     },
@@ -8633,7 +7478,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Standard",
-        "price": 44598,
+        "price": 44597,
         "mileage": 19447,
         "exteriorColor": "Diamond Black",
         "interiorColor": "Black leatherette",
@@ -8658,12 +7503,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 44598,
-          "mileage": 19440,
-          "dealer": "Larson Toyota of Tacoma"
-        },
-        {
           "date": "2026-09-24",
           "price": 44598,
           "mileage": 19447,
@@ -8678,6 +7517,12 @@
         {
           "date": "2026-09-28",
           "price": 44598,
+          "mileage": 19447,
+          "dealer": "Larson Volkswagen"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 44597,
           "mileage": 19447,
           "dealer": "Larson Volkswagen"
         }
@@ -8716,12 +7561,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 53998,
-          "mileage": 3381,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-09-24",
           "price": 53998,
           "mileage": 3381,
@@ -8735,6 +7574,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 53998,
+          "mileage": 3381,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
           "price": 53998,
           "mileage": 3381,
           "dealer": "CarMax Lynnwood"
@@ -8774,12 +7619,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 50998,
-          "mileage": 19006,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-09-26",
           "price": 50998,
           "mileage": 19006,
@@ -8787,6 +7626,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 50998,
+          "mileage": 19006,
+          "dealer": "CarMax Puyallup"
+        },
+        {
+          "date": "2026-09-30",
           "price": 50998,
           "mileage": 19006,
           "dealer": "CarMax Puyallup"
@@ -8801,7 +7646,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Performance",
-        "price": 57489,
+        "price": 56989,
         "mileage": 11425,
         "exteriorColor": "Diamond Black",
         "interiorColor": "Unspecified",
@@ -8826,12 +7671,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 57989,
-          "mileage": 11421,
-          "dealer": "seattle mini"
-        },
-        {
           "date": "2026-09-24",
           "price": 57489,
           "mileage": 11425,
@@ -8846,6 +7685,12 @@
         {
           "date": "2026-09-28",
           "price": 57489,
+          "mileage": 11425,
+          "dealer": "Seattle MINI"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 56989,
           "mileage": 11425,
           "dealer": "Seattle MINI"
         }
@@ -8883,12 +7728,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-22",
-          "price": 44194,
-          "mileage": 7343,
-          "dealer": "Dodge Chrysler Jeep of Kirkland"
-        },
         {
           "date": "2026-09-24",
           "price": 44194,
@@ -8958,6 +7797,12 @@
           "price": 31199,
           "mileage": 53196,
           "dealer": "Rairdon's Honda of Sumner"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 31199,
+          "mileage": 53196,
+          "dealer": "Rairdon's Honda of Sumner"
         }
       ]
     },
@@ -9007,6 +7852,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 26198,
+          "mileage": 117940,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 26198,
           "mileage": 117940,
           "dealer": "Leskovar Mitsubishi"
@@ -9102,6 +7953,12 @@
           "price": 33500,
           "mileage": 63350,
           "dealer": "Revolve Motors"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 33500,
+          "mileage": 63350,
+          "dealer": "Revolve Motors"
         }
       ]
     },
@@ -9114,7 +7971,7 @@
         "model": "Model Y",
         "trim": "Long Range",
         "price": 33189,
-        "mileage": 48211,
+        "mileage": 48220,
         "exteriorColor": "White",
         "interiorColor": "Black",
         "seats": 5,
@@ -9153,6 +8010,12 @@
           "date": "2026-09-28",
           "price": 33189,
           "mileage": 48211,
+          "dealer": "Land Rover Lynnwood"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 33189,
+          "mileage": 48220,
           "dealer": "Land Rover Lynnwood"
         }
       ]
@@ -9258,6 +8121,12 @@
           "price": 32680,
           "mileage": 68401,
           "dealer": "auto 206 inc"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 32680,
+          "mileage": 68401,
+          "dealer": "auto 206 inc"
         }
       ]
     },
@@ -9307,6 +8176,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 39189,
+          "mileage": 21027,
+          "dealer": "Corwin Ford Spokane"
+        },
+        {
+          "date": "2026-09-30",
           "price": 39189,
           "mileage": 21027,
           "dealer": "Corwin Ford Spokane"
@@ -9408,6 +8283,12 @@
           "price": 51998,
           "mileage": 5537,
           "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 51998,
+          "mileage": 5537,
+          "dealer": "CarMax Tulalip"
         }
       ]
     },
@@ -9451,6 +8332,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 36195,
+          "mileage": 39510,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-09-30",
           "price": 36195,
           "mileage": 39510,
           "dealer": "Brotherton Buick GMC in Renton"
@@ -9500,6 +8387,12 @@
           "price": 37195,
           "mileage": 31284,
           "dealer": "Brotherton Cadillac NW"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 37195,
+          "mileage": 31284,
+          "dealer": "Brotherton Cadillac NW"
         }
       ]
     },
@@ -9543,6 +8436,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 29000,
+          "mileage": 94003,
+          "dealer": "Top Gear Motors"
+        },
+        {
+          "date": "2026-09-30",
           "price": 29000,
           "mileage": 94003,
           "dealer": "Top Gear Motors"
@@ -9638,6 +8537,12 @@
           "price": 37998,
           "mileage": 30942,
           "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 37998,
+          "mileage": 30942,
+          "dealer": "CarMax Tulalip"
         }
       ]
     },
@@ -9681,6 +8586,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 29680,
+          "mileage": 79828,
+          "dealer": "auto 206 inc"
+        },
+        {
+          "date": "2026-09-30",
           "price": 29680,
           "mileage": 79828,
           "dealer": "auto 206 inc"
@@ -9822,6 +8733,12 @@
           "price": 34199,
           "mileage": 58625,
           "dealer": "Hinshaw's Honda"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 34199,
+          "mileage": 58625,
+          "dealer": "Hinshaw's Honda"
         }
       ]
     },
@@ -9865,6 +8782,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 34400,
+          "mileage": 47305,
+          "dealer": "Go Hyundai of Renton"
+        },
+        {
+          "date": "2026-09-30",
           "price": 34400,
           "mileage": 47305,
           "dealer": "Go Hyundai of Renton"
@@ -9914,6 +8837,12 @@
           "price": 43888,
           "mileage": 9510,
           "dealer": "Honda Auto Center of Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 43888,
+          "mileage": 9510,
+          "dealer": "Honda Auto Center of Bellevue"
         }
       ]
     },
@@ -9957,6 +8886,12 @@
         },
         {
           "date": "2026-09-28",
+          "price": 38994,
+          "mileage": 38360,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-09-30",
           "price": 38994,
           "mileage": 38360,
           "dealer": "Volkswagen of Puyallup"
@@ -10011,14 +8946,14 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Premium",
-        "price": 53000,
+        "price": 53200,
         "mileage": 14555,
-        "exteriorColor": "Stealth Gray",
-        "interiorColor": "Black",
-        "seats": null,
+        "exteriorColor": "Stealth Grey",
+        "interiorColor": "Black leatherette",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "go kia renton",
+        "dealer": "Go Kia Renton",
         "officialBrandDealer": false,
         "city": "Renton",
         "state": "WA",
@@ -10029,7 +8964,7 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/7SAYGDEE8TF522667-1.jpg",
-        "photoCount": 1,
+        "photoCount": 0,
         "url": "https://rentonkia.com/used/Tesla/2026-Tesla-Model-Y-d05a5530ac1811ad7a6dbabb0a8dcb26.htm",
         "listedAt": "2026-09-24 02:33:36",
         "firstSeenDate": "2026-09-26"
@@ -10046,6 +8981,12 @@
           "price": 53000,
           "mileage": 14555,
           "dealer": "go kia renton"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 53200,
+          "mileage": 14555,
+          "dealer": "Go Kia Renton"
         }
       ]
     },
@@ -10092,6 +9033,12 @@
           "price": 51995,
           "mileage": 27492,
           "dealer": "Bill Korum's Puyallup Nissan"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 51995,
+          "mileage": 27492,
+          "dealer": "Bill Korum's Puyallup Nissan"
         }
       ]
     },
@@ -10105,7 +9052,7 @@
         "trim": "Trim not listed",
         "price": 43588,
         "mileage": 58399,
-        "exteriorColor": "Unspecified",
+        "exteriorColor": "Other",
         "interiorColor": "Black leatherette",
         "seats": 5,
         "drivetrain": "AWD",
@@ -10138,6 +9085,12 @@
           "price": 43588,
           "mileage": 58399,
           "dealer": "Toyota of Seattle"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 43588,
+          "mileage": 58399,
+          "dealer": "Toyota of Seattle"
         }
       ]
     },
@@ -10151,12 +9104,12 @@
         "trim": "Long Range",
         "price": 33996,
         "mileage": 26611,
-        "exteriorColor": "Silver/Gray",
+        "exteriorColor": "Midnight Silver",
         "interiorColor": "Black",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Mercedes-Benz of Bellevue",
+        "dealer": "BMW of Bellevue",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
@@ -10167,7 +9120,7 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDEE7NF572771-1.jpg",
-        "photoCount": 1,
+        "photoCount": 21,
         "url": "https://bmwbellevue.com/used/Tesla/2022-Tesla-Model-Y-df04b0dbac184b985b31168a2aee9a5b.htm",
         "listedAt": "2026-09-27 01:57:55",
         "firstSeenDate": "2026-09-28"
@@ -10178,6 +9131,12 @@
           "price": 33996,
           "mileage": 26611,
           "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 33996,
+          "mileage": 26611,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -10215,6 +9174,12 @@
       "observations": [
         {
           "date": "2026-09-28",
+          "price": 26198,
+          "mileage": 100820,
+          "dealer": "Leskovar Mitsubishi"
+        },
+        {
+          "date": "2026-09-30",
           "price": 26198,
           "mileage": 100820,
           "dealer": "Leskovar Mitsubishi"
@@ -10258,6 +9223,12 @@
           "price": 29000,
           "mileage": 65403,
           "dealer": "Summit Auto Exchange"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 29000,
+          "mileage": 65403,
+          "dealer": "Summit Auto Exchange"
         }
       ]
     },
@@ -10295,6 +9266,12 @@
       "observations": [
         {
           "date": "2026-09-28",
+          "price": 33999,
+          "mileage": 45029,
+          "dealer": "cortes auto center"
+        },
+        {
+          "date": "2026-09-30",
           "price": 33999,
           "mileage": 45029,
           "dealer": "cortes auto center"
@@ -10338,6 +9315,12 @@
           "price": 32700,
           "mileage": 65683,
           "dealer": "MB Motors LLC"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 32700,
+          "mileage": 65683,
+          "dealer": "MB Motors LLC"
         }
       ]
     },
@@ -10375,6 +9358,12 @@
       "observations": [
         {
           "date": "2026-09-28",
+          "price": 36092,
+          "mileage": 34883,
+          "dealer": "Ford of Kirkland"
+        },
+        {
+          "date": "2026-09-30",
           "price": 36092,
           "mileage": 34883,
           "dealer": "Ford of Kirkland"
@@ -10429,7 +9418,7 @@
         "make": "Tesla",
         "model": "Model Y",
         "trim": "Performance",
-        "price": 39991,
+        "price": 39191,
         "mileage": 48949,
         "exteriorColor": "Black",
         "interiorColor": "Black",
@@ -10438,14 +9427,14 @@
         "powertrain": "Electric",
         "dealer": "Legend Auto Sales",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Burien",
         "state": "WA",
-        "zip": "",
+        "zip": "98168",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": false,
+        "accidentCount": 1,
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7SAYGDEF4RF061713-1.jpg",
         "photoCount": 26,
         "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEF4RF061713",
@@ -10458,6 +9447,292 @@
           "price": 39991,
           "mileage": 48949,
           "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-09-30",
+          "price": 39191,
+          "mileage": 48949,
+          "dealer": "Legend Auto Sales"
+        }
+      ]
+    },
+    "7SAYGDEF1NF344306": {
+      "lastKnown": {
+        "id": "7saygdef1nf344306",
+        "vin": "7SAYGDEF1NF344306",
+        "year": 2022,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Performance",
+        "price": 31700,
+        "mileage": 55348,
+        "exteriorColor": "Solid Black",
+        "interiorColor": "White/Black",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Go Kia Renton",
+        "officialBrandDealer": false,
+        "city": "Renton",
+        "state": "WA",
+        "zip": "98057",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGDEF1NF344306-1.jpg",
+        "photoCount": 20,
+        "url": "https://rentonkia.com/used/Tesla/2022-Tesla-Model-Y-5d4c523fac1843223622966aa78e0828.htm",
+        "listedAt": "2026-09-30 02:00:23",
+        "firstSeenDate": "2026-09-08"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 31700,
+          "mileage": 55348,
+          "dealer": "Go Kia Renton"
+        }
+      ]
+    },
+    "7SAYGDEE2PF814482": {
+      "lastKnown": {
+        "id": "7saygdee2pf814482",
+        "vin": "7SAYGDEE2PF814482",
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 35387,
+        "mileage": 30019,
+        "exteriorColor": "Black",
+        "interiorColor": "Not listed",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Toyota of Kirkland",
+        "officialBrandDealer": false,
+        "city": "Kirkland",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGDEE2PF814482-1.jpg",
+        "photoCount": 25,
+        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE2PF814482",
+        "listedAt": "2026-09-29 23:26:39",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 35387,
+          "mileage": 30019,
+          "dealer": "Toyota of Kirkland"
+        }
+      ]
+    },
+    "7SAYGDEE8PF585547": {
+      "lastKnown": {
+        "id": "7saygdee8pf585547",
+        "vin": "7SAYGDEE8PF585547",
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 33999,
+        "mileage": 36996,
+        "exteriorColor": "Black",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Rodland Toyota of Everett",
+        "officialBrandDealer": false,
+        "city": "Everett",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGDEE8PF585547-1.jpg",
+        "photoCount": 1,
+        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE8PF585547",
+        "listedAt": "2026-09-29 09:56:32",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 33999,
+          "mileage": 36996,
+          "dealer": "Rodland Toyota of Everett"
+        }
+      ]
+    },
+    "7SAYGDEE8PF923531": {
+      "lastKnown": {
+        "id": "7saygdee8pf923531",
+        "vin": "7SAYGDEE8PF923531",
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 34995,
+        "mileage": 35007,
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "405 Motors",
+        "officialBrandDealer": false,
+        "city": "Woodinville",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGDEE8PF923531-1.jpg",
+        "photoCount": 65,
+        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE8PF923531",
+        "listedAt": "2026-09-27 23:51:43",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 34995,
+          "mileage": 35007,
+          "dealer": "405 Motors"
+        }
+      ]
+    },
+    "7SAYGAEE5RF077070": {
+      "lastKnown": {
+        "id": "7saygaee5rf077070",
+        "vin": "7SAYGAEE5RF077070",
+        "year": 2024,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 43147,
+        "mileage": 26915,
+        "exteriorColor": "Gray",
+        "interiorColor": "White",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Car Emporium",
+        "officialBrandDealer": false,
+        "city": "Spokane Valley",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGAEE5RF077070-1.jpg",
+        "photoCount": 19,
+        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGAEE5RF077070",
+        "listedAt": "2026-09-30 01:51:05",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 43147,
+          "mileage": 26915,
+          "dealer": "Car Emporium"
+        }
+      ]
+    },
+    "7SAYGDEE2RF177614": {
+      "lastKnown": {
+        "id": "7saygdee2rf177614",
+        "vin": "7SAYGDEE2RF177614",
+        "year": 2024,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 26995,
+        "mileage": 26604,
+        "exteriorColor": "Black",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "405 Motors",
+        "officialBrandDealer": false,
+        "city": "Woodinville",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAYGDEE2RF177614-1.jpg",
+        "photoCount": 63,
+        "url": "https://www.autolist.com/tesla-model+y#vin=7SAYGDEE2RF177614",
+        "listedAt": "2026-09-27 23:51:43",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 26995,
+          "mileage": 26604,
+          "dealer": "405 Motors"
+        }
+      ]
+    },
+    "7SAYGAEE9RF194442": {
+      "lastKnown": {
+        "id": "7saygaee9rf194442",
+        "vin": "7SAYGAEE9RF194442",
+        "year": 2024,
+        "make": "Tesla",
+        "model": "Model Y",
+        "trim": "Long Range",
+        "price": 40084,
+        "mileage": 16529,
+        "exteriorColor": "Ultra Red",
+        "interiorColor": "Black",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Volvo Cars Bellevue",
+        "officialBrandDealer": false,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98004",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/7SAYGAEE9RF194442-1.jpg",
+        "photoCount": 6,
+        "url": "https://volvocarsbellevue.com/used/Tesla/2024-Tesla-Model-Y-for-sale-Bellevue-WA-e829b27aac183f99147218d1ac8978a9.htm",
+        "listedAt": "2026-09-28 20:40:29",
+        "firstSeenDate": "2026-09-30"
+      },
+      "observations": [
+        {
+          "date": "2026-09-30",
+          "price": 40084,
+          "mileage": 16529,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     }
