@@ -241,6 +241,7 @@ def refresh_snapshot(
             f"The global {MAX_CALLS_PER_VEHICLE_PER_DAY}-call daily limit "
             "has already been reached."
         )
+        state["lastErrorCode"] = "daily-call-limit"
         write_json(state_file, state)
         print(f"Refresh failed after {calls_already_used} calls: {state['lastError']}")
         return False
@@ -263,7 +264,8 @@ def refresh_snapshot(
         refreshed_count = refreshed.get("listingCount", 0)
         minimum_count = max(1, int(previous_count * MINIMUM_RETENTION_RATIO))
         plausible_count = refreshed_count >= minimum_count
-        if not refreshed.get("refreshError") and not plausible_count:
+        implausible_result = not refreshed.get("refreshError") and not plausible_count
+        if implausible_result:
             state["lastError"] = (
                 f"Refresh returned only {refreshed_count} listings; "
                 f"at least {minimum_count} were required."
@@ -273,12 +275,17 @@ def refresh_snapshot(
             and refreshed.get("lastRefreshDate") == date
             and plausible_count
         )
+        # lastErrorCode distinguishes expected, already-handled conditions (prior
+        # snapshot retained, warning published) from genuine fetch/API failures,
+        # so callers can avoid alerting on noise from naturally sparse inventory.
+        state["lastErrorCode"] = None
         if success:
             state["lastSuccessfulRefreshDate"] = date
             state["knownVins"] = refreshed.get("knownVins", {})
             exporter.export_snapshot()
             inventory_history.write_history(snapshot_file, history_file)
         elif "configured maximum" in str(state["lastError"]):
+            state["lastErrorCode"] = "daily-call-limit"
             snapshot["refreshWarning"] = {
                 "date": date,
                 "code": "daily-call-limit",
@@ -286,6 +293,18 @@ def refresh_snapshot(
                     f"The latest refresh required more than the global "
                     f"{MAX_CALLS_PER_VEHICLE_PER_DAY}-call daily limit. "
                     "Inventory may be incomplete; the last successful snapshot is shown."
+                ),
+            }
+            write_json(snapshot_file, snapshot)
+        elif implausible_result:
+            state["lastErrorCode"] = "implausible-result"
+            snapshot["refreshWarning"] = {
+                "date": date,
+                "code": "implausible-result",
+                "message": (
+                    f"The latest refresh returned only {refreshed_count} listings, "
+                    f"fewer than the {minimum_count} expected from the prior snapshot. "
+                    "Inventory may be temporarily low; the last successful snapshot is shown."
                 ),
             }
             write_json(snapshot_file, snapshot)
@@ -313,7 +332,11 @@ def refresh_all(
         config["slug"]: config
         for config in read_vehicle_config(config_file)["vehicles"]
     }
+    # Codes for conditions that are already safely handled (prior snapshot
+    # retained, warning published) and don't warrant failing the workflow run.
+    expected_error_codes = {"daily-call-limit", "implausible-result"}
     succeeded = []
+    warned = []
     failed = []
     for slug in slugs:
         config = configs.get(slug)
@@ -334,11 +357,18 @@ def refresh_all(
         ):
             succeeded.append(slug)
         else:
-            failed.append(slug)
+            state = read_json(paths["state"], {})
+            if state.get("lastErrorCode") in expected_error_codes:
+                warned.append(slug)
+            else:
+                failed.append(slug)
     set_output("refresh_succeeded", bool(succeeded))
+    set_output("refresh_warned", bool(warned))
     set_output("refresh_failed", bool(failed))
     set_output("refreshed_vehicles", ",".join(succeeded))
     print(f"Successful vehicles: {', '.join(succeeded) if succeeded else 'none'}")
+    print(f"Warned vehicles (retained prior snapshot, no action needed): "
+          f"{', '.join(warned) if warned else 'none'}")
     print(f"Failed vehicles: {', '.join(failed) if failed else 'none'}")
     return succeeded, failed
 

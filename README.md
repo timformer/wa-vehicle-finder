@@ -41,6 +41,8 @@ Add the inventory credential as the repository Actions secret `INVENTORY_API_KEY
 
 Successful refreshes update only that vehicle's snapshot and seven-day history. Failed and skipped refreshes never imply that listings disappeared.
 
+Hitting the daily call limit or an implausibly small result (for example, a vehicle with very low WA inventory) are expected, already-handled conditions: the prior snapshot is retained and the vehicle's page shows a `refreshWarning`. These do not fail the workflow run. Only genuine errors (for example, the provider being unreachable) mark the run as failed.
+
 Manual workflow runs can target comma-separated vehicle slugs. Set `retryFailed` to retry only targeted vehicles that already failed on the same Washington day; calls from earlier attempts still count toward each vehicle's 20-call daily ceiling.
 
 ## Local development

@@ -236,7 +236,7 @@ class PublishedInventoryRefreshTests(TestCase):
 
     def test_implausibly_empty_refresh_retains_previous_snapshot(self):
         refresh.reserve_refresh("2026-09-09", self.state_file)
-        original_snapshot = self.snapshot_file.read_text(encoding="utf-8")
+        original_listings = json.loads(self.snapshot_file.read_text(encoding="utf-8"))["listings"]
 
         def fetcher(_key, _page, _config):
             return {"total": 0, "data": []}
@@ -252,9 +252,53 @@ class PublishedInventoryRefreshTests(TestCase):
         )
 
         state = json.loads(self.state_file.read_text(encoding="utf-8"))
+        snapshot = json.loads(self.snapshot_file.read_text(encoding="utf-8"))
         self.assertFalse(succeeded)
         self.assertIn("at least 1 were required", state["lastError"])
-        self.assertEqual(self.snapshot_file.read_text(encoding="utf-8"), original_snapshot)
+        self.assertEqual(state["lastErrorCode"], "implausible-result")
+        self.assertEqual(snapshot["listings"], original_listings)
+        self.assertEqual(snapshot["refreshWarning"]["code"], "implausible-result")
+        self.assertIn("temporarily low", snapshot["refreshWarning"]["message"])
+
+    def test_implausible_result_does_not_count_as_hard_failure(self):
+        root = Path(self.temporary.name)
+        config_file = root / "vehicles.json"
+        vehicles_dir = root / "vehicles"
+        config_file.write_text(
+            json.dumps(
+                {
+                    "vehicles": [
+                        {
+                            "slug": "sparse",
+                            "refresh": {"enabled": True, "intervalDays": 1},
+                        }
+                    ]
+                }
+            ),
+            encoding="utf-8",
+        )
+        paths = refresh.vehicle_paths("sparse", vehicles_dir)
+        paths["state"].parent.mkdir(parents=True, exist_ok=True)
+        refresh.reserve_refresh("2026-09-09", paths["state"])
+        refresh.write_json(
+            paths["snapshot"],
+            {"lastRefreshDate": "2026-09-08", "listings": [raw_listing("WB523CF0000000002")]},
+        )
+
+        def fetcher(_key, _page, _config):
+            return {"total": 0, "data": []}
+
+        succeeded, failed = refresh.refresh_all(
+            "2026-09-09",
+            "test",
+            ["sparse"],
+            config_file=config_file,
+            vehicles_dir=vehicles_dir,
+            fetcher=fetcher,
+        )
+
+        self.assertEqual(succeeded, [])
+        self.assertEqual(failed, [])
 
     def test_global_call_limit_retains_snapshot_and_publishes_warning(self):
         refresh.reserve_refresh("2026-09-09", self.state_file)
