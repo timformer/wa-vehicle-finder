@@ -1,21 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-09-28T16:44:53.560061+00:00",
+  "updatedAt": "2026-10-02T19:43:14.569558+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-22",
-      "vins": [
-        "4JGDM2EB3PA027284"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "vins": [
-        "4JGDM2EB3PA027284",
-        "4JGDM2EB3RA031256",
-        "4JGDM2EB5RA030626"
-      ]
-    },
     {
       "date": "2026-09-26",
       "vins": [
@@ -26,6 +12,19 @@
       "date": "2026-09-28",
       "vins": [
         "4JGDM2EB3PA027284"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "vins": [
+        "4JGDM2EB1PA015571",
+        "4JGDM2EB2RA031152",
+        "4JGDM2EB3RA031256",
+        "4JGDM2EB4PA014964",
+        "4JGDM2EB5RA030626",
+        "4JGDM2EBXPA017058",
+        "4JGDM4EB4PA010098",
+        "4JGDM4EB9PA015068"
       ]
     }
   ],
@@ -63,18 +62,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-22",
-          "price": 49438,
-          "mileage": 18566,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 49438,
-          "mileage": 18566,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-09-26",
           "price": 49438,
           "mileage": 18566,
@@ -94,13 +81,13 @@
         "vin": "4JGDM2EB3RA031256",
         "year": 2024,
         "make": "Mercedes-Benz",
-        "model": "EQS SUV",
+        "model": "EQS",
         "trim": "EQS 450 4MATIC",
         "price": 57262,
         "mileage": 18838,
-        "exteriorColor": "Sonoran Brown Metallic",
-        "interiorColor": "Macchiato Beige/Space Grey leather",
-        "seats": 7,
+        "exteriorColor": "Brown",
+        "interiorColor": "Tan",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Mercedes-Benz of Bellevue",
@@ -108,20 +95,20 @@
         "city": "Bellevue",
         "state": "WA",
         "zip": "98005",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/4JGDM2EB3RA031256-1.jpg",
-        "photoCount": 22,
+        "photoCount": 23,
         "url": "https://www.carfax.com/vehicle/4JGDM2EB3RA031256",
         "listedAt": "2026-09-16 02:59:15",
         "firstSeenDate": "2026-09-24"
       },
       "observations": [
         {
-          "date": "2026-09-24",
+          "date": "2026-10-02",
           "price": 57262,
           "mileage": 18838,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -134,12 +121,12 @@
         "vin": "4JGDM2EB5RA030626",
         "year": 2024,
         "make": "Mercedes-Benz",
-        "model": "EQS SUV",
+        "model": "EQS",
         "trim": "EQS 450 4MATIC",
-        "price": 56489,
+        "price": 55998,
         "mileage": 14923,
         "exteriorColor": "MANUFAKTUR Alpine Grey",
-        "interiorColor": "Black/Space Grey leather",
+        "interiorColor": "Black/Space Grey",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -152,19 +139,259 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/4JGDM2EB5RA030626-1.jpg",
-        "photoCount": 30,
+        "photoCount": 1,
         "url": "https://www.carfax.com/vehicle/4JGDM2EB5RA030626",
         "listedAt": "2026-08-15 21:11:58",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
         {
-          "date": "2026-09-24",
-          "price": 56489,
+          "date": "2026-10-02",
+          "price": 55998,
           "mileage": 14923,
           "dealer": "Mercedes-Benz of Bellevue"
+        }
+      ]
+    },
+    "4JGDM2EB2RA031152": {
+      "lastKnown": {
+        "id": "4jgdm2eb2ra031152",
+        "vin": "4JGDM2EB2RA031152",
+        "year": 2024,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 450 4MATIC",
+        "price": 56991,
+        "mileage": 15107,
+        "exteriorColor": "Polar White",
+        "interiorColor": "Macchiato Beige/Grey",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Mercedes-Benz of Bellevue",
+        "officialBrandDealer": true,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": true,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/4JGDM2EB2RA031152-1.jpg",
+        "photoCount": 1,
+        "url": "https://www.carfax.com/vehicle/4JGDM2EB2RA031152",
+        "listedAt": "2026-08-25 21:30:24",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 56991,
+          "mileage": 15107,
+          "dealer": "Mercedes-Benz of Bellevue"
+        }
+      ]
+    },
+    "4JGDM4EB9PA015068": {
+      "lastKnown": {
+        "id": "4jgdm4eb9pa015068",
+        "vin": "4JGDM4EB9PA015068",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 580 4MATIC",
+        "price": 57790,
+        "mileage": 27253,
+        "exteriorColor": "Obsidian Black Metallic",
+        "interiorColor": "Neva Grey/Sable Brown",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Mercedes-Benz of Bellevue",
+        "officialBrandDealer": true,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": true,
+        "oneOwner": true,
+        "accidentFree": false,
+        "accidentCount": 1,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/4JGDM4EB9PA015068-1.jpg",
+        "photoCount": 1,
+        "url": "https://www.carfax.com/vehicle/4JGDM4EB9PA015068",
+        "listedAt": "2026-09-29 21:34:52",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 57790,
+          "mileage": 27253,
+          "dealer": "Mercedes-Benz of Bellevue"
+        }
+      ]
+    },
+    "4JGDM2EBXPA017058": {
+      "lastKnown": {
+        "id": "4jgdm2ebxpa017058",
+        "vin": "4JGDM2EBXPA017058",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 450 4MATIC",
+        "price": 50187,
+        "mileage": 26855,
+        "exteriorColor": "Black",
+        "interiorColor": "Gray",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Maxx Autos Plus",
+        "officialBrandDealer": false,
+        "city": "Puyallup",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/4JGDM2EBXPA017058-1.jpg",
+        "photoCount": 1,
+        "url": "https://www.autolist.com/mercedes+benz-eqs#vin=4JGDM2EBXPA017058",
+        "listedAt": "2026-09-27 04:31:47",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 50187,
+          "mileage": 26855,
+          "dealer": "Maxx Autos Plus"
+        }
+      ]
+    },
+    "4JGDM2EB4PA014964": {
+      "lastKnown": {
+        "id": "4jgdm2eb4pa014964",
+        "vin": "4JGDM2EB4PA014964",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 450 4MATIC",
+        "price": 45380,
+        "mileage": 26577,
+        "exteriorColor": "White",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "J & A Auto Sales",
+        "officialBrandDealer": false,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": false,
+        "accidentCount": 1,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/4JGDM2EB4PA014964-1.jpg",
+        "photoCount": 48,
+        "url": "https://www.autolist.com/mercedes+benz-eqs#vin=4JGDM2EB4PA014964",
+        "listedAt": "2026-09-10 02:30:11",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 45380,
+          "mileage": 26577,
+          "dealer": "J & A Auto Sales"
+        }
+      ]
+    },
+    "4JGDM2EB1PA015571": {
+      "lastKnown": {
+        "id": "4jgdm2eb1pa015571",
+        "vin": "4JGDM2EB1PA015571",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 450 4MATIC",
+        "price": 46996,
+        "mileage": 26016,
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Landmark Motors Inc",
+        "officialBrandDealer": false,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": false,
+        "accidentCount": 1,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/4JGDM2EB1PA015571-1.jpg",
+        "photoCount": 29,
+        "url": "https://www.autolist.com/mercedes+benz-eqs#vin=4JGDM2EB1PA015571",
+        "listedAt": "2026-08-28 03:09:23",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 46996,
+          "mileage": 26016,
+          "dealer": "Landmark Motors Inc"
+        }
+      ]
+    },
+    "4JGDM4EB4PA010098": {
+      "lastKnown": {
+        "id": "4jgdm4eb4pa010098",
+        "vin": "4JGDM4EB4PA010098",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "EQS 580 4MATIC",
+        "price": 55100,
+        "mileage": 26947,
+        "exteriorColor": "Black",
+        "interiorColor": "Gray",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Mercedes-Benz of Lynnwood",
+        "officialBrandDealer": true,
+        "city": "Lynnwood",
+        "state": "WA",
+        "zip": "98037",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/4JGDM4EB4PA010098-1.jpg",
+        "photoCount": 26,
+        "url": "https://www.carfax.com/vehicle/4JGDM4EB4PA010098",
+        "listedAt": "2026-09-11 22:32:52",
+        "firstSeenDate": "2026-10-02"
+      },
+      "observations": [
+        {
+          "date": "2026-10-02",
+          "price": 55100,
+          "mileage": 26947,
+          "dealer": "Mercedes-Benz of Lynnwood"
         }
       ]
     }
