@@ -304,6 +304,56 @@ class AutoDevCacheTests(TestCase):
         self.assertTrue(cleaned["officialBrandDealer"])
         self.assertIsNone(server.clean_listing(too_old, config))
 
+    def test_refresh_combines_multiple_provider_model_names(self):
+        server.SITE_CONFIG_FILE.write_text(
+            json.dumps(
+                {
+                    "make": "Genesis",
+                    "model": "GV70",
+                    "queryModels": ["GV70", "Electrified GV70"],
+                    "minimumYear": 2022,
+                    "officialDealerNamePatterns": ["Genesis"],
+                }
+            ),
+            encoding="utf-8",
+        )
+        calls = []
+
+        def fetcher(_key, _page, config):
+            calls.append(config["model"])
+            item = listing(
+                "KMUMADTB1NU000001"
+                if config["model"] == "GV70"
+                else "5NMMCET10PH000001",
+                dealer="Genesis of Kirkland",
+            )
+            item["vehicle"].update(
+                {
+                    "make": "Genesis",
+                    "model": config["model"],
+                    "fuel": (
+                        "Gasoline"
+                        if config["model"] == "GV70"
+                        else "Electric"
+                    ),
+                }
+            )
+            return {"total": 1, "data": [item]}
+
+        cache = server.refresh_cache(
+            fetcher=fetcher,
+            date="2026-09-07",
+            api_key="test",
+        )
+
+        self.assertEqual(calls, ["GV70", "Electrified GV70"])
+        self.assertEqual(cache["listingCount"], 2)
+        self.assertEqual({item["model"] for item in cache["listings"]}, {"GV70"})
+        self.assertEqual(
+            {item["powertrain"] for item in cache["listings"]},
+            {"Gasoline", "Electric"},
+        )
+
     def test_site_configuration_filters_body_style(self):
         config = {
             "make": "Mercedes-Benz",

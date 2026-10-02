@@ -4,7 +4,7 @@ One ad-free GitHub Pages site for used vehicle inventory at Washington dealershi
 
 **Public site:** https://timformer.github.io/wa-vehicle-finder/
 
-The vehicle selector currently includes BMW iX, Volvo EX90, Volkswagen ID. Buzz, Tesla Model X and Model Y, Toyota Sienna, Mercedes-Benz EQE SUV and EQS SUV, Porsche Macan and Cayenne, and Maserati Grecale.
+The vehicle selector currently includes BMW iX, Volvo EX90, Volkswagen ID. Buzz, Tesla Model X and Model Y, Toyota Sienna, Mercedes-Benz EQE SUV and EQS SUV, Porsche Macan and Cayenne, Genesis GV70, and Maserati Grecale.
 
 ## Configuration
 
@@ -20,7 +20,9 @@ The vehicle selector currently includes BMW iX, Volvo EX90, Volkswagen ID. Buzz,
 - Set `enabled` to control automatic updates.
 - Set `intervalDays` to change update frequency.
 
-The workflow checks at `09:17`, `13:17`, `17:17`, and `21:17 UTC` to tolerate delayed or omitted GitHub scheduled events. Durable reservations ensure only the first eligible check queries a vehicle. Tesla Model X, Tesla Model Y, Toyota Sienna, both Mercedes-Benz SUVs, and both Porsche models refresh every two days; BMW iX, Volvo EX90, Volkswagen ID. Buzz, and Maserati Grecale refresh daily.
+The workflow checks at `09:17`, `13:17`, `17:17`, and `21:17 UTC` to tolerate delayed or omitted GitHub scheduled events. Durable reservations ensure only the first eligible check queries a vehicle. Tesla Model X, Toyota Sienna, both Mercedes-Benz SUVs, both Porsche models, and Genesis GV70 refresh every two days; BMW iX, Volvo EX90, Volkswagen ID. Buzz, and Maserati Grecale refresh daily. Tesla Model Y remains available on the site but no longer refreshes automatically.
+
+Genesis GV70 combines the provider's `GV70` and `Electrified GV70` model queries so both gasoline and electric listings appear on one page.
 
 Every enabled vehicle uses one global safety ceiling of 20 inventory API calls per Washington day. If a refresh would exceed that limit, the last successful listings and history are retained and that vehicle's public page displays a warning that its data may be incomplete.
 

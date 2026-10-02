@@ -29,6 +29,18 @@ class UnifiedInventoryTests(TestCase):
                 self.assertGreaterEqual(refresh["intervalDays"], 1)
                 self.assertNotIn("maxApiCalls", refresh)
 
+    def test_requested_refresh_policies_and_gv70_queries(self):
+        vehicles = {
+            vehicle["slug"]: vehicle
+            for vehicle in self.config["vehicles"]
+        }
+        self.assertFalse(vehicles["tesla-model-y"]["refresh"]["enabled"])
+        gv70 = vehicles["genesis-gv70"]
+        self.assertEqual(gv70["refresh"], {"enabled": True, "intervalDays": 2})
+        self.assertEqual(gv70["queryModels"], ["GV70", "Electrified GV70"])
+        self.assertNotIn("queryFuel", gv70)
+        self.assertNotIn("allowedPowertrains", gv70)
+
     def test_snapshots_and_histories_match_vehicle_configuration(self):
         for vehicle in self.config["vehicles"]:
             with self.subTest(vehicle=vehicle["slug"]):

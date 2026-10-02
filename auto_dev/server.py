@@ -302,10 +302,14 @@ def clean_listing(item, config=None):
     history = item.get("history") or {}
     vin = str(item.get("vin") or vehicle.get("vin") or "").upper()
 
+    accepted_models = {
+        str(model).casefold()
+        for model in config.get("queryModels", [config["model"]])
+    }
     if (
         len(vin) != 17
         or str(vehicle.get("make", "")).casefold() != config["make"].casefold()
-        or str(vehicle.get("model", "")).casefold() != config["model"].casefold()
+        or str(vehicle.get("model", "")).casefold() not in accepted_models
         or config.get("bodyStyle")
         and str(vehicle.get("bodyStyle", "")).casefold() != config["bodyStyle"].casefold()
         or str(retail.get("state", "")).upper() != "WA"
@@ -440,12 +444,21 @@ def refresh_cache(fetcher=None, date=None, api_key=None, max_calls=None):
 
             calls = 0
             try:
-                query_configs = [config]
-                if config.get("queryYearsSeparately"):
-                    query_configs = [
-                        {**config, "year": year}
-                        for year in range(config["minimumYear"], datetime.now().year + 2)
-                    ]
+                query_models = config.get("queryModels", [config["model"]])
+                query_years = (
+                    range(config["minimumYear"], datetime.now().year + 2)
+                    if config.get("queryYearsSeparately")
+                    else [None]
+                )
+                query_configs = [
+                    {
+                        **config,
+                        "model": query_model,
+                        **({"year": year} if year is not None else {}),
+                    }
+                    for query_model in query_models
+                    for year in query_years
+                ]
 
                 raw_items = []
                 total = 0

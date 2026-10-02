@@ -118,7 +118,7 @@
         "carvana.com"
       ],
       "refresh": {
-        "enabled": true,
+        "enabled": false,
         "intervalDays": 2
       }
     },
@@ -238,6 +238,34 @@
       "dealerOnlyDescription": "Hide independent and other-brand dealers",
       "officialDealerNamePatterns": [
         "Porsche"
+      ],
+      "marketplaceDomains": [
+        "autolist.com",
+        "carvana.com"
+      ],
+      "refresh": {
+        "enabled": true,
+        "intervalDays": 2
+      }
+    },
+    {
+      "slug": "genesis-gv70",
+      "displayName": "Genesis GV70",
+      "siteTitle": "WA GV70 Finder",
+      "vehicleName": "Genesis GV70",
+      "make": "Genesis",
+      "model": "GV70",
+      "queryModels": [
+        "GV70",
+        "Electrified GV70"
+      ],
+      "minimumYear": 2022,
+      "brandMark": "GV",
+      "fallbackImage": "assets/vehicle.svg",
+      "dealerOnlyLabel": "Genesis dealers only",
+      "dealerOnlyDescription": "Hide independent and other-brand dealers",
+      "officialDealerNamePatterns": [
+        "Genesis"
       ],
       "marketplaceDomains": [
         "autolist.com",
