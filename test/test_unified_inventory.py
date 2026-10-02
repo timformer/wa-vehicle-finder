@@ -40,6 +40,9 @@ class UnifiedInventoryTests(TestCase):
         self.assertEqual(gv70["queryModels"], ["GV70", "Electrified GV70"])
         self.assertNotIn("queryFuel", gv70)
         self.assertNotIn("allowedPowertrains", gv70)
+        gv90 = vehicles["genesis-gv90"]
+        self.assertEqual(gv90["refresh"], {"enabled": True, "intervalDays": 2})
+        self.assertTrue(gv90["allowEmptyInventory"])
 
     def test_snapshots_and_histories_match_vehicle_configuration(self):
         for vehicle in self.config["vehicles"]:
@@ -53,7 +56,8 @@ class UnifiedInventoryTests(TestCase):
                 )
                 listings = inventory["listings"]
                 self.assertEqual(inventory["listingCount"], len(listings))
-                self.assertGreater(len(listings), 0)
+                if not vehicle.get("allowEmptyInventory"):
+                    self.assertGreater(len(listings), 0)
                 self.assertTrue(
                     all(
                         listing["make"] == vehicle["make"]
@@ -63,6 +67,13 @@ class UnifiedInventoryTests(TestCase):
                         for listing in listings
                     )
                 )
+                if (
+                    vehicle.get("allowEmptyInventory")
+                    and not listings
+                    and inventory["lastRefreshDate"] is None
+                ):
+                    self.assertEqual(history["snapshots"], [])
+                    continue
                 self.assertEqual(
                     history["snapshots"][-1]["date"],
                     inventory["lastRefreshDate"],

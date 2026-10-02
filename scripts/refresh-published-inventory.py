@@ -262,7 +262,11 @@ def refresh_snapshot(
         )
         state["lastError"] = refreshed.get("refreshError")
         refreshed_count = refreshed.get("listingCount", 0)
-        minimum_count = max(1, int(previous_count * MINIMUM_RETENTION_RATIO))
+        minimum_count = (
+            0
+            if previous_count == 0 and config.get("allowEmptyInventory")
+            else max(1, int(previous_count * MINIMUM_RETENTION_RATIO))
+        )
         plausible_count = refreshed_count >= minimum_count
         implausible_result = not refreshed.get("refreshError") and not plausible_count
         if implausible_result:

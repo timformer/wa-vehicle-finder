@@ -260,6 +260,43 @@ class PublishedInventoryRefreshTests(TestCase):
         self.assertEqual(snapshot["refreshWarning"]["code"], "implausible-result")
         self.assertIn("temporarily low", snapshot["refreshWarning"]["message"])
 
+    def test_empty_initial_refresh_can_be_allowed(self):
+        refresh.write_json(
+            self.snapshot_file,
+            {
+                "updatedAt": None,
+                "lastRefreshDate": None,
+                "listingCount": 0,
+                "listings": [],
+            },
+        )
+        refresh.reserve_refresh("2026-09-09", self.state_file)
+
+        succeeded = refresh.refresh_snapshot(
+            "2026-09-09",
+            "test",
+            state_file=self.state_file,
+            snapshot_file=self.snapshot_file,
+            cache_file=self.cache_file,
+            history_file=self.history_file,
+            config={
+                "make": "Genesis",
+                "model": "GV90",
+                "minimumYear": 2026,
+                "officialDealerNamePatterns": ["Genesis"],
+                "allowEmptyInventory": True,
+                "refresh": {"enabled": True, "intervalDays": 2},
+            },
+            fetcher=lambda _key, _page, _config: {"total": 0, "data": []},
+        )
+
+        state = refresh.read_json(self.state_file, {})
+        snapshot = refresh.read_json(self.snapshot_file, {})
+        self.assertTrue(succeeded)
+        self.assertEqual(state["lastSuccessfulRefreshDate"], "2026-09-09")
+        self.assertEqual(snapshot["lastRefreshDate"], "2026-09-09")
+        self.assertEqual(snapshot["listingCount"], 0)
+
     def test_implausible_result_does_not_count_as_hard_failure(self):
         root = Path(self.temporary.name)
         config_file = root / "vehicles.json"

@@ -277,6 +277,31 @@
       }
     },
     {
+      "slug": "genesis-gv90",
+      "displayName": "Genesis GV90",
+      "siteTitle": "WA GV90 Finder",
+      "vehicleName": "Genesis GV90",
+      "make": "Genesis",
+      "model": "GV90",
+      "minimumYear": 2026,
+      "allowEmptyInventory": true,
+      "brandMark": "GV",
+      "fallbackImage": "assets/vehicle.svg",
+      "dealerOnlyLabel": "Genesis dealers only",
+      "dealerOnlyDescription": "Hide independent and other-brand dealers",
+      "officialDealerNamePatterns": [
+        "Genesis"
+      ],
+      "marketplaceDomains": [
+        "autolist.com",
+        "carvana.com"
+      ],
+      "refresh": {
+        "enabled": true,
+        "intervalDays": 2
+      }
+    },
+    {
       "slug": "maserati-grecale",
       "displayName": "Maserati Grecale",
       "siteTitle": "WA Grecale Finder",
