@@ -1,17 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-01T16:27:23.897228+00:00",
+  "updatedAt": "2026-10-02T15:49:18.180253+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-25",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM3P7429101",
-        "ZN682AVM7P7426413",
-        "ZN6PMDAA0R7449392",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-09-26",
       "vins": [
@@ -66,6 +56,15 @@
         "ZN6PMDAA0R7449392",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM7P7426413",
+        "ZN6PMDAA0R7449392",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -101,12 +100,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-09-25",
-          "price": 34625,
-          "mileage": 40990,
-          "dealer": "Porsche Bellevue"
-        },
         {
           "date": "2026-09-26",
           "price": 34625,
@@ -148,12 +141,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-25",
-          "price": 29980,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
-        {
           "date": "2026-09-26",
           "price": 29980,
           "mileage": 42463,
@@ -188,6 +175,12 @@
           "price": 29980,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 29980,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
         }
       ]
     },
@@ -198,7 +191,7 @@
         "year": 2023,
         "make": "Maserati",
         "model": "Grecale",
-        "trim": "MODENA",
+        "trim": "Modena",
         "price": 32500,
         "mileage": 40305,
         "exteriorColor": "Black",
@@ -224,12 +217,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-25",
-          "price": 33000,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-09-26",
           "price": 33000,
           "mileage": 40305,
@@ -261,6 +248,12 @@
         },
         {
           "date": "2026-10-01",
+          "price": 32500,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-02",
           "price": 32500,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
@@ -300,12 +293,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-25",
-          "price": 32999,
-          "mileage": 42497,
-          "dealer": "Seattle Finest Motors"
-        },
-        {
           "date": "2026-09-26",
           "price": 32999,
           "mileage": 42497,
@@ -340,6 +327,12 @@
           "price": 32999,
           "mileage": 42497,
           "dealer": "Seattle Finest Motors"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 32999,
+          "mileage": 42497,
+          "dealer": "Seattle Finest Motors"
         }
       ]
     },
@@ -351,7 +344,7 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "GT",
-        "price": 26999,
+        "price": 27199,
         "mileage": 42678,
         "exteriorColor": "Grigio Lava Metallic",
         "interiorColor": "Black premium leather",
@@ -375,12 +368,6 @@
         "firstSeenDate": "2026-09-22"
       },
       "observations": [
-        {
-          "date": "2026-09-25",
-          "price": 26999,
-          "mileage": 42678,
-          "dealer": "Enterprise Car Sales Shoreline"
-        },
         {
           "date": "2026-09-26",
           "price": 26999,
@@ -414,6 +401,12 @@
         {
           "date": "2026-10-01",
           "price": 26999,
+          "mileage": 42678,
+          "dealer": "Enterprise Car Sales Shoreline"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 27199,
           "mileage": 42678,
           "dealer": "Enterprise Car Sales Shoreline"
         }
