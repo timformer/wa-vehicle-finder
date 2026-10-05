@@ -1,16 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-04T14:47:47.120092+00:00",
+  "updatedAt": "2026-10-05T18:27:38.183651+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-28",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM7P7426413",
-        "ZN6PMDAA0R7449392",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-09-29",
       "vins": [
@@ -64,6 +55,15 @@
         "ZN6PMDAA0R7449392",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM7P7426413",
+        "ZN6PMDAA0R7449392",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -100,12 +100,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-28",
-          "price": 29980,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
-        {
           "date": "2026-09-29",
           "price": 29980,
           "mileage": 42463,
@@ -137,6 +131,12 @@
         },
         {
           "date": "2026-10-04",
+          "price": 29980,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-10-05",
           "price": 29980,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
@@ -176,12 +176,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-28",
-          "price": 32500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-09-29",
           "price": 32500,
           "mileage": 40305,
@@ -213,6 +207,12 @@
         },
         {
           "date": "2026-10-04",
+          "price": 33000,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-05",
           "price": 33000,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
@@ -252,12 +252,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-28",
-          "price": 32999,
-          "mileage": 42497,
-          "dealer": "Seattle Finest Motors"
-        },
-        {
           "date": "2026-09-29",
           "price": 32999,
           "mileage": 42497,
@@ -289,6 +283,12 @@
         },
         {
           "date": "2026-10-04",
+          "price": 32999,
+          "mileage": 42497,
+          "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-10-05",
           "price": 32999,
           "mileage": 42497,
           "dealer": "Seattle Finest Motors LLC"
@@ -328,12 +328,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-28",
-          "price": 26999,
-          "mileage": 42678,
-          "dealer": "Enterprise Car Sales Shoreline"
-        },
-        {
           "date": "2026-09-29",
           "price": 26999,
           "mileage": 42678,
@@ -365,6 +359,12 @@
         },
         {
           "date": "2026-10-04",
+          "price": 27199,
+          "mileage": 42678,
+          "dealer": "Enterprise Car Sales Shoreline"
+        },
+        {
+          "date": "2026-10-05",
           "price": 27199,
           "mileage": 42678,
           "dealer": "Enterprise Car Sales Shoreline"
