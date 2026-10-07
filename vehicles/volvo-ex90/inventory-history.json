@@ -1,18 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-06T15:57:14.827277+00:00",
+  "updatedAt": "2026-10-07T16:28:21.082958+00:00",
   "snapshots": [
-    {
-      "date": "2026-09-30",
-      "vins": [
-        "7JDDA3VL3TG060621",
-        "7JDE23KL9SG005966",
-        "7JDE23KLXSG000680",
-        "7JDE23VL3SG007904",
-        "7JDEV3KL2SG000597",
-        "7JDEV3VK4SG016898"
-      ]
-    },
     {
       "date": "2026-10-01",
       "vins": [
@@ -87,6 +76,19 @@
         "7JDEV3KL2SG000597",
         "7JDEV3VK4SG016898"
       ]
+    },
+    {
+      "date": "2026-10-07",
+      "vins": [
+        "7JDDA3VL3TG060621",
+        "7JDE23KL9SG005966",
+        "7JDE23KLXSG000680",
+        "7JDE23VK5SG000718",
+        "7JDE23VL2SG017310",
+        "7JDE23VL3SG007904",
+        "7JDEV3KL2SG000597",
+        "7JDEV3VK4SG016898"
+      ]
     }
   ],
   "vehicles": {
@@ -98,7 +100,7 @@
         "make": "Volvo",
         "model": "EX90",
         "trim": "Twin Motor Performance Ultra 6-Seater",
-        "price": 58972,
+        "price": 56232,
         "mileage": 21804,
         "exteriorColor": "Onyx Black",
         "interiorColor": "Zinc",
@@ -122,12 +124,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-09-30",
-          "price": 58075,
-          "mileage": 21804,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-01",
           "price": 58075,
@@ -161,6 +157,12 @@
         {
           "date": "2026-10-06",
           "price": 58972,
+          "mileage": 21804,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
+          "price": 56232,
           "mileage": 21804,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -199,12 +201,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-30",
-          "price": 64650,
-          "mileage": 5645,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-01",
           "price": 64650,
           "mileage": 5645,
@@ -236,6 +232,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 65700,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
           "price": 65700,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
@@ -275,12 +277,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-30",
-          "price": 62025,
-          "mileage": 13861,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-01",
           "price": 62025,
           "mileage": 13861,
@@ -312,6 +308,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 62350,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
           "price": 62350,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
@@ -351,12 +353,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-30",
-          "price": 63988,
-          "mileage": 13793,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-01",
           "price": 63988,
           "mileage": 13793,
@@ -388,6 +384,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
@@ -427,12 +429,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-30",
-          "price": 58875,
-          "mileage": 7980,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-01",
           "price": 58875,
           "mileage": 7980,
@@ -464,6 +460,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 60575,
+          "mileage": 7980,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
           "price": 60575,
           "mileage": 7980,
           "dealer": "Volvo Cars Bellevue"
@@ -503,12 +505,6 @@
       },
       "observations": [
         {
-          "date": "2026-09-30",
-          "price": 85388,
-          "mileage": 8299,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-01",
           "price": 700,
           "mileage": 8299,
@@ -543,6 +539,12 @@
           "price": 85388,
           "mileage": 8299,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
+          "price": 85388,
+          "mileage": 8299,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -554,7 +556,7 @@
         "make": "Volvo",
         "model": "EX90",
         "trim": "Twin Motor Performance Plus 7-Seater",
-        "price": 56779,
+        "price": 55233,
         "mileage": 25698,
         "exteriorColor": "Mulberry",
         "interiorColor": "Cardamom",
@@ -613,6 +615,12 @@
           "price": 56779,
           "mileage": 25698,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-07",
+          "price": 55233,
+          "mileage": 25698,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -662,6 +670,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 59888,
+          "mileage": 9756,
+          "dealer": "Sandberg Volvo Cars"
+        },
+        {
+          "date": "2026-10-07",
           "price": 59888,
           "mileage": 9756,
           "dealer": "Sandberg Volvo Cars"
