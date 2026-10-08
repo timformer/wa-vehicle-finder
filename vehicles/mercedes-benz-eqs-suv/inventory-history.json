@@ -1,6 +1,6 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-06T15:57:34.457615+00:00",
+  "updatedAt": "2026-10-08T16:28:30.374668+00:00",
   "snapshots": [
     {
       "date": "2026-10-02",
@@ -37,6 +37,20 @@
         "4JGDM2EB2RA031152",
         "4JGDM2EB4PA014964",
         "4JGDM2EBXPA017058",
+        "4JGDM4EB4PA010098",
+        "4JGDM4EB6PA007249",
+        "4JGDM4EB9PA015068"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "vins": [
+        "4JGDM2EB0PA021474",
+        "4JGDM2EB1PA015571",
+        "4JGDM2EB2RA031152",
+        "4JGDM2EB4PA014964",
+        "4JGDM2EBXPA017058",
+        "4JGDM4EB2PA025229",
         "4JGDM4EB4PA010098",
         "4JGDM4EB6PA007249",
         "4JGDM4EB9PA015068"
@@ -138,7 +152,7 @@
         "make": "Mercedes-Benz",
         "model": "EQS",
         "trim": "EQS 450 4MATIC",
-        "price": 56991,
+        "price": 55659,
         "mileage": 15107,
         "exteriorColor": "Polar White",
         "interiorColor": "Macchiato Beige/Grey",
@@ -179,6 +193,12 @@
           "price": 56991,
           "mileage": 15107,
           "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-08",
+          "price": 55659,
+          "mileage": 15107,
+          "dealer": "Mercedes-Benz of Bellevue"
         }
       ]
     },
@@ -191,7 +211,7 @@
         "model": "EQS",
         "trim": "EQS 580 4MATIC",
         "price": 57790,
-        "mileage": 27253,
+        "mileage": 27256,
         "exteriorColor": "Obsidian Black Metallic",
         "interiorColor": "Neva Grey/Sable Brown",
         "seats": 5,
@@ -230,6 +250,12 @@
           "date": "2026-10-06",
           "price": 57790,
           "mileage": 27253,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-08",
+          "price": 57790,
+          "mileage": 27256,
           "dealer": "Mercedes-Benz of Bellevue"
         }
       ]
@@ -280,6 +306,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 44697,
+          "mileage": 26855,
+          "dealer": "Maxx Autos Plus"
+        },
+        {
+          "date": "2026-10-08",
           "price": 44697,
           "mileage": 26855,
           "dealer": "Maxx Autos Plus"
@@ -335,6 +367,12 @@
           "price": 45380,
           "mileage": 26577,
           "dealer": "J & A Auto Sales"
+        },
+        {
+          "date": "2026-10-08",
+          "price": 45380,
+          "mileage": 26577,
+          "dealer": "J & A Auto Sales"
         }
       ]
     },
@@ -387,6 +425,12 @@
           "price": 46996,
           "mileage": 26016,
           "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-10-08",
+          "price": 46996,
+          "mileage": 26016,
+          "dealer": "Landmark Motors Inc"
         }
       ]
     },
@@ -436,6 +480,12 @@
         },
         {
           "date": "2026-10-06",
+          "price": 54900,
+          "mileage": 26957,
+          "dealer": "mercedes benz of lynnwood"
+        },
+        {
+          "date": "2026-10-08",
           "price": 54900,
           "mileage": 26957,
           "dealer": "mercedes benz of lynnwood"
@@ -531,6 +581,92 @@
           "price": 58340,
           "mileage": 13747,
           "dealer": "CARR Vancouver Buick GMC"
+        },
+        {
+          "date": "2026-10-08",
+          "price": 58340,
+          "mileage": 13747,
+          "dealer": "CARR Vancouver Buick GMC"
+        }
+      ]
+    },
+    "4JGDM4EB2PA025229": {
+      "lastKnown": {
+        "id": "4jgdm4eb2pa025229",
+        "vin": "4JGDM4EB2PA025229",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "580 4MATIC&reg;",
+        "price": 56495,
+        "mileage": 23302,
+        "exteriorColor": "Selenite Gray Metallic",
+        "interiorColor": "Black/Space Gray",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "mercedes benz of lynnwood",
+        "officialBrandDealer": true,
+        "city": "Lynnwood",
+        "state": "WA",
+        "zip": "98037",
+        "cpo": true,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/4JGDM4EB2PA025229-1.jpg",
+        "photoCount": 1,
+        "url": "https://mblynnwood.com/certified/Mercedes-Benz/2023-Mercedes-Benz-EQS-1304d796ac1844cced8e7ffc87d09dee.htm",
+        "listedAt": "2026-10-07 02:18:45",
+        "firstSeenDate": "2026-10-08"
+      },
+      "observations": [
+        {
+          "date": "2026-10-08",
+          "price": 56495,
+          "mileage": 23302,
+          "dealer": "mercedes benz of lynnwood"
+        }
+      ]
+    },
+    "4JGDM2EB0PA021474": {
+      "lastKnown": {
+        "id": "4jgdm2eb0pa021474",
+        "vin": "4JGDM2EB0PA021474",
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "EQS",
+        "trim": "450 4MATIC&reg;",
+        "price": 48998,
+        "mileage": 22622,
+        "exteriorColor": "Selenite Gray Metallic",
+        "interiorColor": "Black/Space Gray",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "mercedes benz of lynnwood",
+        "officialBrandDealer": true,
+        "city": "Lynnwood",
+        "state": "WA",
+        "zip": "98037",
+        "cpo": true,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/4JGDM2EB0PA021474-1.jpg",
+        "photoCount": 1,
+        "url": "https://mblynnwood.com/certified/Mercedes-Benz/2023-Mercedes-Benz-EQS-1304d5cdac1831418a026fd33d48765b.htm",
+        "listedAt": "2026-10-07 02:18:45",
+        "firstSeenDate": "2026-10-08"
+      },
+      "observations": [
+        {
+          "date": "2026-10-08",
+          "price": 48998,
+          "mileage": 22622,
+          "dealer": "mercedes benz of lynnwood"
         }
       ]
     }
