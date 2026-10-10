@@ -1,24 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-08T16:28:18.916583+00:00",
+  "updatedAt": "2026-10-10T15:22:55.862381+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-02",
-      "vins": [
-        "7SAXCAE53PF380823",
-        "7SAXCAE55RF438000",
-        "7SAXCAE5XPF384755",
-        "7SAXCBE52PF381919",
-        "7SAXCBE63PF418937",
-        "7SAXCBE66NF359878",
-        "7SAXCDE50RF444594",
-        "7SAXCDE52PF399459",
-        "7SAXCDE54NF356948",
-        "7SAXCDE56PF380638",
-        "7SAXCDE57PF368188",
-        "7SAXCDE58NF345709"
-      ]
-    },
     {
       "date": "2026-10-04",
       "vins": [
@@ -67,6 +50,22 @@
         "7SAXCDE56PF380638",
         "7SAXCDE57PF368188"
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "vins": [
+        "7SAXCAE53PF380823",
+        "7SAXCAE55RF438000",
+        "7SAXCAE5XPF384755",
+        "7SAXCBE52PF381919",
+        "7SAXCBE63PF418937",
+        "7SAXCBE66NF359878",
+        "7SAXCDE50RF444594",
+        "7SAXCDE51PF424478",
+        "7SAXCDE54NF356948",
+        "7SAXCDE56PF380638",
+        "7SAXCDE57PF368188"
+      ]
     }
   ],
   "vehicles": {
@@ -80,7 +79,7 @@
         "trim": "Standard Range",
         "price": 57995,
         "mileage": 56230,
-        "exteriorColor": "Solid Black",
+        "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": null,
         "drivetrain": "AWD",
@@ -103,12 +102,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 57995,
-          "mileage": 56230,
-          "dealer": "puyallup nissan"
-        },
-        {
           "date": "2026-10-04",
           "price": 57995,
           "mileage": 56230,
@@ -122,6 +115,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 57995,
+          "mileage": 56230,
+          "dealer": "puyallup nissan"
+        },
+        {
+          "date": "2026-10-10",
           "price": 57995,
           "mileage": 56230,
           "dealer": "puyallup nissan"
@@ -137,35 +136,29 @@
         "model": "Model X",
         "trim": "Plaid",
         "price": 57937,
-        "mileage": 79485,
+        "mileage": 79554,
         "exteriorColor": "Solid Black",
         "interiorColor": "Black",
         "seats": null,
-        "drivetrain": null,
+        "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Volkswagen of Puyallup",
+        "dealer": "pierre ford of seattle",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Seattle",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98125",
         "cpo": false,
         "oneOwner": null,
         "accidentFree": null,
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/7SAXCBE63PF418937-1.jpg",
-        "photoCount": 39,
-        "url": "https://vwofpuyallup.com/used/Tesla/2023-Tesla-Model-X-635304cfac1851c1ca6e0f38d49732e5.htm",
+        "photoCount": 1,
+        "url": "https://pierreford.com/used/Tesla/2023-Tesla-Model-X-20bb526eac184894f7eeb6189089e046.htm",
         "listedAt": "2026-07-15 06:26:56",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 57937,
-          "mileage": 79485,
-          "dealer": "Volkswagen of Puyallup"
-        },
         {
           "date": "2026-10-04",
           "price": 57937,
@@ -183,6 +176,12 @@
           "price": 57937,
           "mileage": 79485,
           "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 57937,
+          "mileage": 79554,
+          "dealer": "pierre ford of seattle"
         }
       ]
     },
@@ -218,12 +217,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 49768,
-          "mileage": 57393,
-          "dealer": "Volkswagen of Puyallup"
-        },
         {
           "date": "2026-10-04",
           "price": 49968,
@@ -265,12 +258,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 59996,
-          "mileage": 25976,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
-        {
           "date": "2026-10-04",
           "price": 59996,
           "mileage": 25976,
@@ -284,6 +271,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 59996,
+          "mileage": 25976,
+          "dealer": "Art Gamblin Motors, Inc."
+        },
+        {
+          "date": "2026-10-10",
           "price": 59996,
           "mileage": 25976,
           "dealer": "Art Gamblin Motors, Inc."
@@ -323,12 +316,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 69180,
-          "mileage": 15264,
-          "dealer": "J & A Auto Sales"
-        },
-        {
           "date": "2026-10-04",
           "price": 68180,
           "mileage": 15264,
@@ -342,6 +329,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 67980,
+          "mileage": 15264,
+          "dealer": "J&A Auto Sales"
+        },
+        {
+          "date": "2026-10-10",
           "price": 67980,
           "mileage": 15264,
           "dealer": "J&A Auto Sales"
@@ -380,12 +373,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 59996,
-          "mileage": 33834,
-          "dealer": "Art Gamblin Motors, Inc."
-        },
         {
           "date": "2026-10-04",
           "price": 59996,
@@ -439,12 +426,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 61900,
-          "mileage": 21460,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-10-04",
           "price": 61900,
           "mileage": 21460,
@@ -458,6 +439,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 61900,
+          "mileage": 21460,
+          "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-10-10",
           "price": 61900,
           "mileage": 21460,
           "dealer": "Legend Auto Sales"
@@ -497,12 +484,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 53500,
-          "mileage": 65750,
-          "dealer": "GMC of Riverfront Park"
-        },
-        {
           "date": "2026-10-04",
           "price": 53500,
           "mileage": 65750,
@@ -516,6 +497,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 52900,
+          "mileage": 65750,
+          "dealer": "GMC of Riverfront Park"
+        },
+        {
+          "date": "2026-10-10",
           "price": 52900,
           "mileage": 65750,
           "dealer": "GMC of Riverfront Park"
@@ -555,12 +542,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 69195,
-          "mileage": 35088,
-          "dealer": "Buick GMC of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 69195,
           "mileage": 35088,
@@ -574,6 +555,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 69195,
+          "mileage": 35088,
+          "dealer": "Buick GMC of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 69195,
           "mileage": 35088,
           "dealer": "Buick GMC of Bellevue"
@@ -613,12 +600,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 55998,
-          "mileage": 24892,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-04",
           "price": 55998,
           "mileage": 24892,
@@ -632,6 +613,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 55998,
+          "mileage": 24893,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-10",
           "price": 55998,
           "mileage": 24893,
           "dealer": "CarMax Tulalip"
@@ -671,12 +658,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 61599,
-          "mileage": 40451,
-          "dealer": "Way Scarff Ford"
-        },
-        {
           "date": "2026-10-04",
           "price": 61599,
           "mileage": 40451,
@@ -690,6 +671,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 61599,
+          "mileage": 40451,
+          "dealer": "Way Scarff Ford"
+        },
+        {
+          "date": "2026-10-10",
           "price": 61599,
           "mileage": 40451,
           "dealer": "Way Scarff Ford"
@@ -729,12 +716,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 64695,
-          "mileage": 57361,
-          "dealer": "Dwayne Lane's Arlington Chevrolet"
-        },
-        {
           "date": "2026-10-04",
           "price": 64695,
           "mileage": 57361,
@@ -751,6 +732,52 @@
           "price": 64595,
           "mileage": 57361,
           "dealer": "Dwayne Lane's Arlington Chevrolet"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 64595,
+          "mileage": 57361,
+          "dealer": "Dwayne Lane's Arlington Chevrolet"
+        }
+      ]
+    },
+    "7SAXCDE51PF424478": {
+      "lastKnown": {
+        "id": "7saxcde51pf424478",
+        "vin": "7SAXCDE51PF424478",
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model X",
+        "trim": "Trim not listed",
+        "price": 64662,
+        "mileage": 24407,
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Volkswagen of Puyallup",
+        "officialBrandDealer": false,
+        "city": "Puyallup",
+        "state": "WA",
+        "zip": "98371",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/7SAXCDE51PF424478-1.jpg",
+        "photoCount": 2,
+        "url": "https://vwofpuyallup.com/used/Tesla/2023-Tesla-Model-X-1b2a299eac185c43e2a374ecd9e105fb.htm",
+        "listedAt": "2026-10-09 02:05:14",
+        "firstSeenDate": "2026-10-10"
+      },
+      "observations": [
+        {
+          "date": "2026-10-10",
+          "price": 64662,
+          "mileage": 24407,
+          "dealer": "Volkswagen of Puyallup"
         }
       ]
     }

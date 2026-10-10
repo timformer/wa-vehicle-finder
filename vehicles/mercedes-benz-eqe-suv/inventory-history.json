@@ -1,27 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-08T16:28:29.287591+00:00",
+  "updatedAt": "2026-10-10T15:23:01.357601+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-02",
-      "vins": [
-        "4JGGM1CB1PA006136",
-        "4JGGM1CB1PA009313",
-        "4JGGM1CB1PA025303",
-        "4JGGM1CB2PA021437",
-        "4JGGM1CB2SA063471",
-        "4JGGM1CB4PA005000",
-        "4JGGM1CB5PA003966",
-        "4JGGM1CB5PA013929",
-        "4JGGM1CB5VA075960",
-        "4JGGM1CB8PA008840",
-        "4JGGM1CB8PA016923",
-        "4JGGM1CBXRA043320",
-        "4JGGM2BB4TA073542",
-        "4JGGM2BB5PA007670",
-        "4JGGM2CBXPA001992"
-      ]
-    },
     {
       "date": "2026-10-04",
       "vins": [
@@ -93,6 +73,27 @@
         "4JGGM2CB5PA021065",
         "4JGGM2CBXPA001992"
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "vins": [
+        "4JGGM1CB1PA006136",
+        "4JGGM1CB1PA009313",
+        "4JGGM1CB1PA010350",
+        "4JGGM1CB1PA025303",
+        "4JGGM1CB2SA063471",
+        "4JGGM1CB3RA043126",
+        "4JGGM1CB4PA005000",
+        "4JGGM1CB4TA070407",
+        "4JGGM1CB5PA003966",
+        "4JGGM1CB5PA013929",
+        "4JGGM1CB5VA075960",
+        "4JGGM1CB8PA016923",
+        "4JGGM1CBXRA043320",
+        "4JGGM2BB4TA073542",
+        "4JGGM2BB5PA007670",
+        "4JGGM2CBXPA001992"
+      ]
     }
   ],
   "vehicles": {
@@ -128,12 +129,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 37519,
-          "mileage": 33976,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
         {
           "date": "2026-10-04",
           "price": 37519,
@@ -187,12 +182,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 41471,
-          "mileage": 13552,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 41471,
           "mileage": 13552,
@@ -206,6 +195,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 39999,
+          "mileage": 13552,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 39999,
           "mileage": 13552,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -245,12 +240,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 78981,
-          "mileage": 10,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 78981,
           "mileage": 10,
@@ -267,45 +256,11 @@
           "price": 78981,
           "mileage": 10,
           "dealer": "Mercedes-Benz of Bellevue"
-        }
-      ]
-    },
-    "4JGGM1CB8PA008840": {
-      "lastKnown": {
-        "id": "4jggm1cb8pa008840",
-        "vin": "4JGGM1CB8PA008840",
-        "year": 2023,
-        "make": "Mercedes-Benz",
-        "model": "EQE",
-        "trim": "EQE 350 4MATIC",
-        "price": 36891,
-        "mileage": 40467,
-        "exteriorColor": "White",
-        "interiorColor": "Gray",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Mercedes-Benz of Bellevue",
-        "officialBrandDealer": true,
-        "city": "Bellevue",
-        "state": "WA",
-        "zip": "98005",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/4JGGM1CB8PA008840-1.jpg",
-        "photoCount": 30,
-        "url": "https://www.carfax.com/vehicle/4JGGM1CB8PA008840",
-        "listedAt": "2026-09-03 21:47:07",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-02",
-          "price": 36891,
-          "mileage": 40467,
+          "date": "2026-10-10",
+          "price": 78981,
+          "mileage": 10,
           "dealer": "Mercedes-Benz of Bellevue"
         }
       ]
@@ -319,7 +274,7 @@
         "model": "EQE",
         "trim": "EQE 320+",
         "price": 68143,
-        "mileage": 5312,
+        "mileage": 5324,
         "exteriorColor": "Black",
         "interiorColor": "Black/Sable Brown",
         "seats": 5,
@@ -343,12 +298,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 68143,
-          "mileage": 5095,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 68143,
           "mileage": 5177,
@@ -364,6 +313,12 @@
           "date": "2026-10-08",
           "price": 68143,
           "mileage": 5312,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 68143,
+          "mileage": 5324,
           "dealer": "Mercedes-Benz of Bellevue"
         }
       ]
@@ -401,12 +356,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 38777,
-          "mileage": 39275,
-          "dealer": "Landmark Motors Inc"
-        },
-        {
           "date": "2026-10-04",
           "price": 38777,
           "mileage": 39275,
@@ -420,6 +369,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 38777,
+          "mileage": 39275,
+          "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-10-10",
           "price": 38777,
           "mileage": 39275,
           "dealer": "Landmark Motors Inc"
@@ -563,12 +518,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 51647,
-          "mileage": 5037,
-          "dealer": "Mercedes-Benz of Spokane"
-        },
-        {
           "date": "2026-10-04",
           "price": 51647,
           "mileage": 5037,
@@ -582,6 +531,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 51647,
+          "mileage": 5037,
+          "dealer": "Mercedes-Benz of Spokane"
+        },
+        {
+          "date": "2026-10-10",
           "price": 51647,
           "mileage": 5037,
           "dealer": "Mercedes-Benz of Spokane"
@@ -621,12 +576,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 65011,
-          "mileage": 2369,
-          "dealer": "Mercedes-Benz of Spokane"
-        },
-        {
           "date": "2026-10-04",
           "price": 65011,
           "mileage": 2369,
@@ -640,6 +589,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 65011,
+          "mileage": 2369,
+          "dealer": "Mercedes-Benz of Spokane"
+        },
+        {
+          "date": "2026-10-10",
           "price": 65011,
           "mileage": 2369,
           "dealer": "Mercedes-Benz of Spokane"
@@ -695,6 +650,12 @@
           "price": 58699,
           "mileage": 4430,
           "dealer": "Mercedes-Benz of Seattle"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 58699,
+          "mileage": 4430,
+          "dealer": "Mercedes-Benz of Seattle"
         }
       ]
     },
@@ -706,7 +667,7 @@
         "make": "Mercedes-Benz",
         "model": "EQE",
         "trim": "EQE 350 4MATIC",
-        "price": 38986,
+        "price": 38088,
         "mileage": 30907,
         "exteriorColor": "Black",
         "interiorColor": "Black",
@@ -747,6 +708,12 @@
           "price": 38986,
           "mileage": 30907,
           "dealer": "Mercedes-Benz of Tacoma"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 38088,
+          "mileage": 30907,
+          "dealer": "Mercedes-Benz of Tacoma"
         }
       ]
     },
@@ -783,12 +750,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 45192,
-          "mileage": 26272,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 45192,
           "mileage": 26272,
@@ -802,6 +763,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 44742,
+          "mileage": 26272,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 44742,
           "mileage": 26272,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -841,12 +808,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 35190,
-          "mileage": 39545,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 35190,
           "mileage": 39545,
@@ -860,6 +821,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 34621,
+          "mileage": 39545,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 34621,
           "mileage": 39545,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -899,12 +866,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 38199,
-          "mileage": 28677,
-          "dealer": "Silver Star Auto"
-        },
-        {
           "date": "2026-10-04",
           "price": 38199,
           "mileage": 28677,
@@ -918,6 +879,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 38199,
+          "mileage": 28677,
+          "dealer": "Silver Star Auto"
+        },
+        {
+          "date": "2026-10-10",
           "price": 38199,
           "mileage": 28677,
           "dealer": "Silver Star Auto"
@@ -957,12 +924,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 39440,
-          "mileage": 30005,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-10-04",
           "price": 39440,
           "mileage": 30005,
@@ -976,6 +937,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 37455,
+          "mileage": 30005,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 37455,
           "mileage": 30005,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -1058,7 +1025,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/4JGGM1CB5PA013929-1.jpg",
         "photoCount": 1,
         "url": "https://www.carfax.com/vehicle/4JGGM1CB5PA013929",
@@ -1066,12 +1033,6 @@
         "firstSeenDate": "2026-09-26"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 42690,
-          "mileage": 14974,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
         {
           "date": "2026-10-04",
           "price": 42690,
@@ -1086,6 +1047,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 42690,
+          "mileage": 14976,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-10-10",
           "price": 42690,
           "mileage": 14976,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -1125,12 +1092,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-02",
-          "price": 38080,
-          "mileage": 25813,
-          "dealer": "J & A Auto Sales"
-        },
-        {
           "date": "2026-10-04",
           "price": 38080,
           "mileage": 25813,
@@ -1144,6 +1105,12 @@
         },
         {
           "date": "2026-10-08",
+          "price": 38080,
+          "mileage": 25813,
+          "dealer": "J & A Auto Sales"
+        },
+        {
+          "date": "2026-10-10",
           "price": 38080,
           "mileage": 25813,
           "dealer": "J & A Auto Sales"
@@ -1176,18 +1143,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/4JGGM1CB1PA025303-1.jpg",
-        "photoCount": 6,
+        "photoCount": 24,
         "url": "https://mblynnwood.com/certified/Mercedes-Benz/2023-Mercedes-Benz-EQE-c5c8aaeeac1829354b5a1418cbc2d699.htm",
         "listedAt": "2026-09-22 09:14:07",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-02",
-          "price": 44190,
-          "mileage": 21756,
-          "dealer": "Mercedes-Benz of Lynnwood"
-        },
         {
           "date": "2026-10-04",
           "price": 44190,
@@ -1205,6 +1166,52 @@
           "price": 42998,
           "mileage": 21763,
           "dealer": "mercedes benz of lynnwood"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 42998,
+          "mileage": 21763,
+          "dealer": "mercedes benz of lynnwood"
+        }
+      ]
+    },
+    "4JGGM1CB3RA043126": {
+      "lastKnown": {
+        "id": "4jggm1cb3ra043126",
+        "vin": "4JGGM1CB3RA043126",
+        "year": 2024,
+        "make": "Mercedes-Benz",
+        "model": "EQE",
+        "trim": "350 SUV",
+        "price": 39751,
+        "mileage": 23454,
+        "exteriorColor": "Polar White",
+        "interiorColor": "Neva Gray/Biscaya Blue",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "mercedes benz of bellingham",
+        "officialBrandDealer": true,
+        "city": "Bellingham",
+        "state": "WA",
+        "zip": "98229",
+        "cpo": true,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/4JGGM1CB3RA043126-1.jpg",
+        "photoCount": 1,
+        "url": "https://mbofbellingham.com/electric-certified/Mercedes-Benz/2024-Mercedes-Benz-EQE-0ebc0564ac1816bee9b0b4cfb41c6687.htm",
+        "listedAt": "2026-10-06 02:45:35",
+        "firstSeenDate": "2026-10-10"
+      },
+      "observations": [
+        {
+          "date": "2026-10-10",
+          "price": 39751,
+          "mileage": 23454,
+          "dealer": "mercedes benz of bellingham"
         }
       ]
     }
