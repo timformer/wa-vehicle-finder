@@ -1,5 +1,6 @@
 from pathlib import Path
 from unittest import TestCase, main
+from datetime import datetime
 import json
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -29,7 +30,7 @@ class UnifiedInventoryTests(TestCase):
                 self.assertGreaterEqual(refresh["intervalDays"], 1)
                 self.assertNotIn("maxApiCalls", refresh)
 
-    def test_requested_refresh_policies_and_gv70_queries(self):
+    def test_requested_refresh_policies_and_vehicle_queries(self):
         vehicles = {
             vehicle["slug"]: vehicle
             for vehicle in self.config["vehicles"]
@@ -43,6 +44,11 @@ class UnifiedInventoryTests(TestCase):
         gv90 = vehicles["genesis-gv90"]
         self.assertEqual(gv90["refresh"], {"enabled": True, "intervalDays": 2})
         self.assertTrue(gv90["allowEmptyInventory"])
+        stelvio = vehicles["alfa-romeo-stelvio"]
+        self.assertEqual(stelvio["minimumYear"], 2017)
+        self.assertEqual(stelvio["maximumYear"], "current")
+        self.assertEqual(stelvio["refresh"], {"enabled": True, "intervalDays": 1})
+        self.assertTrue(stelvio["allowEmptyInventory"])
 
     def test_snapshots_and_histories_match_vehicle_configuration(self):
         for vehicle in self.config["vehicles"]:
@@ -64,6 +70,10 @@ class UnifiedInventoryTests(TestCase):
                         and listing["model"] == vehicle["model"]
                         and listing["state"] == "WA"
                         and listing["year"] >= vehicle["minimumYear"]
+                        and (
+                            vehicle.get("maximumYear") != "current"
+                            or listing["year"] <= datetime.now().year
+                        )
                         for listing in listings
                     )
                 )

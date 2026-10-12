@@ -324,6 +324,32 @@
         "enabled": true,
         "intervalDays": 1
       }
+    },
+    {
+      "slug": "alfa-romeo-stelvio",
+      "displayName": "Alfa Romeo Stelvio",
+      "siteTitle": "WA Stelvio Finder",
+      "vehicleName": "Alfa Romeo Stelvio",
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "minimumYear": 2017,
+      "maximumYear": "current",
+      "brandMark": "AR",
+      "fallbackImage": "assets/vehicle.svg",
+      "dealerOnlyLabel": "Alfa Romeo dealers only",
+      "dealerOnlyDescription": "Hide independent and other-brand dealers",
+      "officialDealerNamePatterns": [
+        "Alfa Romeo"
+      ],
+      "marketplaceDomains": [
+        "autolist.com",
+        "carvana.com"
+      ],
+      "allowEmptyInventory": true,
+      "refresh": {
+        "enabled": true,
+        "intervalDays": 1
+      }
     }
   ]
 }

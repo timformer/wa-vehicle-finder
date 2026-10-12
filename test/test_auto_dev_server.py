@@ -285,17 +285,22 @@ class AutoDevCacheTests(TestCase):
         self.assertEqual(cache["listings"][0]["dealer"], "Jaguar Land Rover Bellevue")
         self.assertFalse(cache["listings"][0]["officialBrandDealer"])
 
-    def test_site_configuration_filters_make_model_and_minimum_year(self):
+    def test_site_configuration_filters_make_model_and_year_range(self):
         config = {
             "make": "Tesla",
             "model": "Model Y",
             "minimumYear": 2022,
+            "maximumYear": "current",
             "officialDealerNamePatterns": ["tesla"],
         }
         matching = listing("WB523CF0000000001", dealer="Tesla Seattle")
         matching["vehicle"].update({"make": "Tesla", "model": "Model Y", "year": 2022})
         too_old = listing("WB523CF0000000002")
         too_old["vehicle"].update({"make": "Tesla", "model": "Model Y", "year": 2021})
+        too_new = listing("WB523CF0000000003")
+        too_new["vehicle"].update(
+            {"make": "Tesla", "model": "Model Y", "year": datetime.now().year + 1}
+        )
 
         cleaned = server.clean_listing(matching, config)
 
@@ -303,6 +308,7 @@ class AutoDevCacheTests(TestCase):
         self.assertEqual(cleaned["model"], "Model Y")
         self.assertTrue(cleaned["officialBrandDealer"])
         self.assertIsNone(server.clean_listing(too_old, config))
+        self.assertIsNone(server.clean_listing(too_new, config))
 
     def test_refresh_combines_multiple_provider_model_names(self):
         server.SITE_CONFIG_FILE.write_text(

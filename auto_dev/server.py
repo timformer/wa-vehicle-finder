@@ -322,7 +322,12 @@ def clean_listing(item, config=None):
         price = int(float(retail["price"]))
     except (KeyError, TypeError, ValueError):
         return None
-    if year < config["minimumYear"]:
+    maximum_year = config.get("maximumYear")
+    if maximum_year == "current":
+        maximum_year = datetime.now().year
+    if year < config["minimumYear"] or (
+        maximum_year is not None and year > int(maximum_year)
+    ):
         return None
 
     mileage = retail.get("miles")
@@ -445,8 +450,16 @@ def refresh_cache(fetcher=None, date=None, api_key=None, max_calls=None):
             calls = 0
             try:
                 query_models = config.get("queryModels", [config["model"]])
+                maximum_year = config.get("maximumYear")
+                if maximum_year == "current":
+                    maximum_year = datetime.now().year
                 query_years = (
-                    range(config["minimumYear"], datetime.now().year + 2)
+                    range(
+                        config["minimumYear"],
+                        int(maximum_year) + 1
+                        if maximum_year is not None
+                        else datetime.now().year + 2,
+                    )
                     if config.get("queryYearsSeparately")
                     else [None]
                 )
