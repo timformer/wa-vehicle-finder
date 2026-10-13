@@ -47,7 +47,7 @@ class UnifiedInventoryTests(TestCase):
         stelvio = vehicles["alfa-romeo-stelvio"]
         self.assertEqual(stelvio["minimumYear"], 2017)
         self.assertEqual(stelvio["maximumYear"], "current")
-        self.assertEqual(stelvio["refresh"], {"enabled": True, "intervalDays": 1})
+        self.assertEqual(stelvio["refresh"], {"enabled": True, "intervalDays": 2})
         self.assertTrue(stelvio["allowEmptyInventory"])
 
     def test_snapshots_and_histories_match_vehicle_configuration(self):
