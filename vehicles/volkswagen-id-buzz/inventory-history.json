@@ -1,18 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-13T16:56:43.430972+00:00",
+  "updatedAt": "2026-10-14T14:31:10.539695+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-07",
-      "vins": [
-        "WVG6YVEB5SH006984",
-        "WVGAWVEB1SH011082",
-        "WVGAWVEB7SH016559",
-        "WVGAWVEB9SH019253",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB1SH056180"
-      ]
-    },
     {
       "date": "2026-10-08",
       "vins": [
@@ -85,6 +74,18 @@
         "WVGAWVEBXSH012750",
         "WVGNYVEB1SH056390"
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "vins": [
+        "WVG6YVEB4SH029429",
+        "WVG6YVEB4SH042679",
+        "WVG6YVEB5SH006984",
+        "WVGAWVEB7SH016559",
+        "WVGAWVEB9SH019253",
+        "WVGAWVEBXSH012750",
+        "WVGNYVEB1SH056390"
+      ]
     }
   ],
   "vehicles": {
@@ -121,12 +122,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-07",
-          "price": 58670,
-          "mileage": 777,
-          "dealer": "Auto 206"
-        },
-        {
           "date": "2026-10-08",
           "price": 58670,
           "mileage": 777,
@@ -161,6 +156,12 @@
           "price": 58670,
           "mileage": 777,
           "dealer": "Auto 206"
+        },
+        {
+          "date": "2026-10-14",
+          "price": 58670,
+          "mileage": 777,
+          "dealer": "Auto 206"
         }
       ]
     },
@@ -172,7 +173,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S",
-        "price": 54550,
+        "price": 55358,
         "mileage": 1558,
         "exteriorColor": "Deep Black Pearl",
         "interiorColor": "Moonlight leatherette",
@@ -197,12 +198,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-07",
-          "price": 55358,
-          "mileage": 1558,
-          "dealer": "Driveway"
-        },
-        {
           "date": "2026-10-08",
           "price": 55358,
           "mileage": 1558,
@@ -235,6 +230,12 @@
         {
           "date": "2026-10-13",
           "price": 54550,
+          "mileage": 1558,
+          "dealer": "Driveway"
+        },
+        {
+          "date": "2026-10-14",
+          "price": 55358,
           "mileage": 1558,
           "dealer": "Driveway"
         }
@@ -273,12 +274,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-07",
-          "price": 65088,
-          "mileage": 12334,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-10-08",
           "price": 65088,
           "mileage": 12334,
@@ -310,6 +305,12 @@
         },
         {
           "date": "2026-10-13",
+          "price": 65088,
+          "mileage": 12334,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-14",
           "price": 65088,
           "mileage": 12334,
           "dealer": "Volkswagen of Kirkland"
@@ -348,12 +349,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-07",
-          "price": 52181,
-          "mileage": 2667,
-          "dealer": "Volkswagen of Puyallup"
-        },
         {
           "date": "2026-10-08",
           "price": 52181,
@@ -395,12 +390,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-07",
-          "price": 53511,
-          "mileage": 6143,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-10-08",
           "price": 53511,
           "mileage": 6143,
@@ -432,6 +421,12 @@
         },
         {
           "date": "2026-10-13",
+          "price": 53511,
+          "mileage": 6143,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-10-14",
           "price": 53511,
           "mileage": 6143,
           "dealer": "Volkswagen of Puyallup"
@@ -470,12 +465,6 @@
         "firstSeenDate": "2026-09-25"
       },
       "observations": [
-        {
-          "date": "2026-10-07",
-          "price": 64988,
-          "mileage": 9446,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-08",
           "price": 64988,
@@ -557,6 +546,12 @@
           "price": 65088,
           "mileage": 17145,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-14",
+          "price": 65088,
+          "mileage": 17145,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -627,6 +622,12 @@
           "price": 65088,
           "mileage": 19117,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-14",
+          "price": 65088,
+          "mileage": 19117,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -682,6 +683,12 @@
         },
         {
           "date": "2026-10-13",
+          "price": 65988,
+          "mileage": 17189,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-14",
           "price": 65988,
           "mileage": 17189,
           "dealer": "Volkswagen of Kirkland"
