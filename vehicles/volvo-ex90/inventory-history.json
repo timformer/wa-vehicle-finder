@@ -1,20 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-16T13:57:46.848247+00:00",
+  "updatedAt": "2026-10-17T12:58:34.027002+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-10",
-      "vins": [
-        "7JDDA3VL3TG060621",
-        "7JDE23KL9SG005966",
-        "7JDE23KLXSG000680",
-        "7JDE23VK5SG000718",
-        "7JDE23VL2SG017310",
-        "7JDE23VL3SG007904",
-        "7JDEV3KL2SG000597",
-        "7JDEV3VK4SG016898"
-      ]
-    },
     {
       "date": "2026-10-11",
       "vins": [
@@ -94,6 +81,19 @@
         "7JDEV3KL2SG000597",
         "7JDEV3VK4SG016898"
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "vins": [
+        "7JDDA3VL3TG060621",
+        "7JDE23KL9SG005966",
+        "7JDE23KLXSG000680",
+        "7JDE23VK5SG000718",
+        "7JDE23VL3SG007904",
+        "7JDE23VL5SG000517",
+        "7JDEV3KL2SG000597",
+        "7JDEV3VK4SG016898"
+      ]
     }
   ],
   "vehicles": {
@@ -104,12 +104,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Ultra",
-        "price": 55261,
+        "trim": "Twin Motor Performance Ultra 6-Seater",
+        "price": 53222,
         "mileage": 21804,
-        "exteriorColor": "Black",
-        "interiorColor": "Unspecified",
-        "seats": 6,
+        "exteriorColor": "Onyx Black",
+        "interiorColor": "Zinc",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -117,24 +117,18 @@
         "city": "Bellevue",
         "state": "WA",
         "zip": "98004",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDE23KL9SG005966-1.jpg",
-        "photoCount": 33,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Ultra-7JDE23KL9SG005966",
+        "photoCount": 34,
+        "url": "https://volvocarsbellevue.com/certified/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-24e54bf5ac183b953cbae2d1118e76f0.htm",
         "listedAt": "2026-08-21 19:21:08",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 56232,
-          "mileage": 21804,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 56232,
@@ -170,6 +164,12 @@
           "price": 55261,
           "mileage": 21804,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 53222,
+          "mileage": 21804,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -180,12 +180,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Ultra",
-        "price": 62381,
+        "trim": "Twin Motor Performance Ultra 6-Seater",
+        "price": 62181,
         "mileage": 5645,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 6,
+        "exteriorColor": "Silver Dawn",
+        "interiorColor": "Charcoal",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -200,17 +200,11 @@
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDE23KLXSG000680-1.jpg",
         "photoCount": 6,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Ultra-7JDE23KLXSG000680",
+        "url": "https://volvocarsbellevue.com/used/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-4e189a6dac18460621052e7cbd966f86.htm",
         "listedAt": "2026-08-29 20:15:30",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 62181,
-          "mileage": 5645,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 62181,
@@ -246,6 +240,12 @@
           "price": 62381,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 62181,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -256,12 +256,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Ultra",
-        "price": 58544,
+        "trim": "Twin Motor Performance Ultra 7-Seater",
+        "price": 58344,
         "mileage": 13861,
-        "exteriorColor": "Blue",
-        "interiorColor": "Unspecified",
-        "seats": 7,
+        "exteriorColor": "Denim Blue",
+        "interiorColor": "Dawn",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -269,24 +269,18 @@
         "city": "Bellevue",
         "state": "WA",
         "zip": "98004",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7JDE23VL3SG007904-1.jpg",
-        "photoCount": 33,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Ultra-7JDE23VL3SG007904",
+        "photoCount": 34,
+        "url": "https://volvocarsbellevue.com/certified/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-48f2525cac1850bf7aa5ee516eac8a0b.htm",
         "listedAt": "2026-08-28 19:34:55",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 61838,
-          "mileage": 13861,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 61838,
@@ -322,6 +316,12 @@
           "price": 58544,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 58344,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -332,12 +332,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Ultra",
-        "price": 64188,
+        "trim": "Twin Motor Ultra 6-Seater",
+        "price": 63988,
         "mileage": 13793,
-        "exteriorColor": "Black",
-        "interiorColor": "Unspecified",
-        "seats": 6,
+        "exteriorColor": "Onyx Black",
+        "interiorColor": "Dawn",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -352,17 +352,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/7JDEV3KL2SG000597-1.jpg",
         "photoCount": 11,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Ultra-7JDEV3KL2SG000597",
+        "url": "https://volvocarsbellevue.com/used/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-85e5b7a0ac183586ac64e56a5459507a.htm",
         "listedAt": "2026-08-09 02:37:57",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 63988,
-          "mileage": 13793,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 63988,
@@ -398,6 +392,12 @@
           "price": 64188,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -408,12 +408,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Plus",
-        "price": 58700,
+        "trim": "Twin Motor Plus 7-Seater",
+        "price": 58482,
         "mileage": 7980,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Onyx Black",
+        "interiorColor": "Charcoal",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -427,18 +427,12 @@
         "accidentCount": 0,
         "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/7JDEV3VK4SG016898-1.jpg",
-        "photoCount": 33,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Plus-7JDEV3VK4SG016898",
+        "photoCount": 34,
+        "url": "https://volvocarsbellevue.com/used/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-fe3bd775ac18261d3a8330a101ed7d4d.htm",
         "listedAt": "2026-09-04 16:28:37",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 58500,
-          "mileage": 7980,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 58500,
@@ -474,6 +468,12 @@
           "price": 58700,
           "mileage": 7980,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 58482,
+          "mileage": 7980,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -484,12 +484,12 @@
         "year": 2026,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Ultra",
-        "price": 85088,
+        "trim": "Ultra",
+        "price": 2000,
         "mileage": 8299,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Denim Blue Metallic",
+        "interiorColor": "Charcoal",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -503,18 +503,12 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDDA3VL3TG060621-1.jpg",
-        "photoCount": 34,
+        "photoCount": 6,
         "url": "https://www.swickardtoyota.com/used-Edmonds-2026-Volvo-EX90-Ultra-7JDDA3VL3TG060621",
         "listedAt": "2026-09-17 19:36:31",
         "firstSeenDate": "2026-09-19"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 85088,
-          "mileage": 8299,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 85088,
@@ -550,6 +544,12 @@
           "price": 85088,
           "mileage": 8299,
           "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 2000,
+          "mileage": 8299,
+          "dealer": "Volvo Cars Bellevue"
         }
       ]
     },
@@ -560,12 +560,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Plus",
-        "price": 54950,
+        "trim": "Twin Motor Performance Plus 7-Seater",
+        "price": 54750,
         "mileage": 25698,
-        "exteriorColor": "Purple",
-        "interiorColor": "Tan",
-        "seats": 7,
+        "exteriorColor": "Mulberry",
+        "interiorColor": "Cardamom",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -573,24 +573,18 @@
         "city": "Bellevue",
         "state": "WA",
         "zip": "98004",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDE23VK5SG000718-1.jpg",
-        "photoCount": 33,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Plus-7JDE23VK5SG000718",
+        "photoCount": 34,
+        "url": "https://volvocarsbellevue.com/certified/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-f2e1de18ac1831a9b524f53a43f1ea1b.htm",
         "listedAt": "2026-09-30 19:50:12",
         "firstSeenDate": "2026-10-01"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 55233,
-          "mileage": 25698,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-11",
           "price": 55233,
@@ -624,6 +618,12 @@
         {
           "date": "2026-10-16",
           "price": 54950,
+          "mileage": 25698,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 54750,
           "mileage": 25698,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -661,12 +661,6 @@
         "firstSeenDate": "2026-10-04"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 58998,
-          "mileage": 9756,
-          "dealer": "Sandberg Volvo Cars"
-        },
         {
           "date": "2026-10-11",
           "price": 58998,
@@ -706,12 +700,12 @@
         "year": 2025,
         "make": "Volvo",
         "model": "EX90",
-        "trim": "Twin Motor Performance Ultra",
-        "price": 65760,
+        "trim": "Twin Motor Performance Ultra 7-Seater",
+        "price": 65560,
         "mileage": 3300,
-        "exteriorColor": "Gray",
-        "interiorColor": "Unspecified",
-        "seats": 7,
+        "exteriorColor": "Vapour Grey Metallic",
+        "interiorColor": "Zinc",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volvo Cars Bellevue",
@@ -726,7 +720,7 @@
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDE23VL5SG000517-1.jpg",
         "photoCount": 10,
-        "url": "https://www.swickardtoyota.com/used-Edmonds-2025-Volvo-EX90-Ultra-7JDE23VL5SG000517",
+        "url": "https://volvocarsbellevue.com/used/Volvo/2025-Volvo-EX90-for-sale-Bellevue-WA-35d4695fac1835231353a5d4acc2143e.htm",
         "listedAt": "2026-10-13 19:32:24",
         "firstSeenDate": "2026-10-14"
       },
@@ -746,6 +740,12 @@
         {
           "date": "2026-10-16",
           "price": 65760,
+          "mileage": 3300,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 65560,
           "mileage": 3300,
           "dealer": "Volvo Cars Bellevue"
         }

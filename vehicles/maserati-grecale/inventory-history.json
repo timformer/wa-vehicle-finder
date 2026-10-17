@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-16T13:58:34.912683+00:00",
+  "updatedAt": "2026-10-17T12:58:37.257486+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-10",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM7P7426413",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-10-11",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM7P7426413",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM7P7426413",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -68,7 +68,7 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "GT",
-        "price": 29980,
+        "price": 29400,
         "mileage": 42463,
         "exteriorColor": "White",
         "interiorColor": "Black premium leather",
@@ -92,12 +92,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 29980,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
         {
           "date": "2026-10-11",
           "price": 29980,
@@ -131,6 +125,12 @@
         {
           "date": "2026-10-16",
           "price": 29980,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
         }
@@ -169,12 +169,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 32200,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-11",
           "price": 32200,
           "mileage": 40305,
@@ -209,6 +203,12 @@
           "price": 32000,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 32000,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -224,7 +224,7 @@
         "mileage": 42497,
         "exteriorColor": "White",
         "interiorColor": "White",
-        "seats": 2,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Seattle Finest Motors",
@@ -245,12 +245,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 32999,
-          "mileage": 42497,
-          "dealer": "Seattle Finest Motors"
-        },
-        {
           "date": "2026-10-11",
           "price": 32500,
           "mileage": 42497,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 32500,
+          "mileage": 42497,
+          "dealer": "Seattle Finest Motors"
+        },
+        {
+          "date": "2026-10-17",
           "price": 32500,
           "mileage": 42497,
           "dealer": "Seattle Finest Motors"
