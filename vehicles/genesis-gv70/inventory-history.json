@@ -1,55 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-16T13:58:33.709273+00:00",
+  "updatedAt": "2026-10-18T13:18:17.564036+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-10",
-      "vins": [
-        "5NMMADTB0SH031383",
-        "5NMMADTB1SH026175",
-        "5NMMADTB1SH031750",
-        "5NMMADTB2SH035161",
-        "5NMMADTB4SH031810",
-        "5NMMADTB9SH032161",
-        "5NMMADTBXRH006808",
-        "5NMMADTBXSH032945",
-        "5NMMBDTB0TH038302",
-        "5NMMCDTC0RH013401",
-        "5NMMCDTC1SH024199",
-        "5NMMCDTC2SH027757",
-        "5NMMCDTC3RH006104",
-        "5NMMCDTC5SH025114",
-        "5NMMCDTC8SH027584",
-        "5NMMCDTC9RH012361",
-        "5NMMCDTC9SH019381",
-        "5NMMCDTCXSH030826",
-        "5NMMCET10RH001656",
-        "KMUMADTB0NU026260",
-        "KMUMADTB0PU101039",
-        "KMUMADTB0SU216233",
-        "KMUMADTB1SU216404",
-        "KMUMADTB1SU221845",
-        "KMUMADTB2NU051791",
-        "KMUMADTB3SU203640",
-        "KMUMADTB3TU230113",
-        "KMUMADTB4PU088991",
-        "KMUMADTB4SU207180",
-        "KMUMADTB5PU121206",
-        "KMUMADTB5SU180197",
-        "KMUMADTB7NU058946",
-        "KMUMADTB8SU197639",
-        "KMUMADTB8SU222040",
-        "KMUMADTB9SU182356",
-        "KMUMADTB9SU212259",
-        "KMUMADTB9SU216456",
-        "KMUMCDTC2NU014646",
-        "KMUMCDTC3NU039944",
-        "KMUMCDTC3SU199849",
-        "KMUMCDTC4NU070555",
-        "KMUMCDTC7NU011791",
-        "KMUMEDTC8TU242352"
-      ]
-    },
     {
       "date": "2026-10-12",
       "vins": [
@@ -194,6 +146,52 @@
         "KMUMCDTC7NU011791",
         "KMUMEDTC8TU242352"
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "vins": [
+        "5NMMADTB1SH026175",
+        "5NMMADTB1SH031750",
+        "5NMMADTB2SH035161",
+        "5NMMADTB4SH031810",
+        "5NMMADTB9SH032161",
+        "5NMMADTBXRH006808",
+        "5NMMADTBXSH032945",
+        "5NMMBDTB0TH038302",
+        "5NMMCDTC0RH013401",
+        "5NMMCDTC1SH024199",
+        "5NMMCDTC2SH027757",
+        "5NMMCDTC3RH006104",
+        "5NMMCDTC5SH025114",
+        "5NMMCDTC8SH027584",
+        "5NMMCDTC9RH012361",
+        "5NMMCDTC9SH019381",
+        "5NMMCDTCXSH030826",
+        "5NMMCET10RH001656",
+        "KMUMADTB0NU026260",
+        "KMUMADTB0PU101039",
+        "KMUMADTB1SU216404",
+        "KMUMADTB1SU221845",
+        "KMUMADTB2NU051791",
+        "KMUMADTB3SU203640",
+        "KMUMADTB3TU230113",
+        "KMUMADTB4PU088991",
+        "KMUMADTB4SU207180",
+        "KMUMADTB5PU093472",
+        "KMUMADTB5PU121206",
+        "KMUMADTB5SU180197",
+        "KMUMADTB7NU058946",
+        "KMUMADTB8SU197639",
+        "KMUMADTB8SU222040",
+        "KMUMADTB9SU182356",
+        "KMUMADTB9SU212259",
+        "KMUMADTB9SU216456",
+        "KMUMCDTC2NU014646",
+        "KMUMCDTC3SU199849",
+        "KMUMCDTC4NU070555",
+        "KMUMCDTC7NU011791",
+        "KMUMEDTC8TU242352"
+      ]
     }
   ],
   "vehicles": {
@@ -230,12 +228,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 31300,
-          "mileage": 34300,
-          "dealer": "GMC of Riverfront Park"
-        },
-        {
           "date": "2026-10-12",
           "price": 31300,
           "mileage": 34300,
@@ -249,6 +241,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 30900,
+          "mileage": 34300,
+          "dealer": "GMC of Riverfront Park"
+        },
+        {
+          "date": "2026-10-18",
           "price": 30900,
           "mileage": 34300,
           "dealer": "GMC of Riverfront Park"
@@ -287,12 +285,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 31590,
-          "mileage": 39287,
-          "dealer": "Carvana"
-        },
         {
           "date": "2026-10-12",
           "price": 31590,
@@ -334,12 +326,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 38853,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 38853,
@@ -353,6 +339,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 29998,
+          "mileage": 38853,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-10-18",
           "price": 29998,
           "mileage": 38853,
           "dealer": "CarMax Lynnwood"
@@ -392,12 +384,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 39977,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 39977,
@@ -411,6 +397,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 29998,
+          "mileage": 39977,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-10-18",
           "price": 29998,
           "mileage": 39977,
           "dealer": "CarMax Lynnwood"
@@ -450,12 +442,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 33998,
-          "mileage": 28584,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-10-12",
           "price": 33998,
           "mileage": 28584,
@@ -469,6 +455,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 33998,
+          "mileage": 28584,
+          "dealer": "CarMax Spokane"
+        },
+        {
+          "date": "2026-10-18",
           "price": 33998,
           "mileage": 28584,
           "dealer": "CarMax Spokane"
@@ -502,17 +494,11 @@
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/5NMMCDTC3RH006104-1.jpg",
         "photoCount": 35,
-        "url": "https://pierreford.com/used/Genesis/2024-Genesis-GV70-b8408ca2ac184067335a66be63e169aa.htm",
+        "url": "https://pierrefordoflynnwood.com/used/Genesis/2024-Genesis-GV70-b840e08cac18477fe6a88025ed1364c4.htm",
         "listedAt": "2026-08-01 00:21:56",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 41302,
-          "mileage": 21794,
-          "dealer": "Pierre Ford Lincoln of Lynnwood"
-        },
         {
           "date": "2026-10-12",
           "price": 41302,
@@ -527,6 +513,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 41302,
+          "mileage": 21794,
+          "dealer": "Pierre Ford Lincoln of Lynnwood"
+        },
+        {
+          "date": "2026-10-18",
           "price": 41302,
           "mileage": 21794,
           "dealer": "Pierre Ford Lincoln of Lynnwood"
@@ -560,17 +552,11 @@
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/KMUMADTB2NU051791-1.jpg",
         "photoCount": 35,
-        "url": "https://pierreford.com/used/Genesis/2022-Genesis-GV70-4fc67113ac1828b62a7f52c8e9dcb2d5.htm",
+        "url": "https://pierrefordoflynnwood.com/used/Genesis/2022-Genesis-GV70-4fc67113ac1828b62a7f52c8e9dcb2d5.htm",
         "listedAt": "2026-08-09 03:42:03",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 30991,
-          "mileage": 38564,
-          "dealer": "Pierre Ford Lincoln of Lynnwood"
-        },
         {
           "date": "2026-10-12",
           "price": 30991,
@@ -588,6 +574,12 @@
           "price": 30991,
           "mileage": 38564,
           "dealer": "Pierre Ford Lincoln of Lynnwood"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 30991,
+          "mileage": 38564,
+          "dealer": "Pierre Ford Lincoln of Lynnwood"
         }
       ]
     },
@@ -599,14 +591,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T Advanced",
-        "price": 49195,
+        "price": 57495,
         "mileage": 4683,
-        "exteriorColor": "Red",
+        "exteriorColor": "Mauna Red",
         "interiorColor": "Black",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -618,17 +610,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMBDTB0TH038302-1.jpg",
         "photoCount": 35,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2026-Genesis-GV70-25T+Advanced+AWD-5NMMBDTB0TH038302",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV70-196e0ceaac1835b1dea4306763e31bca.htm",
         "listedAt": "2026-08-09 03:14:20",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 57495,
-          "mileage": 4683,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 57495,
@@ -646,6 +632,12 @@
           "price": 49195,
           "mileage": 4683,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 57495,
+          "mileage": 4683,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -657,14 +649,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "3.5T Sport",
-        "price": 50195,
+        "price": 49995,
         "mileage": 7273,
-        "exteriorColor": "Black",
-        "interiorColor": "Blue",
-        "seats": 5,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Ultramarine Blue",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -682,12 +674,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 49995,
-          "mileage": 7273,
-          "dealer": "genesis of kirkland"
-        },
-        {
           "date": "2026-10-12",
           "price": 49995,
           "mileage": 7273,
@@ -704,6 +690,12 @@
           "price": 50195,
           "mileage": 7273,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 49995,
+          "mileage": 7273,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -714,15 +706,15 @@
         "year": 2025,
         "make": "Genesis",
         "model": "GV70",
-        "trim": "3.5T Sport",
-        "price": 51195,
+        "trim": "3.5T Sport Advanced",
+        "price": 55995,
         "mileage": 5604,
-        "exteriorColor": "Red",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Mauna Red",
+        "interiorColor": "Black/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -734,17 +726,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMCDTC2SH027757-1.jpg",
         "photoCount": 36,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2025-Genesis-GV70-35T+Sport+AWD-5NMMCDTC2SH027757",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV70-eb1153f5ac183eeaa4084aa0f0323fc2.htm",
         "listedAt": "2026-08-09 03:14:19",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 55995,
-          "mileage": 5604,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 55995,
@@ -762,6 +748,12 @@
           "price": 51195,
           "mileage": 5604,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 55995,
+          "mileage": 5604,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -772,15 +764,15 @@
         "year": 2025,
         "make": "Genesis",
         "model": "GV70",
-        "trim": "3.5T Sport",
-        "price": 49395,
+        "trim": "3.5T Sport Advanced",
+        "price": 52995,
         "mileage": 21591,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Black/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -792,17 +784,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMCDTC5SH025114-1.jpg",
         "photoCount": 36,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2025-Genesis-GV70-35T+Sport+AWD-5NMMCDTC5SH025114",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV70-45d271a2ac184d1de9bca12d9b4940af.htm",
         "listedAt": "2026-08-09 03:14:19",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 52995,
-          "mileage": 21591,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 52995,
@@ -820,6 +806,12 @@
           "price": 49395,
           "mileage": 21591,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 52995,
+          "mileage": 21591,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -830,15 +822,15 @@
         "year": 2025,
         "make": "Genesis",
         "model": "GV70",
-        "trim": "3.5T Sport",
-        "price": 51695,
+        "trim": "3.5T Sport Advanced",
+        "price": 57995,
         "mileage": 5681,
-        "exteriorColor": "Red",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Mauna Red",
+        "interiorColor": "Black/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -850,17 +842,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMCDTC8SH027584-1.jpg",
         "photoCount": 36,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2025-Genesis-GV70-35T+Sport+AWD-5NMMCDTC8SH027584",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV70-df9e3ea3ac183015ccecacdb32b259ec.htm",
         "listedAt": "2026-08-09 03:14:19",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 57995,
-          "mileage": 5681,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 57995,
@@ -878,6 +864,12 @@
           "price": 51695,
           "mileage": 5681,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 57995,
+          "mileage": 5681,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -888,37 +880,31 @@
         "year": 2025,
         "make": "Genesis",
         "model": "GV70",
-        "trim": "3.5T Sport",
-        "price": 55695,
+        "trim": "3.5T Sport Prestige",
+        "price": 61995,
         "mileage": 6102,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Black/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMCDTCXSH030826-1.jpg",
         "photoCount": 37,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2025-Genesis-GV70-35T+Sport+AWD-5NMMCDTCXSH030826",
+        "url": "https://genesisofkirkland.com/certified/Genesis/2025-Genesis-GV70-891a037fac183eb7e49cde9cf792df4a.htm",
         "listedAt": "2026-08-09 03:14:18",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 61995,
-          "mileage": 6102,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 61995,
@@ -936,6 +922,12 @@
           "price": 55695,
           "mileage": 6102,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 61995,
+          "mileage": 6102,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -947,14 +939,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 27795,
+        "price": 27595,
         "mileage": 87305,
-        "exteriorColor": "Silver",
+        "exteriorColor": "Savile Silver",
         "interiorColor": "Brown",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -966,17 +958,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUMADTB0NU026260-1.jpg",
         "photoCount": 36,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2022-Genesis-GV70-25T+AWD-KMUMADTB0NU026260",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2022-Genesis-GV70-71747e67ac181c46cdfd0dfef679c984.htm",
         "listedAt": "2026-08-09 04:04:56",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 27595,
-          "mileage": 87305,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 27595,
@@ -994,6 +980,12 @@
           "price": 27795,
           "mileage": 87305,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 27595,
+          "mileage": 87305,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -1005,14 +997,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "3.5T Sport",
-        "price": 50195,
+        "price": 50995,
         "mileage": 4539,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Black/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -1024,17 +1016,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUMCDTC3SU199849-1.jpg",
         "photoCount": 36,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2025-Genesis-GV70-35T+Sport+AWD-KMUMCDTC3SU199849",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV70-c41cf044ac181cdd372de4aae049a482.htm",
         "listedAt": "2026-08-09 03:14:19",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 50995,
-          "mileage": 4539,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 50995,
@@ -1052,6 +1038,12 @@
           "price": 50195,
           "mileage": 4539,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 50995,
+          "mileage": 4539,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -1063,14 +1055,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "3.5T Sport",
-        "price": 35195,
+        "price": 34795,
         "mileage": 45997,
-        "exteriorColor": "Blue",
+        "exteriorColor": "Adriatic Blue",
         "interiorColor": "Black",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -1082,17 +1074,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUMCDTC7NU011791-1.jpg",
         "photoCount": 15,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2022-Genesis-GV70-35T+Sport+AWD+Ltd+Avail-KMUMCDTC7NU011791",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2022-Genesis-GV70-81843d06ac181ba235d0c04271ef0c07.htm",
         "listedAt": "2026-09-08 20:01:15",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 34995,
-          "mileage": 45997,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 34995,
@@ -1110,6 +1096,12 @@
           "price": 35195,
           "mileage": 45997,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 34795,
+          "mileage": 45997,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -1121,14 +1113,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "3.5T Sport Prestige",
-        "price": 58695,
+        "price": 58495,
         "mileage": 6527,
-        "exteriorColor": "Black",
+        "exteriorColor": "Vik Black",
         "interiorColor": "Black",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -1140,17 +1132,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUMEDTC8TU242352-1.jpg",
         "photoCount": 39,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2026-Genesis-GV70-35T+Sport+Prestige+AWD-KMUMEDTC8TU242352",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV70-e846e1c3ac180032dfc838b6c8db2b9e.htm",
         "listedAt": "2026-08-26 20:23:24",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 58495,
-          "mileage": 6527,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 58495,
@@ -1168,6 +1154,12 @@
           "price": 58695,
           "mileage": 6527,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 58495,
+          "mileage": 6527,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -1197,18 +1189,12 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5NMMCDTC9SH019381-1.jpg",
-        "photoCount": 52,
-        "url": "https://www.tituswillford.com/used-Tacoma-2025-Genesis-GV70-35T+Sport-5NMMCDTC9SH019381",
+        "photoCount": 51,
+        "url": "https://www.autolist.com/genesis-gv70#vin=5NMMCDTC9SH019381",
         "listedAt": "2026-06-05 15:50:30",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 52199,
-          "mileage": 9307,
-          "dealer": "Titus-Will Ford"
-        },
         {
           "date": "2026-10-12",
           "price": 51096,
@@ -1223,6 +1209,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 51096,
+          "mileage": 9307,
+          "dealer": "Titus-Will Ford"
+        },
+        {
+          "date": "2026-10-18",
           "price": 51096,
           "mileage": 9307,
           "dealer": "Titus-Will Ford"
@@ -1262,12 +1254,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 32978,
-          "mileage": 42078,
-          "dealer": "Titus-Will Hyundai"
-        },
-        {
           "date": "2026-10-12",
           "price": 32978,
           "mileage": 42078,
@@ -1281,6 +1267,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 32978,
+          "mileage": 42078,
+          "dealer": "Titus-Will Hyundai"
+        },
+        {
+          "date": "2026-10-18",
           "price": 32978,
           "mileage": 42078,
           "dealer": "Titus-Will Hyundai"
@@ -1320,12 +1312,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 39912,
-          "mileage": 26511,
-          "dealer": "Titus Will Chevrolet"
-        },
-        {
           "date": "2026-10-12",
           "price": 39912,
           "mileage": 26511,
@@ -1339,6 +1325,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 39912,
+          "mileage": 26511,
+          "dealer": "Titus Will Chevrolet"
+        },
+        {
+          "date": "2026-10-18",
           "price": 39912,
           "mileage": 26511,
           "dealer": "Titus Will Chevrolet"
@@ -1378,12 +1370,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 40064,
-          "mileage": 38178,
-          "dealer": "Kendall Ford of Vancouver"
-        },
-        {
           "date": "2026-10-12",
           "price": 40064,
           "mileage": 38178,
@@ -1397,6 +1383,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 40064,
+          "mileage": 38178,
+          "dealer": "Kendall Ford of Vancouver"
+        },
+        {
+          "date": "2026-10-18",
           "price": 40064,
           "mileage": 38178,
           "dealer": "Kendall Ford of Vancouver"
@@ -1436,12 +1428,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 34100,
-          "mileage": 20727,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-10-12",
           "price": 34100,
           "mileage": 20727,
@@ -1455,6 +1441,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 33700,
+          "mileage": 20819,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-10-18",
           "price": 33700,
           "mileage": 20819,
           "dealer": "Brotherton Buick GMC in Renton"
@@ -1494,12 +1486,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 41500,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 41500,
@@ -1529,12 +1515,12 @@
         "trim": "2.5T",
         "price": 29998,
         "mileage": 35736,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Obsidian Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "CarMax - Renton",
+        "dealer": "CarMax Renton",
         "officialBrandDealer": false,
         "city": "Renton",
         "state": "WA",
@@ -1552,12 +1538,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 35736,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 35736,
@@ -1574,6 +1554,12 @@
           "price": 29998,
           "mileage": 35736,
           "dealer": "CarMax - Renton"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 29998,
+          "mileage": 35736,
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -1610,12 +1596,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 28998,
-          "mileage": 48766,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-12",
           "price": 28998,
           "mileage": 48766,
@@ -1629,6 +1609,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 27998,
+          "mileage": 48766,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-18",
           "price": 27998,
           "mileage": 48766,
           "dealer": "CarMax Tulalip"
@@ -1668,12 +1654,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 42471,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 42471,
@@ -1690,6 +1670,12 @@
           "price": 28998,
           "mileage": 42471,
           "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 28998,
+          "mileage": 42471,
+          "dealer": "CarMax Tulalip"
         }
       ]
     },
@@ -1701,7 +1687,7 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 31000,
+        "price": 30000,
         "mileage": 38614,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -1726,12 +1712,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 31000,
-          "mileage": 38614,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-12",
           "price": 31000,
           "mileage": 38614,
@@ -1746,6 +1726,12 @@
         {
           "date": "2026-10-16",
           "price": 31000,
+          "mileage": 38614,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 30000,
           "mileage": 38614,
           "dealer": "Go Kia Tacoma"
         }
@@ -1784,12 +1770,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 43906,
-          "dealer": "CarMax Puyallup"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 43906,
@@ -1806,6 +1786,12 @@
           "price": 28998,
           "mileage": 43906,
           "dealer": "CarMax Puyallup"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 28998,
+          "mileage": 43906,
+          "dealer": "CarMax Puyallup"
         }
       ]
     },
@@ -1819,12 +1805,12 @@
         "trim": "2.5T",
         "price": 29998,
         "mileage": 44766,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
+        "exteriorColor": "Uyuni White",
+        "interiorColor": "Obsidian Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "CarMax - Spokane",
+        "dealer": "CarMax Spokane",
         "officialBrandDealer": false,
         "city": "Spokane Valley",
         "state": "WA",
@@ -1842,12 +1828,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 29998,
-          "mileage": 44766,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-10-12",
           "price": 29998,
           "mileage": 44766,
@@ -1864,6 +1844,12 @@
           "price": 29998,
           "mileage": 44766,
           "dealer": "CarMax - Spokane"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 29998,
+          "mileage": 44766,
+          "dealer": "CarMax Spokane"
         }
       ]
     },
@@ -1875,22 +1861,22 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 31998,
+        "price": 30998,
         "mileage": 38284,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
+        "exteriorColor": "Uyuni White",
+        "interiorColor": "Obsidian Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "CarMax - Renton",
+        "dealer": "CarMax Renton",
         "officialBrandDealer": false,
         "city": "Renton",
         "state": "WA",
         "zip": "98057",
         "cpo": false,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
+        "accidentFree": true,
+        "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5NMMADTB4SH031810-1.jpg",
         "photoCount": 28,
@@ -1899,12 +1885,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 31998,
-          "mileage": 38284,
-          "dealer": "CarMax Renton"
-        },
         {
           "date": "2026-10-12",
           "price": 31998,
@@ -1922,6 +1902,12 @@
           "price": 31998,
           "mileage": 38284,
           "dealer": "CarMax - Renton"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 30998,
+          "mileage": 38284,
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -1958,12 +1944,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 31998,
-          "mileage": 32508,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-12",
           "price": 31998,
           "mileage": 32508,
@@ -1980,6 +1960,12 @@
           "price": 30998,
           "mileage": 32508,
           "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 30998,
+          "mileage": 32508,
+          "dealer": "CarMax Tulalip"
         }
       ]
     },
@@ -1991,7 +1977,7 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 33411,
+        "price": 38411,
         "mileage": 33890,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -2016,12 +2002,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 34611,
-          "mileage": 33890,
-          "dealer": "Auburn Chevrolet"
-        },
-        {
           "date": "2026-10-12",
           "price": 33911,
           "mileage": 33890,
@@ -2036,6 +2016,12 @@
         {
           "date": "2026-10-16",
           "price": 33411,
+          "mileage": 33890,
+          "dealer": "Auburn Chevrolet"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 38411,
           "mileage": 33890,
           "dealer": "Auburn Chevrolet"
         }
@@ -2074,12 +2060,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 34998,
-          "mileage": 37459,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-10-12",
           "price": 34998,
           "mileage": 37459,
@@ -2093,6 +2073,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 33998,
+          "mileage": 37459,
+          "dealer": "CarMax - Spokane"
+        },
+        {
+          "date": "2026-10-18",
           "price": 33998,
           "mileage": 37459,
           "dealer": "CarMax - Spokane"
@@ -2132,12 +2118,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 37150,
-          "mileage": 35398,
-          "dealer": "By Design Auto Group"
-        },
-        {
           "date": "2026-10-12",
           "price": 37150,
           "mileage": 35398,
@@ -2151,6 +2131,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 36150,
+          "mileage": 35398,
+          "dealer": "By Design Auto Group"
+        },
+        {
+          "date": "2026-10-18",
           "price": 36150,
           "mileage": 35398,
           "dealer": "By Design Auto Group"
@@ -2190,12 +2176,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 50000,
-          "mileage": 6850,
-          "dealer": "doug s lynnwood mazda"
-        },
-        {
           "date": "2026-10-12",
           "price": 49500,
           "mileage": 6850,
@@ -2209,6 +2189,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 49500,
+          "mileage": 6850,
+          "dealer": "doug s lynnwood mazda"
+        },
+        {
+          "date": "2026-10-18",
           "price": 49500,
           "mileage": 6850,
           "dealer": "doug s lynnwood mazda"
@@ -2248,12 +2234,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 30998,
-          "mileage": 42216,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-10-12",
           "price": 30998,
           "mileage": 42216,
@@ -2267,6 +2247,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 29998,
+          "mileage": 42216,
+          "dealer": "CarMax Renton"
+        },
+        {
+          "date": "2026-10-18",
           "price": 29998,
           "mileage": 42216,
           "dealer": "CarMax Renton"
@@ -2306,12 +2292,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 30000,
-          "mileage": 49997,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-12",
           "price": 30000,
           "mileage": 49997,
@@ -2325,6 +2305,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 29000,
+          "mileage": 49997,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-18",
           "price": 29000,
           "mileage": 49997,
           "dealer": "Go Kia Tacoma"
@@ -2364,12 +2350,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 30000,
-          "mileage": 42061,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-12",
           "price": 30000,
           "mileage": 42061,
@@ -2383,6 +2363,12 @@
         },
         {
           "date": "2026-10-16",
+          "price": 29700,
+          "mileage": 42061,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-18",
           "price": 29700,
           "mileage": 42061,
           "dealer": "Go Kia Tacoma"
@@ -2422,12 +2408,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 30000,
-          "mileage": 43910,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-12",
           "price": 30000,
           "mileage": 43910,
@@ -2444,46 +2424,12 @@
           "price": 29700,
           "mileage": 43910,
           "dealer": "Go Kia Tacoma"
-        }
-      ]
-    },
-    "KMUMCDTC3NU039944": {
-      "lastKnown": {
-        "id": "kmumcdtc3nu039944",
-        "vin": "KMUMCDTC3NU039944",
-        "year": 2022,
-        "make": "Genesis",
-        "model": "GV70",
-        "trim": "3.5T Sport",
-        "price": 35590,
-        "mileage": 41061,
-        "exteriorColor": "Uyuni White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Carvana - Seattle",
-        "officialBrandDealer": false,
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "98115",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Lease",
-        "image": "https://retail.photos.vin/KMUMCDTC3NU039944-1.jpg",
-        "photoCount": 55,
-        "url": "https://www.carvana.com/vehicle/4677769",
-        "listedAt": "2026-09-17 12:27:09",
-        "firstSeenDate": "2026-10-08"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-10",
-          "price": 35590,
-          "mileage": 41061,
-          "dealer": "Carvana - Seattle"
+          "date": "2026-10-18",
+          "price": 29700,
+          "mileage": 43910,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -2520,12 +2466,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-10",
-          "price": 36137,
-          "mileage": 21384,
-          "dealer": "Acura of Bellevue"
-        },
-        {
           "date": "2026-10-12",
           "price": 36137,
           "mileage": 21384,
@@ -2542,6 +2482,12 @@
           "price": 36137,
           "mileage": 21384,
           "dealer": "Acura of Bellevue"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 36137,
+          "mileage": 21384,
+          "dealer": "Acura of Bellevue"
         }
       ]
     },
@@ -2552,15 +2498,15 @@
         "year": 2026,
         "make": "Genesis",
         "model": "GV70",
-        "trim": "2.5T Select",
-        "price": 45195,
+        "trim": "2.5T",
+        "price": 43995,
         "mileage": 5278,
-        "exteriorColor": "White",
-        "interiorColor": "White",
-        "seats": 5,
+        "exteriorColor": "Uyuni White",
+        "interiorColor": "Vanilla Beige/Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -2572,17 +2518,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUMADTB3TU230113-1.jpg",
         "photoCount": 28,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2026-Genesis-GV70-25T+AWD-KMUMADTB3TU230113",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV70-d044b2f5ac182e060860d9a8f6be0bce.htm",
         "listedAt": "2026-09-24 03:35:58",
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 44995,
-          "mileage": 5255,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 44995,
@@ -2600,6 +2540,12 @@
           "price": 45195,
           "mileage": 5278,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 43995,
+          "mileage": 5278,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -2611,14 +2557,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "Advanced",
-        "price": 43195,
+        "price": 42995,
         "mileage": 43127,
-        "exteriorColor": "Black",
+        "exteriorColor": "Vik Black",
         "interiorColor": "Black",
-        "seats": 5,
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -2630,17 +2576,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5NMMCET10RH001656-1.jpg",
         "photoCount": 31,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2024-Genesis-Electrified+GV70-Advanced+AWD-5NMMCET10RH001656",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2024-Genesis-Electrified-GV70-22e2c2b8ac18150404e3bc895979b8b9.htm",
         "listedAt": "2026-10-10 03:30:22",
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-10",
-          "price": 42995,
-          "mileage": null,
-          "dealer": "genesis of kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 42995,
@@ -2658,6 +2598,12 @@
           "price": 43195,
           "mileage": 43127,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 42995,
+          "mileage": 43127,
+          "dealer": "genesis of kirkland"
         }
       ]
     },
@@ -2715,14 +2661,14 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 36195,
+        "price": 35995,
         "mileage": 28842,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 5,
+        "exteriorColor": "Himalayan Gray",
+        "interiorColor": "Obsidian Black",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Genesis of Kirkland",
+        "dealer": "genesis of kirkland",
         "officialBrandDealer": true,
         "city": "Kirkland",
         "state": "WA",
@@ -2734,7 +2680,7 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUMADTB5PU093472-1.jpg",
         "photoCount": 17,
-        "url": "https://www.speedwaychevrolet.com/used-Monroe-2023-Genesis-GV70-25T+AWD-KMUMADTB5PU093472",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2023-Genesis-GV70-28f6b03cac18551af8c02fae6a1f4a46.htm",
         "listedAt": "2026-10-11 20:05:11",
         "firstSeenDate": "2026-10-12"
       },
@@ -2756,6 +2702,12 @@
           "price": 36195,
           "mileage": 28842,
           "dealer": "Genesis of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 35995,
+          "mileage": 28842,
+          "dealer": "genesis of kirkland"
         }
       ]
     },

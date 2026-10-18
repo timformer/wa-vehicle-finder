@@ -1,19 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-17T12:58:35.760599+00:00",
+  "updatedAt": "2026-10-18T13:17:13.668728+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-11",
-      "vins": [
-        "WVG6YVEB4SH029429",
-        "WVG6YVEB4SH042679",
-        "WVG6YVEB5SH006984",
-        "WVGAWVEB7SH016559",
-        "WVGAWVEB9SH019253",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB1SH056390"
-      ]
-    },
     {
       "date": "2026-10-12",
       "vins": [
@@ -84,6 +72,16 @@
         "WVGAWVEBXSH012750",
         "WVGNYVEB1SH056390"
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "vins": [
+        "WVG6YVEB4SH029429",
+        "WVG6YVEB4SH042679",
+        "WVG6YVEB5SH006984",
+        "WVGAWVEB7SH016559",
+        "WVGNYVEB1SH056390"
+      ]
     }
   ],
   "vehicles": {
@@ -119,12 +117,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-11",
-          "price": 58670,
-          "mileage": 777,
-          "dealer": "Auto 206"
-        },
         {
           "date": "2026-10-12",
           "price": 58670,
@@ -190,12 +182,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-11",
-          "price": 55358,
-          "mileage": 1558,
-          "dealer": "Driveway"
-        },
-        {
           "date": "2026-10-12",
           "price": 55358,
           "mileage": 1558,
@@ -235,11 +221,11 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 65088,
+        "price": 64888,
         "mileage": 12334,
-        "exteriorColor": "Cabana Blue/Candy White",
-        "interiorColor": "Dune leatherette",
-        "seats": 6,
+        "exteriorColor": "Cabana Blue",
+        "interiorColor": "Dune",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volkswagen of Kirkland",
@@ -259,12 +245,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-11",
-          "price": 65088,
-          "mileage": 12334,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 65088,
@@ -298,6 +278,12 @@
         {
           "date": "2026-10-17",
           "price": 65088,
+          "mileage": 12334,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 64888,
           "mileage": 12334,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -336,12 +322,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-11",
-          "price": 53511,
-          "mileage": 6143,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-10-12",
           "price": 53511,
           "mileage": 6143,
@@ -376,6 +356,12 @@
           "price": 53453,
           "mileage": 6143,
           "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 53453,
+          "mileage": 6143,
+          "dealer": "Volkswagen of Puyallup"
         }
       ]
     },
@@ -387,11 +373,11 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 65088,
+        "price": 64888,
         "mileage": 17145,
-        "exteriorColor": "Energetic Orange/Candy White",
-        "interiorColor": "Dune leatherette",
-        "seats": 6,
+        "exteriorColor": "Energetic Orange",
+        "interiorColor": "Dune",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volkswagen of Kirkland",
@@ -399,24 +385,18 @@
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG6YVEB4SH029429-1.jpg",
-        "photoCount": 0,
+        "photoCount": 26,
         "url": "https://vwofkirkland.com/certified/Volkswagen/2025-Volkswagen-ID.-Buzz-167a1073ac185510e4eeadeec205c572.htm",
         "listedAt": "2026-10-08 02:23:02",
         "firstSeenDate": "2026-10-08"
       },
       "observations": [
-        {
-          "date": "2026-10-11",
-          "price": 65088,
-          "mileage": 17145,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 65088,
@@ -450,6 +430,12 @@
         {
           "date": "2026-10-17",
           "price": 65088,
+          "mileage": 17145,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 64888,
           "mileage": 17145,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -463,11 +449,11 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 65088,
+        "price": 64888,
         "mileage": 19117,
-        "exteriorColor": "Energetic Orange/Candy White",
-        "interiorColor": "Dune leatherette",
-        "seats": 6,
+        "exteriorColor": "Energetic Orange",
+        "interiorColor": "Dune",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volkswagen of Kirkland",
@@ -479,20 +465,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG6YVEB4SH042679-1.jpg",
-        "photoCount": 0,
+        "photoCount": 1,
         "url": "https://vwofkirkland.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-167a11f3ac185c43e2a374ecf3848acc.htm",
         "listedAt": "2026-10-08 02:23:02",
         "firstSeenDate": "2026-10-08"
       },
       "observations": [
-        {
-          "date": "2026-10-11",
-          "price": 65088,
-          "mileage": 19117,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 65088,
@@ -528,6 +508,12 @@
           "price": 65088,
           "mileage": 19117,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 64888,
+          "mileage": 19117,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -539,11 +525,11 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S Plus",
-        "price": 65988,
+        "price": 65788,
         "mileage": 17189,
         "exteriorColor": "Cabana Blue",
-        "interiorColor": "Copper leatherette",
-        "seats": 6,
+        "interiorColor": "Copper",
+        "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "Volkswagen of Kirkland",
@@ -551,24 +537,18 @@
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVGNYVEB1SH056390-1.jpg",
-        "photoCount": 0,
+        "photoCount": 26,
         "url": "https://vwofkirkland.com/certified/Volkswagen/2025-Volkswagen-ID.-Buzz-20c75ba4ac184894f7eeb6184afd9cf4.htm",
         "listedAt": "2026-10-10 02:21:35",
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-11",
-          "price": 65788,
-          "mileage": 17189,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-12",
           "price": 65788,
@@ -602,6 +582,12 @@
         {
           "date": "2026-10-17",
           "price": 65988,
+          "mileage": 17189,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 65788,
           "mileage": 17189,
           "dealer": "Volkswagen of Kirkland"
         }
