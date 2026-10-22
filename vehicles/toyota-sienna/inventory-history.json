@@ -1,130 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-20T14:18:50.049836+00:00",
+  "updatedAt": "2026-10-22T14:31:04.572940+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-14",
-      "vins": [
-        "5TDCSKFC0RS142086",
-        "5TDCSKFC0SS161601",
-        "5TDCSKFC0SS162635",
-        "5TDCSKFC8RS111331",
-        "5TDCSKFC8RS116058",
-        "5TDCSKFC8SS177724",
-        "5TDCSKFCXRS152429",
-        "5TDDRKEC9NS110801",
-        "5TDESKFC1SS214766",
-        "5TDESKFC2NS046611",
-        "5TDESKFC2SS194625",
-        "5TDESKFC2SS223248",
-        "5TDESKFC4SS159097",
-        "5TDESKFC4SS172366",
-        "5TDESKFC6TS256111",
-        "5TDGRKEC0SS228082",
-        "5TDGRKEC1SS279199",
-        "5TDGRKEC3SS288678",
-        "5TDGRKEC5PS174852",
-        "5TDGRKEC7RS182275",
-        "5TDGRKEC8NS096080",
-        "5TDGRKEC8RS225098",
-        "5TDGSKFC0RS137262",
-        "5TDGSKFC0RS140128",
-        "5TDGSKFC1PS093284",
-        "5TDGSKFC1RS138467",
-        "5TDGSKFC1SS156361",
-        "5TDGSKFC1SS206451",
-        "5TDGSKFC2SS208208",
-        "5TDGSKFC3SS213790",
-        "5TDGSKFC3SS214003",
-        "5TDGSKFC4RS133358",
-        "5TDGSKFC4SS179410",
-        "5TDGSKFC5PS091330",
-        "5TDGSKFC5SS166911",
-        "5TDGSKFC5SS204055",
-        "5TDGSKFC5SS220398",
-        "5TDGSKFC6SS210155",
-        "5TDGSKFC6SS215694",
-        "5TDGSKFC9SS203040",
-        "5TDGSKFCXNS044811",
-        "5TDGSKFCXPS089119",
-        "5TDGSKFCXRS148348",
-        "5TDJSKFC0PS096537",
-        "5TDJSKFC1PS093677",
-        "5TDJSKFC2RS149967",
-        "5TDJSKFC2SS194736",
-        "5TDJSKFC3PS096225",
-        "5TDJSKFC4RS138131",
-        "5TDJSKFC8PS095894",
-        "5TDJSKFC8RS131215",
-        "5TDJSKFC9PS100908",
-        "5TDJSKFCXPS096691",
-        "5TDKRKEC0SS268284",
-        "5TDKRKEC1SS267841",
-        "5TDKRKEC3PS158241",
-        "5TDKRKEC3SS225333",
-        "5TDKRKEC5NS112360",
-        "5TDKRKEC8SS267769",
-        "5TDKRKECXSS268728",
-        "5TDKSKFC0RS135344",
-        "5TDKSKFC0RS138955",
-        "5TDKSKFC1RS129634",
-        "5TDKSKFC1RS144621",
-        "5TDKSKFC1RS152895",
-        "5TDKSKFC2PS086273",
-        "5TDKSKFC2SS221213",
-        "5TDKSKFC3RS139680",
-        "5TDKSKFC3RS141980",
-        "5TDKSKFC4NS053613",
-        "5TDKSKFC4RS130986",
-        "5TDKSKFC4RS132379",
-        "5TDKSKFC4RS132866",
-        "5TDKSKFC5PS094741",
-        "5TDKSKFC5RS126252",
-        "5TDKSKFC6PS074305",
-        "5TDKSKFC6PS098703",
-        "5TDKSKFC8RS129954",
-        "5TDKSKFC8RS138931",
-        "5TDKSKFC8RS145524",
-        "5TDKSKFC8SS161597",
-        "5TDKSKFC8TS249518",
-        "5TDKSKFC9RS145130",
-        "5TDKSKFCXRS136579",
-        "5TDKSKFCXRS138137",
-        "5TDXSKFC6SS204078",
-        "5TDYRKEC0NS085871",
-        "5TDYRKEC0SS256243",
-        "5TDYRKEC1PS155610",
-        "5TDYRKEC2NS133855",
-        "5TDYRKEC2RS187954",
-        "5TDYRKEC2SS242571",
-        "5TDYRKEC3RS187526",
-        "5TDYRKEC3RS187736",
-        "5TDYRKEC3TS308580",
-        "5TDYRKEC4SS242717",
-        "5TDYRKEC4SS255533",
-        "5TDYRKEC5SS226509",
-        "5TDYRKEC5SS227207",
-        "5TDYRKEC7NS117845",
-        "5TDYRKEC8NS090493",
-        "5TDYRKEC8TS293106",
-        "5TDYRKEC8TS325939",
-        "5TDYRKEC9SS226626",
-        "5TDYRKEC9SS256032",
-        "5TDYRKEC9TS306073",
-        "5TDYRKECXPS144542",
-        "5TDYSKFC2NS043916",
-        "5TDYSKFC4PS098970",
-        "5TDYSKFC5SS185527",
-        "5TDYSKFC8NS053057",
-        "5TDYSKFC9PS078536",
-        "5TDYSKFC9PS100518",
-        "5TDZSKFC1PS087204",
-        "5TDZSKFC2RS153231",
-        "5TDZSKFC4RS116889",
-        "5TDZSKFC8RS125160",
-        "5TDZSKFCXPS088223"
-      ]
-    },
     {
       "date": "2026-10-16",
       "vins": [
@@ -516,6 +393,141 @@
         "5TDZSKFC8RS125160",
         "5TDZSKFCXPS088223"
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "vins": [
+        "5TDCSKFC0RS142086",
+        "5TDCSKFC0SS161601",
+        "5TDCSKFC0SS162635",
+        "5TDCSKFC8RS111331",
+        "5TDCSKFC8RS116058",
+        "5TDCSKFC8SS177724",
+        "5TDCSKFCXRS152429",
+        "5TDCSKFCXSS195299",
+        "5TDDRKEC9NS110801",
+        "5TDDSKFC6PS105917",
+        "5TDESKFC1SS214766",
+        "5TDESKFC2NS046611",
+        "5TDESKFC2SS194625",
+        "5TDESKFC2SS223248",
+        "5TDESKFC3TS279734",
+        "5TDESKFC4SS159097",
+        "5TDESKFC4SS172366",
+        "5TDESKFC6TS256111",
+        "5TDGRKEC0SS228082",
+        "5TDGRKEC3SS288678",
+        "5TDGRKEC5PS174852",
+        "5TDGRKEC7RS182275",
+        "5TDGRKEC7RS216859",
+        "5TDGRKEC8NS096080",
+        "5TDGRKEC8RS225098",
+        "5TDGRKECXRS219903",
+        "5TDGSKFC0RS137262",
+        "5TDGSKFC1PS093284",
+        "5TDGSKFC1RS138467",
+        "5TDGSKFC1SS156361",
+        "5TDGSKFC1SS206451",
+        "5TDGSKFC2RS136954",
+        "5TDGSKFC2SS197405",
+        "5TDGSKFC2SS208208",
+        "5TDGSKFC3SS213790",
+        "5TDGSKFC3SS214003",
+        "5TDGSKFC4RS133358",
+        "5TDGSKFC4SS179410",
+        "5TDGSKFC5SS166911",
+        "5TDGSKFC5SS204055",
+        "5TDGSKFC5SS220398",
+        "5TDGSKFC6SS159286",
+        "5TDGSKFC6SS210155",
+        "5TDGSKFC6SS215694",
+        "5TDGSKFC8SS218788",
+        "5TDGSKFC9SS203040",
+        "5TDGSKFCXNS044811",
+        "5TDGSKFCXPS089119",
+        "5TDGSKFCXSS200891",
+        "5TDJSKFC0PS096537",
+        "5TDJSKFC1PS093677",
+        "5TDJSKFC2SS194736",
+        "5TDJSKFC3PS096225",
+        "5TDJSKFC4RS138131",
+        "5TDJSKFC6SS201445",
+        "5TDJSKFC7PS073935",
+        "5TDJSKFC8PS095894",
+        "5TDJSKFC8RS131215",
+        "5TDJSKFC9PS100908",
+        "5TDJSKFCXPS096691",
+        "5TDKRKEC0SS268284",
+        "5TDKRKEC1SS267841",
+        "5TDKRKEC3SS225333",
+        "5TDKRKEC5NS112360",
+        "5TDKRKEC8SS267769",
+        "5TDKRKECXSS268728",
+        "5TDKSKFC0RS129995",
+        "5TDKSKFC0RS138955",
+        "5TDKSKFC1RS129634",
+        "5TDKSKFC1RS144621",
+        "5TDKSKFC1RS152895",
+        "5TDKSKFC2PS086273",
+        "5TDKSKFC2SS221213",
+        "5TDKSKFC3RS136617",
+        "5TDKSKFC3RS139680",
+        "5TDKSKFC3RS141980",
+        "5TDKSKFC4NS053613",
+        "5TDKSKFC4RS130986",
+        "5TDKSKFC4RS132379",
+        "5TDKSKFC4RS132866",
+        "5TDKSKFC5RS126252",
+        "5TDKSKFC6PS074305",
+        "5TDKSKFC6PS098703",
+        "5TDKSKFC6RS114935",
+        "5TDKSKFC8NS050696",
+        "5TDKSKFC8RS129954",
+        "5TDKSKFC8RS138931",
+        "5TDKSKFC8RS145524",
+        "5TDKSKFC8SS161597",
+        "5TDKSKFC9RS145130",
+        "5TDKSKFCXPS075571",
+        "5TDKSKFCXRS136579",
+        "5TDKSKFCXRS138137",
+        "5TDXSKFC6SS204078",
+        "5TDXSKFC6TS244601",
+        "5TDXSKFC9TS262221",
+        "5TDYRKEC0NS085871",
+        "5TDYRKEC0PS173693",
+        "5TDYRKEC0SS256243",
+        "5TDYRKEC1PS155610",
+        "5TDYRKEC2NS133855",
+        "5TDYRKEC2RS187954",
+        "5TDYRKEC2SS242571",
+        "5TDYRKEC3RS187526",
+        "5TDYRKEC3RS187736",
+        "5TDYRKEC3TS308580",
+        "5TDYRKEC4SS242717",
+        "5TDYRKEC4SS255533",
+        "5TDYRKEC5SS226509",
+        "5TDYRKEC5SS227207",
+        "5TDYRKEC7NS117845",
+        "5TDYRKEC8NS090493",
+        "5TDYRKEC8TS293106",
+        "5TDYRKEC8TS325939",
+        "5TDYRKEC9SS226626",
+        "5TDYRKEC9SS256032",
+        "5TDYRKEC9TS306073",
+        "5TDYRKECXPS144542",
+        "5TDYSKFC2NS043916",
+        "5TDYSKFC4PS098970",
+        "5TDYSKFC5SS185527",
+        "5TDYSKFC8NS053057",
+        "5TDYSKFC9PS078536",
+        "5TDZSKFC1PS087204",
+        "5TDZSKFC2RS153231",
+        "5TDZSKFC4NS057692",
+        "5TDZSKFC4RS116889",
+        "5TDZSKFC5PS096942",
+        "5TDZSKFC8RS125160",
+        "5TDZSKFCXPS088223"
+      ]
     }
   ],
   "vehicles": {
@@ -531,7 +543,7 @@
         "mileage": 74049,
         "exteriorColor": "Green",
         "interiorColor": "Leather",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "eastlake auto brokers",
@@ -552,12 +564,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 39950,
-          "mileage": 74049,
-          "dealer": "eastlake auto brokers"
-        },
-        {
           "date": "2026-10-16",
           "price": 39951,
           "mileage": 74049,
@@ -574,6 +580,12 @@
           "price": 39950,
           "mileage": 74049,
           "dealer": "eastlake auto brokers"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 39950,
+          "mileage": 74049,
+          "dealer": "eastlake auto brokers"
         }
       ]
     },
@@ -585,7 +597,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 8-Passenger",
-        "price": 38998,
+        "price": 37998,
         "mileage": 68240,
         "exteriorColor": "Gray",
         "interiorColor": "Gray",
@@ -610,12 +622,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 38998,
-          "mileage": 68240,
-          "dealer": "CarMax Renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 38998,
           "mileage": 68240,
@@ -632,6 +638,12 @@
           "price": 38998,
           "mileage": 68240,
           "dealer": "CarMax Renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 37998,
+          "mileage": 68240,
+          "dealer": "CarMax Renton"
         }
       ]
     },
@@ -642,8 +654,8 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "LE 8-Passenger",
-        "price": 37978,
+        "trim": "LE",
+        "price": 37429,
         "mileage": 67313,
         "exteriorColor": "Blue",
         "interiorColor": "Black",
@@ -668,12 +680,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 37978,
-          "mileage": 67313,
-          "dealer": "McCurley Subaru of Yakima"
-        },
-        {
           "date": "2026-10-16",
           "price": 37978,
           "mileage": 67313,
@@ -688,6 +694,12 @@
         {
           "date": "2026-10-20",
           "price": 37978,
+          "mileage": 67313,
+          "dealer": "McCurley Subaru of Yakima"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 37429,
           "mileage": 67313,
           "dealer": "McCurley Subaru of Yakima"
         }
@@ -726,12 +738,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 27985,
-          "mileage": 145674,
-          "dealer": "Parkway Auto"
-        },
-        {
           "date": "2026-10-16",
           "price": 27985,
           "mileage": 145674,
@@ -745,6 +751,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 27985,
+          "mileage": 145674,
+          "dealer": "Parkway Auto"
+        },
+        {
+          "date": "2026-10-22",
           "price": 27985,
           "mileage": 145674,
           "dealer": "Parkway Auto"
@@ -763,7 +775,7 @@
         "mileage": 12227,
         "exteriorColor": "Wind Chill Pearl",
         "interiorColor": "Chateau",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -771,24 +783,18 @@
         "city": "Bellingham",
         "state": "WA",
         "zip": "98229",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5TDJSKFC0PS096537-1.jpg",
         "photoCount": 44,
-        "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2023-Toyota-Sienna-de07db68ac180512dbb02efa57381853.htm",
+        "url": "https://toyotaofbellingham.com/electric-used/Toyota/2023-Toyota-Sienna-de07db68ac180512dbb02efa57381853.htm",
         "listedAt": "2026-08-08 07:22:02",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 48062,
-          "mileage": 12227,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 48262,
@@ -803,6 +809,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 48000,
+          "mileage": 12227,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 48000,
           "mileage": 12227,
           "dealer": "toyota of bellingham"
@@ -821,7 +833,7 @@
         "mileage": 16529,
         "exteriorColor": "Wind Chill Pearl",
         "interiorColor": "Chateau",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -829,24 +841,18 @@
         "city": "Bellingham",
         "state": "WA",
         "zip": "98229",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5TDJSKFC3PS096225-1.jpg",
         "photoCount": 44,
-        "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2023-Toyota-Sienna-b2419095ac185a7cf19ec641855a5cd0.htm",
+        "url": "https://toyotaofbellingham.com/electric-used/Toyota/2023-Toyota-Sienna-b2419095ac185a7cf19ec641855a5cd0.htm",
         "listedAt": "2026-08-09 06:29:01",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 47100,
-          "mileage": 16529,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 47300,
@@ -861,6 +867,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 47000,
+          "mileage": 16529,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 47000,
           "mileage": 16529,
           "dealer": "toyota of bellingham"
@@ -879,7 +891,7 @@
         "mileage": 18211,
         "exteriorColor": "Ruby Flare Pearl",
         "interiorColor": "Chateau",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -887,24 +899,18 @@
         "city": "Bellingham",
         "state": "WA",
         "zip": "98229",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5TDJSKFCXPS096691-1.jpg",
         "photoCount": 43,
-        "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2023-Toyota-Sienna-74779b77ac180aac8449eac6d0d09a8f.htm",
+        "url": "https://toyotaofbellingham.com/electric-used/Toyota/2023-Toyota-Sienna-74779b77ac180aac8449eac6d0d09a8f.htm",
         "listedAt": "2026-08-18 01:58:31",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 47603,
-          "mileage": 18211,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 47803,
@@ -919,6 +925,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 47600,
+          "mileage": 18211,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 47600,
           "mileage": 18211,
           "dealer": "toyota of bellingham"
@@ -958,12 +970,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42624,
-          "mileage": 41581,
-          "dealer": "toyota of bellingham"
-        },
-        {
           "date": "2026-10-16",
           "price": 42624,
           "mileage": 41581,
@@ -977,6 +983,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 42624,
+          "mileage": 41581,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 42624,
           "mileage": 41581,
           "dealer": "toyota of bellingham"
@@ -995,7 +1007,7 @@
         "mileage": 10723,
         "exteriorColor": "Wind Chill Pearl",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -1016,12 +1028,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44693,
-          "mileage": 10723,
-          "dealer": "toyota of bellingham"
-        },
-        {
           "date": "2026-10-16",
           "price": 44893,
           "mileage": 10723,
@@ -1035,6 +1041,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44600,
+          "mileage": 10723,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44600,
           "mileage": 10723,
           "dealer": "toyota of bellingham"
@@ -1074,12 +1086,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 32891,
-          "mileage": 116884,
-          "dealer": "Kia of Everett"
-        },
-        {
           "date": "2026-10-16",
           "price": 32588,
           "mileage": 116884,
@@ -1105,7 +1111,7 @@
         "mileage": 129209,
         "exteriorColor": "Silver",
         "interiorColor": "Leather",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "eastlake auto brokers",
@@ -1126,12 +1132,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 33950,
-          "mileage": 129209,
-          "dealer": "eastlake auto brokers"
-        },
-        {
           "date": "2026-10-16",
           "price": 33951,
           "mileage": 129209,
@@ -1145,6 +1145,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 33950,
+          "mileage": 129209,
+          "dealer": "eastlake auto brokers"
+        },
+        {
+          "date": "2026-10-22",
           "price": 33950,
           "mileage": 129209,
           "dealer": "eastlake auto brokers"
@@ -1163,7 +1169,7 @@
         "mileage": 75398,
         "exteriorColor": "White",
         "interiorColor": "Leather",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "eastlake auto brokers",
@@ -1184,12 +1190,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 40995,
-          "mileage": 75398,
-          "dealer": "eastlake auto brokers"
-        },
-        {
           "date": "2026-10-16",
           "price": 40996,
           "mileage": 75398,
@@ -1203,6 +1203,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 39995,
+          "mileage": 75398,
+          "dealer": "eastlake auto brokers"
+        },
+        {
+          "date": "2026-10-22",
           "price": 39995,
           "mileage": 75398,
           "dealer": "eastlake auto brokers"
@@ -1242,12 +1248,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45963,
-          "mileage": 43232,
-          "dealer": "Wilder Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 45963,
           "mileage": 43232,
@@ -1261,6 +1261,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 45963,
+          "mileage": 43232,
+          "dealer": "Wilder Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 45963,
           "mileage": 43232,
           "dealer": "Wilder Toyota"
@@ -1300,12 +1306,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42998,
-          "mileage": 19625,
-          "dealer": "mb motors llc"
-        },
-        {
           "date": "2026-10-16",
           "price": 42850,
           "mileage": 19625,
@@ -1337,7 +1337,7 @@
         "mileage": 51669,
         "exteriorColor": "Blue",
         "interiorColor": "Leather",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Plug-in hybrid",
         "dealer": "eastlake auto brokers",
@@ -1358,12 +1358,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 47995,
-          "mileage": 51669,
-          "dealer": "eastlake auto brokers"
-        },
-        {
           "date": "2026-10-16",
           "price": 47996,
           "mileage": 51669,
@@ -1380,6 +1374,12 @@
           "price": 47995,
           "mileage": 51669,
           "dealer": "eastlake auto brokers"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 47995,
+          "mileage": 51669,
+          "dealer": "eastlake auto brokers"
         }
       ]
     },
@@ -1390,12 +1390,12 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 45300,
+        "trim": "XLE 8-Passenger",
+        "price": 45500,
         "mileage": 15583,
         "exteriorColor": "Wind Chill Pearl",
-        "interiorColor": "Graphite",
-        "seats": null,
+        "interiorColor": "Graphite leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -1407,20 +1407,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC2RS187954-1.jpg",
-        "photoCount": 39,
+        "photoCount": 38,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2024-Toyota-Sienna-de07d8c8ac180706beba799892943948.htm",
         "listedAt": "2026-08-08 07:22:02",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 45600,
-          "mileage": 15583,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 45600,
@@ -1436,6 +1430,12 @@
         {
           "date": "2026-10-20",
           "price": 45300,
+          "mileage": 15583,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 45500,
           "mileage": 15583,
           "dealer": "toyota of bellingham"
         }
@@ -1448,12 +1448,12 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 45500,
+        "trim": "XLE 8-Passenger",
+        "price": 45700,
         "mileage": 27514,
         "exteriorColor": "Wind Chill Pearl",
-        "interiorColor": "Graphite",
-        "seats": null,
+        "interiorColor": "Graphite leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -1465,7 +1465,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC3RS187526-1.jpg",
         "photoCount": 39,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2024-Toyota-Sienna-b7679218ac183b7cfe9e7d69d6451a7d.htm",
@@ -1473,12 +1473,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 45892,
-          "mileage": 27514,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 45892,
@@ -1494,6 +1488,12 @@
         {
           "date": "2026-10-20",
           "price": 45500,
+          "mileage": 27514,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 45700,
           "mileage": 27514,
           "dealer": "toyota of bellingham"
         }
@@ -1506,12 +1506,12 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 46900,
+        "trim": "XLE 8-Passenger",
+        "price": 47100,
         "mileage": 16533,
         "exteriorColor": "Wind Chill Pearl",
-        "interiorColor": "Graphite",
-        "seats": null,
+        "interiorColor": "Graphite leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -1523,7 +1523,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC3RS187736-1.jpg",
         "photoCount": 38,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2024-Toyota-Sienna-a6ac24d5ac1836316e8e0c16d5f4298c.htm",
@@ -1531,12 +1531,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 47200,
-          "mileage": 16533,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 47200,
@@ -1552,6 +1546,12 @@
         {
           "date": "2026-10-20",
           "price": 46900,
+          "mileage": 16533,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 47100,
           "mileage": 16533,
           "dealer": "toyota of bellingham"
         }
@@ -1569,7 +1569,7 @@
         "mileage": 42892,
         "exteriorColor": "Celestial Silver Metallic",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -1590,12 +1590,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 42892,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 45999,
           "mileage": 42892,
@@ -1609,6 +1603,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 45999,
+          "mileage": 42892,
+          "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
           "price": 45999,
           "mileage": 42892,
           "dealer": "toyota of renton"
@@ -1627,7 +1627,7 @@
         "mileage": 43234,
         "exteriorColor": "Predawn Gray Mica",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -1648,12 +1648,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 43234,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 45999,
           "mileage": 43234,
@@ -1667,6 +1661,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 43999,
+          "mileage": 43234,
+          "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
           "price": 43999,
           "mileage": 43234,
           "dealer": "toyota of renton"
@@ -1685,7 +1685,7 @@
         "mileage": 45329,
         "exteriorColor": "Ruby Flare Pearl",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -1706,12 +1706,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 45329,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 45999,
           "mileage": 45329,
@@ -1725,6 +1719,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 45999,
+          "mileage": 45329,
+          "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
           "price": 45999,
           "mileage": 45329,
           "dealer": "toyota of renton"
@@ -1743,7 +1743,7 @@
         "mileage": 27004,
         "exteriorColor": "Midnight Black Metallic",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "FWD",
         "powertrain": "Hybrid",
         "dealer": "archibalds inc",
@@ -1764,12 +1764,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44240,
-          "mileage": 27004,
-          "dealer": "archibalds inc"
-        },
-        {
           "date": "2026-10-16",
           "price": 44240,
           "mileage": 27004,
@@ -1783,6 +1777,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44240,
+          "mileage": 27004,
+          "dealer": "archibalds inc"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44240,
           "mileage": 27004,
           "dealer": "archibalds inc"
@@ -1822,12 +1822,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41355,
-          "mileage": 61462,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 41355,
           "mileage": 61462,
@@ -1841,6 +1835,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 41195,
+          "mileage": 61462,
+          "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 41195,
           "mileage": 61462,
           "dealer": "McCord's Vancouver Toyota"
@@ -1880,12 +1880,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44020,
-          "mileage": 44938,
-          "dealer": "Doxon Toyota of Auburn"
-        },
-        {
           "date": "2026-10-16",
           "price": 44020,
           "mileage": 44938,
@@ -1899,6 +1893,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44020,
+          "mileage": 44938,
+          "dealer": "Doxon Toyota of Auburn"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44020,
           "mileage": 44938,
           "dealer": "Doxon Toyota of Auburn"
@@ -1938,12 +1938,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46311,
-          "mileage": 27796,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 46311,
           "mileage": 27796,
@@ -1960,6 +1954,12 @@
           "price": 46199,
           "mileage": 27796,
           "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46199,
+          "mileage": 27796,
+          "dealer": "McCord's Vancouver Toyota"
         }
       ]
     },
@@ -1971,7 +1971,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "Limited 7-Passenger",
-        "price": 49998,
+        "price": 48998,
         "mileage": 37552,
         "exteriorColor": "Blueprint",
         "interiorColor": "Graphite leather",
@@ -1996,12 +1996,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 49998,
-          "mileage": 37552,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-16",
           "price": 49998,
           "mileage": 37552,
@@ -2016,6 +2010,12 @@
         {
           "date": "2026-10-20",
           "price": 49998,
+          "mileage": 37552,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48998,
           "mileage": 37552,
           "dealer": "CarMax Tulalip"
         }
@@ -2028,15 +2028,15 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE Woodland Edition",
+        "trim": "Woodland Edition",
         "price": 46425,
         "mileage": 50482,
-        "exteriorColor": "Gray",
-        "interiorColor": "Gray",
+        "exteriorColor": "Cement",
+        "interiorColor": "Gray Flannel",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Toyota",
+        "dealer": "dick hannah toyota",
         "officialBrandDealer": true,
         "city": "Kelso",
         "state": "WA",
@@ -2048,17 +2048,11 @@
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDCSKFC8RS116058-1.jpg",
         "photoCount": 23,
-        "url": "https://www.autolist.com/toyota-sienna#vin=5TDCSKFC8RS116058",
+        "url": "https://www.dickhannahvolkswagen.com/inventory/used-2024-toyota-sienna-woodland-edition-awd-4d-passenger-van-5tdcskfc8rs116058/",
         "listedAt": "2026-09-05 09:53:07",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 46425,
-          "mileage": 50482,
-          "dealer": "Dick Hannah Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 46425,
@@ -2076,6 +2070,12 @@
           "price": 46425,
           "mileage": 50482,
           "dealer": "Dick Hannah Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46425,
+          "mileage": 50482,
+          "dealer": "dick hannah toyota"
         }
       ]
     },
@@ -2112,12 +2112,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 22936,
-          "dealer": "State Street Motors"
-        },
-        {
           "date": "2026-10-16",
           "price": 45999,
           "mileage": 22936,
@@ -2131,6 +2125,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 45999,
+          "mileage": 22936,
+          "dealer": "State Street Motors"
+        },
+        {
+          "date": "2026-10-22",
           "price": 45999,
           "mileage": 22936,
           "dealer": "State Street Motors"
@@ -2170,12 +2170,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41188,
-          "mileage": 43784,
-          "dealer": "Dollar Car Sales"
-        },
-        {
           "date": "2026-10-16",
           "price": 41188,
           "mileage": 43784,
@@ -2189,6 +2183,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 41188,
+          "mileage": 43784,
+          "dealer": "Dollar Car Sales"
+        },
+        {
+          "date": "2026-10-22",
           "price": 41188,
           "mileage": 43784,
           "dealer": "Dollar Car Sales"
@@ -2202,15 +2202,15 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "LE 8-Passenger",
+        "trim": "LE",
         "price": 33990,
         "mileage": 90176,
-        "exteriorColor": "White",
-        "interiorColor": "Gray",
+        "exteriorColor": "Ice",
+        "interiorColor": "Graphite",
         "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Toyota",
+        "dealer": "dick hannah toyota",
         "officialBrandDealer": true,
         "city": "Kelso",
         "state": "WA",
@@ -2222,17 +2222,11 @@
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDKSKFC3RS141980-1.jpg",
         "photoCount": 22,
-        "url": "https://www.autolist.com/toyota-sienna#vin=5TDKSKFC3RS141980",
+        "url": "https://www.dickhannahvolkswagen.com/inventory/used-2024-toyota-sienna-le-awd-4d-passenger-van-5tdkskfc3rs141980/",
         "listedAt": "2026-03-06 12:10:50",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 33990,
-          "mileage": 90176,
-          "dealer": "Dick Hannah Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 33990,
@@ -2250,6 +2244,12 @@
           "price": 33990,
           "mileage": 90176,
           "dealer": "Dick Hannah Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 33990,
+          "mileage": 90176,
+          "dealer": "dick hannah toyota"
         }
       ]
     },
@@ -2263,9 +2263,9 @@
         "trim": "XSE",
         "price": 61710,
         "mileage": 1331,
-        "exteriorColor": "Midnight Black Metallic",
-        "interiorColor": "Black",
-        "seats": null,
+        "exteriorColor": "Midnight Black",
+        "interiorColor": "Gray",
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "speedway chevrolet",
@@ -2280,17 +2280,11 @@
         "usageType": "Lease Use",
         "image": "https://retail.photos.vin/5TDGSKFC1SS206451-1.jpg",
         "photoCount": 40,
-        "url": "https://hyundaiofeverett.com/used/Toyota/2025-Toyota-Sienna-a97779e0ac181a3dcd6e49c3b97a11b4.htm",
+        "url": "https://genesisofkirkland.com/used/Toyota/2025-Toyota-Sienna-a9744ff2ac18457a7b9f2865798caef3.htm",
         "listedAt": "2026-08-09 02:45:06",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 61710,
-          "mileage": 1331,
-          "dealer": "hyundai of everett"
-        },
         {
           "date": "2026-10-16",
           "price": 55995,
@@ -2305,6 +2299,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 61710,
+          "mileage": 1331,
+          "dealer": "speedway chevrolet"
+        },
+        {
+          "date": "2026-10-22",
           "price": 61710,
           "mileage": 1331,
           "dealer": "speedway chevrolet"
@@ -2323,7 +2323,7 @@
         "mileage": 9763,
         "exteriorColor": "Midnight Black",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of bellingham",
@@ -2344,12 +2344,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 53362,
-          "mileage": 9763,
-          "dealer": "toyota of bellingham"
-        },
-        {
           "date": "2026-10-16",
           "price": 53562,
           "mileage": 9763,
@@ -2363,6 +2357,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 52343,
+          "mileage": 9763,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 52343,
           "mileage": 9763,
           "dealer": "toyota of bellingham"
@@ -2381,7 +2381,7 @@
         "mileage": 7446,
         "exteriorColor": "Midnight Black",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of bellingham",
@@ -2402,12 +2402,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 53500,
-          "mileage": 7446,
-          "dealer": "toyota of bellingham"
-        },
-        {
           "date": "2026-10-16",
           "price": 53700,
           "mileage": 7446,
@@ -2424,6 +2418,12 @@
           "price": 53400,
           "mileage": 7446,
           "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53400,
+          "mileage": 7446,
+          "dealer": "toyota of bellingham"
         }
       ]
     },
@@ -2434,14 +2434,14 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 48000,
+        "trim": "XLE 8-Passenger",
+        "price": 48200,
         "mileage": 15845,
         "exteriorColor": "Wind Chill Pearl",
-        "interiorColor": "Gray",
-        "seats": null,
+        "interiorColor": "Gray leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
+        "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
         "officialBrandDealer": true,
         "city": "Bellingham",
@@ -2451,7 +2451,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC0SS256243-1.jpg",
         "photoCount": 41,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2025-Toyota-Sienna-de07da34ac1849ee428c30afed7c9d4b.htm",
@@ -2459,12 +2459,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 48363,
-          "mileage": 15845,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 48363,
@@ -2480,6 +2474,12 @@
         {
           "date": "2026-10-20",
           "price": 48000,
+          "mileage": 15845,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48200,
           "mileage": 15845,
           "dealer": "toyota of bellingham"
         }
@@ -2492,14 +2492,14 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 47500,
+        "trim": "XLE 8-Passenger",
+        "price": 47700,
         "mileage": 36397,
-        "exteriorColor": "Celestial Silver",
-        "interiorColor": "Gray",
-        "seats": null,
+        "exteriorColor": "Celestial Silver Metallic",
+        "interiorColor": "Gray leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
+        "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
         "officialBrandDealer": true,
         "city": "Bellingham",
@@ -2509,7 +2509,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC5SS226509-1.jpg",
         "photoCount": 40,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2025-Toyota-Sienna-dee4573aac180936a0a72ed8548952aa.htm",
@@ -2517,12 +2517,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 47992,
-          "mileage": 36397,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 47992,
@@ -2540,6 +2534,12 @@
           "price": 47500,
           "mileage": 36397,
           "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 47700,
+          "mileage": 36397,
+          "dealer": "toyota of bellingham"
         }
       ]
     },
@@ -2550,14 +2550,14 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 48500,
+        "trim": "XLE 8-Passenger",
+        "price": 48700,
         "mileage": 18010,
-        "exteriorColor": "Celestial Silver",
-        "interiorColor": "Gray",
-        "seats": null,
+        "exteriorColor": "Celestial Silver Metallic",
+        "interiorColor": "Gray leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
+        "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
         "officialBrandDealer": true,
         "city": "Bellingham",
@@ -2565,22 +2565,16 @@
         "zip": "98229",
         "cpo": true,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Rental Use",
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC5SS227207-1.jpg",
-        "photoCount": 41,
+        "photoCount": 40,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2025-Toyota-Sienna-dee459ebac185184d8a067b195bd74d1.htm",
         "listedAt": "2026-08-08 07:22:02",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 48523,
-          "mileage": 18010,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 48723,
@@ -2598,6 +2592,12 @@
           "price": 48500,
           "mileage": 18010,
           "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48700,
+          "mileage": 18010,
+          "dealer": "toyota of bellingham"
         }
       ]
     },
@@ -2608,14 +2608,14 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8 Passenger",
-        "price": 45700,
+        "trim": "XLE 8-Passenger",
+        "price": 45900,
         "mileage": 36525,
-        "exteriorColor": "Celestial Silver",
-        "interiorColor": "Gray",
-        "seats": null,
+        "exteriorColor": "Celestial Silver Metallic",
+        "interiorColor": "Gray leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
+        "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
         "officialBrandDealer": true,
         "city": "Bellingham",
@@ -2625,20 +2625,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYRKEC9SS226626-1.jpg",
-        "photoCount": 40,
+        "photoCount": 39,
         "url": "https://toyotaofbellingham.com/electric-certified/Toyota/2025-Toyota-Sienna-a6ac2237ac184067335a66bea6f43db5.htm",
         "listedAt": "2026-08-09 06:29:01",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 45800,
-          "mileage": 36525,
-          "dealer": "toyota of bellingham"
-        },
         {
           "date": "2026-10-16",
           "price": 46000,
@@ -2656,6 +2650,12 @@
           "price": 45700,
           "mileage": 36525,
           "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 45900,
+          "mileage": 36525,
+          "dealer": "toyota of bellingham"
         }
       ]
     },
@@ -2671,7 +2671,7 @@
         "mileage": 3556,
         "exteriorColor": "Silver",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "northwest chevrolet of bellingham",
@@ -2692,12 +2692,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 50497,
-          "mileage": 3556,
-          "dealer": "northwest chevrolet of bellingham"
-        },
-        {
           "date": "2026-10-16",
           "price": 50197,
           "mileage": 3556,
@@ -2714,6 +2708,12 @@
           "price": 49997,
           "mileage": 3556,
           "dealer": "northwest chevrolet of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49997,
+          "mileage": 3556,
+          "dealer": "northwest chevrolet of bellingham"
         }
       ]
     },
@@ -2725,7 +2725,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "LE",
-        "price": 49295,
+        "price": 48795,
         "mileage": 31295,
         "exteriorColor": "Blu Blue",
         "interiorColor": "Not listed",
@@ -2750,12 +2750,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 49295,
-          "mileage": 31280,
-          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 49295,
           "mileage": 31295,
@@ -2770,6 +2764,12 @@
         {
           "date": "2026-10-20",
           "price": 49295,
+          "mileage": 31295,
+          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48795,
           "mileage": 31295,
           "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
         }
@@ -2808,12 +2808,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44089,
-          "mileage": 59093,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 44089,
           "mileage": 59093,
@@ -2827,6 +2821,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 43999,
+          "mileage": 59093,
+          "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 43999,
           "mileage": 59093,
           "dealer": "McCord's Vancouver Toyota"
@@ -2845,7 +2845,7 @@
         "mileage": 32489,
         "exteriorColor": "Gray",
         "interiorColor": "White",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "FWD",
         "powertrain": "Hybrid",
         "dealer": "Seattle Finest Motors LLC",
@@ -2866,12 +2866,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 32489,
-          "dealer": "Seattle Finest Motors LLC"
-        },
-        {
           "date": "2026-10-16",
           "price": 45999,
           "mileage": 32489,
@@ -2885,6 +2879,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44999,
+          "mileage": 32489,
+          "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44999,
           "mileage": 32489,
           "dealer": "Seattle Finest Motors LLC"
@@ -2924,12 +2924,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46999,
-          "mileage": 6462,
-          "dealer": "imports classics"
-        },
-        {
           "date": "2026-10-16",
           "price": 47199,
           "mileage": 6462,
@@ -2955,7 +2949,7 @@
         "mileage": 20844,
         "exteriorColor": "Ice Cap",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "archibalds inc",
@@ -2976,12 +2970,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 52998,
-          "mileage": 20844,
-          "dealer": "archibalds inc"
-        },
-        {
           "date": "2026-10-16",
           "price": 52998,
           "mileage": 20844,
@@ -2995,6 +2983,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 52998,
+          "mileage": 20844,
+          "dealer": "archibalds inc"
+        },
+        {
+          "date": "2026-10-22",
           "price": 52998,
           "mileage": 20844,
           "dealer": "archibalds inc"
@@ -3013,7 +3007,7 @@
         "mileage": 5504,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "imports classics",
@@ -3034,12 +3028,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 51499,
-          "mileage": 5504,
-          "dealer": "imports classics"
-        },
-        {
           "date": "2026-10-16",
           "price": 51699,
           "mileage": 5504,
@@ -3053,6 +3041,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 50999,
+          "mileage": 5504,
+          "dealer": "imports classics"
+        },
+        {
+          "date": "2026-10-22",
           "price": 50999,
           "mileage": 5504,
           "dealer": "imports classics"
@@ -3092,12 +3086,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 48917,
-          "mileage": 20942,
-          "dealer": "Rodland Toyota of Everett"
-        },
-        {
           "date": "2026-10-16",
           "price": 48183,
           "mileage": 20942,
@@ -3114,6 +3102,12 @@
           "price": 48183,
           "mileage": 20942,
           "dealer": "Rodland Toyota of Everett"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48183,
+          "mileage": 20942,
+          "dealer": "Rodland Toyota of Everett"
         }
       ]
     },
@@ -3125,7 +3119,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "Platinum 7-Passenger",
-        "price": 56100,
+        "price": 55700,
         "mileage": 33447,
         "exteriorColor": "Not listed",
         "interiorColor": "Black",
@@ -3150,12 +3144,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 56700,
-          "mileage": 33447,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 56100,
           "mileage": 33447,
@@ -3170,6 +3158,12 @@
         {
           "date": "2026-10-20",
           "price": 56100,
+          "mileage": 33447,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 55700,
           "mileage": 33447,
           "dealer": "Brotherton Buick GMC in Renton"
         }
@@ -3208,12 +3202,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 51177,
-          "mileage": 7287,
-          "dealer": "Frontier Chevrolet"
-        },
-        {
           "date": "2026-10-16",
           "price": 51197,
           "mileage": 7287,
@@ -3230,6 +3218,12 @@
           "price": 51197,
           "mileage": 7287,
           "dealer": "Frontier Chevrolet"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 51197,
+          "mileage": 7287,
+          "dealer": "Frontier Chevrolet"
         }
       ]
     },
@@ -3241,7 +3235,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XSE 7-Passenger",
-        "price": 55471,
+        "price": 53971,
         "mileage": 10875,
         "exteriorColor": "White",
         "interiorColor": "Black",
@@ -3266,12 +3260,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 55471,
-          "mileage": 10875,
-          "dealer": "Kendall Subaru of Marysville"
-        },
-        {
           "date": "2026-10-16",
           "price": 55471,
           "mileage": 10875,
@@ -3286,6 +3274,12 @@
         {
           "date": "2026-10-20",
           "price": 55471,
+          "mileage": 10875,
+          "dealer": "Kendall Subaru of Marysville"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53971,
           "mileage": 10875,
           "dealer": "Kendall Subaru of Marysville"
         }
@@ -3324,12 +3318,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44999,
-          "mileage": 51571,
-          "dealer": "State Street Motors"
-        },
-        {
           "date": "2026-10-16",
           "price": 44999,
           "mileage": 51571,
@@ -3343,6 +3331,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44999,
+          "mileage": 51571,
+          "dealer": "State Street Motors"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44999,
           "mileage": 51571,
           "dealer": "State Street Motors"
@@ -3382,12 +3376,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 48148,
-          "mileage": 15342,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 48148,
           "mileage": 15342,
@@ -3401,6 +3389,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 48048,
+          "mileage": 15342,
+          "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 48048,
           "mileage": 15342,
           "dealer": "McCord's Vancouver Toyota"
@@ -3440,12 +3434,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41998,
-          "mileage": 53087,
-          "dealer": "CarMax - Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 40998,
           "mileage": 53087,
@@ -3459,6 +3447,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 40998,
+          "mileage": 53087,
+          "dealer": "CarMax - Spokane"
+        },
+        {
+          "date": "2026-10-22",
           "price": 40998,
           "mileage": 53087,
           "dealer": "CarMax - Spokane"
@@ -3474,22 +3468,22 @@
         "model": "Sienna",
         "trim": "XLE 7-Passenger",
         "price": 43998,
-        "mileage": 34849,
-        "exteriorColor": "Gray",
-        "interiorColor": "Gray",
+        "mileage": 36755,
+        "exteriorColor": "Predawn Gray Mica",
+        "interiorColor": "Graphite leatherette",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "CarMax Spokane",
+        "dealer": "CarMax Tri-Cities - Kennewick",
         "officialBrandDealer": false,
-        "city": "Spokane",
+        "city": "Richland",
         "state": "WA",
-        "zip": "",
+        "zip": "99352",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": false,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDYSKFC8NS053057-1.jpg",
         "photoCount": 30,
         "url": "https://www.autolist.com/toyota-sienna#vin=5TDYSKFC8NS053057",
@@ -3497,12 +3491,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 43998,
-          "mileage": 34849,
-          "dealer": "CarMax Spokane"
-        },
         {
           "date": "2026-10-16",
           "price": 43998,
@@ -3520,6 +3508,12 @@
           "price": 43998,
           "mileage": 34849,
           "dealer": "CarMax Spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 43998,
+          "mileage": 36755,
+          "dealer": "CarMax Tri-Cities - Kennewick"
         }
       ]
     },
@@ -3556,12 +3550,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 36998,
-          "mileage": 74778,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 36998,
           "mileage": 74778,
@@ -3578,46 +3566,12 @@
           "price": 36998,
           "mileage": 74778,
           "dealer": "CarMax Spokane"
-        }
-      ]
-    },
-    "5TDKRKEC3PS158241": {
-      "lastKnown": {
-        "id": "5tdkrkec3ps158241",
-        "vin": "5TDKRKEC3PS158241",
-        "year": 2023,
-        "make": "Toyota",
-        "model": "Sienna",
-        "trim": "LE 8-Passenger",
-        "price": 35788,
-        "mileage": 58039,
-        "exteriorColor": "Black",
-        "interiorColor": "Gray",
-        "seats": 8,
-        "drivetrain": "FWD",
-        "powertrain": "Gasoline",
-        "dealer": "Toyota of Seattle",
-        "officialBrandDealer": true,
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "98134",
-        "cpo": false,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Multiple Use",
-        "image": "https://retail.photos.vin/5TDKRKEC3PS158241-1.jpg",
-        "photoCount": 26,
-        "url": "https://www.hondaofseattle.com/viewdetails/used/5tdkrkec3ps158241/2023-toyota-sienna-mini-van,-passenger?type=finance",
-        "listedAt": "2026-09-17 09:14:35",
-        "firstSeenDate": "2026-09-20"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-14",
-          "price": 35788,
-          "mileage": 58039,
-          "dealer": "Toyota of Seattle"
+          "date": "2026-10-22",
+          "price": 36998,
+          "mileage": 74778,
+          "dealer": "CarMax Spokane"
         }
       ]
     },
@@ -3629,7 +3583,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 7-Passenger",
-        "price": 43827,
+        "price": 43209,
         "mileage": 57655,
         "exteriorColor": "White",
         "interiorColor": "Gray",
@@ -3654,12 +3608,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 43827,
-          "mileage": 57652,
-          "dealer": "Toyota of Yakima - Union Gap"
-        },
-        {
           "date": "2026-10-16",
           "price": 43827,
           "mileage": 57655,
@@ -3674,6 +3622,12 @@
         {
           "date": "2026-10-20",
           "price": 43827,
+          "mileage": 57655,
+          "dealer": "Toyota of Yakima - Union Gap"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 43209,
           "mileage": 57655,
           "dealer": "Toyota of Yakima - Union Gap"
         }
@@ -3712,12 +3666,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 38191,
-          "mileage": 139350,
-          "dealer": "Michael's Toyota of Bellevue"
-        },
-        {
           "date": "2026-10-16",
           "price": 38191,
           "mileage": 139350,
@@ -3731,6 +3679,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 38191,
+          "mileage": 139350,
+          "dealer": "Michael's Toyota of Bellevue"
+        },
+        {
+          "date": "2026-10-22",
           "price": 38191,
           "mileage": 139350,
           "dealer": "Michael's Toyota of Bellevue"
@@ -3770,12 +3724,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 43193,
-          "mileage": 56453,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 43193,
           "mileage": 56453,
@@ -3792,6 +3740,12 @@
           "price": 43088,
           "mileage": 56453,
           "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 43088,
+          "mileage": 56453,
+          "dealer": "McCord's Vancouver Toyota"
         }
       ]
     },
@@ -3802,15 +3756,15 @@
         "year": 2024,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "Limited",
-        "price": 51995,
+        "trim": "Limited 7-Passenger",
+        "price": 52195,
         "mileage": 24319,
-        "exteriorColor": "Wind Chill Pearl",
-        "interiorColor": "Graphite",
-        "seats": null,
+        "exteriorColor": "White",
+        "interiorColor": "Gray",
+        "seats": 7,
         "drivetrain": "AWD",
-        "powertrain": "Hybrid",
-        "dealer": "speck hyundai of tri cities",
+        "powertrain": "Gasoline",
+        "dealer": "Speck Hyundai of Tri-Cities",
         "officialBrandDealer": false,
         "city": "Kennewick",
         "state": "WA",
@@ -3821,18 +3775,12 @@
         "accidentCount": 0,
         "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/5TDZSKFC4RS116889-1.jpg",
-        "photoCount": 6,
-        "url": "https://www.speckchevyprosser.com/used-Prosser-2024-Toyota-Sienna-Limited-5TDZSKFC4RS116889",
+        "photoCount": 24,
+        "url": "https://www.speckford.com/used-Prosser-2024-Toyota-Sienna-Limited-5TDZSKFC4RS116889",
         "listedAt": "2026-09-06 19:35:09",
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 52195,
-          "mileage": 24319,
-          "dealer": "Speck Hyundai of Tri-Cities"
-        },
         {
           "date": "2026-10-16",
           "price": 52195,
@@ -3850,6 +3798,12 @@
           "price": 51995,
           "mileage": 24319,
           "dealer": "speck hyundai of tri cities"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 52195,
+          "mileage": 24319,
+          "dealer": "Speck Hyundai of Tri-Cities"
         }
       ]
     },
@@ -3886,12 +3840,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 50187,
-          "mileage": 46106,
-          "dealer": "Toyota of Kirkland"
-        },
-        {
           "date": "2026-10-16",
           "price": 50187,
           "mileage": 46106,
@@ -3908,6 +3856,12 @@
           "price": 49187,
           "mileage": 46106,
           "dealer": "Toyota of Kirkland"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49187,
+          "mileage": 46106,
+          "dealer": "Toyota of Kirkland"
         }
       ]
     },
@@ -3919,7 +3873,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "LE 8-Passenger",
-        "price": 42450,
+        "price": 42100,
         "mileage": 43321,
         "exteriorColor": "Gray",
         "interiorColor": "Gray",
@@ -3944,12 +3898,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42700,
-          "mileage": 43321,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 42450,
           "mileage": 43321,
@@ -3966,6 +3914,12 @@
           "price": 42450,
           "mileage": 43321,
           "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 42100,
+          "mileage": 43321,
+          "dealer": "Brotherton Buick GMC in Renton"
         }
       ]
     },
@@ -3976,15 +3930,15 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "LE 8 Passenger",
-        "price": 44609,
+        "trim": "LE 8-Passenger",
+        "price": 43999,
         "mileage": 20250,
         "exteriorColor": "Ruby Flare Pearl",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
-        "powertrain": "Hybrid",
-        "dealer": "autonation honda renton",
+        "powertrain": "Gasoline",
+        "dealer": "AutoNation Honda Renton",
         "officialBrandDealer": false,
         "city": "Renton",
         "state": "WA",
@@ -3995,18 +3949,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDKSKFC2SS221213-1.jpg",
-        "photoCount": 30,
+        "photoCount": 1,
         "url": "https://bmwbellevue.com/used/Toyota/2025-Toyota-Sienna-920e6772ac180452357e7dbbac6d0f49.htm",
         "listedAt": "2026-09-12 01:53:41",
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 45338,
-          "mileage": 20250,
-          "dealer": "AutoNation Honda Renton"
-        },
         {
           "date": "2026-10-16",
           "price": 44609,
@@ -4024,6 +3972,12 @@
           "price": 44609,
           "mileage": 20250,
           "dealer": "autonation honda renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 43999,
+          "mileage": 20250,
+          "dealer": "AutoNation Honda Renton"
         }
       ]
     },
@@ -4035,11 +3989,11 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE",
-        "price": 46595,
+        "price": 46395,
         "mileage": 15095,
         "exteriorColor": "Black",
         "interiorColor": "Macadamia",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "FWD",
         "powertrain": "Hybrid",
         "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane",
@@ -4060,12 +4014,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46595,
-          "mileage": 15095,
-          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 46795,
           "mileage": 15095,
@@ -4080,6 +4028,12 @@
         {
           "date": "2026-10-20",
           "price": 46595,
+          "mileage": 15095,
+          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46395,
           "mileage": 15095,
           "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
         }
@@ -4100,7 +4054,7 @@
         "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
-        "dealer": "subaru of spokane",
+        "dealer": "Subaru of Spokane",
         "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
@@ -4118,12 +4072,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 48306,
-          "mileage": 25789,
-          "dealer": "Subaru of Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 48306,
           "mileage": 25789,
@@ -4140,6 +4088,12 @@
           "price": 48220,
           "mileage": 25789,
           "dealer": "subaru of spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48220,
+          "mileage": 25789,
+          "dealer": "Subaru of Spokane"
         }
       ]
     },
@@ -4151,7 +4105,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE Woodland Edition",
-        "price": 50997,
+        "price": 50156,
         "mileage": 23310,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -4176,12 +4130,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 50997,
-          "mileage": 23310,
-          "dealer": "Westlie Ford"
-        },
-        {
           "date": "2026-10-16",
           "price": 50997,
           "mileage": 23310,
@@ -4198,6 +4146,12 @@
           "price": 50997,
           "mileage": 23310,
           "dealer": "Westlie Ford"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 50156,
+          "mileage": 23310,
+          "dealer": "Westlie Ford"
         }
       ]
     },
@@ -4209,11 +4163,11 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XSE",
-        "price": 53295,
-        "mileage": 7708,
+        "price": 51295,
+        "mileage": 7713,
         "exteriorColor": "Black",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane",
@@ -4234,12 +4188,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 53295,
-          "mileage": 7708,
-          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 53495,
           "mileage": 7708,
@@ -4255,6 +4203,12 @@
           "date": "2026-10-20",
           "price": 53295,
           "mileage": 7708,
+          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 51295,
+          "mileage": 7713,
           "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
         }
       ]
@@ -4266,15 +4220,15 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XSE 7-Passenger",
+        "trim": "Woodland Edition",
         "price": 49999,
         "mileage": 14089,
-        "exteriorColor": "Black",
+        "exteriorColor": "Midnight Black Metallic",
         "interiorColor": "Black",
         "seats": 7,
         "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Toyota",
+        "powertrain": "Hybrid",
+        "dealer": "dick hannah toyota",
         "officialBrandDealer": true,
         "city": "Kelso",
         "state": "WA",
@@ -4286,17 +4240,11 @@
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDCSKFC0SS161601-1.jpg",
         "photoCount": 22,
-        "url": "https://www.autolist.com/toyota-sienna#vin=5TDCSKFC0SS161601",
+        "url": "https://www.dickhannahvolkswagen.com/inventory/used-2025-toyota-sienna-woodland-edition-awd-4d-passenger-van-5tdcskfc0ss161601/",
         "listedAt": "2026-08-21 11:35:17",
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 49999,
-          "mileage": 14089,
-          "dealer": "Dick Hannah Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 49999,
@@ -4314,6 +4262,12 @@
           "price": 49999,
           "mileage": 14089,
           "dealer": "Dick Hannah Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49999,
+          "mileage": 14089,
+          "dealer": "dick hannah toyota"
         }
       ]
     },
@@ -4329,9 +4283,9 @@
         "mileage": 1478,
         "exteriorColor": "Cypress",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
+        "powertrain": "Gasoline",
         "dealer": "Swickard Toyota",
         "officialBrandDealer": true,
         "city": "Edmonds",
@@ -4350,12 +4304,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 50599,
-          "mileage": 1478,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-16",
           "price": 51199,
           "mileage": 1478,
@@ -4369,6 +4317,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 50999,
+          "mileage": 1478,
+          "dealer": "Swickard Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 50999,
           "mileage": 1478,
           "dealer": "Swickard Toyota"
@@ -4408,12 +4362,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42249,
-          "mileage": 26256,
-          "dealer": "Hertz Car Sales Seattle"
-        },
-        {
           "date": "2026-10-16",
           "price": 41499,
           "mileage": 26256,
@@ -4427,6 +4375,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 41499,
+          "mileage": 26256,
+          "dealer": "Hertz Car Sales Seattle"
+        },
+        {
+          "date": "2026-10-22",
           "price": 41499,
           "mileage": 26256,
           "dealer": "Hertz Car Sales Seattle"
@@ -4466,12 +4420,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41999,
-          "mileage": 53618,
-          "dealer": "State Street Motors"
-        },
-        {
           "date": "2026-10-16",
           "price": 41999,
           "mileage": 53618,
@@ -4485,6 +4433,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 41999,
+          "mileage": 53618,
+          "dealer": "State Street Motors"
+        },
+        {
+          "date": "2026-10-22",
           "price": 41999,
           "mileage": 53618,
           "dealer": "State Street Motors"
@@ -4501,8 +4455,8 @@
         "trim": "Platinum 7-Passenger",
         "price": 56956,
         "mileage": 19573,
-        "exteriorColor": "Ruby Flare Pearl",
-        "interiorColor": "Macadamia leather",
+        "exteriorColor": "Red",
+        "interiorColor": "Brown",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -4510,12 +4464,12 @@
         "officialBrandDealer": true,
         "city": "Tacoma",
         "state": "WA",
-        "zip": "98409",
-        "cpo": true,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDESKFC2SS223248-1.jpg",
         "photoCount": 77,
         "url": "https://www.tituswilltoyota.com/used-Tacoma-2025-Toyota-Sienna-Platinum+7+Passenger-5TDESKFC2SS223248",
@@ -4524,12 +4478,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 56956,
-          "mileage": 19573,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 56956,
           "mileage": 19573,
@@ -4537,6 +4485,12 @@
         },
         {
           "date": "2026-10-18",
+          "price": 56956,
+          "mileage": 19573,
+          "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 56956,
           "mileage": 19573,
           "dealer": "Titus-Will Toyota"
@@ -4551,36 +4505,30 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 8-Passenger",
-        "price": 48795,
+        "price": 48995,
         "mileage": 28447,
         "exteriorColor": "Midnight Black Metallic",
-        "interiorColor": "Gray",
-        "seats": null,
+        "interiorColor": "Gray leatherette",
+        "seats": 8,
         "drivetrain": "FWD",
-        "powertrain": "Hybrid",
-        "dealer": "burien chevrolet",
-        "officialBrandDealer": false,
+        "powertrain": "Gasoline",
+        "dealer": "Burien Toyota",
+        "officialBrandDealer": true,
         "city": "Burien",
         "state": "WA",
-        "zip": "98168",
+        "zip": "98148",
         "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5TDYRKEC9SS256032-1.jpg",
-        "photoCount": 6,
+        "photoCount": 39,
         "url": "https://www.burienchevrolet.com/used-Burien-2025-Toyota-Sienna-XLE+8+Passenger-5TDYRKEC9SS256032",
         "listedAt": "2026-09-19 19:59:35",
         "firstSeenDate": "2026-09-24"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 48995,
-          "mileage": 28447,
-          "dealer": "Burien Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 48795,
@@ -4598,6 +4546,12 @@
           "price": 48795,
           "mileage": 28447,
           "dealer": "burien chevrolet"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48995,
+          "mileage": 28447,
+          "dealer": "Burien Toyota"
         }
       ]
     },
@@ -4613,7 +4567,7 @@
         "mileage": 34518,
         "exteriorColor": "Midnight Black",
         "interiorColor": "Noble Brown",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "evergreen ford",
@@ -4634,12 +4588,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 47774,
-          "mileage": 34518,
-          "dealer": "evergreen ford"
-        },
-        {
           "date": "2026-10-16",
           "price": 48174,
           "mileage": 34518,
@@ -4653,6 +4601,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 47774,
+          "mileage": 34518,
+          "dealer": "evergreen ford"
+        },
+        {
+          "date": "2026-10-22",
           "price": 47774,
           "mileage": 34518,
           "dealer": "evergreen ford"
@@ -4671,7 +4625,7 @@
         "mileage": 19840,
         "exteriorColor": "Ruby Flare Pearl",
         "interiorColor": "Chateau",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "FWD",
         "powertrain": "Hybrid",
         "dealer": "lee johnson auto",
@@ -4692,12 +4646,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46995,
-          "mileage": 19840,
-          "dealer": "hyundai of everett"
-        },
-        {
           "date": "2026-10-16",
           "price": 44495,
           "mileage": 19840,
@@ -4714,46 +4662,12 @@
           "price": 46995,
           "mileage": 19840,
           "dealer": "lee johnson auto"
-        }
-      ]
-    },
-    "5TDKSKFC5PS094741": {
-      "lastKnown": {
-        "id": "5tdkskfc5ps094741",
-        "vin": "5TDKSKFC5PS094741",
-        "year": 2023,
-        "make": "Toyota",
-        "model": "Sienna",
-        "trim": "LE 8-Passenger",
-        "price": 33861,
-        "mileage": 103242,
-        "exteriorColor": "White",
-        "interiorColor": "Gray",
-        "seats": 8,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "McCord's Vancouver Toyota",
-        "officialBrandDealer": true,
-        "city": "Vancouver",
-        "state": "WA",
-        "zip": "98662",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Commercial Use",
-        "image": "https://retail.photos.vin/5TDKSKFC5PS094741-1.jpg",
-        "photoCount": 25,
-        "url": "https://www.autolist.com/toyota-sienna#vin=5TDKSKFC5PS094741",
-        "listedAt": "2026-09-23 14:09:22",
-        "firstSeenDate": "2026-09-26"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-14",
-          "price": 33861,
-          "mileage": 103242,
-          "dealer": "McCord's Vancouver Toyota"
+          "date": "2026-10-22",
+          "price": 46995,
+          "mileage": 19840,
+          "dealer": "lee johnson auto"
         }
       ]
     },
@@ -4790,12 +4704,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 48471,
-          "mileage": 34725,
-          "dealer": "Toyota of Yakima - Union Gap"
-        },
-        {
           "date": "2026-10-16",
           "price": 48386,
           "mileage": 34725,
@@ -4812,6 +4720,12 @@
           "price": 48241,
           "mileage": 34725,
           "dealer": "Toyota of Yakima - Union Gap"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48241,
+          "mileage": 34725,
+          "dealer": "Toyota of Yakima - Union Gap"
         }
       ]
     },
@@ -4823,10 +4737,10 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE Woodland Edition",
-        "price": 50998,
+        "price": 49998,
         "mileage": 40412,
-        "exteriorColor": "Cement",
-        "interiorColor": "Gray Flannel/Black leatherette",
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -4834,12 +4748,12 @@
         "officialBrandDealer": false,
         "city": "Renton",
         "state": "WA",
-        "zip": "98057",
+        "zip": "",
         "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Lease",
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDCSKFC8RS111331-1.jpg",
         "photoCount": 31,
         "url": "https://www.autolist.com/toyota-sienna#vin=5TDCSKFC8RS111331",
@@ -4847,12 +4761,6 @@
         "firstSeenDate": "2026-09-26"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 50998,
-          "mileage": 40412,
-          "dealer": "CarMax Renton"
-        },
         {
           "date": "2026-10-16",
           "price": 50998,
@@ -4868,6 +4776,12 @@
         {
           "date": "2026-10-20",
           "price": 50998,
+          "mileage": 40412,
+          "dealer": "CarMax Renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49998,
           "mileage": 40412,
           "dealer": "CarMax Renton"
         }
@@ -4906,12 +4820,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 49959,
-          "mileage": 19011,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 49959,
           "mileage": 19011,
@@ -4928,6 +4836,12 @@
           "price": 49959,
           "mileage": 19011,
           "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49959,
+          "mileage": 19011,
+          "dealer": "Titus-Will Toyota"
         }
       ]
     },
@@ -4939,7 +4853,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "LE 8-Passenger",
-        "price": 42700,
+        "price": 41450,
         "mileage": 42258,
         "exteriorColor": "Not listed",
         "interiorColor": "Gray",
@@ -4964,12 +4878,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 43088,
-          "mileage": 42258,
-          "dealer": "Brotherton Cadillac NW"
-        },
-        {
           "date": "2026-10-16",
           "price": 42700,
           "mileage": 42258,
@@ -4984,6 +4892,12 @@
         {
           "date": "2026-10-20",
           "price": 42700,
+          "mileage": 42258,
+          "dealer": "Brotherton Cadillac NW"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 41450,
           "mileage": 42258,
           "dealer": "Brotherton Cadillac NW"
         }
@@ -5022,12 +4936,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46999,
-          "mileage": 42368,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 46999,
           "mileage": 42368,
@@ -5053,7 +4961,7 @@
         "mileage": 42458,
         "exteriorColor": "Predawn Gray Mica",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -5074,12 +4982,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46999,
-          "mileage": 42458,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 46999,
           "mileage": 42458,
@@ -5096,6 +4998,12 @@
           "price": 46999,
           "mileage": 42458,
           "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46999,
+          "mileage": 42458,
+          "dealer": "toyota of renton"
         }
       ]
     },
@@ -5107,7 +5015,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XSE 7-Passenger",
-        "price": 52100,
+        "price": 52050,
         "mileage": 12363,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -5132,12 +5040,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 52199,
-          "mileage": 12363,
-          "dealer": "Toyota of Tacoma"
-        },
-        {
           "date": "2026-10-16",
           "price": 52100,
           "mileage": 12363,
@@ -5154,6 +5056,12 @@
           "price": 52100,
           "mileage": 12363,
           "dealer": "Toyota of Tacoma"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 52050,
+          "mileage": 12363,
+          "dealer": "Toyota of Tacoma"
         }
       ]
     },
@@ -5165,7 +5073,7 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 8-Passenger",
-        "price": 45899,
+        "price": 44999,
         "mileage": 18805,
         "exteriorColor": "Blueprint",
         "interiorColor": "Gray leatherette",
@@ -5190,12 +5098,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44999,
-          "mileage": 18805,
-          "dealer": "Hertz Car Sales Seattle"
-        },
-        {
           "date": "2026-10-16",
           "price": 44999,
           "mileage": 18805,
@@ -5210,6 +5112,12 @@
         {
           "date": "2026-10-20",
           "price": 45899,
+          "mileage": 18805,
+          "dealer": "Hertz Car Sales Seattle"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 44999,
           "mileage": 18805,
           "dealer": "Hertz Car Sales Seattle"
         }
@@ -5248,12 +5156,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 50709,
-          "mileage": 23475,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-10-18",
           "price": 50709,
           "mileage": 23475,
@@ -5261,6 +5163,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 50709,
+          "mileage": 23475,
+          "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 50709,
           "mileage": 23475,
           "dealer": "Titus-Will Toyota"
@@ -5310,6 +5218,12 @@
           "price": 48998,
           "mileage": 37139,
           "dealer": "CarMax Puyallup"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48998,
+          "mileage": 37139,
+          "dealer": "CarMax Puyallup"
         }
       ]
     },
@@ -5346,12 +5260,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 44998,
-          "mileage": 42707,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-10-16",
           "price": 44998,
           "mileage": 42707,
@@ -5365,6 +5273,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44998,
+          "mileage": 42707,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44998,
           "mileage": 42707,
           "dealer": "CarMax Tulalip"
@@ -5404,12 +5318,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 39999,
-          "mileage": 62834,
-          "dealer": "State Street Motors"
-        },
-        {
           "date": "2026-10-16",
           "price": 39999,
           "mileage": 62834,
@@ -5423,6 +5331,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 39999,
+          "mileage": 62834,
+          "dealer": "State Street Motors"
+        },
+        {
+          "date": "2026-10-22",
           "price": 39999,
           "mileage": 62834,
           "dealer": "State Street Motors"
@@ -5439,34 +5353,28 @@
         "trim": "Platinum 7-Passenger",
         "price": 59198,
         "mileage": 8104,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
+        "exteriorColor": "Midnight Black Metallic",
+        "interiorColor": "Black leather",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Doxon Toyota of Auburn",
+        "dealer": "Doxon Toyota",
         "officialBrandDealer": true,
         "city": "Auburn",
         "state": "WA",
         "zip": "98002",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDESKFC4SS172366-1.jpg",
-        "photoCount": 28,
+        "photoCount": 8,
         "url": "https://www.autolist.com/toyota-sienna#vin=5TDESKFC4SS172366",
         "listedAt": "2026-09-12 21:39:31",
         "firstSeenDate": "2026-09-30"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 59198,
-          "mileage": 8104,
-          "dealer": "Doxon Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 59198,
@@ -5484,6 +5392,12 @@
           "price": 59198,
           "mileage": 8104,
           "dealer": "Doxon Toyota of Auburn"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 59198,
+          "mileage": 8104,
+          "dealer": "Doxon Toyota"
         }
       ]
     },
@@ -5495,23 +5409,23 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 8-Passenger",
-        "price": 48540,
+        "price": 49039,
         "mileage": 39873,
-        "exteriorColor": "Ruby Flare Pearl",
-        "interiorColor": "Gray leatherette",
+        "exteriorColor": "White",
+        "interiorColor": "Gray",
         "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
-        "dealer": "Liberty Bay Auto Center",
+        "dealer": "Liberty Bay Auto",
         "officialBrandDealer": false,
         "city": "Poulsbo",
         "state": "WA",
-        "zip": "98370",
+        "zip": "",
         "cpo": false,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDYRKEC3TS308580-1.jpg",
         "photoCount": 20,
         "url": "https://www.autolist.com/toyota-sienna#vin=5TDYRKEC3TS308580",
@@ -5520,16 +5434,16 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-18",
           "price": 48540,
           "mileage": 39873,
           "dealer": "Liberty Bay Auto Center"
         },
         {
-          "date": "2026-10-18",
-          "price": 48540,
+          "date": "2026-10-22",
+          "price": 49039,
           "mileage": 39873,
-          "dealer": "Liberty Bay Auto Center"
+          "dealer": "Liberty Bay Auto"
         }
       ]
     },
@@ -5566,12 +5480,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 53187,
-          "mileage": 11589,
-          "dealer": "Toyota of Kirkland"
-        },
-        {
           "date": "2026-10-16",
           "price": 53187,
           "mileage": 11589,
@@ -5603,7 +5511,7 @@
         "mileage": 41412,
         "exteriorColor": "Midnight Black Metallic",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -5624,12 +5532,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46999,
-          "mileage": 41412,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 46999,
           "mileage": 41412,
@@ -5646,6 +5548,12 @@
           "price": 46999,
           "mileage": 41412,
           "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46999,
+          "mileage": 41412,
+          "dealer": "toyota of renton"
         }
       ]
     },
@@ -5656,20 +5564,20 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "Platinum 7 Passenger",
+        "trim": "Platinum 7-Passenger",
         "price": 59800,
         "mileage": 10493,
-        "exteriorColor": "Ruby Flare Pearl",
+        "exteriorColor": "Red",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
-        "powertrain": "Hybrid",
-        "dealer": "findlay downtown toyota spokane",
+        "powertrain": "Gasoline",
+        "dealer": "Findlay Downtown Toyota Spokane",
         "officialBrandDealer": true,
         "city": "Spokane",
         "state": "WA",
         "zip": "99201",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
@@ -5681,12 +5589,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 59800,
-          "mileage": 10493,
-          "dealer": "Findlay Toyota Spokane"
-        },
         {
           "date": "2026-10-16",
           "price": 59800,
@@ -5704,6 +5606,12 @@
           "price": 59800,
           "mileage": 10493,
           "dealer": "findlay downtown toyota spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 59800,
+          "mileage": 10493,
+          "dealer": "Findlay Downtown Toyota Spokane"
         }
       ]
     },
@@ -5740,12 +5648,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 43998,
-          "mileage": 1838,
-          "dealer": "Platinum Autos"
-        },
-        {
           "date": "2026-10-16",
           "price": 42998,
           "mileage": 1838,
@@ -5759,6 +5661,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 41998,
+          "mileage": 1838,
+          "dealer": "Platinum Autos"
+        },
+        {
+          "date": "2026-10-22",
           "price": 41998,
           "mileage": 1838,
           "dealer": "Platinum Autos"
@@ -5798,12 +5706,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45200,
-          "mileage": 30503,
-          "dealer": "Doxon Toyota of Auburn"
-        },
-        {
           "date": "2026-10-16",
           "price": 45200,
           "mileage": 30503,
@@ -5817,6 +5719,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 45200,
+          "mileage": 30503,
+          "dealer": "Doxon Toyota of Auburn"
+        },
+        {
+          "date": "2026-10-22",
           "price": 45200,
           "mileage": 30503,
           "dealer": "Doxon Toyota of Auburn"
@@ -5856,12 +5764,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 60840,
-          "mileage": 7926,
-          "dealer": "Toyota of Yakima - Union Gap"
-        },
-        {
           "date": "2026-10-16",
           "price": 60840,
           "mileage": 7926,
@@ -5875,6 +5777,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 60839,
+          "mileage": 7926,
+          "dealer": "Toyota of Yakima - Union Gap"
+        },
+        {
+          "date": "2026-10-22",
           "price": 60839,
           "mileage": 7926,
           "dealer": "Toyota of Yakima - Union Gap"
@@ -5914,12 +5822,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42985,
-          "mileage": 44435,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 42985,
           "mileage": 44435,
@@ -5933,6 +5835,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 42985,
+          "mileage": 44435,
+          "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 42985,
           "mileage": 44435,
           "dealer": "Titus-Will Toyota"
@@ -5954,7 +5862,7 @@
         "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Toyota",
+        "dealer": "dick hannah toyota",
         "officialBrandDealer": true,
         "city": "Kelso",
         "state": "WA",
@@ -5972,12 +5880,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 38984,
-          "mileage": 69252,
-          "dealer": "Dick Hannah Toyota"
-        },
-        {
           "date": "2026-10-18",
           "price": 38984,
           "mileage": 69253,
@@ -5988,6 +5890,12 @@
           "price": 38984,
           "mileage": 69253,
           "dealer": "Dick Hannah Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 38984,
+          "mileage": 69253,
+          "dealer": "dick hannah toyota"
         }
       ]
     },
@@ -6024,12 +5932,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 52377,
-          "mileage": 19262,
-          "dealer": "Frontier Ford"
-        },
-        {
           "date": "2026-10-16",
           "price": 52377,
           "mileage": 19262,
@@ -6046,6 +5948,12 @@
           "price": 52377,
           "mileage": 19262,
           "dealer": "Frontier Ford"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 52377,
+          "mileage": 19262,
+          "dealer": "Frontier Ford"
         }
       ]
     },
@@ -6057,8 +5965,8 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "XLE 7-Passenger",
-        "price": 46950,
-        "mileage": 37241,
+        "price": 45100,
+        "mileage": 37245,
         "exteriorColor": "Gray",
         "interiorColor": "Gray",
         "seats": 7,
@@ -6075,18 +5983,12 @@
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5TDYRKEC2SS242571-1.jpg",
-        "photoCount": 7,
-        "url": "https://www.volkswagenofolympia.com/used-Olympia-2025-Toyota-Sienna-XLE+8+Passenger-5TDYRKEC2SS242571",
+        "photoCount": 21,
+        "url": "https://www.volkswagenofolympia.com/used-Olympia-2025-Toyota-Sienna-XLE-5TDYRKEC2SS242571",
         "listedAt": "2026-10-01 19:47:37",
         "firstSeenDate": "2026-10-04"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 46950,
-          "mileage": 37241,
-          "dealer": "I-5 Toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 46950,
@@ -6103,6 +6005,12 @@
           "date": "2026-10-20",
           "price": 46950,
           "mileage": 37241,
+          "dealer": "I-5 Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 45100,
+          "mileage": 37245,
           "dealer": "I-5 Toyota"
         }
       ]
@@ -6140,12 +6048,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 40191,
-          "mileage": 70748,
-          "dealer": "McCord's Vancouver Toyota"
-        },
-        {
           "date": "2026-10-16",
           "price": 40191,
           "mileage": 70748,
@@ -6159,6 +6061,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 40191,
+          "mileage": 70748,
+          "dealer": "McCord's Vancouver Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 40191,
           "mileage": 70748,
           "dealer": "McCord's Vancouver Toyota"
@@ -6198,12 +6106,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 51987,
-          "mileage": 29108,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-10-18",
           "price": 51987,
           "mileage": 29108,
@@ -6211,6 +6113,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 51987,
+          "mileage": 29108,
+          "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
           "price": 51987,
           "mileage": 29108,
           "dealer": "Titus-Will Toyota"
@@ -6243,18 +6151,12 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDCSKFC0RS142086-1.jpg",
-        "photoCount": 6,
-        "url": "https://www.tituswillusedcarssumner.com/used-Sumner-2024-Toyota-Sienna-XSE+7+Passenger-5TDCSKFC0RS142086",
+        "photoCount": 37,
+        "url": "https://www.autolist.com/toyota-sienna#vin=5TDCSKFC0RS142086",
         "listedAt": "2026-10-02 23:13:40",
         "firstSeenDate": "2026-10-08"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 52199,
-          "mileage": 24513,
-          "dealer": "Titus Will Used Cars+Trucks - Sumner"
-        },
         {
           "date": "2026-10-16",
           "price": 52199,
@@ -6269,6 +6171,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 52199,
+          "mileage": 24513,
+          "dealer": "Titus Will Used Cars+Trucks - Sumner"
+        },
+        {
+          "date": "2026-10-22",
           "price": 52199,
           "mileage": 24513,
           "dealer": "Titus Will Used Cars+Trucks - Sumner"
@@ -6308,12 +6216,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42998,
-          "mileage": 19088,
-          "dealer": "Rodland Toyota of Everett"
-        },
-        {
           "date": "2026-10-16",
           "price": 42998,
           "mileage": 19088,
@@ -6327,6 +6229,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 42998,
+          "mileage": 19088,
+          "dealer": "Rodland Toyota of Everett"
+        },
+        {
+          "date": "2026-10-22",
           "price": 42998,
           "mileage": 19088,
           "dealer": "Rodland Toyota of Everett"
@@ -6366,12 +6274,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 39795,
-          "mileage": 54570,
-          "dealer": "burien chevrolet"
-        },
-        {
           "date": "2026-10-16",
           "price": 39795,
           "mileage": 54570,
@@ -6385,6 +6287,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 39795,
+          "mileage": 54570,
+          "dealer": "burien chevrolet"
+        },
+        {
+          "date": "2026-10-22",
           "price": 39795,
           "mileage": 54570,
           "dealer": "burien chevrolet"
@@ -6402,11 +6310,11 @@
         "price": 52956,
         "mileage": 3672,
         "exteriorColor": "Gray",
-        "interiorColor": "Gray",
+        "interiorColor": "Black",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Toyota",
+        "dealer": "dick hannah toyota",
         "officialBrandDealer": true,
         "city": "Kelso",
         "state": "WA",
@@ -6440,6 +6348,12 @@
           "price": 52956,
           "mileage": 3672,
           "dealer": "Dick Hannah Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 52956,
+          "mileage": 3672,
+          "dealer": "dick hannah toyota"
         }
       ]
     },
@@ -6476,12 +6390,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 49950,
-          "mileage": 16392,
-          "dealer": "Platinum Auto Brokers"
-        },
-        {
           "date": "2026-10-16",
           "price": 49950,
           "mileage": 16392,
@@ -6495,6 +6403,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 49950,
+          "mileage": 16392,
+          "dealer": "Platinum Auto Brokers"
+        },
+        {
+          "date": "2026-10-22",
           "price": 49950,
           "mileage": 16392,
           "dealer": "Platinum Auto Brokers"
@@ -6533,12 +6447,6 @@
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 45999,
-          "mileage": 16169,
-          "dealer": "State Street Motors"
-        },
         {
           "date": "2026-10-16",
           "price": 45999,
@@ -6580,12 +6488,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 45195,
-          "mileage": 35615,
-          "dealer": "Brotherton Buick GMC in Renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 44088,
           "mileage": 35615,
@@ -6599,6 +6501,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 44088,
+          "mileage": 35615,
+          "dealer": "Brotherton Buick GMC in Renton"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44088,
           "mileage": 35615,
           "dealer": "Brotherton Buick GMC in Renton"
@@ -6617,7 +6525,7 @@
         "mileage": 44468,
         "exteriorColor": "Predawn Gray Mica",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -6638,12 +6546,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46999,
-          "mileage": 44468,
-          "dealer": "toyota of renton"
-        },
-        {
           "date": "2026-10-16",
           "price": 46999,
           "mileage": 44468,
@@ -6657,6 +6559,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 46999,
+          "mileage": 44468,
+          "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
           "price": 46999,
           "mileage": 44468,
           "dealer": "toyota of renton"
@@ -6696,12 +6604,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 32140,
-          "mileage": 141899,
-          "dealer": "Chuck Olson Chevrolet"
-        },
-        {
           "date": "2026-10-16",
           "price": 31227,
           "mileage": 141902,
@@ -6715,6 +6617,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 30391,
+          "mileage": 141902,
+          "dealer": "Chuck Olson Chevrolet"
+        },
+        {
+          "date": "2026-10-22",
           "price": 30391,
           "mileage": 141902,
           "dealer": "Chuck Olson Chevrolet"
@@ -6754,12 +6662,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46500,
-          "mileage": 9872,
-          "dealer": "mb motors llc"
-        },
-        {
           "date": "2026-10-16",
           "price": 46700,
           "mileage": 9872,
@@ -6779,7 +6681,7 @@
         "mileage": 7104,
         "exteriorColor": "Black",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "imports classics",
@@ -6800,12 +6702,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 52999,
-          "mileage": null,
-          "dealer": "imports classics"
-        },
-        {
           "date": "2026-10-16",
           "price": 52999,
           "mileage": null,
@@ -6819,6 +6715,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 51999,
+          "mileage": 7104,
+          "dealer": "imports classics"
+        },
+        {
+          "date": "2026-10-22",
           "price": 51999,
           "mileage": 7104,
           "dealer": "imports classics"
@@ -6858,12 +6760,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 42998,
-          "mileage": 16142,
-          "dealer": "CarMax - Puyallup"
-        },
-        {
           "date": "2026-10-16",
           "price": 42998,
           "mileage": 16142,
@@ -6877,6 +6773,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 42998,
+          "mileage": 16142,
+          "dealer": "CarMax - Puyallup"
+        },
+        {
+          "date": "2026-10-22",
           "price": 42998,
           "mileage": 16142,
           "dealer": "CarMax - Puyallup"
@@ -6916,12 +6818,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 43000,
-          "mileage": 13388,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-16",
           "price": 42700,
           "mileage": 13388,
@@ -6935,6 +6831,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 42700,
+          "mileage": 13388,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-10-22",
           "price": 42700,
           "mileage": 13388,
           "dealer": "Go Kia Tacoma"
@@ -6973,12 +6875,6 @@
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 46998,
-          "mileage": 2932,
-          "dealer": "foothills toyota"
-        },
         {
           "date": "2026-10-16",
           "price": 47198,
@@ -7026,12 +6922,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41685,
-          "mileage": 51471,
-          "dealer": "Toyota of Lake City"
-        },
-        {
           "date": "2026-10-16",
           "price": 41685,
           "mileage": 51471,
@@ -7048,6 +6938,12 @@
           "price": 41685,
           "mileage": 51471,
           "dealer": "Toyota of Lake City"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 41685,
+          "mileage": 51471,
+          "dealer": "Toyota of Lake City"
         }
       ]
     },
@@ -7058,15 +6954,15 @@
         "year": 2023,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE",
-        "price": 40995,
+        "trim": "XLE 7-Passenger",
+        "price": 41194,
         "mileage": 70397,
         "exteriorColor": "Celestial Silver Metallic",
         "interiorColor": "Graphite leatherette",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
-        "powertrain": "Hybrid",
-        "dealer": "subaru of spokane",
+        "powertrain": "Gasoline",
+        "dealer": "Subaru of Spokane",
         "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
@@ -7084,12 +6980,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 41195,
-          "mileage": 70397,
-          "dealer": "Subaru of Spokane"
-        },
-        {
           "date": "2026-10-16",
           "price": 41194,
           "mileage": 70397,
@@ -7106,6 +6996,12 @@
           "price": 40995,
           "mileage": 70397,
           "dealer": "subaru of spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 41194,
+          "mileage": 70397,
+          "dealer": "Subaru of Spokane"
         }
       ]
     },
@@ -7142,12 +7038,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46112,
-          "mileage": null,
-          "dealer": "Jet Chevrolet"
-        },
-        {
           "date": "2026-10-16",
           "price": 46112,
           "mileage": null,
@@ -7164,6 +7054,12 @@
           "price": 46112,
           "mileage": null,
           "dealer": "Jet Chevrolet"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46112,
+          "mileage": null,
+          "dealer": "Jet Chevrolet"
         }
       ]
     },
@@ -7174,10 +7070,10 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE Woodland Edition",
+        "trim": "XSE 7-Passenger",
         "price": 59197,
         "mileage": 18138,
-        "exteriorColor": "Silver",
+        "exteriorColor": "Celestial Silver Metallic",
         "interiorColor": "Black",
         "seats": 7,
         "drivetrain": "AWD",
@@ -7193,18 +7089,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDCSKFC0SS162635-1.jpg",
-        "photoCount": 1,
+        "photoCount": 33,
         "url": "https://www.toyotaofbellevue.com/used-Bellevue-2025-Toyota-Sienna-XSE-5TDCSKFC0SS162635",
         "listedAt": "2026-10-10 20:04:45",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-10-14",
-          "price": 59197,
-          "mileage": 18133,
-          "dealer": "Michael's Toyota of Bellevue"
-        },
         {
           "date": "2026-10-16",
           "price": 59197,
@@ -7222,6 +7112,12 @@
           "price": 59197,
           "mileage": 18138,
           "dealer": "Michael's Toyota of Bellevue"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 59197,
+          "mileage": 18138,
+          "dealer": "Michael's Toyota of Bellevue"
         }
       ]
     },
@@ -7233,10 +7129,10 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "Platinum 7-Passenger",
-        "price": 55195,
+        "price": 54995,
         "mileage": 18104,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
+        "exteriorColor": "Midnight Black Metallic",
+        "interiorColor": "Black leather",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -7258,12 +7154,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 54995,
-          "mileage": 18104,
-          "dealer": "ZAG Motors Everett"
-        },
-        {
           "date": "2026-10-16",
           "price": 54995,
           "mileage": 18104,
@@ -7278,6 +7168,12 @@
         {
           "date": "2026-10-20",
           "price": 55195,
+          "mileage": 18104,
+          "dealer": "ZAG Motors Everett"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 54995,
           "mileage": 18104,
           "dealer": "ZAG Motors Everett"
         }
@@ -7295,7 +7191,7 @@
         "mileage": 44959,
         "exteriorColor": "Cement",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of pullman",
@@ -7316,12 +7212,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-14",
-          "price": 46417,
-          "mileage": 44959,
-          "dealer": "toyota of pullman"
-        },
-        {
           "date": "2026-10-16",
           "price": 46567,
           "mileage": 44959,
@@ -7338,6 +7228,12 @@
           "price": 46417,
           "mileage": 44959,
           "dealer": "toyota of pullman"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46417,
+          "mileage": 44959,
+          "dealer": "toyota of pullman"
         }
       ]
     },
@@ -7348,15 +7244,15 @@
         "year": 2023,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XLE 8-Passenger",
+        "trim": "XLE",
         "price": 43934,
         "mileage": 33381,
-        "exteriorColor": "Gray",
-        "interiorColor": "Gray",
+        "exteriorColor": "Predawn Gray Mica",
+        "interiorColor": "Graphite",
         "seats": 8,
         "drivetrain": "FWD",
         "powertrain": "Gasoline",
-        "dealer": "Dick Hannah Honda",
+        "dealer": "dick hannah honda",
         "officialBrandDealer": false,
         "city": "Vancouver",
         "state": "WA",
@@ -7368,7 +7264,7 @@
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/5TDYRKEC0PS173693-1.jpg",
         "photoCount": 24,
-        "url": "https://www.autolist.com/toyota-sienna#vin=5TDYRKEC0PS173693",
+        "url": "https://www.dickhannahvolkswagen.com/inventory/used-2023-toyota-sienna-xle-fwd-4d-passenger-van-5tdyrkec0ps173693/",
         "listedAt": "2026-10-14 23:29:48",
         "firstSeenDate": "2026-10-16"
       },
@@ -7390,6 +7286,12 @@
           "price": 43934,
           "mileage": 33381,
           "dealer": "Dick Hannah Honda"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 43934,
+          "mileage": 33381,
+          "dealer": "dick hannah honda"
         }
       ]
     },
@@ -7442,6 +7344,12 @@
           "price": 26995,
           "mileage": 157798,
           "dealer": "Parkway Auto"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 26995,
+          "mileage": 157798,
+          "dealer": "Parkway Auto"
         }
       ]
     },
@@ -7452,15 +7360,15 @@
         "year": 2023,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "Limited",
-        "price": 52994,
+        "trim": "Limited 7-Passenger",
+        "price": 53998,
         "mileage": 22109,
         "exteriorColor": "Predawn Gray Mica",
-        "interiorColor": "Gray",
-        "seats": null,
+        "interiorColor": "Graphite leather",
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "toyota of puyallup",
+        "dealer": "Toyota of Puyallup",
         "officialBrandDealer": true,
         "city": "Puyallup",
         "state": "WA",
@@ -7471,7 +7379,7 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDZSKFC5PS096942-1.jpg",
-        "photoCount": 1,
+        "photoCount": 4,
         "url": "https://www.toyotaofpuyallup.com/viewdetails/used/5tdzskfc5ps096942/2023-toyota-sienna-mini-van,-passenger?type=cash",
         "listedAt": "2026-10-14 21:08:47",
         "firstSeenDate": "2026-10-16"
@@ -7494,6 +7402,12 @@
           "price": 52994,
           "mileage": 22109,
           "dealer": "toyota of puyallup"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53998,
+          "mileage": 22109,
+          "dealer": "Toyota of Puyallup"
         }
       ]
     },
@@ -7546,6 +7460,12 @@
           "price": 48050,
           "mileage": 12606,
           "dealer": "Rainier Dodge"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 48050,
+          "mileage": 12606,
+          "dealer": "Rainier Dodge"
         }
       ]
     },
@@ -7561,7 +7481,7 @@
         "mileage": 40878,
         "exteriorColor": "Celestial Silver Metallic",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of renton",
@@ -7575,7 +7495,7 @@
         "accidentCount": 0,
         "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/5TDKSKFC3RS136617-1.jpg",
-        "photoCount": 3,
+        "photoCount": 29,
         "url": "https://toyotaofrenton.com/electric-certified/Toyota/2024-Toyota-Sienna-3d0f506eac1810359a18d23277f0f947.htm",
         "listedAt": "2026-10-15 02:29:21",
         "firstSeenDate": "2026-10-16"
@@ -7598,6 +7518,12 @@
           "price": 46999,
           "mileage": 40878,
           "dealer": "toyota of renton"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 46999,
+          "mileage": 40878,
+          "dealer": "toyota of renton"
         }
       ]
     },
@@ -7609,11 +7535,11 @@
         "make": "Toyota",
         "model": "Sienna",
         "trim": "LE 8 Passenger",
-        "price": 43386,
+        "price": 42986,
         "mileage": 38959,
         "exteriorColor": "Silver",
         "interiorColor": "Black",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "FWD",
         "powertrain": "Hybrid",
         "dealer": "pierre gmc of everett",
@@ -7648,6 +7574,12 @@
         {
           "date": "2026-10-20",
           "price": 43386,
+          "mileage": 38959,
+          "dealer": "pierre gmc of everett"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 42986,
           "mileage": 38959,
           "dealer": "pierre gmc of everett"
         }
@@ -7702,6 +7634,12 @@
           "price": 55995,
           "mileage": 12861,
           "dealer": "Titus-Will Toyota"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 55995,
+          "mileage": 12861,
+          "dealer": "Titus-Will Toyota"
         }
       ]
     },
@@ -7712,11 +7650,11 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "XSE",
+        "trim": "XSE 7-Passenger",
         "price": 53977,
         "mileage": 5915,
         "exteriorColor": "Black",
-        "interiorColor": "Gray",
+        "interiorColor": "Black",
         "seats": null,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
@@ -7754,6 +7692,12 @@
           "price": 53977,
           "mileage": 5915,
           "dealer": "Frontier Chevrolet"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53977,
+          "mileage": 5915,
+          "dealer": "Frontier Chevrolet"
         }
       ]
     },
@@ -7769,7 +7713,7 @@
         "mileage": 60910,
         "exteriorColor": "Celestial Silver",
         "interiorColor": "Graphite",
-        "seats": null,
+        "seats": 8,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "toyota of bellingham",
@@ -7783,7 +7727,7 @@
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDKSKFC8NS050696-1.jpg",
-        "photoCount": 1,
+        "photoCount": 10,
         "url": "https://toyotaofbellingham.com/electric-used/Toyota/2022-Toyota-Sienna-4c84281aac18437bfc1e90ace62b6031.htm",
         "listedAt": "2026-10-18 04:37:18",
         "firstSeenDate": "2026-10-18"
@@ -7797,6 +7741,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 35781,
+          "mileage": 60910,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 35781,
           "mileage": 60910,
           "dealer": "toyota of bellingham"
@@ -7815,7 +7765,7 @@
         "mileage": 85239,
         "exteriorColor": "White",
         "interiorColor": "Leather",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "eastlake auto brokers",
@@ -7846,6 +7796,12 @@
           "price": 41950,
           "mileage": 85239,
           "dealer": "eastlake auto brokers"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 41950,
+          "mileage": 85239,
+          "dealer": "eastlake auto brokers"
         }
       ]
     },
@@ -7859,17 +7815,17 @@
         "trim": "XLE 7-Passenger",
         "price": 50195,
         "mileage": 10921,
-        "exteriorColor": "Wind Chill Pearl",
+        "exteriorColor": "White",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "AWD",
-        "powertrain": "Hybrid",
-        "dealer": "findlay downtown toyota spokane",
+        "powertrain": "Gasoline",
+        "dealer": "Findlay Downtown Toyota Spokane",
         "officialBrandDealer": true,
         "city": "Spokane",
         "state": "WA",
         "zip": "99201",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
@@ -7892,6 +7848,12 @@
           "price": 50195,
           "mileage": 10921,
           "dealer": "findlay downtown toyota spokane"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 50195,
+          "mileage": 10921,
+          "dealer": "Findlay Downtown Toyota Spokane"
         }
       ]
     },
@@ -7902,12 +7864,12 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "Unspecified",
+        "trim": "Limited",
         "price": 58471,
         "mileage": 13145,
         "exteriorColor": "Celestial Silver",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of bellingham",
@@ -7921,7 +7883,7 @@
         "accidentCount": 0,
         "usageType": "Lease Use",
         "image": "https://retail.photos.vin/5TDGSKFC2SS197405-1.jpg",
-        "photoCount": 1,
+        "photoCount": 45,
         "url": "https://toyotaofbellingham.com/electric-used/Toyota/2025-Toyota-Sienna-491a52fcac181d9801f3d376373fe684.htm",
         "listedAt": "2026-10-18 04:37:18",
         "firstSeenDate": "2026-10-18"
@@ -7935,6 +7897,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 58471,
+          "mileage": 13145,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 58471,
           "mileage": 13145,
           "dealer": "toyota of bellingham"
@@ -7953,7 +7921,7 @@
         "mileage": 10257,
         "exteriorColor": "Celestial Silver",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of bellingham",
@@ -7967,7 +7935,7 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/5TDGSKFC6SS159286-1.jpg",
-        "photoCount": 1,
+        "photoCount": 41,
         "url": "https://toyotaofbellingham.com/electric-used/Toyota/2025-Toyota-Sienna-491a58ccac183e6b779161e5d9d3a311.htm",
         "listedAt": "2026-10-18 04:37:18",
         "firstSeenDate": "2026-10-18"
@@ -7984,6 +7952,12 @@
           "price": 53721,
           "mileage": 10257,
           "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53721,
+          "mileage": 10257,
+          "dealer": "toyota of bellingham"
         }
       ]
     },
@@ -7994,12 +7968,12 @@
         "year": 2025,
         "make": "Toyota",
         "model": "Sienna",
-        "trim": "Unspecified",
+        "trim": "Limited",
         "price": 58751,
         "mileage": 7151,
         "exteriorColor": "Wind Chill Pearl",
         "interiorColor": "Gray",
-        "seats": null,
+        "seats": 2,
         "drivetrain": "AWD",
         "powertrain": "Hybrid",
         "dealer": "toyota of bellingham",
@@ -8013,7 +7987,7 @@
         "accidentCount": 0,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5TDGSKFCXSS200891-1.jpg",
-        "photoCount": 1,
+        "photoCount": 45,
         "url": "https://toyotaofbellingham.com/electric-used/Toyota/2025-Toyota-Sienna-491a547fac18437bfc1e90ac7e48a65b.htm",
         "listedAt": "2026-10-18 04:37:18",
         "firstSeenDate": "2026-10-18"
@@ -8027,6 +8001,12 @@
         },
         {
           "date": "2026-10-20",
+          "price": 58751,
+          "mileage": 7151,
+          "dealer": "toyota of bellingham"
+        },
+        {
+          "date": "2026-10-22",
           "price": 58751,
           "mileage": 7151,
           "dealer": "toyota of bellingham"
@@ -8059,7 +8039,7 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/5TDJSKFC7PS073935-1.jpg",
-        "photoCount": 1,
+        "photoCount": 5,
         "url": "https://www.toyotaofbellevue.com/used-Bellevue-2023-Toyota-Sienna-XLE-5TDJSKFC7PS073935",
         "listedAt": "2026-10-18 20:26:49",
         "firstSeenDate": "2026-10-20"
@@ -8067,6 +8047,12 @@
       "observations": [
         {
           "date": "2026-10-20",
+          "price": 44197,
+          "mileage": 78944,
+          "dealer": "Michael's Toyota of Bellevue"
+        },
+        {
+          "date": "2026-10-22",
           "price": 44197,
           "mileage": 78944,
           "dealer": "Michael's Toyota of Bellevue"
@@ -8110,6 +8096,172 @@
           "price": 63187,
           "mileage": 2481,
           "dealer": "Toyota of Kirkland"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 63187,
+          "mileage": 2481,
+          "dealer": "Toyota of Kirkland"
+        }
+      ]
+    },
+    "5TDKSKFC0RS129995": {
+      "lastKnown": {
+        "id": "5tdkskfc0rs129995",
+        "vin": "5TDKSKFC0RS129995",
+        "year": 2024,
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "LE",
+        "price": 45999,
+        "mileage": 42487,
+        "exteriorColor": "Gray",
+        "interiorColor": "Graphite",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Other",
+        "dealer": "toyota of renton",
+        "officialBrandDealer": true,
+        "city": "Renton",
+        "state": "WA",
+        "zip": "98057",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/5TDKSKFC0RS129995-1.jpg",
+        "photoCount": 3,
+        "url": "https://toyotaofrenton.com/electric-used/Toyota/2024-Toyota-Sienna-611d9d31ac185949e7beb42fc2a6fe44.htm",
+        "listedAt": "2026-10-22 05:38:40",
+        "firstSeenDate": "2026-10-22"
+      },
+      "observations": [
+        {
+          "date": "2026-10-22",
+          "price": 45999,
+          "mileage": 42487,
+          "dealer": "toyota of renton"
+        }
+      ]
+    },
+    "5TDGSKFC2RS136954": {
+      "lastKnown": {
+        "id": "5tdgskfc2rs136954",
+        "vin": "5TDGSKFC2RS136954",
+        "year": 2024,
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "XSE",
+        "price": 46500,
+        "mileage": 18012,
+        "exteriorColor": "Ruby Flare Pearl",
+        "interiorColor": "Graphite",
+        "seats": null,
+        "drivetrain": "AWD",
+        "powertrain": "Hybrid",
+        "dealer": "mb motors llc",
+        "officialBrandDealer": false,
+        "city": "Bellingham",
+        "state": "WA",
+        "zip": "98225",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/5TDGSKFC2RS136954-1.jpg",
+        "photoCount": 41,
+        "url": "https://mbmotorsllc.com/used/Toyota/2024-Toyota-Sienna-1aba5ab8ac184769a7e64763145c6a76.htm",
+        "listedAt": "2026-10-12 01:57:29",
+        "firstSeenDate": "2026-10-22"
+      },
+      "observations": [
+        {
+          "date": "2026-10-22",
+          "price": 46500,
+          "mileage": 18012,
+          "dealer": "mb motors llc"
+        }
+      ]
+    },
+    "5TDGRKECXRS219903": {
+      "lastKnown": {
+        "id": "5tdgrkecxrs219903",
+        "vin": "5TDGRKECXRS219903",
+        "year": 2024,
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "XLE 8-Passenger",
+        "price": 44880,
+        "mileage": 35023,
+        "exteriorColor": "Silver",
+        "interiorColor": "Gray",
+        "seats": null,
+        "drivetrain": "FWD",
+        "powertrain": "Hybrid",
+        "dealer": "Titus-Will Used Cars - Lakewood",
+        "officialBrandDealer": false,
+        "city": "Lakewood",
+        "state": "WA",
+        "zip": "",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/5TDGRKECXRS219903-1.jpg",
+        "photoCount": 19,
+        "url": "https://www.tituswillusedcarslakewood.com/used-Lakewood-2024-Toyota-Sienna-XLE+7+Passenger-5TDGRKECXRS219903",
+        "listedAt": "2026-10-21 05:47:31",
+        "firstSeenDate": "2026-10-22"
+      },
+      "observations": [
+        {
+          "date": "2026-10-22",
+          "price": 44880,
+          "mileage": 35023,
+          "dealer": "Titus-Will Used Cars - Lakewood"
+        }
+      ]
+    },
+    "5TDXSKFC6TS244601": {
+      "lastKnown": {
+        "id": "5tdxskfc6ts244601",
+        "vin": "5TDXSKFC6TS244601",
+        "year": 2026,
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "XSE 7-Passenger",
+        "price": 50998,
+        "mileage": 9300,
+        "exteriorColor": "Cement",
+        "interiorColor": "Moonstone/Black leatherette",
+        "seats": 7,
+        "drivetrain": "AWD",
+        "powertrain": "Gasoline",
+        "dealer": "Heartland Toyota",
+        "officialBrandDealer": true,
+        "city": "Bremerton",
+        "state": "WA",
+        "zip": "98312",
+        "cpo": false,
+        "oneOwner": false,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Rental Use",
+        "image": "https://retail.photos.vin/5TDXSKFC6TS244601-1.jpg",
+        "photoCount": 8,
+        "url": "https://westhillshonda.com/used/Toyota/2026-Toyota-Sienna-5db886fcac185d85c7329a1a0bea4e63.htm",
+        "listedAt": "2026-10-22 01:20:40",
+        "firstSeenDate": "2026-10-22"
+      },
+      "observations": [
+        {
+          "date": "2026-10-22",
+          "price": 50998,
+          "mileage": 9300,
+          "dealer": "Heartland Toyota"
         }
       ]
     }

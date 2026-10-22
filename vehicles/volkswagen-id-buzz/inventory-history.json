@@ -1,19 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-21T14:29:14.654967+00:00",
+  "updatedAt": "2026-10-22T14:30:55.516430+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-15",
-      "vins": [
-        "WVG6YVEB4SH029429",
-        "WVG6YVEB4SH042679",
-        "WVG6YVEB5SH006984",
-        "WVGAWVEB7SH016559",
-        "WVGAWVEB9SH019253",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB1SH056390"
-      ]
-    },
     {
       "date": "2026-10-16",
       "vins": [
@@ -78,6 +66,17 @@
         "WVGAWVEB7SH016559",
         "WVGAWVEBXSH012750"
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "vins": [
+        "WVG5WVEB2SH026823",
+        "WVG6YVEB3SH045993",
+        "WVG6YVEB4SH042679",
+        "WVG6YVEB5SH006984",
+        "WVGAWVEB7SH016559",
+        "WVGAWVEBXSH012750"
+      ]
     }
   ],
   "vehicles": {
@@ -114,12 +113,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-15",
-          "price": 58670,
-          "mileage": 777,
-          "dealer": "auto 206 inc"
-        },
-        {
           "date": "2026-10-16",
           "price": 58670,
           "mileage": 777,
@@ -135,7 +128,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S",
-        "price": 53858,
+        "price": 53050,
         "mileage": 1558,
         "exteriorColor": "Deep Black Pearl",
         "interiorColor": "Moonlight leatherette",
@@ -160,12 +153,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-15",
-          "price": 53858,
-          "mileage": 1558,
-          "dealer": "Driveway"
-        },
-        {
           "date": "2026-10-17",
           "price": 53858,
           "mileage": 1558,
@@ -182,6 +169,12 @@
           "price": 53858,
           "mileage": 1558,
           "dealer": "Driveway"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 53050,
+          "mileage": 1558,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -193,10 +186,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 65088,
+        "price": 64888,
         "mileage": 12334,
-        "exteriorColor": "Cabana Blue/Candy White",
-        "interiorColor": "Dune leatherette",
+        "exteriorColor": "Cabana Blue",
+        "interiorColor": "Dune",
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -205,7 +198,7 @@
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
@@ -217,12 +210,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-15",
-          "price": 65088,
-          "mileage": 12334,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-16",
           "price": 64888,
@@ -258,6 +245,12 @@
           "price": 65088,
           "mileage": 12334,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 64888,
+          "mileage": 12334,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -273,7 +266,7 @@
         "mileage": 6143,
         "exteriorColor": "Silver Metallic",
         "interiorColor": "Copper",
-        "seats": null,
+        "seats": 7,
         "drivetrain": "RWD",
         "powertrain": "Electric",
         "dealer": "Volkswagen of Puyallup",
@@ -294,12 +287,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-15",
-          "price": 53511,
-          "mileage": 6143,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-10-16",
           "price": 53511,
           "mileage": 6143,
@@ -331,6 +318,12 @@
         },
         {
           "date": "2026-10-21",
+          "price": 53453,
+          "mileage": 6143,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-10-22",
           "price": 53453,
           "mileage": 6143,
           "dealer": "Volkswagen of Puyallup"
@@ -369,12 +362,6 @@
         "firstSeenDate": "2026-10-08"
       },
       "observations": [
-        {
-          "date": "2026-10-15",
-          "price": 65088,
-          "mileage": 17145,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-16",
           "price": 64888,
@@ -434,12 +421,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-15",
-          "price": 65088,
-          "mileage": 19117,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-10-16",
           "price": 64888,
           "mileage": 19117,
@@ -471,6 +452,12 @@
         },
         {
           "date": "2026-10-21",
+          "price": 65088,
+          "mileage": 19117,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-22",
           "price": 65088,
           "mileage": 19117,
           "dealer": "Volkswagen of Kirkland"
@@ -509,12 +496,6 @@
         "firstSeenDate": "2026-10-10"
       },
       "observations": [
-        {
-          "date": "2026-10-15",
-          "price": 65988,
-          "mileage": 17189,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-16",
           "price": 65788,
@@ -584,6 +565,12 @@
           "price": 67163,
           "mileage": 7299,
           "dealer": "Wilder Honda"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 67163,
+          "mileage": 7299,
+          "dealer": "Wilder Honda"
         }
       ]
     },
@@ -608,10 +595,10 @@
         "state": "WA",
         "zip": "98034",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": false,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WVG5WVEB2SH026823-1.jpg",
         "photoCount": 0,
         "url": "https://vwofkirkland.com/electric-used/Volkswagen/2025-Volkswagen-ID.-Buzz-4f216725ac183d947b673ca842f0bedb.htm",
@@ -633,6 +620,12 @@
         },
         {
           "date": "2026-10-21",
+          "price": 59088,
+          "mileage": null,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-10-22",
           "price": 59088,
           "mileage": null,
           "dealer": "Volkswagen of Kirkland"
