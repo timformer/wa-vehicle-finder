@@ -1,20 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-25T13:43:11.878222+00:00",
+  "updatedAt": "2026-10-26T16:07:33.535338+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-19",
-      "vins": [
-        "7JDDA3VL3TG060621",
-        "7JDE23KL9SG005966",
-        "7JDE23KLXSG000680",
-        "7JDE23VK5SG000718",
-        "7JDE23VL3SG007904",
-        "7JDE23VL5SG000517",
-        "7JDEV3KL2SG000597",
-        "7JDEV3VK4SG016898"
-      ]
-    },
     {
       "date": "2026-10-20",
       "vins": [
@@ -81,6 +68,17 @@
         "7JDE23VL5SG000517",
         "7JDEV3KL2SG000597"
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "vins": [
+        "7JDDA3VL3TG060621",
+        "7JDE23KLXSG000680",
+        "7JDE23VK5SG000718",
+        "7JDE23VL3SG007904",
+        "7JDE23VL5SG000517",
+        "7JDEV3KL2SG000597"
+      ]
     }
   ],
   "vehicles": {
@@ -116,12 +114,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-19",
-          "price": 53222,
-          "mileage": 21804,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-20",
           "price": 53422,
@@ -169,12 +161,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 62181,
-          "mileage": 5645,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 59526,
           "mileage": 5645,
@@ -206,6 +192,12 @@
         },
         {
           "date": "2026-10-25",
+          "price": 66487,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
           "price": 66487,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
@@ -245,12 +237,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 58344,
-          "mileage": 13861,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 57129,
           "mileage": 13861,
@@ -282,6 +268,12 @@
         },
         {
           "date": "2026-10-25",
+          "price": 57129,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
           "price": 57129,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
@@ -321,12 +313,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 63988,
-          "mileage": 13793,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 63988,
           "mileage": 13793,
@@ -358,6 +344,12 @@
         },
         {
           "date": "2026-10-25",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
@@ -397,12 +389,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 58682,
-          "mileage": 7980,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 58682,
           "mileage": 7980,
@@ -418,10 +404,10 @@
         "make": "Volvo",
         "model": "EX90",
         "trim": "Twin Motor Performance Ultra",
-        "price": 83588,
+        "price": 2500,
         "mileage": 8299,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
+        "exteriorColor": "Denim Blue Metallic",
+        "interiorColor": "Charcoal",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -436,18 +422,12 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/7JDDA3VL3TG060621-1.jpg",
-        "photoCount": 34,
+        "photoCount": 6,
         "url": "https://www.swickardtoyota.com/used-Edmonds-2026-Volvo-EX90-Ultra-7JDDA3VL3TG060621",
         "listedAt": "2026-09-17 19:36:31",
         "firstSeenDate": "2026-09-19"
       },
       "observations": [
-        {
-          "date": "2026-10-19",
-          "price": 84088,
-          "mileage": 8299,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-10-20",
           "price": 2000,
@@ -469,6 +449,12 @@
         {
           "date": "2026-10-25",
           "price": 83588,
+          "mileage": 8299,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2500,
           "mileage": 8299,
           "dealer": "Volvo Cars Bellevue"
         }
@@ -507,12 +493,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 54750,
-          "mileage": 25698,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 54750,
           "mileage": 25698,
@@ -544,6 +524,12 @@
         },
         {
           "date": "2026-10-25",
+          "price": 54250,
+          "mileage": 25698,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
           "price": 54250,
           "mileage": 25698,
           "dealer": "Volvo Cars Bellevue"
@@ -583,12 +569,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-19",
-          "price": 65560,
-          "mileage": 3300,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-20",
           "price": 64923,
           "mileage": 3300,
@@ -620,6 +600,12 @@
         },
         {
           "date": "2026-10-25",
+          "price": 64923,
+          "mileage": 3300,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-26",
           "price": 64923,
           "mileage": 3300,
           "dealer": "Volvo Cars Bellevue"
