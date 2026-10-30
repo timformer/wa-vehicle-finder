@@ -1,17 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-10-29T16:07:30.153164+00:00",
+  "updatedAt": "2026-10-30T15:56:33.623407+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-23",
-      "vins": [
-        "7JDE23KLXSG000680",
-        "7JDE23VK5SG000718",
-        "7JDE23VL3SG007904",
-        "7JDE23VL5SG000517",
-        "7JDEV3KL2SG000597"
-      ]
-    },
     {
       "date": "2026-10-24",
       "vins": [
@@ -75,6 +65,16 @@
         "7JDE23VL5SG000517",
         "7JDEV3KL2SG000597"
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "vins": [
+        "7JDE23KLXSG000680",
+        "7JDE23VK5SG000718",
+        "7JDE23VL3SG007904",
+        "7JDE23VL5SG000517",
+        "7JDEV3KL2SG000597"
+      ]
     }
   ],
   "vehicles": {
@@ -111,12 +111,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-23",
-          "price": 66487,
-          "mileage": 5645,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-24",
           "price": 66487,
           "mileage": 5645,
@@ -148,6 +142,12 @@
         },
         {
           "date": "2026-10-29",
+          "price": 62781,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-30",
           "price": 62781,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
@@ -187,12 +187,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-23",
-          "price": 57129,
-          "mileage": 13861,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-24",
           "price": 57129,
           "mileage": 13861,
@@ -224,6 +218,12 @@
         },
         {
           "date": "2026-10-29",
+          "price": 54720,
+          "mileage": 13861,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-30",
           "price": 54720,
           "mileage": 13861,
           "dealer": "Volvo Cars Bellevue"
@@ -263,12 +263,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-23",
-          "price": 63988,
-          "mileage": 13793,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-24",
           "price": 63988,
           "mileage": 13793,
@@ -300,6 +294,12 @@
         },
         {
           "date": "2026-10-29",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-30",
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
@@ -397,12 +397,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-23",
-          "price": 54250,
-          "mileage": 25698,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-24",
           "price": 54250,
           "mileage": 25698,
@@ -434,6 +428,12 @@
         },
         {
           "date": "2026-10-29",
+          "price": 52475,
+          "mileage": 25698,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-30",
           "price": 52475,
           "mileage": 25698,
           "dealer": "Volvo Cars Bellevue"
@@ -473,12 +473,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-23",
-          "price": 64923,
-          "mileage": 3300,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-10-24",
           "price": 64923,
           "mileage": 3300,
@@ -510,6 +504,12 @@
         },
         {
           "date": "2026-10-29",
+          "price": 61200,
+          "mileage": 3300,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-10-30",
           "price": 61200,
           "mileage": 3300,
           "dealer": "Volvo Cars Bellevue"
