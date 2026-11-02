@@ -1,71 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-01T16:01:59.722182+00:00",
+  "updatedAt": "2026-11-02T19:29:53.076572+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-26",
-      "vins": [
-        "WB523CF00RCN12776",
-        "WB523CF00RCN42540",
-        "WB523CF00RCR19741",
-        "WB523CF01PCM02929",
-        "WB523CF01PCM04311",
-        "WB523CF01PCM04664",
-        "WB523CF01PCM04972",
-        "WB523CF01PCM58451",
-        "WB523CF01RCN65955",
-        "WB523CF01RCP18401",
-        "WB523CF02PCL89608",
-        "WB523CF02PCM08206",
-        "WB523CF02PCM73878",
-        "WB523CF02RCS00135",
-        "WB523CF03PCM89460",
-        "WB523CF03RCN12772",
-        "WB523CF03RCN62359",
-        "WB523CF04PCM04352",
-        "WB523CF04RCP09191",
-        "WB523CF04SCS44031",
-        "WB523CF05RCN87442",
-        "WB523CF05RCN94357",
-        "WB523CF05RCN95699",
-        "WB523CF05SCT13129",
-        "WB523CF06RCN06139",
-        "WB523CF06RCN92830",
-        "WB523CF06RCP20922",
-        "WB523CF06RCP34349",
-        "WB523CF06SCU36177",
-        "WB523CF07NCK45131",
-        "WB523CF07PCL69046",
-        "WB523CF07PCM04684",
-        "WB523CF07PCM36597",
-        "WB523CF07RCP13543",
-        "WB523CF07RCP19861",
-        "WB523CF07SCS86550",
-        "WB523CF08PCM05021",
-        "WB523CF08PCM82150",
-        "WB523CF08RCN39014",
-        "WB523CF08RCP32621",
-        "WB523CF09RCP08408",
-        "WB523CF09RCP88275",
-        "WB523CF0XPCM05022",
-        "WB523CF0XRCN51939",
-        "WB523CF0XRCR18810",
-        "WB523CF0XSCT28872",
-        "WB533CF01PCL52120",
-        "WB533CF02PCK57629",
-        "WB533CF06PCM28091",
-        "WB533CF07RCP13613",
-        "WB543CF01TCW55221",
-        "WB543CF03TCU73925",
-        "WB543CF07TCW78549",
-        "WB543CF08TCV07261",
-        "WB543CF09TCW23150",
-        "WB543CF09TCW59730",
-        "WB543CF0XTCU91404",
-        "WB553CF07TCU91476",
-        "WB553CF07TCW81763"
-      ]
-    },
     {
       "date": "2026-10-27",
       "vins": [
@@ -443,6 +379,77 @@
         "WB553CF07TCU91476",
         "WB553CF07TCW81763"
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "vins": [
+        "WB523CF00RCN12776",
+        "WB523CF00RCN42540",
+        "WB523CF00RCN96890",
+        "WB523CF00RCN99112",
+        "WB523CF00RCP16803",
+        "WB523CF00RCR19741",
+        "WB523CF01PCM02929",
+        "WB523CF01PCM04311",
+        "WB523CF01PCM04664",
+        "WB523CF01PCM04972",
+        "WB523CF01PCM58451",
+        "WB523CF01RCN65955",
+        "WB523CF01RCP18401",
+        "WB523CF01RCP30385",
+        "WB523CF02PCM08206",
+        "WB523CF02RCS00135",
+        "WB523CF03RCN12772",
+        "WB523CF03RCN62359",
+        "WB523CF04PCM04352",
+        "WB523CF04RCP09191",
+        "WB523CF04RCP18473",
+        "WB523CF04RCR05969",
+        "WB523CF04SCS44031",
+        "WB523CF05RCN87442",
+        "WB523CF05RCN94357",
+        "WB523CF05RCN95699",
+        "WB523CF05RCP05473",
+        "WB523CF05SCT13129",
+        "WB523CF06RCN06139",
+        "WB523CF06RCN92830",
+        "WB523CF06RCP20922",
+        "WB523CF06RCP34349",
+        "WB523CF06RCP57405",
+        "WB523CF06SCU36177",
+        "WB523CF07NCK45131",
+        "WB523CF07PCM04684",
+        "WB523CF07PCM36597",
+        "WB523CF07RCP13543",
+        "WB523CF07RCP19861",
+        "WB523CF07SCS86550",
+        "WB523CF08PCM82150",
+        "WB523CF08RCP06469",
+        "WB523CF08RCP32621",
+        "WB523CF09RCN47901",
+        "WB523CF09RCP08408",
+        "WB523CF09RCP88275",
+        "WB523CF09SCU06364",
+        "WB523CF0XNCK62943",
+        "WB523CF0XPCM05022",
+        "WB523CF0XRCN83788",
+        "WB523CF0XRCR18810",
+        "WB523CF0XSCT28872",
+        "WB533CF01PCL52120",
+        "WB533CF02PCK57629",
+        "WB533CF06PCM28091",
+        "WB533CF07RCP13613",
+        "WB533CF07RCP21856",
+        "WB533CF09PCM96837",
+        "WB543CF01TCW55221",
+        "WB543CF03TCU73925",
+        "WB543CF07TCW78549",
+        "WB543CF09TCW23150",
+        "WB543CF09TCW59730",
+        "WB543CF0XTCU91404",
+        "WB553CF07TCU91476",
+        "WB553CF07TCW81763"
+      ]
     }
   ],
   "vehicles": {
@@ -473,17 +480,11 @@
         "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF01PCM58451-1.jpg",
         "photoCount": 35,
-        "url": "https://campchevrolet.com/used/BMW/2023-BMW-iX-b5964571ac185a7cf19ec641f2894818.htm",
+        "url": "https://lithiajeepspokane.com/used/BMW/2023-BMW-iX-spokane-wa-b5964571ac185a7cf19ec641f2894818.htm",
         "listedAt": "2026-08-09 06:41:16",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 37795,
-          "mileage": 51267,
-          "dealer": "Camp Chevrolet"
-        },
         {
           "date": "2026-10-27",
           "price": 37595,
@@ -519,6 +520,12 @@
           "price": 37795,
           "mileage": 51267,
           "dealer": "Camp Chevrolet"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 37795,
+          "mileage": 51267,
+          "dealer": "Camp Chevrolet"
         }
       ]
     },
@@ -533,7 +540,7 @@
         "price": 46990,
         "mileage": 24047,
         "exteriorColor": "Aventurin Red Metallic",
-        "interiorColor": "Amido Perforated leather",
+        "interiorColor": "Amido",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -543,23 +550,17 @@
         "state": "WA",
         "zip": "98005",
         "cpo": true,
-        "oneOwner": true,
+        "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/WB523CF07PCM04684-1.jpg",
         "photoCount": 30,
-        "url": "https://bmwbellevue.com/certified/BMW/2023-BMW-iX-bc0edbdeac1834a791521c6b7ead0918.htm",
+        "url": "https://autonationfordbellevue.com/certified/BMW/2023-BMW-iX-bc0edbdeac1834a791521c6b7ead0918.htm",
         "listedAt": "2026-08-09 02:53:48",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 46990,
-          "mileage": 24047,
-          "dealer": "BMW of Bellevue"
-        },
         {
           "date": "2026-10-27",
           "price": 46990,
@@ -595,45 +596,11 @@
           "price": 46990,
           "mileage": 24047,
           "dealer": "BMW of Bellevue"
-        }
-      ]
-    },
-    "WB523CF08PCM05021": {
-      "lastKnown": {
-        "id": "wb523cf08pcm05021",
-        "vin": "WB523CF08PCM05021",
-        "year": 2023,
-        "make": "BMW",
-        "model": "iX",
-        "trim": "xDrive50",
-        "price": 42690,
-        "mileage": 36132,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "BMW of Bellevue",
-        "officialBrandDealer": true,
-        "city": "Bellevue",
-        "state": "WA",
-        "zip": "98005",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/WB523CF08PCM05021-1.jpg",
-        "photoCount": 29,
-        "url": "https://bmwbellevue.com/certified/BMW/2023-BMW-iX-139a17baac185184d8a067b1323c056c.htm",
-        "listedAt": "2026-08-18 21:23:03",
-        "firstSeenDate": "2026-09-07"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-26",
-          "price": 42690,
-          "mileage": 36132,
+          "date": "2026-11-02",
+          "price": 46990,
+          "mileage": 24047,
           "dealer": "BMW of Bellevue"
         }
       ]
@@ -646,15 +613,15 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 37644,
+        "price": 37079,
         "mileage": 58068,
-        "exteriorColor": "Oxide Gray",
-        "interiorColor": "Stonegray",
+        "exteriorColor": "Oxide Grey Metallic",
+        "interiorColor": "Stonegray alcantara/cloth",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
@@ -662,20 +629,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF01PCM04972-1.jpg",
         "photoCount": 32,
-        "url": "https://lithia.com/used/BMW/2023-BMW-iX-d4a9907cac1800cb2c48f8b617ac78b4.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2023-BMW-iX-xDrive50-WB523CF01PCM04972",
         "listedAt": "2026-08-09 03:30:16",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 37279,
-          "mileage": 58068,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 37279,
@@ -711,6 +672,12 @@
           "price": 37644,
           "mileage": 58068,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 37079,
+          "mileage": 58068,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -722,36 +689,30 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 46989,
+        "price": 46284,
         "mileage": 29546,
-        "exteriorColor": "Blue Ridge Mountain",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Blue Ridge Mountain Metallic",
+        "interiorColor": "Oyster Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF01PCM04664-1.jpg",
         "photoCount": 33,
-        "url": "https://lithia.com/certified/BMW/2023-BMW-iX-6a006f80ac1849bfafd15ef5490b5cc4.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2023-BMW-iX-xDrive50-WB523CF01PCM04664",
         "listedAt": "2026-09-22 22:41:49",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 46484,
-          "mileage": 29546,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 46484,
@@ -787,6 +748,12 @@
           "price": 46989,
           "mileage": 29546,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 46284,
+          "mileage": 29546,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -844,36 +811,30 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 44831,
+        "price": 44159,
         "mileage": 26327,
         "exteriorColor": "Alpine White",
-        "interiorColor": "Oyster",
+        "interiorColor": "Oyster Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF01PCM04311-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/certified/BMW/2023-BMW-iX-6a00759cac180e99be2ff67d8dc5d77e.htm",
+        "photoCount": 30,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2023-BMW-iX-xDrive50-WB523CF01PCM04311",
         "listedAt": "2026-09-04 19:34:25",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 44359,
-          "mileage": 26327,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 44359,
@@ -909,6 +870,12 @@
           "price": 44831,
           "mileage": 26327,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 44159,
+          "mileage": 26327,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -920,14 +887,14 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 47990,
+        "price": 47800,
         "mileage": 14568,
         "exteriorColor": "White",
         "interiorColor": "Brown",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Platinum Auto Sales Inc",
+        "dealer": "Platinum Auto Sales",
         "officialBrandDealer": false,
         "city": "Lacey",
         "state": "WA",
@@ -938,18 +905,12 @@
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF06SCU36177-1.jpg",
-        "photoCount": 24,
+        "photoCount": 1,
         "url": "https://www.platinumautosalesinc.net/Inventory/Details/b6a25e01-86f9-4bc1-8bdc-edccf5e2bcd8",
         "listedAt": "2026-08-09 02:53:49",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 47800,
-          "mileage": 14568,
-          "dealer": "Platinum Auto Sales Inc"
-        },
         {
           "date": "2026-10-27",
           "price": 47990,
@@ -985,6 +946,12 @@
           "price": 47990,
           "mileage": 14568,
           "dealer": "Platinum Auto Sales Inc"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 47800,
+          "mileage": 14568,
+          "dealer": "Platinum Auto Sales"
         }
       ]
     },
@@ -998,8 +965,8 @@
         "trim": "xDrive50",
         "price": 43697,
         "mileage": 39748,
-        "exteriorColor": "Gray",
-        "interiorColor": "Tan",
+        "exteriorColor": "Storm Bay Metallic",
+        "interiorColor": "Mocha Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -1012,7 +979,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF08PCM82150-1.jpg",
         "photoCount": 31,
         "url": "https://bmwnorthwest.com/inventory/Used-2023-BMW-iX-xDrive50-WB523CF08PCM82150",
@@ -1020,12 +987,6 @@
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 43997,
-          "mileage": 39748,
-          "dealer": "BMW Northwest"
-        },
         {
           "date": "2026-10-27",
           "price": 43997,
@@ -1058,6 +1019,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 43697,
+          "mileage": 39748,
+          "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-02",
           "price": 43697,
           "mileage": 39748,
           "dealer": "BMW Northwest"
@@ -1074,8 +1041,8 @@
         "trim": "xDrive50",
         "price": 45797,
         "mileage": 34853,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
+        "exteriorColor": "Oxide Grey Metallic",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -1088,7 +1055,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF0XPCM05022-1.jpg",
         "photoCount": 31,
         "url": "https://bmwnorthwest.com/inventory/Used-2023-BMW-iX-xDrive50-WB523CF0XPCM05022",
@@ -1096,12 +1063,6 @@
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 46197,
-          "mileage": 34853,
-          "dealer": "BMW Northwest"
-        },
         {
           "date": "2026-10-27",
           "price": 46197,
@@ -1137,6 +1098,12 @@
           "price": 45797,
           "mileage": 34853,
           "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 45797,
+          "mileage": 34853,
+          "dealer": "BMW Northwest"
         }
       ]
     },
@@ -1148,36 +1115,30 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 51253,
+        "price": 50484,
         "mileage": 21041,
-        "exteriorColor": "Black Sapphire",
-        "interiorColor": "Black",
+        "exteriorColor": "Black Sapphire Metallic",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Rental Use",
+        "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/WB523CF02RCS00135-1.jpg",
-        "photoCount": 32,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-aec62396ac184a9bba130ec3d762fcf6.htm",
+        "photoCount": 31,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF02RCS00135",
         "listedAt": "2026-08-09 02:53:48",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 50684,
-          "mileage": 21041,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 50684,
@@ -1213,6 +1174,12 @@
           "price": 51253,
           "mileage": 21041,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 50484,
+          "mileage": 21041,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -1224,10 +1191,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 49921,
+        "price": 50121,
         "mileage": 28897,
-        "exteriorColor": "Dark Graphite",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Gray",
+        "interiorColor": "White",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -1242,18 +1209,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF05RCN87442-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/used/BMW/2024-BMW-iX-a650eeabac18065879bcb5eb7e964201.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF05RCN87442",
         "listedAt": "2026-08-09 02:53:45",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49372,
-          "mileage": 28897,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 49372,
@@ -1289,6 +1250,12 @@
           "price": 49921,
           "mileage": 28897,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 50121,
+          "mileage": 28897,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -1302,12 +1269,12 @@
         "trim": "xDrive50",
         "price": 48999,
         "mileage": 18946,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
+        "exteriorColor": "Phytonic Blue Metallic",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Seattle Finest Motors LLC",
+        "dealer": "Seattle Finest Motors",
         "officialBrandDealer": false,
         "city": "Lynnwood",
         "state": "WA",
@@ -1316,20 +1283,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF03RCN62359-1.jpg",
-        "photoCount": 1,
+        "photoCount": 62,
         "url": "https://www.seattlefinestmotors.com/pre-owned-cars/detail/x/1572725",
         "listedAt": "2026-08-26 23:44:40",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49999,
-          "mileage": 18946,
-          "dealer": "Seattle Finest Motors"
-        },
         {
           "date": "2026-10-27",
           "price": 49999,
@@ -1365,6 +1326,12 @@
           "price": 48999,
           "mileage": 18946,
           "dealer": "Seattle Finest Motors LLC"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 48999,
+          "mileage": 18946,
+          "dealer": "Seattle Finest Motors"
         }
       ]
     },
@@ -1378,12 +1345,12 @@
         "trim": "xDrive50",
         "price": 54997,
         "mileage": 9940,
-        "exteriorColor": "White",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Mineral White Metallic",
+        "interiorColor": "Amido Perforated leather",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Landmark Motors Inc",
+        "dealer": "Landmark Motors",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
@@ -1392,7 +1359,7 @@
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF06RCN06139-1.jpg",
         "photoCount": 31,
         "url": "https://www.carfax.com/vehicle/WB523CF06RCN06139",
@@ -1400,12 +1367,6 @@
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 55197,
-          "mileage": 9940,
-          "dealer": "Landmark Motors"
-        },
         {
           "date": "2026-10-27",
           "price": 54997,
@@ -1441,6 +1402,12 @@
           "price": 54997,
           "mileage": 9940,
           "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 54997,
+          "mileage": 9940,
+          "dealer": "Landmark Motors"
         }
       ]
     },
@@ -1477,12 +1444,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 50180,
-          "mileage": 17038,
-          "dealer": "Elliott Bay Ineos Grenadier"
-        },
-        {
           "date": "2026-10-27",
           "price": 50180,
           "mileage": 17038,
@@ -1510,14 +1471,14 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 54995,
+        "price": 55195,
         "mileage": 13100,
         "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Landmark Motors Inc",
+        "dealer": "Landmark Motors",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
@@ -1528,18 +1489,12 @@
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF09RCP08408-1.jpg",
-        "photoCount": 35,
+        "photoCount": 1,
         "url": "https://www.carfax.com/vehicle/WB523CF09RCP08408",
         "listedAt": "2026-08-09 02:53:45",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 55195,
-          "mileage": 13100,
-          "dealer": "Landmark Motors"
-        },
         {
           "date": "2026-10-27",
           "price": 54995,
@@ -1575,6 +1530,12 @@
           "price": 54995,
           "mileage": 13100,
           "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 55195,
+          "mileage": 13100,
+          "dealer": "Landmark Motors"
         }
       ]
     },
@@ -1586,14 +1547,14 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 53998,
+        "price": 54198,
         "mileage": 20181,
-        "exteriorColor": "Black Sapphire",
+        "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Jaguar Land Rover Bellevue",
+        "dealer": "Land Rover Bellevue",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
@@ -1604,18 +1565,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF0XSCT28872-1.jpg",
-        "photoCount": 22,
-        "url": "https://jaguardesmoines.com/used/BMW/2025-BMW-iX-1656dffeac181e33275530399c4a9f99.htm",
+        "photoCount": 1,
+        "url": "https://jaguarpeabody.com/used/BMW/2025-BMW-iX-1656dffeac181e33275530399c4a9f99.htm",
         "listedAt": "2026-08-19 02:34:35",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 54998,
-          "mileage": 20181,
-          "dealer": "Land Rover Bellevue"
-        },
         {
           "date": "2026-10-27",
           "price": 54998,
@@ -1651,6 +1606,12 @@
           "price": 53998,
           "mileage": 20181,
           "dealer": "Jaguar Land Rover Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 54198,
+          "mileage": 20181,
+          "dealer": "Land Rover Bellevue"
         }
       ]
     },
@@ -1687,12 +1648,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 58197,
-          "mileage": 16897,
-          "dealer": "Landmark Motors"
-        },
-        {
           "date": "2026-10-27",
           "price": 57997,
           "mileage": 16897,
@@ -1724,6 +1679,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 57997,
+          "mileage": 16897,
+          "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-11-02",
           "price": 57997,
           "mileage": 16897,
           "dealer": "Landmark Motors Inc"
@@ -1740,21 +1701,21 @@
         "trim": "M60",
         "price": 62998,
         "mileage": 26172,
-        "exteriorColor": "Gray",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Dark Graphite Grey",
+        "interiorColor": "Amido Perforated leather",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Landmark Motors Inc",
+        "dealer": "Landmark Motors",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
         "zip": "98005",
         "cpo": false,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB533CF07RCP13613-1.jpg",
         "photoCount": 33,
         "url": "https://www.carfax.com/vehicle/WB533CF07RCP13613",
@@ -1762,12 +1723,6 @@
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 63198,
-          "mileage": 26172,
-          "dealer": "Landmark Motors"
-        },
         {
           "date": "2026-10-27",
           "price": 62998,
@@ -1803,6 +1758,12 @@
           "price": 62998,
           "mileage": 26172,
           "dealer": "Landmark Motors Inc"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 62998,
+          "mileage": 26172,
+          "dealer": "Landmark Motors"
         }
       ]
     },
@@ -1814,9 +1775,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive45",
-        "price": 74930,
+        "price": 75130,
         "mileage": 1275,
-        "exteriorColor": "Dune Gray",
+        "exteriorColor": "Beige",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -1832,18 +1793,12 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/WB543CF01TCW55221-1.jpg",
-        "photoCount": 32,
-        "url": "https://lithia.com/used/BMW/2026-BMW-iX-00e14495ac1828a51474883996bbe80b.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive45-WB543CF01TCW55221",
         "listedAt": "2026-08-09 02:53:44",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 74006,
-          "mileage": 1275,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 74006,
@@ -1879,6 +1834,12 @@
           "price": 74930,
           "mileage": 1275,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 75130,
+          "mileage": 1275,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -1890,10 +1851,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive45",
-        "price": 71886,
+        "price": 72086,
         "mileage": 6063,
         "exteriorColor": "Beige",
-        "interiorColor": "Black/Atlas Grey",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -1902,24 +1863,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WB543CF03TCU73925-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/certified/BMW/2026-BMW-iX-1cc362e6ac1842897581138d420f8e98.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive45-WB543CF03TCU73925",
         "listedAt": "2026-08-20 03:49:48",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 71008,
-          "mileage": 6058,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 71008,
@@ -1955,6 +1910,12 @@
           "price": 71886,
           "mileage": 6063,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 72086,
+          "mileage": 6063,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -1966,10 +1927,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive45",
-        "price": 71261,
+        "price": 71461,
         "mileage": 5220,
-        "exteriorColor": "Dune Gray",
-        "interiorColor": "Black/Atlas Grey",
+        "exteriorColor": "Beige",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -1984,18 +1945,12 @@
         "accidentCount": 0,
         "usageType": "Lease Use",
         "image": "https://retail.photos.vin/WB543CF07TCW78549-1.jpg",
-        "photoCount": 32,
-        "url": "https://lithia.com/used/BMW/2026-BMW-iX-08299893ac1820d641fd65999d568998.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive45-WB543CF07TCW78549",
         "listedAt": "2026-08-16 19:56:35",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 70392,
-          "mileage": 5220,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 70392,
@@ -2031,6 +1986,12 @@
           "price": 71261,
           "mileage": 5220,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 71461,
+          "mileage": 5220,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -2042,10 +2003,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive60",
-        "price": 67369,
-        "mileage": 27113,
+        "price": 67569,
+        "mileage": 27122,
         "exteriorColor": "Black",
-        "interiorColor": "Castanea Chestnut",
+        "interiorColor": "Brown",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -2060,18 +2021,12 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/WB553CF07TCU91476-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/used/BMW/2026-BMW-iX-40cf8af8ac184f13ca20cd1801133683.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive60-WB553CF07TCU91476",
         "listedAt": "2026-08-27 03:49:50",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 67569,
-          "mileage": 27113,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 66558,
@@ -2107,6 +2062,12 @@
           "price": 67369,
           "mileage": 27113,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 67569,
+          "mileage": 27122,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -2120,34 +2081,28 @@
         "trim": "xDrive50",
         "price": 58894,
         "mileage": 11918,
-        "exteriorColor": "Black Sapphire",
-        "interiorColor": "Mocha",
+        "exteriorColor": "Black Sapphire Metallic",
+        "interiorColor": "Mocha Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF04SCS44031-1.jpg",
-        "photoCount": 32,
-        "url": "https://lithia.com/certified/BMW/2025-BMW-iX-7a908214ac180e2d891ba335d3587b68.htm",
+        "photoCount": 31,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2025-BMW-iX-xDrive50-WB523CF04SCS44031",
         "listedAt": "2026-08-09 02:53:44",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 61270,
-          "mileage": 11918,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 61270,
@@ -2183,6 +2138,12 @@
           "price": 58894,
           "mileage": 11918,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 58894,
+          "mileage": 11918,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -2194,15 +2155,15 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 64452,
+        "price": 63485,
         "mileage": 5772,
         "exteriorColor": "Alpine White",
-        "interiorColor": "Black",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": true,
+        "dealer": "Driveway",
+        "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
@@ -2212,18 +2173,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF05SCT13129-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/used/BMW/2025-BMW-iX-e1b5ffc1ac181fee745e373f09cfc6a5.htm",
+        "photoCount": 32,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2025-BMW-iX-xDrive50-WB523CF05SCT13129",
         "listedAt": "2026-08-09 02:53:45",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 63685,
-          "mileage": 5772,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 63685,
@@ -2259,6 +2214,12 @@
           "price": 64452,
           "mileage": 5772,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 63485,
+          "mileage": 5772,
+          "dealer": "Driveway"
         }
       ]
     },
@@ -2295,12 +2256,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 75253,
-          "mileage": 132,
-          "dealer": "BMW of Spokane"
-        },
-        {
           "date": "2026-10-27",
           "price": 75253,
           "mileage": 132,
@@ -2334,7 +2289,7 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive45",
-        "price": 78763,
+        "price": 78963,
         "mileage": 14904,
         "exteriorColor": "Black",
         "interiorColor": "Black",
@@ -2352,18 +2307,12 @@
         "accidentCount": 0,
         "usageType": "Vehicle Use",
         "image": "https://retail.photos.vin/WB543CF0XTCU91404-1.jpg",
-        "photoCount": 33,
-        "url": "https://lithia.com/used/BMW/2026-BMW-iX-6a41e43dac185ddbe1a33bad41ab6ab3.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive45-WB543CF0XTCU91404",
         "listedAt": "2026-08-09 02:53:44",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 77782,
-          "mileage": 14904,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 77782,
@@ -2399,6 +2348,12 @@
           "price": 78763,
           "mileage": 14904,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 78963,
+          "mileage": 14904,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -2410,7 +2365,7 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive60",
-        "price": 86197,
+        "price": 85197,
         "mileage": 5730,
         "exteriorColor": "Black",
         "interiorColor": "Black",
@@ -2428,18 +2383,12 @@
         "accidentCount": 1,
         "usageType": "Commercial Use",
         "image": "https://retail.photos.vin/WB553CF07TCW81763-1.jpg",
-        "photoCount": 31,
+        "photoCount": 1,
         "url": "https://bmwnorthwest.com/inventory/Used-2026-BMW-iX-xDrive60-WB553CF07TCW81763",
         "listedAt": "2026-08-09 09:13:20",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 86197,
-          "mileage": 5730,
-          "dealer": "BMW Northwest"
-        },
         {
           "date": "2026-10-27",
           "price": 86197,
@@ -2473,6 +2422,12 @@
         {
           "date": "2026-11-01",
           "price": 86197,
+          "mileage": 5730,
+          "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 85197,
           "mileage": 5730,
           "dealer": "BMW Northwest"
         }
@@ -2511,12 +2466,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 43998,
-          "mileage": 36711,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-10-27",
           "price": 43998,
           "mileage": 36711,
@@ -2538,7 +2487,7 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 50787,
+        "price": 50987,
         "mileage": 13871,
         "exteriorColor": "Gray",
         "interiorColor": "Stonegrey",
@@ -2556,18 +2505,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WB523CF07SCS86550-1.jpg",
-        "photoCount": 32,
-        "url": "https://lithia.com/used/BMW/2025-BMW-iX-8e0c5840ac1847cfb9a67960beebb2be.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2025-BMW-iX-xDrive50-WB523CF07SCS86550",
         "listedAt": "2026-09-11 03:50:37",
         "firstSeenDate": "2026-09-11"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 50225,
-          "mileage": 13871,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 50225,
@@ -2603,6 +2546,12 @@
           "price": 50787,
           "mileage": 13871,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 50987,
+          "mileage": 13871,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -2614,10 +2563,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive45",
-        "price": 67329,
+        "price": 67529,
         "mileage": 9915,
-        "exteriorColor": "Mineral White",
-        "interiorColor": "Black/Atlas Grey",
+        "exteriorColor": "White",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -2632,18 +2581,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB543CF09TCW59730-1.jpg",
-        "photoCount": 20,
-        "url": "https://lithia.com/used/BMW/2026-BMW-iX-83c0d961ac1813b262e6ac101e69c553.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2026-BMW-iX-xDrive45-WB543CF09TCW59730",
         "listedAt": "2026-09-09 03:50:57",
         "firstSeenDate": "2026-09-11"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 66519,
-          "mileage": 9915,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 66519,
@@ -2679,6 +2622,12 @@
           "price": 67329,
           "mileage": 9915,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 67529,
+          "mileage": 9915,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -2709,17 +2658,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF01RCP18401-1.jpg",
         "photoCount": 30,
-        "url": "https://bmwbellevue.com/certified/BMW/2024-BMW-iX-9458889aac182637dfe2060e0a0cf3f2.htm",
+        "url": "https://autonationfordbellevue.com/certified/BMW/2024-BMW-iX-9458889aac182637dfe2060e0a0cf3f2.htm",
         "listedAt": "2026-09-12 21:22:55",
         "firstSeenDate": "2026-09-13"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49297,
-          "mileage": 37306,
-          "dealer": "BMW of Bellevue"
-        },
         {
           "date": "2026-10-27",
           "price": 49297,
@@ -2755,6 +2698,12 @@
           "price": 48680,
           "mileage": 37306,
           "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 48680,
+          "mileage": 37306,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -2769,9 +2718,9 @@
         "price": 46064,
         "mileage": 26649,
         "exteriorColor": "Black Sapphire Metallic",
-        "interiorColor": "Mocha",
+        "interiorColor": "Mocha Perforated SensaTec leatherette",
         "seats": 5,
-        "drivetrain": null,
+        "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "BMW of Lynnwood",
         "officialBrandDealer": true,
@@ -2780,22 +2729,16 @@
         "zip": "98037",
         "cpo": false,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF04PCM04352-1.jpg",
-        "photoCount": 6,
+        "photoCount": 30,
         "url": "https://www.swickardautogroup.com/used-Lynnwood-2023-BMW-iX-xDrive50-WB523CF04PCM04352",
         "listedAt": "2026-09-16 00:12:15",
         "firstSeenDate": "2026-09-16"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 2213,
-          "mileage": 26649,
-          "dealer": "BMW of Lynnwood"
-        },
         {
           "date": "2026-10-27",
           "price": 46064,
@@ -2825,6 +2768,12 @@
           "price": 46064,
           "mileage": 26649,
           "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 46064,
+          "mileage": 26649,
+          "dealer": "BMW of Lynnwood"
         }
       ]
     },
@@ -2836,9 +2785,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 41191,
+        "price": 40991,
         "mileage": 55286,
-        "exteriorColor": "Blue",
+        "exteriorColor": "Phytonic Blue Metallic",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -2854,18 +2803,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF00RCN42540-1.jpg",
-        "photoCount": 31,
+        "photoCount": 1,
         "url": "https://www.spencersautosale.com/Inventory/Details/51e9ac79-766c-4068-8e14-82b19a7bdb7e",
         "listedAt": "2026-09-21 08:31:41",
         "firstSeenDate": "2026-09-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 41791,
-          "mileage": 55286,
-          "dealer": "Spencer's Auto Sales"
-        },
         {
           "date": "2026-10-27",
           "price": 41991,
@@ -2901,6 +2844,12 @@
           "price": 41191,
           "mileage": 55286,
           "dealer": "Spencer's Auto Sales"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 40991,
+          "mileage": 55286,
+          "dealer": "Spencer's Auto Sales"
         }
       ]
     },
@@ -2912,10 +2861,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 40500,
+        "price": 40700,
         "mileage": 34817,
-        "exteriorColor": "Black Sapphire",
-        "interiorColor": "Castanea Chestnut",
+        "exteriorColor": "Black",
+        "interiorColor": "Brown",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -2936,12 +2885,6 @@
         "firstSeenDate": "2026-09-09"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 40999,
-          "mileage": 34817,
-          "dealer": "Mercedes-Benz of Bellingham"
-        },
         {
           "date": "2026-10-27",
           "price": 40799,
@@ -2977,6 +2920,12 @@
           "price": 40500,
           "mileage": 34817,
           "dealer": "Mercedes-Benz of Bellingham"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 40700,
+          "mileage": 34817,
+          "dealer": "Mercedes-Benz of Bellingham"
         }
       ]
     },
@@ -2988,7 +2937,7 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 38991,
+        "price": 39191,
         "mileage": 44304,
         "exteriorColor": "White",
         "interiorColor": "Unspecified",
@@ -2997,27 +2946,21 @@
         "powertrain": "Electric",
         "dealer": "Legend Auto Sales",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Burien",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98168",
         "cpo": false,
         "oneOwner": false,
         "accidentFree": false,
         "accidentCount": 1,
         "usageType": "Multiple Use",
         "image": "https://retail.photos.vin/WB523CF01PCM02929-1.jpg",
-        "photoCount": 30,
+        "photoCount": 1,
         "url": "https://www.autolist.com/bmw-ix#vin=WB523CF01PCM02929",
         "listedAt": "2026-09-22 09:34:15",
         "firstSeenDate": "2026-09-25"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 38991,
-          "mileage": 44304,
-          "dealer": "Legend Auto Sales, Puyallup"
-        },
         {
           "date": "2026-10-27",
           "price": 38991,
@@ -3051,6 +2994,12 @@
         {
           "date": "2026-11-01",
           "price": 38991,
+          "mileage": 44304,
+          "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 39191,
           "mileage": 44304,
           "dealer": "Legend Auto Sales"
         }
@@ -3066,8 +3015,8 @@
         "trim": "xDrive45",
         "price": 74999,
         "mileage": 6737,
-        "exteriorColor": "Aventurin Red Metallic",
-        "interiorColor": "Black Perforated SensaTec leatherette",
+        "exteriorColor": "Red",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -3082,18 +3031,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB543CF09TCW23150-1.jpg",
-        "photoCount": 31,
+        "photoCount": 1,
         "url": "https://lithia.com/certified/BMW/2026-BMW-iX-18f53fbaac183859dfb4c32b75217ff3.htm",
         "listedAt": "2026-09-25 21:33:43",
         "firstSeenDate": "2026-09-27"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 74999,
-          "mileage": 6737,
-          "dealer": "BMW Seattle"
-        },
         {
           "date": "2026-10-27",
           "price": 74999,
@@ -3129,46 +3072,12 @@
           "price": 74999,
           "mileage": 6737,
           "dealer": "BMW Seattle"
-        }
-      ]
-    },
-    "WB523CF02PCL89608": {
-      "lastKnown": {
-        "id": "wb523cf02pcl89608",
-        "vin": "WB523CF02PCL89608",
-        "year": 2023,
-        "make": "BMW",
-        "model": "iX",
-        "trim": "xDrive50",
-        "price": 45200,
-        "mileage": 24272,
-        "exteriorColor": "Gray",
-        "interiorColor": "Unspecified",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "BMW of Bellevue",
-        "officialBrandDealer": true,
-        "city": "Bellevue",
-        "state": "WA",
-        "zip": "98005",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/WB523CF02PCL89608-1.jpg",
-        "photoCount": 29,
-        "url": "https://bmwbellevue.com/certified/BMW/2023-BMW-iX-ebe4ea64ac183e1692c7be59731bf1ed.htm",
-        "listedAt": "2026-09-29 21:41:23",
-        "firstSeenDate": "2026-09-30"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-26",
-          "price": 45200,
-          "mileage": 24272,
-          "dealer": "BMW of Bellevue"
+          "date": "2026-11-02",
+          "price": 74999,
+          "mileage": 6737,
+          "dealer": "BMW Seattle"
         }
       ]
     },
@@ -3194,22 +3103,16 @@
         "zip": "98005",
         "cpo": true,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF05RCN94357-1.jpg",
         "photoCount": 29,
-        "url": "https://bmwbellevue.com/certified/BMW/2024-BMW-iX-ebe4e8ffac1811ad1dcb56238fe1963a.htm",
+        "url": "https://autonationfordbellevue.com/certified/BMW/2024-BMW-iX-ebe4e8ffac1811ad1dcb56238fe1963a.htm",
         "listedAt": "2026-09-29 21:59:01",
         "firstSeenDate": "2026-09-30"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 45100,
-          "mileage": 49002,
-          "dealer": "BMW of Bellevue"
-        },
         {
           "date": "2026-10-27",
           "price": 45100,
@@ -3245,6 +3148,12 @@
           "price": 44500,
           "mileage": 49002,
           "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 44500,
+          "mileage": 49002,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -3256,9 +3165,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 49799,
+        "price": 49999,
         "mileage": 41008,
-        "exteriorColor": "Phytonic Blue",
+        "exteriorColor": "Blue",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -3268,24 +3177,18 @@
         "city": "Seattle",
         "state": "WA",
         "zip": "98134",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF03RCN12772-1.jpg",
-        "photoCount": 33,
+        "photoCount": 1,
         "url": "https://lithia.com/certified/BMW/2024-BMW-iX-cf436859ac184b985b31168ad9aff881.htm",
         "listedAt": "2026-09-23 23:19:45",
         "firstSeenDate": "2026-10-01"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49999,
-          "mileage": 41000,
-          "dealer": "BMW Seattle"
-        },
         {
           "date": "2026-10-27",
           "price": 49999,
@@ -3319,6 +3222,12 @@
         {
           "date": "2026-11-01",
           "price": 49799,
+          "mileage": 41008,
+          "dealer": "BMW Seattle"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 49999,
           "mileage": 41008,
           "dealer": "BMW Seattle"
         }
@@ -3357,12 +3266,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 47298,
-          "mileage": 44161,
-          "dealer": "BMW Seattle"
-        },
-        {
           "date": "2026-10-27",
           "price": 46548,
           "mileage": 44161,
@@ -3386,12 +3289,12 @@
         "trim": "xDrive50",
         "price": 49998,
         "mileage": 34997,
-        "exteriorColor": "Mineral White Metallic",
+        "exteriorColor": "White",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Liberty Bay Auto Center",
+        "dealer": "Liberty Bay Auto",
         "officialBrandDealer": false,
         "city": "Poulsbo",
         "state": "WA",
@@ -3402,7 +3305,7 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/WB523CF04RCR05969-1.jpg",
-        "photoCount": 6,
+        "photoCount": 1,
         "url": "https://www.ruddellgmc.com/used-Port+Angeles-2024-BMW-iX-xDrive50-WB523CF04RCR05969",
         "listedAt": "2026-10-16 23:05:13",
         "firstSeenDate": "2026-10-17"
@@ -3431,46 +3334,12 @@
           "price": 49998,
           "mileage": 34997,
           "dealer": "Liberty Bay Auto Center"
-        }
-      ]
-    },
-    "WB523CF07PCL69046": {
-      "lastKnown": {
-        "id": "wb523cf07pcl69046",
-        "vin": "WB523CF07PCL69046",
-        "year": 2023,
-        "make": "BMW",
-        "model": "iX",
-        "trim": "xDrive50",
-        "price": 50990,
-        "mileage": 11055,
-        "exteriorColor": "Storm Bay Metallic",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Carvana - Seattle",
-        "officialBrandDealer": false,
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "98115",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/WB523CF07PCL69046-1.jpg",
-        "photoCount": 53,
-        "url": "https://www.carvana.com/vehicle/4720484",
-        "listedAt": "2026-10-17 12:03:32",
-        "firstSeenDate": "2026-10-05"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-26",
-          "price": 50990,
-          "mileage": 11055,
-          "dealer": "Carvana - Seattle"
+          "date": "2026-11-02",
+          "price": 49998,
+          "mileage": 34997,
+          "dealer": "Liberty Bay Auto"
         }
       ]
     },
@@ -3482,14 +3351,14 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 49913,
+        "price": 49991,
         "mileage": 35340,
-        "exteriorColor": "Black",
-        "interiorColor": "Castanea Chestnut",
+        "exteriorColor": "Black Sapphire Metallic",
+        "interiorColor": "Castanea Chestnut Perforated leather",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Gee Automotive",
+        "dealer": "Mercedes-Benz of Spokane",
         "officialBrandDealer": false,
         "city": "Liberty Lake",
         "state": "WA",
@@ -3506,12 +3375,6 @@
         "firstSeenDate": "2026-10-22"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 50191,
-          "mileage": 35340,
-          "dealer": "Mercedes-Benz of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 49991,
@@ -3547,6 +3410,12 @@
           "price": 49913,
           "mileage": 35340,
           "dealer": "Gee Automotive"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 49991,
+          "mileage": 35340,
+          "dealer": "Mercedes-Benz of Spokane"
         }
       ]
     },
@@ -3560,12 +3429,12 @@
         "trim": "xDrive50",
         "price": 45980,
         "mileage": 20357,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
+        "exteriorColor": "Blue Ridge Mountain Metallic",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Elliot Bay Ineos Grenadier",
+        "dealer": "Elliott Bay Auto Brokers",
         "officialBrandDealer": false,
         "city": "Seattle",
         "state": "WA",
@@ -3574,7 +3443,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF07PCM36597-1.jpg",
         "photoCount": 23,
         "url": null,
@@ -3582,12 +3451,6 @@
         "firstSeenDate": "2026-10-23"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 47180,
-          "mileage": 20357,
-          "dealer": "Elliott Bay Ineos Grenadier"
-        },
         {
           "date": "2026-10-27",
           "price": 47180,
@@ -3623,6 +3486,12 @@
           "price": 45980,
           "mileage": 20357,
           "dealer": "Elliot Bay Ineos Grenadier"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 45980,
+          "mileage": 20357,
+          "dealer": "Elliott Bay Auto Brokers"
         }
       ]
     },
@@ -3659,12 +3528,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 44999,
-          "mileage": 28637,
-          "dealer": "BMW Seattle"
-        },
-        {
           "date": "2026-10-27",
           "price": 44999,
           "mileage": 28637,
@@ -3686,9 +3549,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 45099,
+        "price": 45299,
         "mileage": 48040,
-        "exteriorColor": "Black Sapphire",
+        "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -3698,24 +3561,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF01RCN65955-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-6b7dfe92ac181183f6af7e15d6bba53b.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF01RCN65955",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 45299,
-          "mileage": 48040,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 44623,
@@ -3751,6 +3608,12 @@
           "price": 45099,
           "mileage": 48040,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 45299,
+          "mileage": 48040,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -3762,10 +3625,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 50750,
+        "price": 50950,
         "mileage": 21932,
-        "exteriorColor": "Blue Ridge Mountain",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Blue",
+        "interiorColor": "White",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -3774,24 +3637,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF04RCP09191-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-6b7dffa2ac180c02c600039436cd32eb.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF04RCP09191",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 50950,
-          "mileage": 21932,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 50189,
@@ -3827,6 +3684,12 @@
           "price": 50750,
           "mileage": 21932,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 50950,
+          "mileage": 21932,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -3838,10 +3701,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 49083,
+        "price": 49283,
         "mileage": 28732,
-        "exteriorColor": "Dark Graphite",
-        "interiorColor": "Mocha",
+        "exteriorColor": "Gray",
+        "interiorColor": "Tan",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -3850,24 +3713,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF06RCN92830-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-6b7e03e5ac1848eb3b80d88a8d7e41d1.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF06RCN92830",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49283,
-          "mileage": 28732,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 48547,
@@ -3903,6 +3760,12 @@
           "price": 49083,
           "mileage": 28732,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 49283,
+          "mileage": 28732,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -3914,10 +3777,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 52118,
+        "price": 52318,
         "mileage": 15929,
-        "exteriorColor": "Dark Graphite",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Gray",
+        "interiorColor": "White",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -3933,17 +3796,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF06RCP20922-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/used/BMW/2024-BMW-iX-6b7e0503ac180c02c6000394231b805a.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF06RCP20922",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 52318,
-          "mileage": 15929,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 51536,
@@ -3979,6 +3836,12 @@
           "price": 52118,
           "mileage": 15929,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 52318,
+          "mileage": 15929,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -3990,10 +3853,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 48799,
+        "price": 48999,
         "mileage": 28570,
-        "exteriorColor": "Oxide Gray",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Gray",
+        "interiorColor": "White",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -4002,24 +3865,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF09RCP88275-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-6b7e02c1ac18224eefc6e7de339b17ad.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF09RCP88275",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 48999,
-          "mileage": 28570,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 48267,
@@ -4055,6 +3912,12 @@
           "price": 48799,
           "mileage": 28570,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 48999,
+          "mileage": 28570,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -4066,10 +3929,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 46081,
+        "price": 46281,
         "mileage": 40955,
-        "exteriorColor": "Black Sapphire",
-        "interiorColor": "Castanea Chestnut",
+        "exteriorColor": "Black",
+        "interiorColor": "Brown",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -4078,24 +3941,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF0XRCR18810-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-6b7e061cac181f3d0fc7ccd97880de4b.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF0XRCR18810",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 46281,
-          "mileage": 40955,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 45590,
@@ -4131,6 +3988,12 @@
           "price": 46081,
           "mileage": 40955,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 46281,
+          "mileage": 40955,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -4142,9 +4005,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "M60",
-        "price": 49214,
+        "price": 49414,
         "mileage": 53485,
-        "exteriorColor": "Black Sapphire",
+        "exteriorColor": "Black",
         "interiorColor": "Amido",
         "seats": 5,
         "drivetrain": "AWD",
@@ -4154,24 +4017,18 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB533CF02PCK57629-1.jpg",
-        "photoCount": 20,
-        "url": "https://lithia.com/certified/BMW/2023-BMW-iX-6b7dfc1eac1855aa99cc24c38a7afbef.htm",
+        "photoCount": 1,
+        "url": "https://www.bmwofspokane.com/used-Spokane-2023-BMW-iX-M60-WB533CF02PCK57629",
         "listedAt": "2026-10-24 03:26:24",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49414,
-          "mileage": 53485,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-27",
           "price": 48676,
@@ -4205,6 +4062,12 @@
         {
           "date": "2026-11-01",
           "price": 49214,
+          "mileage": 53485,
+          "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 49414,
           "mileage": 53485,
           "dealer": "BMW of Spokane"
         }
@@ -4243,12 +4106,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 43700,
-          "mileage": 36471,
-          "dealer": "Energy Auto Sales Monroe"
-        },
-        {
           "date": "2026-10-27",
           "price": 43700,
           "mileage": 36471,
@@ -4280,6 +4137,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 41429,
+          "mileage": 36471,
+          "dealer": "Energy Auto Sales"
+        },
+        {
+          "date": "2026-11-02",
           "price": 41429,
           "mileage": 36471,
           "dealer": "Energy Auto Sales"
@@ -4319,12 +4182,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 6375,
-          "mileage": 40479,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-10-27",
           "price": 46072,
           "mileage": 40479,
@@ -4347,6 +4204,12 @@
           "price": 44061,
           "mileage": 40479,
           "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 44061,
+          "mileage": 40479,
+          "dealer": "BMW of Lynnwood"
         }
       ]
     },
@@ -4360,10 +4223,10 @@
         "trim": "xDrive50",
         "price": 44970,
         "mileage": 30064,
-        "exteriorColor": "Mineral White Metallic",
-        "interiorColor": "Mocha",
+        "exteriorColor": "White",
+        "interiorColor": "Tan",
         "seats": 5,
-        "drivetrain": null,
+        "drivetrain": "AWD",
         "powertrain": "Electric",
         "dealer": "BMW of Lynnwood",
         "officialBrandDealer": true,
@@ -4376,18 +4239,12 @@
         "accidentCount": 1,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WB523CF07RCP13543-1.jpg",
-        "photoCount": 6,
+        "photoCount": 30,
         "url": "https://www.swickardautogroup.com/used-Lynnwood-2024-BMW-iX-xDrive50-WB523CF07RCP13543",
         "listedAt": "2026-08-23 19:26:21",
         "firstSeenDate": "2026-09-07"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 10888,
-          "mileage": 30064,
-          "dealer": "BMW of Lynnwood"
-        },
         {
           "date": "2026-10-27",
           "price": 46798,
@@ -4402,6 +4259,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 44970,
+          "mileage": 30064,
+          "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
           "price": 44970,
           "mileage": 30064,
           "dealer": "BMW of Lynnwood"
@@ -4441,12 +4304,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 2,
-          "mileage": 42092,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-10-27",
           "price": 48025,
           "mileage": 42092,
@@ -4460,6 +4317,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 48025,
+          "mileage": 42092,
+          "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
           "price": 48025,
           "mileage": 42092,
           "dealer": "BMW of Lynnwood"
@@ -4481,7 +4344,7 @@
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Elliot Bay Ineos Grenadier",
+        "dealer": "Elliott Bay Ineos Grenadier",
         "officialBrandDealer": false,
         "city": "Seattle",
         "state": "WA",
@@ -4492,18 +4355,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF05RCN95699-1.jpg",
-        "photoCount": 22,
+        "photoCount": 1,
         "url": null,
         "listedAt": "2026-10-23 14:19:29",
         "firstSeenDate": "2026-10-25"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 49980,
-          "mileage": 23420,
-          "dealer": "Elliott Bay Ineos Grenadier"
-        },
         {
           "date": "2026-10-27",
           "price": 49980,
@@ -4539,6 +4396,12 @@
           "price": 48680,
           "mileage": 23420,
           "dealer": "Elliot Bay Ineos Grenadier"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 48680,
+          "mileage": 23420,
+          "dealer": "Elliott Bay Ineos Grenadier"
         }
       ]
     },
@@ -4575,12 +4438,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 49795,
-          "mileage": 37582,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-10-27",
           "price": 49313,
           "mileage": 37582,
@@ -4594,6 +4451,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 49313,
+          "mileage": 37582,
+          "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
           "price": 49313,
           "mileage": 37582,
           "dealer": "BMW of Lynnwood"
@@ -4633,12 +4496,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-26",
-          "price": 54005,
-          "mileage": 28993,
-          "dealer": "BMW of Lynnwood"
-        },
-        {
           "date": "2026-10-27",
           "price": 51525,
           "mileage": 28993,
@@ -4655,6 +4512,12 @@
           "price": 51525,
           "mileage": 28993,
           "dealer": "BMW of Lynnwood"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 51525,
+          "mileage": 28993,
+          "dealer": "BMW of Lynnwood"
         }
       ]
     },
@@ -4668,12 +4531,12 @@
         "trim": "M60",
         "price": 54980,
         "mileage": 26241,
-        "exteriorColor": "Black",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Black Sapphire Metallic",
+        "interiorColor": "Amido Perforated leather",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Elliot Bay Ineos Grenadier",
+        "dealer": "Elliott Bay Auto Brokers",
         "officialBrandDealer": false,
         "city": "Seattle",
         "state": "WA",
@@ -4682,20 +4545,14 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Multiple Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB533CF06PCM28091-1.jpg",
-        "photoCount": 23,
+        "photoCount": 9,
         "url": null,
         "listedAt": "2026-10-23 14:19:29",
         "firstSeenDate": "2026-10-25"
       },
       "observations": [
-        {
-          "date": "2026-10-26",
-          "price": 55680,
-          "mileage": 26241,
-          "dealer": "Elliott Bay Ineos Grenadier"
-        },
         {
           "date": "2026-10-27",
           "price": 55680,
@@ -4731,6 +4588,12 @@
           "price": 54980,
           "mileage": 26241,
           "dealer": "Elliot Bay Ineos Grenadier"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 54980,
+          "mileage": 26241,
+          "dealer": "Elliott Bay Auto Brokers"
         }
       ]
     },
@@ -4742,10 +4605,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 50995,
+        "price": 51195,
         "mileage": 22587,
-        "exteriorColor": "Dark Graphite",
-        "interiorColor": "Mocha",
+        "exteriorColor": "Gray",
+        "interiorColor": "Tan",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -4754,14 +4617,14 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WB523CF01RCP30385-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-7af0e036ac18580b14c5a8bcd931474f.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF01RCP30385",
         "listedAt": "2026-10-27 13:27:45",
         "firstSeenDate": "2026-10-27"
       },
@@ -4801,6 +4664,12 @@
           "price": 50995,
           "mileage": 22587,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 51195,
+          "mileage": 22587,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -4812,9 +4681,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 50750,
+        "price": 50550,
         "mileage": 21765,
-        "exteriorColor": "Dark Graphite Metallic",
+        "exteriorColor": "Gray",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -4871,6 +4740,12 @@
           "price": 50750,
           "mileage": 21765,
           "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 50550,
+          "mileage": 21765,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -4885,7 +4760,7 @@
         "price": 46250,
         "mileage": 35616,
         "exteriorColor": "Phytonic Blue Metallic",
-        "interiorColor": "Black",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -4896,12 +4771,12 @@
         "zip": "98005",
         "cpo": false,
         "oneOwner": true,
-        "accidentFree": false,
-        "accidentCount": 1,
-        "usageType": "Personal Use",
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF05RCP05473-1.jpg",
         "photoCount": 29,
-        "url": "https://bmwbellevue.com/used/BMW/2024-BMW-iX-86635c41ac184be69d9d7c1d237292ff.htm",
+        "url": "https://autonationfordbellevue.com/used/BMW/2024-BMW-iX-86635c41ac184be69d9d7c1d237292ff.htm",
         "listedAt": "2026-10-28 18:10:17",
         "firstSeenDate": "2026-10-29"
       },
@@ -4926,6 +4801,12 @@
         },
         {
           "date": "2026-11-01",
+          "price": 46250,
+          "mileage": 35616,
+          "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
           "price": 46250,
           "mileage": 35616,
           "dealer": "BMW of Bellevue"
@@ -4956,10 +4837,10 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF08RCP06469-1.jpg",
         "photoCount": 29,
-        "url": "https://bmwbellevue.com/certified/BMW/2024-BMW-iX-8663594dac18108265a8c842be053c6c.htm",
+        "url": "https://autonationfordbellevue.com/certified/BMW/2024-BMW-iX-8663594dac18108265a8c842be053c6c.htm",
         "listedAt": "2026-10-29 13:16:09",
         "firstSeenDate": "2026-10-29"
       },
@@ -4987,6 +4868,12 @@
           "price": 49750,
           "mileage": 28253,
           "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 49750,
+          "mileage": 28253,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -4999,7 +4886,7 @@
         "model": "iX",
         "trim": "xDrive50",
         "price": 52190,
-        "mileage": 26410,
+        "mileage": 26411,
         "exteriorColor": "Red",
         "interiorColor": "Black",
         "seats": 5,
@@ -5033,6 +4920,12 @@
           "price": 52190,
           "mileage": 26410,
           "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 52190,
+          "mileage": 26411,
+          "dealer": "BMW Northwest"
         }
       ]
     },
@@ -5044,10 +4937,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 42202,
+        "price": 42402,
         "mileage": 64488,
-        "exteriorColor": "Black Sapphire",
-        "interiorColor": "Oyster",
+        "exteriorColor": "Black",
+        "interiorColor": "White",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -5063,7 +4956,7 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF06RCP57405-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/used/BMW/2024-BMW-iX-82e49fb6ac181f93afca8f15c282ba32.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-xDrive50-WB523CF06RCP57405",
         "listedAt": "2026-10-28 14:28:17",
         "firstSeenDate": "2026-10-29"
       },
@@ -5091,6 +4984,12 @@
           "price": 42202,
           "mileage": 64488,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 42402,
+          "mileage": 64488,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -5102,9 +5001,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "M60",
-        "price": 58186,
+        "price": 58386,
         "mileage": 42313,
-        "exteriorColor": "Black Sapphire",
+        "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -5114,14 +5013,14 @@
         "city": "Spokane",
         "state": "WA",
         "zip": "99207",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB533CF07RCP21856-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/certified/BMW/2024-BMW-iX-853cc330ac183c2372e0860bde255a91.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2024-BMW-iX-M60-WB533CF07RCP21856",
         "listedAt": "2026-10-29 03:46:19",
         "firstSeenDate": "2026-10-29"
       },
@@ -5147,6 +5046,12 @@
         {
           "date": "2026-11-01",
           "price": 58186,
+          "mileage": 42313,
+          "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 58386,
           "mileage": 42313,
           "dealer": "BMW of Spokane"
         }
@@ -5189,6 +5094,12 @@
           "price": 40195,
           "mileage": 61528,
           "dealer": "Landmark Motors"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 40195,
+          "mileage": 61528,
+          "dealer": "Landmark Motors"
         }
       ]
     },
@@ -5200,10 +5111,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 47799,
+        "price": 47999,
         "mileage": 32788,
-        "exteriorColor": "0A90 Dark Graphite Metallic",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -5212,7 +5123,7 @@
         "city": "Seattle",
         "state": "WA",
         "zip": "98134",
-        "cpo": true,
+        "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
@@ -5233,6 +5144,12 @@
         {
           "date": "2026-11-01",
           "price": 47799,
+          "mileage": 32788,
+          "dealer": "BMW Seattle"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 47999,
           "mileage": 32788,
           "dealer": "BMW Seattle"
         }
@@ -5265,7 +5182,7 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WB523CF00RCN96890-1.jpg",
         "photoCount": 1,
-        "url": "https://bmwbellevue.com/certified/BMW/2024-BMW-iX-90aff227ac1842b56cb968089e010bac.htm",
+        "url": "https://autonationfordbellevue.com/certified/BMW/2024-BMW-iX-90aff227ac1842b56cb968089e010bac.htm",
         "listedAt": "2026-10-30 22:25:38",
         "firstSeenDate": "2026-10-31"
       },
@@ -5281,6 +5198,12 @@
           "price": 44990,
           "mileage": 45714,
           "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 44990,
+          "mileage": 45714,
+          "dealer": "BMW of Bellevue"
         }
       ]
     },
@@ -5292,9 +5215,9 @@
         "make": "BMW",
         "model": "iX",
         "trim": "M60",
-        "price": 55691,
+        "price": 55891,
         "mileage": 34430,
-        "exteriorColor": "Black Sapphire",
+        "exteriorColor": "Black",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
@@ -5311,7 +5234,7 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WB533CF09PCM96837-1.jpg",
         "photoCount": 1,
-        "url": "https://lithia.com/used/BMW/2023-BMW-iX-8f8b1459ac18369ad684f9fd5c5cb4bc.htm",
+        "url": "https://www.bmwofspokane.com/used-Spokane-2023-BMW-iX-M60-WB533CF09PCM96837",
         "listedAt": "2026-10-31 03:47:02",
         "firstSeenDate": "2026-10-31"
       },
@@ -5327,6 +5250,12 @@
           "price": 55691,
           "mileage": 34430,
           "dealer": "BMW of Spokane"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 55891,
+          "mileage": 34430,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -5338,10 +5267,10 @@
         "make": "BMW",
         "model": "iX",
         "trim": "xDrive50",
-        "price": 46195,
+        "price": 45995,
         "mileage": 44481,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
+        "exteriorColor": "Dark Graphite Grey",
+        "interiorColor": "Black Perforated SensaTec leatherette",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -5354,7 +5283,7 @@
         "oneOwner": true,
         "accidentFree": false,
         "accidentCount": 1,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/WB523CF00RCN99112-1.jpg",
         "photoCount": 49,
         "url": null,
@@ -5367,6 +5296,92 @@
           "price": 46195,
           "mileage": 44481,
           "dealer": "ZAG Motors Everett"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 45995,
+          "mileage": 44481,
+          "dealer": "ZAG Motors Everett"
+        }
+      ]
+    },
+    "WB523CF0XNCK62943": {
+      "lastKnown": {
+        "id": "wb523cf0xnck62943",
+        "vin": "WB523CF0XNCK62943",
+        "year": 2022,
+        "make": "BMW",
+        "model": "iX",
+        "trim": "xDrive50",
+        "price": 41680,
+        "mileage": 26979,
+        "exteriorColor": "Black Sapphire Metallic",
+        "interiorColor": "Black Perforated SensaTec leatherette",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "Elliott Bay Auto Brokers",
+        "officialBrandDealer": false,
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98133",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
+        "image": "https://retail.photos.vin/WB523CF0XNCK62943-1.jpg",
+        "photoCount": 1,
+        "url": null,
+        "listedAt": "2026-10-31 16:31:44",
+        "firstSeenDate": "2026-11-02"
+      },
+      "observations": [
+        {
+          "date": "2026-11-02",
+          "price": 41680,
+          "mileage": 26979,
+          "dealer": "Elliott Bay Auto Brokers"
+        }
+      ]
+    },
+    "WB523CF09SCU06364": {
+      "lastKnown": {
+        "id": "wb523cf09scu06364",
+        "vin": "WB523CF09SCU06364",
+        "year": 2025,
+        "make": "BMW",
+        "model": "iX",
+        "trim": "xDrive50",
+        "price": 44580,
+        "mileage": 30084,
+        "exteriorColor": "Black",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Electric",
+        "dealer": "J&A Auto Sales",
+        "officialBrandDealer": false,
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98005",
+        "cpo": false,
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
+        "image": "https://retail.photos.vin/WB523CF09SCU06364-1.jpg",
+        "photoCount": 1,
+        "url": null,
+        "listedAt": "2026-11-01 16:09:58",
+        "firstSeenDate": "2026-11-02"
+      },
+      "observations": [
+        {
+          "date": "2026-11-02",
+          "price": 44580,
+          "mileage": 30084,
+          "dealer": "J&A Auto Sales"
         }
       ]
     }
