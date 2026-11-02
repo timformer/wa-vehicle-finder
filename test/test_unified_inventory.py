@@ -41,9 +41,11 @@ class UnifiedInventoryTests(TestCase):
         self.assertEqual(gv70["queryModels"], ["GV70", "Electrified GV70"])
         self.assertNotIn("queryFuel", gv70)
         self.assertNotIn("allowedPowertrains", gv70)
-        gv90 = vehicles["genesis-gv90"]
-        self.assertEqual(gv90["refresh"], {"enabled": True, "intervalDays": 2})
-        self.assertTrue(gv90["allowEmptyInventory"])
+        gv80 = vehicles["genesis-gv80"]
+        self.assertEqual(gv80["minimumYear"], 2021)
+        self.assertEqual(gv80["maximumYear"], "current")
+        self.assertEqual(gv80["refresh"], {"enabled": True, "intervalDays": 2})
+        self.assertTrue(gv80["allowEmptyInventory"])
         stelvio = vehicles["alfa-romeo-stelvio"]
         self.assertEqual(stelvio["minimumYear"], 2017)
         self.assertEqual(stelvio["maximumYear"], "current")
