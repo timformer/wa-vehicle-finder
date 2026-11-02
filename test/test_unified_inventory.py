@@ -51,7 +51,14 @@ class UnifiedInventoryTests(TestCase):
             vehicle["slug"]: vehicle
             for vehicle in self.config["vehicles"]
         }
-        self.assertFalse(vehicles["tesla-model-y"]["refresh"]["enabled"])
+        self.assertEqual(
+            vehicles["tesla-model-x"]["refresh"],
+            {"enabled": True, "intervalDays": 7},
+        )
+        self.assertEqual(
+            vehicles["tesla-model-y"]["refresh"],
+            {"enabled": True, "intervalDays": 7},
+        )
         gv70 = vehicles["genesis-gv70"]
         self.assertEqual(gv70["refresh"], {"enabled": True, "intervalDays": 2})
         self.assertEqual(gv70["queryModels"], ["GV70", "Electrified GV70"])

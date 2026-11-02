@@ -142,7 +142,7 @@
       ],
       "refresh": {
         "enabled": true,
-        "intervalDays": 2
+        "intervalDays": 7
       }
     },
     {
@@ -172,8 +172,8 @@
         }
       ],
       "refresh": {
-        "enabled": false,
-        "intervalDays": 2
+        "enabled": true,
+        "intervalDays": 7
       }
     },
     {

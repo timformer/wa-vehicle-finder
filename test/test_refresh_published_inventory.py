@@ -453,6 +453,51 @@ class PublishedInventoryRefreshTests(TestCase):
         )
         self.assertEqual(untouched["lastAttemptDate"], "2026-09-08")
 
+    def test_targeted_force_runs_early_only_once_per_day(self):
+        root = Path(self.temporary.name)
+        config_file = root / "vehicles.json"
+        vehicles_dir = root / "vehicles"
+        config_file.write_text(
+            json.dumps(
+                {
+                    "vehicles": [
+                        {
+                            "slug": "tesla-model-x",
+                            "refresh": {"enabled": True, "intervalDays": 7},
+                        }
+                    ]
+                }
+            ),
+            encoding="utf-8",
+        )
+        state_file = vehicles_dir / "tesla-model-x" / "refresh-state.json"
+        refresh.write_json(
+            state_file,
+            {"lastAttemptDate": "2026-11-01", "lastAttemptCalls": 3},
+        )
+
+        first = refresh.reserve_all(
+            "2026-11-02",
+            ["tesla-model-x"],
+            force=True,
+            config_file=config_file,
+            vehicles_dir=vehicles_dir,
+        )
+        second = refresh.reserve_all(
+            "2026-11-02",
+            ["tesla-model-x"],
+            force=True,
+            config_file=config_file,
+            vehicles_dir=vehicles_dir,
+        )
+
+        self.assertEqual(first, ["tesla-model-x"])
+        self.assertEqual(second, [])
+        self.assertEqual(
+            refresh.read_json(state_file, {})["lastAttemptCalls"],
+            0,
+        )
+
     def test_refresh_all_keeps_vehicle_files_isolated(self):
         root = Path(self.temporary.name)
         config_file = root / "vehicles.json"

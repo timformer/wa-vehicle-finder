@@ -21,7 +21,7 @@ The vehicle selector currently includes BMW iX, Volvo EX90, Volkswagen ID. Buzz,
 - Set `intervalDays` to change update frequency.
 - Add official same-brand pre-owned inventory shortcuts under `dealerSearchLinks`; these appear directly below the vehicle selector and may point to CAPTCHA-protected dealer searches.
 
-The workflow checks at `09:17`, `13:17`, `17:17`, and `21:17 UTC` to tolerate delayed or omitted GitHub scheduled events. Durable reservations ensure only the first eligible check queries a vehicle. Tesla Model X, Toyota Sienna, both Mercedes-Benz SUVs, both Porsche models, Genesis GV70, Genesis GV80, and Alfa Romeo Stelvio refresh every two days; BMW iX, Volvo EX90, Volkswagen ID. Buzz, and Maserati Grecale refresh daily. Tesla Model Y remains available on the site but no longer refreshes automatically.
+The workflow checks at `09:17`, `13:17`, `17:17`, and `21:17 UTC` to tolerate delayed or omitted GitHub scheduled events. Durable reservations ensure only the first eligible check queries a vehicle. Tesla Model X and Model Y refresh weekly; Toyota Sienna, both Mercedes-Benz SUVs, both Porsche models, Genesis GV70, Genesis GV80, and Alfa Romeo Stelvio refresh every two days; BMW iX, Volvo EX90, Volkswagen ID. Buzz, and Maserati Grecale refresh daily.
 
 Genesis GV70 combines the provider's `GV70` and `Electrified GV70` model queries so both gasoline and electric listings appear on one page.
 
@@ -48,7 +48,7 @@ Successful refreshes update only that vehicle's snapshot and seven-day history. 
 
 Hitting the daily call limit or an implausibly small result (for example, a vehicle with very low WA inventory) are expected, already-handled conditions: the prior snapshot is retained and the vehicle's page shows a `refreshWarning`. These do not fail the workflow run. Only genuine errors (for example, the provider being unreachable) mark the run as failed.
 
-Manual workflow runs can target comma-separated vehicle slugs. Set `retryFailed` to retry only targeted vehicles that already failed on the same Washington day; calls from earlier attempts still count toward each vehicle's 20-call daily ceiling.
+Manual workflow runs can target comma-separated vehicle slugs. Set `force` to run selected vehicles before their cadence is due, provided they have not already been attempted that Washington day. Set `retryFailed` to retry only targeted vehicles that already failed on the same Washington day; calls from earlier attempts still count toward each vehicle's 20-call daily ceiling.
 
 ## Local development
 

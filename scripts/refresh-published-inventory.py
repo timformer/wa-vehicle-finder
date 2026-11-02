@@ -108,7 +108,7 @@ def server_vehicle_context(config, paths):
         exporter.OVERRIDES = original["export_overrides"]
 
 
-def reserve_refresh(date, state_file, config=None, retry_failed=False):
+def reserve_refresh(date, state_file, config=None, retry_failed=False, force=False):
     config = config or server.read_site_config()
     state = read_json(state_file, {})
     last_attempt = state.get("lastAttemptDate")
@@ -120,6 +120,7 @@ def reserve_refresh(date, state_file, config=None, retry_failed=False):
         and isinstance(prior_calls, int)
         and prior_calls < MAX_CALLS_PER_VEHICLE_PER_DAY
     )
+    can_force = force and last_attempt != date
     interval_days = config["refresh"].get(
         "intervalDays",
         config.get("refreshIntervalDays", 1),
@@ -131,7 +132,7 @@ def reserve_refresh(date, state_file, config=None, retry_failed=False):
         if last_attempt
         else interval_days
     )
-    should_refresh = can_retry or days_since_attempt >= interval_days
+    should_refresh = can_retry or can_force or days_since_attempt >= interval_days
     if should_refresh:
         state["lastAttemptDate"] = date
         state["lastError"] = None
@@ -143,6 +144,8 @@ def reserve_refresh(date, state_file, config=None, retry_failed=False):
                 f"Reserved a failed refresh retry for {date}; "
                 f"{prior_calls} of {MAX_CALLS_PER_VEHICLE_PER_DAY} calls already used."
             )
+        elif can_force:
+            print(f"Reserved an early inventory refresh for {date}.")
         else:
             print(f"Reserved the inventory refresh for {date}.")
     else:
@@ -157,10 +160,13 @@ def reserve_all(
     date,
     requested_slugs=None,
     retry_failed=False,
+    force=False,
     config_file=CONFIG_FILE,
     vehicles_dir=VEHICLES_DIR,
 ):
     requested = set(requested_slugs or [])
+    if force and not requested:
+        raise ValueError("Forced refreshes must target at least one vehicle.")
     configured = read_vehicle_config(config_file)["vehicles"]
     configured_slugs = {config["slug"] for config in configured}
     unknown = requested - configured_slugs
@@ -173,7 +179,13 @@ def reserve_all(
         if not config.get("refresh", {}).get("enabled", False):
             continue
         paths = vehicle_paths(config["slug"], vehicles_dir)
-        if reserve_refresh(date, paths["state"], config, retry_failed=retry_failed):
+        if reserve_refresh(
+            date,
+            paths["state"],
+            config,
+            retry_failed=retry_failed,
+            force=force,
+        ):
             reserved.append(config["slug"])
     set_output("should_refresh", bool(reserved))
     set_output("reserved_vehicles", ",".join(reserved))
@@ -383,11 +395,17 @@ def main():
     parser.add_argument("--date", required=True)
     parser.add_argument("--vehicles", default="")
     parser.add_argument("--retry-failed", action="store_true")
+    parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
 
     if args.operation == "reserve-all":
         slugs = [slug for slug in args.vehicles.split(",") if slug]
-        reserve_all(args.date, slugs, retry_failed=args.retry_failed)
+        reserve_all(
+            args.date,
+            slugs,
+            retry_failed=args.retry_failed,
+            force=args.force,
+        )
         return
 
     slugs = [slug for slug in args.vehicles.split(",") if slug]
