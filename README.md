@@ -19,6 +19,7 @@ The vehicle selector currently includes BMW iX, Volvo EX90, Volkswagen ID. Buzz,
 
 - Set `enabled` to control automatic updates.
 - Set `intervalDays` to change update frequency.
+- Add official same-brand pre-owned inventory shortcuts under `dealerSearchLinks`; these appear directly below the vehicle selector and may point to CAPTCHA-protected dealer searches.
 
 The workflow checks at `09:17`, `13:17`, `17:17`, and `21:17 UTC` to tolerate delayed or omitted GitHub scheduled events. Durable reservations ensure only the first eligible check queries a vehicle. Tesla Model X, Toyota Sienna, both Mercedes-Benz SUVs, both Porsche models, Genesis GV70, Genesis GV80, and Alfa Romeo Stelvio refresh every two days; BMW iX, Volvo EX90, Volkswagen ID. Buzz, and Maserati Grecale refresh daily. Tesla Model Y remains available on the site but no longer refreshes automatically.
 

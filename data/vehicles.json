@@ -20,6 +20,20 @@
       "marketplaceDomains": [
         "autolist.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "BMW of Bellevue",
+          "url": "https://www.bmwbellevue.com/used-inventory/index.htm?make=BMW&model=iX"
+        },
+        {
+          "name": "BMW Seattle",
+          "url": "https://www.bmwseattle.com/used-vehicles/certified-pre-owned-vehicles/?q=ix"
+        },
+        {
+          "name": "BMW of Lynnwood",
+          "url": "https://www.bmwlynnwood.com/searchused.aspx?ModelAndTrim=iX"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 1
@@ -43,6 +57,20 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Volvo Cars Seattle",
+          "url": "https://www.volvocarsseattle.com/used-inventory/index.htm?model=EX90"
+        },
+        {
+          "name": "Volvo Cars Bellevue",
+          "url": "https://www.volvocarsbellevue.com/used/Volvo/EX90"
+        },
+        {
+          "name": "Volvo Cars Tacoma",
+          "url": "https://www.volvocarstacoma.com/used-inventory/index.htm?model=EX90"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -68,6 +96,20 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "University Volkswagen",
+          "url": "https://www.universityvw.com/searchused.aspx?Model=ID.%20Buzz"
+        },
+        {
+          "name": "Volkswagen of Kirkland",
+          "url": "https://www.vwofkirkland.com/used-inventory/index.htm?model=ID.%20Buzz"
+        },
+        {
+          "name": "Volkswagen of Puyallup",
+          "url": "https://www.vwofpuyallup.com/used-inventory/index.htm?model=ID.%20Buzz"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 1
@@ -91,6 +133,12 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Tesla used Model X inventory",
+          "url": "https://www.tesla.com/inventory/used/mx?zip=98101&range=200"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -117,6 +165,12 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "Tesla used Model Y inventory",
+          "url": "https://www.tesla.com/inventory/used/my?zip=98101&range=200"
+        }
+      ],
       "refresh": {
         "enabled": false,
         "intervalDays": 2
@@ -141,6 +195,20 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Toyota of Puyallup",
+          "url": "https://www.toyotaofpuyallup.com/inventory/used/toyota/sienna"
+        },
+        {
+          "name": "Toyota of Bellevue",
+          "url": "https://www.toyotaofbellevue.com/used-inventory/index.htm?model=Sienna"
+        },
+        {
+          "name": "Marysville Toyota",
+          "url": "https://www.marysvilletoyota.com/used-inventory/index.htm?model=Sienna"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -168,6 +236,12 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "Mercedes-Benz of Seattle",
+          "url": "https://www.mbseattle.com/searchused.aspx?Model=EQE%20SUV"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 2
@@ -194,6 +268,12 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "Mercedes-Benz of Seattle",
+          "url": "https://www.mbseattle.com/searchused.aspx?Model=EQS%20SUV"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 2
@@ -217,6 +297,16 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Porsche Bellevue",
+          "url": "https://bellevue.porsche.com/en/inventory/porsche/search?condition=used&modelSeries=macan"
+        },
+        {
+          "name": "Porsche Seattle North",
+          "url": "https://www.porscheseattlenorth.com/searchused.aspx?Model=Macan"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -242,6 +332,16 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Porsche Bellevue",
+          "url": "https://bellevue.porsche.com/en/inventory/porsche/search?condition=used&modelSeries=cayenne"
+        },
+        {
+          "name": "Porsche Seattle North",
+          "url": "https://www.porscheseattlenorth.com/searchused.aspx?Model=Cayenne"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -271,6 +371,12 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "Genesis of Kirkland",
+          "url": "https://www.genesisofkirkland.com/used-inventory/index.htm?model=GV70"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 2
@@ -297,6 +403,12 @@
         "autolist.com",
         "carvana.com"
       ],
+      "dealerSearchLinks": [
+        {
+          "name": "Genesis of Kirkland",
+          "url": "https://www.genesisofkirkland.com/used-inventory/index.htm?model=GV80"
+        }
+      ],
       "refresh": {
         "enabled": true,
         "intervalDays": 2
@@ -320,6 +432,12 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Maserati of Seattle",
+          "url": "https://www.maseratiofseattle.com/searchused.aspx?Model=Grecale"
+        }
       ],
       "refresh": {
         "enabled": true,
@@ -345,6 +463,12 @@
       "marketplaceDomains": [
         "autolist.com",
         "carvana.com"
+      ],
+      "dealerSearchLinks": [
+        {
+          "name": "Alfa Romeo of Seattle",
+          "url": "https://www.alfaromeoofseattle.com/used-vehicles/?q=stelvio"
+        }
       ],
       "allowEmptyInventory": true,
       "refresh": {

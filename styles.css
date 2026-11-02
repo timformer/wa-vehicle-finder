@@ -21,6 +21,12 @@ button, select { font: inherit; }
 .hero > p:last-of-type { margin: 0; color: #e5e9ee; font-size: 19px; }
 .vehicle-switcher { display: grid; gap: 7px; width: min(420px, 100%); margin-top: 28px; color: white; font-size: 14px; font-weight: 700; }
 .vehicle-switcher select { width: 100%; color: var(--ink); }
+.dealer-search-links { display: grid; gap: 7px; margin-top: 18px; font-size: 14px; }
+.dealer-search-links[hidden] { display: none; }
+.dealer-search-links > span { color: #e5e9ee; font-weight: 700; }
+.dealer-search-links > div { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.dealer-search-links a { color: white; text-underline-offset: 3px; }
+.dealer-search-links a:hover { color: #d9e9ff; }
 .eyebrow { margin: 0; font-size: 12px; letter-spacing: .14em; font-weight: 700; }
 .inventory-shell { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 44px; max-width: 1500px; margin: auto; padding: 48px clamp(20px, 5vw, 76px) 70px; }
 .filters { align-self: start; position: sticky; top: 18px; padding: 26px; background: var(--surface); }

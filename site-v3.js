@@ -37,6 +37,19 @@ vehicleSelector.addEventListener("change", () => {
   window.location.assign(url);
 });
 
+const dealerSearchLinks = vehicleConfig.dealerSearchLinks || [];
+const dealerSearchNav = document.querySelector("#dealer-search-links");
+const dealerSearchLinkList = document.querySelector("#dealer-search-link-list");
+dealerSearchLinks.forEach((dealer) => {
+  const link = document.createElement("a");
+  link.href = dealer.url;
+  link.textContent = dealer.name;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  dealerSearchLinkList.append(link);
+});
+dealerSearchNav.hidden = dealerSearchLinks.length === 0;
+
 const dataRoot = `./vehicles/${vehicleConfig.slug}`;
 const [inventoryResponse, historyResponse] = await Promise.all([
   fetch(`${dataRoot}/inventory.json`, { cache: "no-store" }),

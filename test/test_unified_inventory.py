@@ -1,6 +1,7 @@
 from pathlib import Path
 from unittest import TestCase, main
 from datetime import datetime
+from urllib.parse import urlparse
 import json
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -29,6 +30,21 @@ class UnifiedInventoryTests(TestCase):
                 self.assertIsInstance(refresh["enabled"], bool)
                 self.assertGreaterEqual(refresh["intervalDays"], 1)
                 self.assertNotIn("maxApiCalls", refresh)
+
+    def test_every_vehicle_has_official_dealer_search_links(self):
+        for vehicle in self.config["vehicles"]:
+            with self.subTest(vehicle=vehicle["slug"]):
+                links = vehicle["dealerSearchLinks"]
+                self.assertGreater(len(links), 0)
+                self.assertEqual(
+                    len(links),
+                    len({link["url"] for link in links}),
+                )
+                for link in links:
+                    self.assertTrue(link["name"].strip())
+                    parsed = urlparse(link["url"])
+                    self.assertEqual(parsed.scheme, "https")
+                    self.assertTrue(parsed.netloc)
 
     def test_requested_refresh_policies_and_vehicle_queries(self):
         vehicles = {
