@@ -1,20 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-03T17:02:33.985063+00:00",
+  "updatedAt": "2026-11-04T17:14:18.849198+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-28",
-      "vins": [
-        "WVG5WVEB2SH026823",
-        "WVG6YVEB1SH022292",
-        "WVG6YVEB6SH046183",
-        "WVGAWVEB7SH016559",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB1SH052680",
-        "WVGNYVEB9SH048330",
-        "WVGNYVEBXSH056453"
-      ]
-    },
     {
       "date": "2026-10-29",
       "vins": [
@@ -79,6 +66,18 @@
         "WVGNYVEB9SH048330",
         "WVGNYVEBXSH056453"
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "vins": [
+        "WVG5WVEB2SH026823",
+        "WVG6YVEB1SH022292",
+        "WVG6YVEB6SH046183",
+        "WVGAWVEBXSH012750",
+        "WVGNYVEB3SH056813",
+        "WVGNYVEB9SH048330",
+        "WVGNYVEBXSH056453"
+      ]
     }
   ],
   "vehicles": {
@@ -90,14 +89,14 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S",
-        "price": 53858,
+        "price": 54058,
         "mileage": 1558,
-        "exteriorColor": "Deep Black Pearl",
-        "interiorColor": "Moonlight leatherette",
+        "exteriorColor": "Black",
+        "interiorColor": "Moonlight",
         "seats": 7,
         "drivetrain": "RWD",
         "powertrain": "Electric",
-        "dealer": "Driveway",
+        "dealer": "BMW of Spokane",
         "officialBrandDealer": false,
         "city": "Spokane",
         "state": "WA",
@@ -106,20 +105,14 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/WVGAWVEBXSH012750-1.jpg",
-        "photoCount": 33,
+        "photoCount": 6,
         "url": "https://www.bmwofspokane.com/used-Spokane-2025-Volkswagen-ID+Buzz-Pro+S-WVGAWVEBXSH012750",
         "listedAt": "2026-08-09 02:52:13",
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 54058,
-          "mileage": 1558,
-          "dealer": "BMW of Spokane"
-        },
         {
           "date": "2026-10-29",
           "price": 53050,
@@ -149,46 +142,12 @@
           "price": 53858,
           "mileage": 1558,
           "dealer": "Driveway"
-        }
-      ]
-    },
-    "WVGAWVEB7SH016559": {
-      "lastKnown": {
-        "id": "wvgawveb7sh016559",
-        "vin": "WVGAWVEB7SH016559",
-        "year": 2025,
-        "make": "Volkswagen",
-        "model": "ID. Buzz",
-        "trim": "Pro S",
-        "price": 53244,
-        "mileage": 6143,
-        "exteriorColor": "Silver Metallic",
-        "interiorColor": "Copper",
-        "seats": 7,
-        "drivetrain": "RWD",
-        "powertrain": "Electric",
-        "dealer": "Volkswagen of Puyallup",
-        "officialBrandDealer": true,
-        "city": "Puyallup",
-        "state": "WA",
-        "zip": "98371",
-        "cpo": true,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/WVGAWVEB7SH016559-1.jpg",
-        "photoCount": 37,
-        "url": "https://vwofpuyallup.com/certified/Volkswagen/2025-Volkswagen-ID.-Buzz-a9bbebafac1817c99dfd0f5c2bcf716a.htm",
-        "listedAt": "2026-08-09 02:52:12",
-        "firstSeenDate": "2026-09-20"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-28",
-          "price": 53244,
-          "mileage": 6143,
-          "dealer": "Volkswagen of Puyallup"
+          "date": "2026-11-04",
+          "price": 54058,
+          "mileage": 1558,
+          "dealer": "BMW of Spokane"
         }
       ]
     },
@@ -246,10 +205,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 59088,
+        "price": 58888,
         "mileage": null,
-        "exteriorColor": "Energetic Orange/Candy White",
-        "interiorColor": "Dune leatherette",
+        "exteriorColor": "Orange",
+        "interiorColor": "Dune",
         "seats": 7,
         "drivetrain": "RWD",
         "powertrain": "Electric",
@@ -262,20 +221,14 @@
         "oneOwner": false,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Lease",
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG5WVEB2SH026823-1.jpg",
-        "photoCount": 0,
-        "url": "https://obrienautogroup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-4f216725ac183d947b673ca842f0bedb.htm",
+        "photoCount": 1,
+        "url": "https://vwofkirkland.com/electric-used/Volkswagen/2025-Volkswagen-ID.-Buzz-4f216725ac183d947b673ca842f0bedb.htm",
         "listedAt": "2026-10-19 02:21:02",
         "firstSeenDate": "2026-10-19"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 58888,
-          "mileage": null,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-29",
           "price": 59088,
@@ -305,46 +258,12 @@
           "price": 59088,
           "mileage": null,
           "dealer": "Volkswagen of Kirkland"
-        }
-      ]
-    },
-    "WVGNYVEB1SH052680": {
-      "lastKnown": {
-        "id": "wvgnyveb1sh052680",
-        "vin": "WVGNYVEB1SH052680",
-        "year": 2025,
-        "make": "Volkswagen",
-        "model": "ID. Buzz",
-        "trim": "Pro S Plus",
-        "price": 61881,
-        "mileage": 19776,
-        "exteriorColor": "Energetic Orange/Candy White",
-        "interiorColor": "Copper leatherette",
-        "seats": 6,
-        "drivetrain": "AWD",
-        "powertrain": "Electric",
-        "dealer": "Art Gamblin Motors",
-        "officialBrandDealer": false,
-        "city": "Enumclaw",
-        "state": "WA",
-        "zip": "98022",
-        "cpo": false,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/WVGNYVEB1SH052680-1.jpg",
-        "photoCount": 8,
-        "url": "https://www.gamblinmotors.com/used-Enumclaw-2025-Volkswagen-ID+Buzz-Pro+S+Plus-WVGNYVEB1SH052680",
-        "listedAt": "2026-10-15 23:38:22",
-        "firstSeenDate": "2026-10-24"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-10-28",
-          "price": 61881,
-          "mileage": 19776,
-          "dealer": "Art Gamblin Motors"
+          "date": "2026-11-04",
+          "price": 58888,
+          "mileage": null,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -356,10 +275,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 71088,
+        "price": 70888,
         "mileage": 12698,
-        "exteriorColor": "Cabana Blue/Candy White",
-        "interiorColor": "Dune leatherette",
+        "exteriorColor": "Cabana Blue",
+        "interiorColor": "Dune",
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -374,18 +293,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG6YVEB1SH022292-1.jpg",
-        "photoCount": 0,
-        "url": "https://obrienautogroup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e9e3ac183997d14880287ec8c0fb.htm",
+        "photoCount": 1,
+        "url": "https://vwofkirkland.com/electric-used/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e9e3ac183997d14880287ec8c0fb.htm",
         "listedAt": "2026-10-24 23:23:46",
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 70888,
-          "mileage": 12698,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-29",
           "price": 71088,
@@ -413,6 +326,12 @@
         {
           "date": "2026-11-03",
           "price": 71088,
+          "mileage": 12698,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 70888,
           "mileage": 12698,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -426,10 +345,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 71088,
+        "price": 70888,
         "mileage": 9222,
-        "exteriorColor": "Mahi Green/Candy White",
-        "interiorColor": "Dune leatherette",
+        "exteriorColor": "Mahi Green",
+        "interiorColor": "Dune",
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -438,24 +357,18 @@
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
+        "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG6YVEB6SH046183-1.jpg",
-        "photoCount": 25,
-        "url": "https://obrienautogroup.com/certified/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04eb1dac181183f6af7e155e978382.htm",
+        "photoCount": 26,
+        "url": "https://vwofkirkland.com/electric-certified/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04eb1dac181183f6af7e155e978382.htm",
         "listedAt": "2026-10-24 23:23:46",
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 70888,
-          "mileage": 9222,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-29",
           "price": 71088,
@@ -483,6 +396,12 @@
         {
           "date": "2026-11-03",
           "price": 71088,
+          "mileage": 9222,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 70888,
           "mileage": 9222,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -496,10 +415,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S Plus",
-        "price": 71088,
+        "price": 70888,
         "mileage": 7501,
-        "exteriorColor": "Orange",
-        "interiorColor": "Dune leatherette",
+        "exteriorColor": "Energetic Orange",
+        "interiorColor": "Dune",
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -508,24 +427,18 @@
         "city": "Kirkland",
         "state": "WA",
         "zip": "98034",
-        "cpo": false,
-        "oneOwner": false,
+        "cpo": true,
+        "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVGNYVEB9SH048330-1.jpg",
-        "photoCount": 0,
-        "url": "https://obrienautogroup.com/certified/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e66fac181f93afca8f1505798b2d.htm",
+        "photoCount": 1,
+        "url": "https://vwofkirkland.com/electric-certified/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e66fac181f93afca8f1505798b2d.htm",
         "listedAt": "2026-10-24 23:24:09",
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 70888,
-          "mileage": 7501,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-29",
           "price": 71088,
@@ -555,6 +468,12 @@
           "price": 71088,
           "mileage": 7501,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 70888,
+          "mileage": 7501,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -566,10 +485,10 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S Plus",
-        "price": 73088,
+        "price": 72888,
         "mileage": 1032,
-        "exteriorColor": "Red",
-        "interiorColor": "Moonlight leatherette",
+        "exteriorColor": "Cherry Red",
+        "interiorColor": "Moonlight",
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
@@ -584,18 +503,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVGNYVEBXSH056453-1.jpg",
-        "photoCount": 0,
-        "url": "https://obrienautogroup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e7beac18553821a1bbf94d1df8cc.htm",
+        "photoCount": 1,
+        "url": "https://vwofkirkland.com/electric-used/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e7beac18553821a1bbf94d1df8cc.htm",
         "listedAt": "2026-10-24 23:23:46",
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 72888,
-          "mileage": 1032,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-10-29",
           "price": 73088,
@@ -623,6 +536,12 @@
         {
           "date": "2026-11-03",
           "price": 73088,
+          "mileage": 1032,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 72888,
           "mileage": 1032,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -689,8 +608,8 @@
         "seats": 6,
         "drivetrain": "AWD",
         "powertrain": "Electric",
-        "dealer": "Buick GMC of Puyallup",
-        "officialBrandDealer": false,
+        "dealer": "Volkswagen of Puyallup",
+        "officialBrandDealer": true,
         "city": "Puyallup",
         "state": "WA",
         "zip": "98371",
@@ -700,8 +619,8 @@
         "accidentCount": null,
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/WVGNYVEB3SH056813-1.jpg",
-        "photoCount": 6,
-        "url": "https://www.buickgmcofpuyallup.com/used-Puyallup-2025-Volkswagen-ID+Buzz-Pro+S+Plus-WVGNYVEB3SH056813",
+        "photoCount": 2,
+        "url": "https://subaruofpuyallup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-for-sale-Tacoma-WA-968d5d32ac181015f549c1f4611ffde0.htm",
         "listedAt": "2026-11-01 13:53:19",
         "firstSeenDate": "2026-11-03"
       },
@@ -711,6 +630,12 @@
           "price": 65971,
           "mileage": 8610,
           "dealer": "Buick GMC of Puyallup"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 65971,
+          "mileage": 8610,
+          "dealer": "Volkswagen of Puyallup"
         }
       ]
     }

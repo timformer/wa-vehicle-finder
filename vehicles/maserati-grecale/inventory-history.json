@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-03T17:03:56.766117+00:00",
+  "updatedAt": "2026-11-04T17:14:30.086034+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-28",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-10-29",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -93,12 +93,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-28",
-          "price": 29400,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
-        {
           "date": "2026-10-29",
           "price": 29400,
           "mileage": 42463,
@@ -133,6 +127,12 @@
           "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 29400,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
         }
       ]
     },
@@ -143,10 +143,10 @@
         "year": 2023,
         "make": "Maserati",
         "model": "Grecale",
-        "trim": "Modena",
-        "price": 29500,
+        "trim": "MODENA",
+        "price": 29700,
         "mileage": 40305,
-        "exteriorColor": "Nero Tempesta",
+        "exteriorColor": "Black",
         "interiorColor": "Unspecified",
         "seats": 5,
         "drivetrain": "AWD",
@@ -168,12 +168,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-28",
-          "price": 31000,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-10-29",
           "price": 31000,
@@ -207,6 +201,12 @@
         {
           "date": "2026-11-03",
           "price": 29500,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 29700,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
         }
@@ -245,12 +245,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-28",
-          "price": 35821,
-          "mileage": 41675,
-          "dealer": "Volkswagen of Bellingham"
-        },
-        {
           "date": "2026-10-29",
           "price": 35821,
           "mileage": 41675,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-03",
+          "price": 33752,
+          "mileage": 41675,
+          "dealer": "Volkswagen of Bellingham"
+        },
+        {
+          "date": "2026-11-04",
           "price": 33752,
           "mileage": 41675,
           "dealer": "Volkswagen of Bellingham"
