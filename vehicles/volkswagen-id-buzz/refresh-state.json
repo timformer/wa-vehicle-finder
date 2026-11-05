@@ -1,7 +1,7 @@
 {
   "lastAttemptDate": "2026-11-05",
-  "lastAttemptCalls": 0,
-  "lastError": null,
+  "lastAttemptCalls": 1,
+  "lastError": "Refresh returned only 0 listings; at least 3 were required.",
   "lastSuccessfulRefreshDate": "2026-11-04",
   "knownVins": {
     "WVG6YVEB5SH006984": "2026-09-08",
@@ -32,5 +32,5 @@
     "WVGNYVEBXSH056453": "2026-10-26",
     "WVGNYVEB3SH056813": "2026-11-03"
   },
-  "lastErrorCode": null
+  "lastErrorCode": "implausible-result"
 }
