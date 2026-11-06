@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-05T17:23:44.684374+00:00",
+  "updatedAt": "2026-11-06T16:45:26.893357+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-30",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-10-31",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -93,12 +93,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-30",
-          "price": 29400,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
-        {
           "date": "2026-10-31",
           "price": 29550,
           "mileage": 42463,
@@ -133,6 +127,12 @@
           "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 29400,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
         }
       ]
     },
@@ -144,10 +144,10 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "Modena",
-        "price": 29500,
+        "price": 29800,
         "mileage": 40305,
         "exteriorColor": "Black",
-        "interiorColor": "Unspecified",
+        "interiorColor": "Red",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -169,12 +169,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-30",
-          "price": 29500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-10-31",
           "price": 29700,
           "mileage": 40305,
@@ -207,6 +201,12 @@
         {
           "date": "2026-11-05",
           "price": 29500,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 29800,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
         }
@@ -245,12 +245,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-30",
-          "price": 35621,
-          "mileage": 41675,
-          "dealer": "Roger Jobs Volkswagen"
-        },
-        {
           "date": "2026-10-31",
           "price": 33752,
           "mileage": 41675,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-05",
+          "price": 33552,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-06",
           "price": 33552,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"
