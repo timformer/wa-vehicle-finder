@@ -1,10 +1,10 @@
 {
   "publishedSnapshot": true,
-  "updatedAt": "2026-11-06T16:45:22.556212+00:00",
-  "lastRefreshDate": "2026-11-06",
+  "updatedAt": "2026-11-07T15:39:33.608876+00:00",
+  "lastRefreshDate": "2026-11-07",
   "lastAttemptCalls": 1,
-  "apiTotal": 5,
-  "listingCount": 5,
+  "apiTotal": 6,
+  "listingCount": 6,
   "newCount": 0,
   "removedCount": 0,
   "listings": [
@@ -162,6 +162,37 @@
       "listedAt": "2026-10-31 23:00:07",
       "isNew": false,
       "firstSeenDate": "2026-11-01"
+    },
+    {
+      "id": "7jdda3vl3tg060621",
+      "vin": "7JDDA3VL3TG060621",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "EX90",
+      "trim": "Twin Motor Performance Ultra",
+      "price": 83188,
+      "mileage": 8299,
+      "exteriorColor": "Denim Blue Metallic",
+      "interiorColor": "Charcoal",
+      "seats": 7,
+      "drivetrain": "AWD",
+      "powertrain": "Electric",
+      "dealer": "Volvo Cars Bellevue",
+      "officialBrandDealer": true,
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98004",
+      "cpo": false,
+      "oneOwner": false,
+      "accidentFree": true,
+      "accidentCount": 0,
+      "usageType": "Vehicle Use",
+      "image": "https://retail.photos.vin/7JDDA3VL3TG060621-1.jpg",
+      "photoCount": 6,
+      "url": "https://www.swickardautogroup.com/used-Bellevue-2026-Volvo-EX90-Ultra-7JDDA3VL3TG060621",
+      "listedAt": "2026-09-17 19:36:31",
+      "isNew": false,
+      "firstSeenDate": "2026-09-19"
     }
   ]
 }

@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-06T16:45:26.893357+00:00",
+  "updatedAt": "2026-11-07T15:40:04.441807+00:00",
   "snapshots": [
-    {
-      "date": "2026-10-31",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-11-01",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -93,12 +93,6 @@
       },
       "observations": [
         {
-          "date": "2026-10-31",
-          "price": 29550,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto Sales, Inc."
-        },
-        {
           "date": "2026-11-01",
           "price": 29550,
           "mileage": 42463,
@@ -133,6 +127,12 @@
           "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-07",
+          "price": 29400,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
         }
       ]
     },
@@ -144,7 +144,7 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "Modena",
-        "price": 29800,
+        "price": 33800,
         "mileage": 40305,
         "exteriorColor": "Black",
         "interiorColor": "Red",
@@ -168,12 +168,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-10-31",
-          "price": 29700,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-01",
           "price": 29500,
@@ -209,6 +203,12 @@
           "price": 29800,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-07",
+          "price": 33800,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -220,7 +220,7 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "Modena",
-        "price": 33552,
+        "price": 32075,
         "mileage": 41675,
         "exteriorColor": "Other",
         "interiorColor": "Unspecified",
@@ -244,12 +244,6 @@
         "firstSeenDate": "2026-10-23"
       },
       "observations": [
-        {
-          "date": "2026-10-31",
-          "price": 33752,
-          "mileage": 41675,
-          "dealer": "Volkswagen of Bellingham"
-        },
         {
           "date": "2026-11-01",
           "price": 35821,
@@ -283,6 +277,12 @@
         {
           "date": "2026-11-06",
           "price": 33552,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-07",
+          "price": 32075,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"
         }
