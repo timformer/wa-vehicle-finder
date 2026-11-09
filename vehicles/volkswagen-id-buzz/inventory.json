@@ -256,5 +256,10 @@
       "isNew": false,
       "firstSeenDate": "2026-10-26"
     }
-  ]
+  ],
+  "refreshWarning": {
+    "date": "2026-11-09",
+    "code": "implausible-result",
+    "message": "The latest refresh returned only 0 listings, fewer than the 4 expected from the prior snapshot. Inventory may be temporarily low; the last successful snapshot is shown."
+  }
 }

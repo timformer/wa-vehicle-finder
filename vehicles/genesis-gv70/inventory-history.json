@@ -1,54 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-07T15:40:03.454976+00:00",
+  "updatedAt": "2026-11-09T19:49:15.162188+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-01",
-      "vins": [
-        "5NMMADTB1SH026175",
-        "5NMMADTB1SH031750",
-        "5NMMADTB2SH035161",
-        "5NMMADTB2TH045223",
-        "5NMMADTB4SH031810",
-        "5NMMADTB5SH032285",
-        "5NMMADTB9SH032161",
-        "5NMMADTB9SH032273",
-        "5NMMADTBXRH006808",
-        "5NMMADTBXSH032945",
-        "5NMMCDTC0RH013401",
-        "5NMMCDTC1SH024199",
-        "5NMMCDTC2SH027757",
-        "5NMMCDTC3RH006104",
-        "5NMMCDTC5SH025114",
-        "5NMMCDTC8SH027584",
-        "5NMMCDTC9SH019381",
-        "5NMMCDTCXSH030826",
-        "5NMMCET10RH001656",
-        "5NMMCET18SH004472",
-        "5NMMEDTC7TH042895",
-        "KMUMADTB0NU026260",
-        "KMUMADTB1SU216404",
-        "KMUMADTB1SU221845",
-        "KMUMADTB2NU051791",
-        "KMUMADTB3SU203640",
-        "KMUMADTB3TU230113",
-        "KMUMADTB4PU088991",
-        "KMUMADTB4SU207180",
-        "KMUMADTB5PU093472",
-        "KMUMADTB5SU180197",
-        "KMUMADTB7NU058946",
-        "KMUMADTB7SU177625",
-        "KMUMADTB8SU197639",
-        "KMUMADTB8SU222040",
-        "KMUMADTB9SU182356",
-        "KMUMADTB9SU212259",
-        "KMUMADTB9SU216456",
-        "KMUMCDTC2NU014646",
-        "KMUMCDTC3SU199849",
-        "KMUMEDTC1TU242337",
-        "KMUMEDTC9TU249357"
-      ]
-    },
     {
       "date": "2026-11-03",
       "vins": [
@@ -184,6 +137,52 @@
         "KMUMEDTC1TU242337",
         "KMUMEDTC9TU249357"
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "vins": [
+        "5NMMADTB1SH026175",
+        "5NMMADTB1SH031750",
+        "5NMMADTB2SH031708",
+        "5NMMADTB2SH035161",
+        "5NMMADTB2TH045223",
+        "5NMMADTB4SH031810",
+        "5NMMADTB5SH032285",
+        "5NMMADTB9SH031799",
+        "5NMMADTB9SH032161",
+        "5NMMADTB9SH032273",
+        "5NMMCDTC0RH013401",
+        "5NMMCDTC1SH024199",
+        "5NMMCDTC2SH027757",
+        "5NMMCDTC3RH006104",
+        "5NMMCDTC5SH025114",
+        "5NMMCDTC8SH027584",
+        "5NMMCDTC9SH019381",
+        "5NMMCDTCXSH030826",
+        "5NMMCET10RH001656",
+        "5NMMCET18SH004472",
+        "5NMMEDTC7TH042895",
+        "KMUMADTB0NU026260",
+        "KMUMADTB1SU216404",
+        "KMUMADTB2NU051791",
+        "KMUMADTB3SU203640",
+        "KMUMADTB3TU230113",
+        "KMUMADTB4PU088991",
+        "KMUMADTB4SU207180",
+        "KMUMADTB5PU093472",
+        "KMUMADTB5SU180197",
+        "KMUMADTB6SU200120",
+        "KMUMADTB7NU058946",
+        "KMUMADTB8SU222040",
+        "KMUMADTB9SU182356",
+        "KMUMADTB9SU212259",
+        "KMUMADTB9SU216456",
+        "KMUMCDTC2NU014646",
+        "KMUMCDTC2NU075754",
+        "KMUMCDTC3SU199849",
+        "KMUMEDTC1TU242337",
+        "KMUMEDTC9TU249357"
+      ]
     }
   ],
   "vehicles": {
@@ -220,12 +219,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 30500,
-          "mileage": 34300,
-          "dealer": "GMC of Riverfront Park"
-        },
-        {
           "date": "2026-11-03",
           "price": 30500,
           "mileage": 34300,
@@ -239,6 +232,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 30400,
+          "mileage": 34300,
+          "dealer": "GMC of Riverfront Park"
+        },
+        {
+          "date": "2026-11-09",
           "price": 30400,
           "mileage": 34300,
           "dealer": "GMC of Riverfront Park"
@@ -278,12 +277,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 28998,
-          "mileage": 38853,
-          "dealer": "CarMax Lynnwood"
-        },
-        {
           "date": "2026-11-03",
           "price": 28998,
           "mileage": 38853,
@@ -297,6 +290,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 28998,
+          "mileage": 38853,
+          "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-11-09",
           "price": 28998,
           "mileage": 38853,
           "dealer": "CarMax Lynnwood"
@@ -314,7 +313,7 @@
         "price": 27998,
         "mileage": 39977,
         "exteriorColor": "White",
-        "interiorColor": "Black",
+        "interiorColor": "Obsidian Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -329,18 +328,12 @@
         "accidentCount": 0,
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5NMMADTB1SH026175-1.jpg",
-        "photoCount": 1,
+        "photoCount": 28,
         "url": "https://www.carmax.com/car/29097046",
         "listedAt": "2026-07-31 23:54:28",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 28998,
-          "mileage": 39977,
-          "dealer": "CarMax - Lynnwood"
-        },
         {
           "date": "2026-11-03",
           "price": 28998,
@@ -358,6 +351,12 @@
           "price": 27998,
           "mileage": 39977,
           "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 27998,
+          "mileage": 39977,
+          "dealer": "CarMax Lynnwood"
         }
       ]
     },
@@ -371,8 +370,8 @@
         "trim": "2.5T",
         "price": 31998,
         "mileage": 28584,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
+        "exteriorColor": "Capri Blue",
+        "interiorColor": "Obsidian Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -380,25 +379,19 @@
         "officialBrandDealer": false,
         "city": "Spokane Valley",
         "state": "WA",
-        "zip": "",
+        "zip": "99212",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/5NMMADTB1SH031750-1.jpg",
-        "photoCount": 1,
+        "photoCount": 28,
         "url": "https://www.carmax.com/car/29032424",
         "listedAt": "2026-11-07 11:48:37",
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 31998,
-          "mileage": 28584,
-          "dealer": "CarMax Spokane"
-        },
         {
           "date": "2026-11-03",
           "price": 31998,
@@ -413,6 +406,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 31998,
+          "mileage": 28584,
+          "dealer": "CarMax Spokane"
+        },
+        {
+          "date": "2026-11-09",
           "price": 31998,
           "mileage": 28584,
           "dealer": "CarMax Spokane"
@@ -452,12 +451,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 41302,
-          "mileage": 21794,
-          "dealer": "Pierre Lincoln"
-        },
-        {
           "date": "2026-11-03",
           "price": 41502,
           "mileage": 21794,
@@ -471,6 +464,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 40191,
+          "mileage": 21794,
+          "dealer": "Pierre Ford Lincoln of Lynnwood"
+        },
+        {
+          "date": "2026-11-09",
           "price": 40191,
           "mileage": 21794,
           "dealer": "Pierre Ford Lincoln of Lynnwood"
@@ -510,12 +509,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29991,
-          "mileage": 38564,
-          "dealer": "Pierre Ford Lincoln of Lynnwood"
-        },
-        {
           "date": "2026-11-03",
           "price": 30191,
           "mileage": 38564,
@@ -529,6 +522,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 29002,
+          "mileage": 38564,
+          "dealer": "Pierre Ford Lincoln of Lynnwood"
+        },
+        {
+          "date": "2026-11-09",
           "price": 29002,
           "mileage": 38564,
           "dealer": "Pierre Ford Lincoln of Lynnwood"
@@ -559,7 +558,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/5NMMCDTC1SH024199-1.jpg",
         "photoCount": 36,
         "url": "https://genesisofkirkland.com/certified/Genesis/2025-Genesis-GV70-4f1b3d55ac1858fe65a8f852b526a048.htm",
@@ -567,12 +566,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 50195,
-          "mileage": 7273,
-          "dealer": "Genesis of Kirkland"
-        },
         {
           "date": "2026-11-03",
           "price": 49995,
@@ -587,6 +580,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 49995,
+          "mileage": 7273,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 49995,
           "mileage": 7273,
           "dealer": "Hyundai of Everett"
@@ -626,12 +625,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 51195,
-          "mileage": 5604,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 55995,
           "mileage": 5604,
@@ -645,6 +638,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 50995,
+          "mileage": 5604,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 50995,
           "mileage": 5604,
           "dealer": "Hyundai of Everett"
@@ -684,12 +683,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 49395,
-          "mileage": 21591,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 52995,
           "mileage": 21591,
@@ -703,6 +696,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 49195,
+          "mileage": 21591,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 49195,
           "mileage": 21591,
           "dealer": "Hyundai of Everett"
@@ -742,12 +741,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 51695,
-          "mileage": 5681,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 57995,
           "mileage": 5681,
@@ -761,6 +754,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 51495,
+          "mileage": 5681,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 51495,
           "mileage": 5681,
           "dealer": "Hyundai of Everett"
@@ -800,12 +799,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 55695,
-          "mileage": 6102,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 61995,
           "mileage": 6102,
@@ -819,6 +812,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 55495,
+          "mileage": 6102,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 55495,
           "mileage": 6102,
           "dealer": "Hyundai of Everett"
@@ -858,12 +857,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 27795,
-          "mileage": 87305,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 27595,
           "mileage": 87305,
@@ -877,6 +870,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 27595,
+          "mileage": 87305,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 27595,
           "mileage": 87305,
           "dealer": "Hyundai of Everett"
@@ -916,12 +915,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 49195,
-          "mileage": 4539,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 50995,
           "mileage": 4539,
@@ -935,6 +928,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 48995,
+          "mileage": 4539,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 48995,
           "mileage": 4539,
           "dealer": "Hyundai of Everett"
@@ -974,12 +973,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 50888,
-          "mileage": 9307,
-          "dealer": "Titus-Will Toyota"
-        },
-        {
           "date": "2026-11-03",
           "price": 50888,
           "mileage": 9307,
@@ -993,6 +986,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 50888,
+          "mileage": 9307,
+          "dealer": "Titus-Will Ford"
+        },
+        {
+          "date": "2026-11-09",
           "price": 50888,
           "mileage": 9307,
           "dealer": "Titus-Will Ford"
@@ -1032,12 +1031,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 30999,
-          "mileage": 42078,
-          "dealer": "Tituswillmartinway Vinsolutions Only Used"
-        },
-        {
           "date": "2026-11-03",
           "price": 30799,
           "mileage": 42078,
@@ -1054,46 +1047,12 @@
           "price": 30799,
           "mileage": 42078,
           "dealer": "TitusWillMartinWay VinSolutions Only Used"
-        }
-      ]
-    },
-    "5NMMADTBXSH032945": {
-      "lastKnown": {
-        "id": "5nmmadtbxsh032945",
-        "vin": "5NMMADTBXSH032945",
-        "year": 2025,
-        "make": "Genesis",
-        "model": "GV70",
-        "trim": "2.5T",
-        "price": 28998,
-        "mileage": 35736,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "CarMax - Renton",
-        "officialBrandDealer": false,
-        "city": "Renton",
-        "state": "WA",
-        "zip": "98057",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Rental Use",
-        "image": "https://retail.photos.vin/5NMMADTBXSH032945-1.jpg",
-        "photoCount": 29,
-        "url": "https://www.carmax.com/car/29097754",
-        "listedAt": "2026-10-07 11:32:36",
-        "firstSeenDate": "2026-10-02"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-01",
-          "price": 28998,
-          "mileage": 35736,
-          "dealer": "CarMax - Renton"
+          "date": "2026-11-09",
+          "price": 30799,
+          "mileage": 42078,
+          "dealer": "TitusWillMartinWay VinSolutions Only Used"
         }
       ]
     },
@@ -1130,12 +1089,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 27998,
-          "mileage": 48766,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-11-03",
           "price": 27998,
           "mileage": 48766,
@@ -1149,6 +1102,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 27998,
+          "mileage": 48766,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-11-09",
           "price": 27998,
           "mileage": 48766,
           "dealer": "CarMax Tulalip"
@@ -1188,12 +1147,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 27998,
-          "mileage": 42471,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-11-03",
           "price": 27998,
           "mileage": 42471,
@@ -1207,6 +1160,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 27998,
+          "mileage": 42471,
+          "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-11-09",
           "price": 27998,
           "mileage": 42471,
           "dealer": "CarMax Tulalip"
@@ -1246,12 +1205,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29500,
-          "mileage": 38614,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 29500,
           "mileage": 38614,
@@ -1265,6 +1218,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 29300,
+          "mileage": 38614,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 29300,
           "mileage": 38614,
           "dealer": "Go Kia Tacoma"
@@ -1303,12 +1262,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 27998,
-          "mileage": 43906,
-          "dealer": "CarMax Puyallup"
-        },
         {
           "date": "2026-11-03",
           "price": 27998,
@@ -1362,12 +1315,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 28998,
-          "mileage": 44766,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-11-03",
           "price": 28998,
           "mileage": 44766,
@@ -1381,6 +1328,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 27998,
+          "mileage": 44766,
+          "dealer": "CarMax Spokane"
+        },
+        {
+          "date": "2026-11-09",
           "price": 27998,
           "mileage": 44766,
           "dealer": "CarMax Spokane"
@@ -1408,10 +1361,10 @@
         "state": "WA",
         "zip": "98057",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5NMMADTB4SH031810-1.jpg",
         "photoCount": 28,
         "url": "https://www.carmax.com/car/29117481",
@@ -1420,13 +1373,13 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
+          "date": "2026-11-07",
           "price": 28998,
           "mileage": 38284,
-          "dealer": "CarMax - Renton"
+          "dealer": "CarMax Renton"
         },
         {
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "price": 28998,
           "mileage": 38284,
           "dealer": "CarMax Renton"
@@ -1466,12 +1419,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29998,
-          "mileage": 32508,
-          "dealer": "CarMax Tulalip"
-        },
-        {
           "date": "2026-11-03",
           "price": 29998,
           "mileage": 32508,
@@ -1488,6 +1435,12 @@
           "price": 29998,
           "mileage": 32508,
           "dealer": "CarMax Tulalip"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 29998,
+          "mileage": 32508,
+          "dealer": "CarMax Tulalip"
         }
       ]
     },
@@ -1499,7 +1452,7 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 33044,
+        "price": 30944,
         "mileage": 33890,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -1524,12 +1477,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 34033,
-          "mileage": 33890,
-          "dealer": "Auburn Chevrolet"
-        },
-        {
           "date": "2026-11-03",
           "price": 34233,
           "mileage": 33890,
@@ -1544,6 +1491,12 @@
         {
           "date": "2026-11-07",
           "price": 33044,
+          "mileage": 33890,
+          "dealer": "Auburn Chevrolet"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 30944,
           "mileage": 33890,
           "dealer": "Auburn Chevrolet"
         }
@@ -1582,12 +1535,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 36750,
-          "mileage": 35409,
-          "dealer": "By Design Auto Group"
-        },
-        {
           "date": "2026-11-03",
           "price": 36750,
           "mileage": 35409,
@@ -1601,6 +1548,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 36750,
+          "mileage": 35409,
+          "dealer": "By Design Auto Group"
+        },
+        {
+          "date": "2026-11-09",
           "price": 36750,
           "mileage": 35409,
           "dealer": "By Design Auto Group"
@@ -1640,12 +1593,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 48200,
-          "mileage": 6850,
-          "dealer": "Doug's Hyundai"
-        },
-        {
           "date": "2026-11-03",
           "price": 48200,
           "mileage": 6850,
@@ -1659,6 +1606,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 48200,
+          "mileage": 6850,
+          "dealer": "Doug's Hyundai"
+        },
+        {
+          "date": "2026-11-09",
           "price": 48200,
           "mileage": 6850,
           "dealer": "Doug's Hyundai"
@@ -1697,12 +1650,6 @@
         "firstSeenDate": "2026-10-02"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 28998,
-          "mileage": 42216,
-          "dealer": "CarMax Renton"
-        },
         {
           "date": "2026-11-03",
           "price": 28998,
@@ -1744,12 +1691,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 28500,
-          "mileage": 49997,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 28500,
           "mileage": 49997,
@@ -1763,6 +1704,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 27500,
+          "mileage": 49997,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 27500,
           "mileage": 49997,
           "dealer": "Go Kia Tacoma"
@@ -1802,12 +1749,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29300,
-          "mileage": 42061,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 29300,
           "mileage": 42061,
@@ -1821,6 +1762,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 28800,
+          "mileage": 42061,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 28800,
           "mileage": 42061,
           "dealer": "Go Kia Tacoma"
@@ -1860,12 +1807,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29300,
-          "mileage": 43910,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 29300,
           "mileage": 43910,
@@ -1879,6 +1820,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 28800,
+          "mileage": 43910,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 28800,
           "mileage": 43910,
           "dealer": "Go Kia Tacoma"
@@ -1917,12 +1864,6 @@
         "firstSeenDate": "2026-10-08"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 35997,
-          "mileage": 21384,
-          "dealer": "Acura of Bellevue"
-        },
         {
           "date": "2026-11-03",
           "price": 36047,
@@ -1976,12 +1917,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 43195,
-          "mileage": 5278,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 42995,
           "mileage": 5278,
@@ -1995,6 +1930,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 42995,
+          "mileage": 5278,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 42995,
           "mileage": 5278,
           "dealer": "Hyundai of Everett"
@@ -2034,12 +1975,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 40195,
-          "mileage": 43127,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 40195,
           "mileage": 43127,
@@ -2053,6 +1988,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 38995,
+          "mileage": 43127,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 38995,
           "mileage": 43127,
           "dealer": "Hyundai of Everett"
@@ -2092,12 +2033,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 35195,
-          "mileage": 28849,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 34995,
           "mileage": 28849,
@@ -2111,6 +2046,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 34995,
+          "mileage": 28849,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 34995,
           "mileage": 28849,
           "dealer": "Hyundai of Everett"
@@ -2150,12 +2091,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 62695,
-          "mileage": 3871,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 62495,
           "mileage": 3865,
@@ -2169,6 +2104,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 62495,
+          "mileage": 3865,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 62495,
           "mileage": 3865,
           "dealer": "Hyundai of Everett"
@@ -2208,12 +2149,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 64195,
-          "mileage": 3300,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 63995,
           "mileage": 3300,
@@ -2227,6 +2162,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 63995,
+          "mileage": 3300,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 63995,
           "mileage": 3300,
           "dealer": "Hyundai of Everett"
@@ -2266,12 +2207,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 64195,
-          "mileage": 4896,
-          "dealer": "Genesis of Kirkland"
-        },
-        {
           "date": "2026-11-03",
           "price": 63995,
           "mileage": 4896,
@@ -2285,6 +2220,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 63995,
+          "mileage": 4896,
+          "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 63995,
           "mileage": 4896,
           "dealer": "Hyundai of Everett"
@@ -2324,12 +2265,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 29590,
-          "mileage": 41831,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-11-03",
           "price": 29590,
           "mileage": 41831,
@@ -2343,6 +2278,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 29590,
+          "mileage": 41831,
+          "dealer": "Carvana"
+        },
+        {
+          "date": "2026-11-09",
           "price": 29590,
           "mileage": 41831,
           "dealer": "Carvana"
@@ -2382,12 +2323,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 38971,
-          "mileage": 27904,
-          "dealer": "Kendall Subaru of Marysville"
-        },
-        {
           "date": "2026-11-03",
           "price": 38971,
           "mileage": 27904,
@@ -2404,6 +2339,12 @@
           "price": 38971,
           "mileage": 27904,
           "dealer": "Kendall Subaru of Marysville"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 38971,
+          "mileage": 27904,
+          "dealer": "Kendall Subaru of Marysville"
         }
       ]
     },
@@ -2415,7 +2356,7 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "2.5T",
-        "price": 30595,
+        "price": 30295,
         "mileage": 40535,
         "exteriorColor": "Silver",
         "interiorColor": "Black",
@@ -2440,12 +2381,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 30795,
-          "mileage": 40535,
-          "dealer": "Toyota of Olympia"
-        },
-        {
           "date": "2026-11-03",
           "price": 30595,
           "mileage": 40535,
@@ -2460,6 +2395,12 @@
         {
           "date": "2026-11-07",
           "price": 30595,
+          "mileage": 40535,
+          "dealer": "Toyota of Olympia"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 30295,
           "mileage": 40535,
           "dealer": "Toyota of Olympia"
         }
@@ -2498,12 +2439,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-01",
-          "price": 53199,
-          "mileage": 8915,
-          "dealer": "Hyundai of Everett"
-        },
-        {
           "date": "2026-11-03",
           "price": 53199,
           "mileage": 8915,
@@ -2517,6 +2452,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 53199,
+          "mileage": 8915,
+          "dealer": "Lee Johnson Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-09",
           "price": 53199,
           "mileage": 8915,
           "dealer": "Lee Johnson Hyundai of Everett"
@@ -2555,12 +2496,6 @@
         "firstSeenDate": "2026-11-01"
       },
       "observations": [
-        {
-          "date": "2026-11-01",
-          "price": 33070,
-          "mileage": 29231,
-          "dealer": "Used Audi of TriCities"
-        },
         {
           "date": "2026-11-03",
           "price": 33070,
@@ -2612,6 +2547,12 @@
           "price": 36998,
           "mileage": 17325,
           "dealer": "CarMax Vancouver"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 36998,
+          "mileage": 17325,
+          "dealer": "CarMax Vancouver"
         }
       ]
     },
@@ -2623,20 +2564,20 @@
         "make": "Genesis",
         "model": "GV70",
         "trim": "3.5T Sport",
-        "price": 36990,
+        "price": 37190,
         "mileage": 43738,
         "exteriorColor": "White",
         "interiorColor": "Red",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Way Scarff Ford Auburn",
+        "dealer": "Way Scarff Ford",
         "officialBrandDealer": false,
         "city": "Auburn",
         "state": "WA",
         "zip": "98002",
         "cpo": false,
-        "oneOwner": false,
+        "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
         "usageType": "Personal Use",
@@ -2652,6 +2593,12 @@
           "price": 36990,
           "mileage": 43738,
           "dealer": "Way Scarff Ford Auburn"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 37190,
+          "mileage": 43738,
+          "dealer": "Way Scarff Ford"
         }
       ]
     },
@@ -2676,10 +2623,10 @@
         "state": "WA",
         "zip": "98036",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Rental Use",
         "image": "https://retail.photos.vin/5NMMADTB9SH031799-1.jpg",
         "photoCount": 1,
         "url": "https://www.carmax.com/car/29071797",
@@ -2692,6 +2639,52 @@
           "price": 30998,
           "mileage": 44079,
           "dealer": "CarMax Lynnwood"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 30998,
+          "mileage": 44079,
+          "dealer": "CarMax Lynnwood"
+        }
+      ]
+    },
+    "5NMMADTB2SH031708": {
+      "lastKnown": {
+        "id": "5nmmadtb2sh031708",
+        "vin": "5NMMADTB2SH031708",
+        "year": 2025,
+        "make": "Genesis",
+        "model": "GV70",
+        "trim": "2.5T",
+        "price": 32590,
+        "mileage": 30516,
+        "exteriorColor": "Silver",
+        "interiorColor": "Black",
+        "seats": 5,
+        "drivetrain": "AWD",
+        "powertrain": "Gasoline",
+        "dealer": "Carvana",
+        "officialBrandDealer": false,
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98115",
+        "cpo": false,
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Corporate Fleet",
+        "image": "https://retail.photos.vin/5NMMADTB2SH031708-1.jpg",
+        "photoCount": 45,
+        "url": "https://www.carvana.com/vehicle/4871119",
+        "listedAt": "2026-11-03 13:10:51",
+        "firstSeenDate": "2026-11-09"
+      },
+      "observations": [
+        {
+          "date": "2026-11-09",
+          "price": 32590,
+          "mileage": 30516,
+          "dealer": "Carvana"
         }
       ]
     }

@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-08T15:58:02.916175+00:00",
+  "updatedAt": "2026-11-09T19:49:15.684803+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-02",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-11-03",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -93,12 +93,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 29550,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto Sales, Inc."
-        },
-        {
           "date": "2026-11-03",
           "price": 29400,
           "mileage": 42463,
@@ -130,6 +124,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 29400,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-09",
           "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
@@ -169,12 +169,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 29500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 29500,
           "mileage": 40305,
@@ -206,6 +200,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 33800,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 33800,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
@@ -245,12 +245,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 33552,
-          "mileage": 41675,
-          "dealer": "Roger Jobs Volkswagen"
-        },
-        {
           "date": "2026-11-03",
           "price": 33752,
           "mileage": 41675,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 32075,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-09",
           "price": 32075,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"

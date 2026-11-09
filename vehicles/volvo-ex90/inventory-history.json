@@ -1,18 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-08T15:58:01.015080+00:00",
+  "updatedAt": "2026-11-09T19:48:37.907080+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-02",
-      "vins": [
-        "7JDE23KLXSG000680",
-        "7JDE23VK5SG000718",
-        "7JDE23VL3SG007904",
-        "7JDE23VL5SG000517",
-        "7JDEV3KL2SG000597",
-        "7JDEV3VK9SG010031"
-      ]
-    },
     {
       "date": "2026-11-03",
       "vins": [
@@ -76,6 +65,16 @@
         "7JDEV3KL2SG000597",
         "7JDEV3VK9SG010031"
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "vins": [
+        "7JDE23KLXSG000680",
+        "7JDE23VK5SG000718",
+        "7JDE23VL5SG000517",
+        "7JDEV3KL2SG000597",
+        "7JDEV3VK9SG010031"
+      ]
     }
   ],
   "vehicles": {
@@ -112,12 +111,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 62981,
-          "mileage": 5645,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-11-03",
           "price": 62981,
           "mileage": 5645,
@@ -149,6 +142,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 62575,
+          "mileage": 5645,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-11-09",
           "price": 62575,
           "mileage": 5645,
           "dealer": "Volvo Cars Bellevue"
@@ -187,12 +186,6 @@
         "firstSeenDate": "2026-09-08"
       },
       "observations": [
-        {
-          "date": "2026-11-02",
-          "price": 54920,
-          "mileage": 13861,
-          "dealer": "Volvo Cars Bellevue"
-        },
         {
           "date": "2026-11-03",
           "price": 54920,
@@ -240,12 +233,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 64188,
-          "mileage": 13793,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-11-03",
           "price": 64188,
           "mileage": 13793,
@@ -277,6 +264,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 63988,
+          "mileage": 13793,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-11-09",
           "price": 63988,
           "mileage": 13793,
           "dealer": "Volvo Cars Bellevue"
@@ -362,12 +355,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 52675,
-          "mileage": 25698,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-11-03",
           "price": 58088,
           "mileage": 25698,
@@ -399,6 +386,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 57888,
+          "mileage": 25698,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-11-09",
           "price": 57888,
           "mileage": 25698,
           "dealer": "Volvo Cars Bellevue"
@@ -438,12 +431,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 61400,
-          "mileage": 3300,
-          "dealer": "Volvo Cars Bellevue"
-        },
-        {
           "date": "2026-11-03",
           "price": 64025,
           "mileage": 3300,
@@ -475,6 +462,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 63825,
+          "mileage": 3300,
+          "dealer": "Volvo Cars Bellevue"
+        },
+        {
+          "date": "2026-11-09",
           "price": 63825,
           "mileage": 3300,
           "dealer": "Volvo Cars Bellevue"
@@ -514,12 +507,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-02",
-          "price": 82140,
-          "mileage": 78,
-          "dealer": "Volvo Cars Tacoma"
-        },
-        {
           "date": "2026-11-03",
           "price": 82140,
           "mileage": 78,
@@ -551,6 +538,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 82140,
+          "mileage": 78,
+          "dealer": "Volvo Cars Tacoma"
+        },
+        {
+          "date": "2026-11-09",
           "price": 82140,
           "mileage": 78,
           "dealer": "Volvo Cars Tacoma"
