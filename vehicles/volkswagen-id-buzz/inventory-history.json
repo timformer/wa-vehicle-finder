@@ -1,19 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-10T17:02:14.814854+00:00",
+  "updatedAt": "2026-11-11T17:07:32.821149+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-04",
-      "vins": [
-        "WVG5WVEB2SH026823",
-        "WVG6YVEB1SH022292",
-        "WVG6YVEB6SH046183",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB3SH056813",
-        "WVGNYVEB9SH048330",
-        "WVGNYVEBXSH056453"
-      ]
-    },
     {
       "date": "2026-11-07",
       "vins": [
@@ -51,6 +39,18 @@
         "WVGNYVEB9SH048330",
         "WVGNYVEBXSH056453"
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "vins": [
+        "WVG5WVEB2SH026823",
+        "WVG6YVEB1SH022292",
+        "WVG6YVEB3SH045993",
+        "WVGAWVEBXSH012750",
+        "WVGNYVEB3SH056813",
+        "WVGNYVEB9SH048330",
+        "WVGNYVEBXSH056453"
+      ]
     }
   ],
   "vehicles": {
@@ -62,7 +62,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S",
-        "price": 53295,
+        "price": 48224,
         "mileage": 1558,
         "exteriorColor": "Deep Black Pearl",
         "interiorColor": "Moonlight leatherette",
@@ -87,12 +87,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 54058,
-          "mileage": 1558,
-          "dealer": "BMW of Spokane"
-        },
-        {
           "date": "2026-11-07",
           "price": 53295,
           "mileage": 1558,
@@ -107,6 +101,12 @@
         {
           "date": "2026-11-10",
           "price": 53295,
+          "mileage": 1558,
+          "dealer": "Driveway"
+        },
+        {
+          "date": "2026-11-11",
+          "price": 48224,
           "mileage": 1558,
           "dealer": "Driveway"
         }
@@ -161,6 +161,12 @@
           "price": 67163,
           "mileage": 7299,
           "dealer": "Wilder Honda"
+        },
+        {
+          "date": "2026-11-11",
+          "price": 67163,
+          "mileage": 7299,
+          "dealer": "Wilder Honda"
         }
       ]
     },
@@ -197,12 +203,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 58888,
-          "mileage": null,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-07",
           "price": 59088,
           "mileage": null,
@@ -216,6 +216,12 @@
         },
         {
           "date": "2026-11-10",
+          "price": 59088,
+          "mileage": null,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-11",
           "price": 59088,
           "mileage": null,
           "dealer": "Volkswagen of Kirkland"
@@ -255,12 +261,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 70888,
-          "mileage": 12698,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-07",
           "price": 71088,
           "mileage": 12698,
@@ -274,6 +274,12 @@
         },
         {
           "date": "2026-11-10",
+          "price": 71088,
+          "mileage": 12698,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-11",
           "price": 71088,
           "mileage": 12698,
           "dealer": "Volkswagen of Kirkland"
@@ -312,12 +318,6 @@
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-11-04",
-          "price": 70888,
-          "mileage": 9222,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-11-07",
           "price": 70888,
@@ -365,12 +365,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 70888,
-          "mileage": 7501,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-07",
           "price": 70888,
           "mileage": 7501,
@@ -384,6 +378,12 @@
         },
         {
           "date": "2026-11-10",
+          "price": 70888,
+          "mileage": 7501,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-11",
           "price": 70888,
           "mileage": 7501,
           "dealer": "Volkswagen of Kirkland"
@@ -423,12 +423,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 72888,
-          "mileage": 1032,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-07",
           "price": 73088,
           "mileage": 1032,
@@ -442,6 +436,12 @@
         },
         {
           "date": "2026-11-10",
+          "price": 72888,
+          "mileage": 1032,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-11",
           "price": 72888,
           "mileage": 1032,
           "dealer": "Volkswagen of Kirkland"
@@ -481,12 +481,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-04",
-          "price": 65971,
-          "mileage": 8610,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-11-07",
           "price": 65959,
           "mileage": 8615,
@@ -500,6 +494,12 @@
         },
         {
           "date": "2026-11-10",
+          "price": 65725,
+          "mileage": 8615,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-11-11",
           "price": 65725,
           "mileage": 8615,
           "dealer": "Volkswagen of Puyallup"
