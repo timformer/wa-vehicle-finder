@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-11T17:08:16.792902+00:00",
+  "updatedAt": "2026-11-12T17:35:33.357854+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-05",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-11-06",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -71,11 +71,11 @@
         "price": 29400,
         "mileage": 42463,
         "exteriorColor": "White",
-        "interiorColor": "Black premium leather",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "South Tacoma Auto",
+        "dealer": "South Tacoma Auto Sales, Inc.",
         "officialBrandDealer": false,
         "city": "Tacoma",
         "state": "WA",
@@ -92,12 +92,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-11-05",
-          "price": 29400,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
         {
           "date": "2026-11-06",
           "price": 29400,
@@ -133,6 +127,12 @@
           "price": 29400,
           "mileage": 42463,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 29400,
+          "mileage": 42463,
+          "dealer": "South Tacoma Auto Sales, Inc."
         }
       ]
     },
@@ -144,7 +144,7 @@
         "make": "Maserati",
         "model": "Grecale",
         "trim": "Modena",
-        "price": 33800,
+        "price": 33500,
         "mileage": 40305,
         "exteriorColor": "Black",
         "interiorColor": "Red",
@@ -168,12 +168,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-11-05",
-          "price": 29500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-06",
           "price": 29800,
@@ -209,6 +203,12 @@
           "price": 33800,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 33500,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -222,7 +222,7 @@
         "trim": "Modena",
         "price": 32075,
         "mileage": 41675,
-        "exteriorColor": "Other",
+        "exteriorColor": "Unspecified",
         "interiorColor": "Unspecified",
         "seats": 5,
         "drivetrain": "AWD",
@@ -239,17 +239,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZN682AVM5P7413045-1.jpg",
         "photoCount": 34,
-        "url": "https://www.swickardautogroup.com/used-Bellingham-2023-Maserati-Grecale-Modena-ZN682AVM5P7413045",
+        "url": "https://www.volkswagenofbellingham.com/used-Bellingham-2023-Maserati-Grecale-Modena-ZN682AVM5P7413045",
         "listedAt": "2026-10-22 21:53:50",
         "firstSeenDate": "2026-10-23"
       },
       "observations": [
-        {
-          "date": "2026-11-05",
-          "price": 33552,
-          "mileage": 41675,
-          "dealer": "Roger Jobs Volkswagen"
-        },
         {
           "date": "2026-11-06",
           "price": 33552,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-11",
+          "price": 32075,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-12",
           "price": 32075,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"
