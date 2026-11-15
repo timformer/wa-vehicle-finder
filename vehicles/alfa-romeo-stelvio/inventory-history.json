@@ -1,39 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-13T17:12:53.780763+00:00",
+  "updatedAt": "2026-11-15T16:21:06.085165+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-07",
-      "vins": [
-        "ZASFAKBN3J7B88430",
-        "ZASFAKNN6J7B80561",
-        "ZASFAKNN9J7B59218",
-        "ZASFAKPN0J7B84229",
-        "ZASFAKPN2J7B79355",
-        "ZASFAKPN2J7B91876",
-        "ZASFAKPN3J7B81647",
-        "ZASFAKPN5J7B84890",
-        "ZASPAJAN2K7C35786",
-        "ZASPAJAN4K7C45445",
-        "ZASPAKAN0P7D64638",
-        "ZASPAKAN1M7D15489",
-        "ZASPAKAN5K7C67850",
-        "ZASPAKBN1N7D25620",
-        "ZASPAKBN1N7D33717",
-        "ZASPAKBN3M7D14309",
-        "ZASPAKBN3N7D29264",
-        "ZASPAKBN4K7C30223",
-        "ZASPAKBN4K7C36815",
-        "ZASPAKBN6N7D41117",
-        "ZASPAKBN7L7C99120",
-        "ZASPAKBN7P7D67955",
-        "ZASPAKBN9R7D71511",
-        "ZASPAKBNXM7D12184",
-        "ZASPAKBNXN7D25714",
-        "ZASPAKEV4N7D46523",
-        "ZASPAKEV5R7D79293"
-      ]
-    },
     {
       "date": "2026-11-09",
       "vins": [
@@ -131,6 +99,38 @@
         "ZASPAKEV4N7D46523",
         "ZASPAKEV5R7D79293"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "vins": [
+        "ZASFAKBN1J7C16709",
+        "ZASFAKBN3J7B88430",
+        "ZASFAKNN9J7B59218",
+        "ZASFAKPN0J7B84229",
+        "ZASFAKPN2J7B73894",
+        "ZASFAKPN2J7B79355",
+        "ZASFAKPN2J7B91876",
+        "ZASFAKPN3J7B81647",
+        "ZASFAKPN5J7B84890",
+        "ZASFAKPN8J7B89551",
+        "ZASPAJAN2K7C35786",
+        "ZASPAJAN4K7C45445",
+        "ZASPAKAN0P7D64638",
+        "ZASPAKAN1M7D15489",
+        "ZASPAKAN5K7C67850",
+        "ZASPAKBN1M7C98594",
+        "ZASPAKBN1N7D25620",
+        "ZASPAKBN3M7D14309",
+        "ZASPAKBN3N7D29264",
+        "ZASPAKBN4K7C30223",
+        "ZASPAKBN4K7C36815",
+        "ZASPAKBN6N7D41117",
+        "ZASPAKBN7P7D67955",
+        "ZASPAKBN9R7D71511",
+        "ZASPAKBNXN7D25714",
+        "ZASPAKEV4N7D46523",
+        "ZASPAKEV5R7D79293"
+      ]
     }
   ],
   "vehicles": {
@@ -160,18 +160,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAKBN9R7D71511-1.jpg",
-        "photoCount": 1,
+        "photoCount": 3,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASPAKBN9R7D71511",
-        "listedAt": "2026-09-05 22:51:22",
+        "listedAt": "2026-09-04 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 30000,
-          "mileage": 34402,
-          "dealer": "Prestige Motors Pasco"
-        },
         {
           "date": "2026-11-09",
           "price": 30000,
@@ -189,6 +183,12 @@
           "price": 29600,
           "mileage": 34402,
           "dealer": "Prestige Motors Pasco"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 29600,
+          "mileage": 34402,
+          "dealer": "Prestige Motors Pasco"
         }
       ]
     },
@@ -200,7 +200,7 @@
         "make": "Alfa Romeo",
         "model": "Stelvio",
         "trim": "Estrema",
-        "price": 30195,
+        "price": 28195,
         "mileage": 25283,
         "exteriorColor": "Red",
         "interiorColor": "Black",
@@ -218,18 +218,12 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASPAKBN7P7D67955-1.jpg",
-        "photoCount": 1,
+        "photoCount": 117,
         "url": "https://www.alfaromeoofseattle.com/inventory/used-2023-alfa-romeo-stelvio-veloce-awd-4d-sport-utility-zaspakbn7p7d67955/",
-        "listedAt": "2026-09-18 09:31:11",
+        "listedAt": "2026-08-29 14:00:32",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 30195,
-          "mileage": 25283,
-          "dealer": "Maserati of Seattle"
-        },
         {
           "date": "2026-11-09",
           "price": 30195,
@@ -245,6 +239,12 @@
         {
           "date": "2026-11-13",
           "price": 30195,
+          "mileage": 25283,
+          "dealer": "Maserati of Seattle"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 28195,
           "mileage": 25283,
           "dealer": "Maserati of Seattle"
         }
@@ -276,18 +276,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAKBN3N7D29264-1.jpg",
-        "photoCount": 1,
+        "photoCount": 41,
         "url": "https://www.spencersautosale.com/Inventory/Details/e09b1062-25ff-4009-85d7-4b4ec0a17049",
-        "listedAt": "2026-04-12 23:26:42",
+        "listedAt": "2026-04-10 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 23691,
-          "mileage": 43998,
-          "dealer": "Spencer's Auto Sales"
-        },
         {
           "date": "2026-11-09",
           "price": 23691,
@@ -302,6 +296,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 23691,
+          "mileage": 43998,
+          "dealer": "Spencer's Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
           "price": 23691,
           "mileage": 43998,
           "dealer": "Spencer's Auto Sales"
@@ -334,18 +334,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAKEV4N7D46523-1.jpg",
-        "photoCount": 1,
+        "photoCount": 3,
         "url": "https://www.uniquemotorsnw.com/pre-owned-cars/detail/x/1474656",
-        "listedAt": "2026-08-09 02:38:57",
+        "listedAt": "2026-03-18 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 55195,
-          "mileage": 30524,
-          "dealer": "Unique Motors Seattle"
-        },
         {
           "date": "2026-11-09",
           "price": 55195,
@@ -363,6 +357,12 @@
           "price": 55195,
           "mileage": 30524,
           "dealer": "Unique Motors Seattle"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 55195,
+          "mileage": 30524,
+          "dealer": "Unique Motors Seattle"
         }
       ]
     },
@@ -374,7 +374,7 @@
         "make": "Alfa Romeo",
         "model": "Stelvio",
         "trim": "Sprint",
-        "price": 24797,
+        "price": 24197,
         "mileage": 28649,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -392,18 +392,12 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASPAKAN0P7D64638-1.jpg",
-        "photoCount": 1,
+        "photoCount": 33,
         "url": "https://bmwnorthwest.com/inventory/Used-2023-Alfa_Romeo-Stelvio-Sprint-ZASPAKAN0P7D64638",
-        "listedAt": "2026-09-10 05:31:30",
+        "listedAt": "2026-09-09 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 25197,
-          "mileage": 28649,
-          "dealer": "BMW Northwest"
-        },
         {
           "date": "2026-11-09",
           "price": 24797,
@@ -419,6 +413,12 @@
         {
           "date": "2026-11-13",
           "price": 24797,
+          "mileage": 28649,
+          "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 24197,
           "mileage": 28649,
           "dealer": "BMW Northwest"
         }
@@ -450,18 +450,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZASPAKAN1M7D15489-1.jpg",
-        "photoCount": 1,
-        "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASPAKAN1M7D15489",
+        "photoCount": 56,
+        "url": "https://parkwaydeerpark.com/vdp/23084019/Used-2021-Alfa-Romeo-Stelvio-AWD-for-sale-in-Deer-Park-WA-99006",
         "listedAt": "2025-10-02 11:06:49",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 24195,
-          "mileage": 52441,
-          "dealer": "Parkway Auto"
-        },
         {
           "date": "2026-11-09",
           "price": 24195,
@@ -476,6 +470,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 24195,
+          "mileage": 52441,
+          "dealer": "Parkway Auto"
+        },
+        {
+          "date": "2026-11-15",
           "price": 24195,
           "mileage": 52441,
           "dealer": "Parkway Auto"
@@ -508,18 +508,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASFAKPN5J7B84890-1.jpg",
-        "photoCount": 1,
+        "photoCount": 3,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASFAKPN5J7B84890",
-        "listedAt": "2026-09-18 23:20:13",
+        "listedAt": "2026-09-06 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 17987,
-          "mileage": 86033,
-          "dealer": "Maxx Autos Plus"
-        },
         {
           "date": "2026-11-09",
           "price": 17987,
@@ -537,46 +531,12 @@
           "price": 17987,
           "mileage": 86033,
           "dealer": "Maxx Autos Plus"
-        }
-      ]
-    },
-    "ZASFAKNN6J7B80561": {
-      "lastKnown": {
-        "id": "zasfaknn6j7b80561",
-        "vin": "ZASFAKNN6J7B80561",
-        "year": 2018,
-        "make": "Alfa Romeo",
-        "model": "Stelvio",
-        "trim": "Ti Sport",
-        "price": 12995,
-        "mileage": 72386,
-        "exteriorColor": "Montecarlo Blue Metallic",
-        "interiorColor": "Black premium leather",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Quick Motor",
-        "officialBrandDealer": false,
-        "city": "Everett",
-        "state": "WA",
-        "zip": "98203",
-        "cpo": false,
-        "oneOwner": false,
-        "accidentFree": false,
-        "accidentCount": 2,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/ZASFAKNN6J7B80561-1.jpg",
-        "photoCount": 32,
-        "url": "https://www.carfax.com/vehicle/ZASFAKNN6J7B80561",
-        "listedAt": "2026-08-09 03:14:38",
-        "firstSeenDate": "2026-10-12"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-07",
-          "price": 12995,
-          "mileage": 72386,
-          "dealer": "Quick Motor"
+          "date": "2026-11-15",
+          "price": 17987,
+          "mileage": 86033,
+          "dealer": "Maxx Autos Plus"
         }
       ]
     },
@@ -606,18 +566,12 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASFAKPN3J7B81647-1.jpg",
-        "photoCount": 1,
+        "photoCount": 64,
         "url": "https://www.budclaryauburnvw.com/inventory/used-2018-alfa-romeo-stelvio-base-awd-4d-sport-utility-zasfakpn3j7b81647/",
-        "listedAt": "2026-08-09 03:14:37",
+        "listedAt": "2026-07-15 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 15950,
-          "mileage": 58412,
-          "dealer": "Bud Clary Auburn Hyundai"
-        },
         {
           "date": "2026-11-09",
           "price": 15950,
@@ -632,6 +586,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 13900,
+          "mileage": 58646,
+          "dealer": "Bud Clary Auburn Hyundai"
+        },
+        {
+          "date": "2026-11-15",
           "price": 13900,
           "mileage": 58646,
           "dealer": "Bud Clary Auburn Hyundai"
@@ -664,18 +624,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASFAKPN2J7B79355-1.jpg",
-        "photoCount": 26,
+        "photoCount": 53,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASFAKPN2J7B79355",
         "listedAt": "2026-09-18 23:51:39",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 13499,
-          "mileage": 70342,
-          "dealer": "Expo Auto"
-        },
         {
           "date": "2026-11-09",
           "price": 13499,
@@ -690,6 +644,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 13499,
+          "mileage": 70342,
+          "dealer": "Expo Auto"
+        },
+        {
+          "date": "2026-11-15",
           "price": 13499,
           "mileage": 70342,
           "dealer": "Expo Auto"
@@ -722,18 +682,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAJAN2K7C35786-1.jpg",
-        "photoCount": 22,
+        "photoCount": 23,
         "url": "https://www.carfax.com/vehicle/ZASPAJAN2K7C35786",
-        "listedAt": "2026-08-09 03:14:37",
+        "listedAt": "2026-06-14 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 14195,
-          "mileage": 78610,
-          "dealer": "Lakeside Auto"
-        },
         {
           "date": "2026-11-09",
           "price": 14195,
@@ -748,6 +702,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 14195,
+          "mileage": 78610,
+          "dealer": "Lakeside Auto"
+        },
+        {
+          "date": "2026-11-15",
           "price": 14195,
           "mileage": 78610,
           "dealer": "Lakeside Auto"
@@ -780,18 +740,12 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASPAKBN4K7C36815-1.jpg",
-        "photoCount": 27,
-        "url": "https://www.carfax.com/vehicle/ZASPAKBN4K7C36815",
-        "listedAt": "2026-10-18 22:24:22",
+        "photoCount": 82,
+        "url": "https://www.wildwestcarsandtrucks.com/details/used-2019-alfa-romeo-stelvio/132389129",
+        "listedAt": "2026-10-17 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 13980,
-          "mileage": 86025,
-          "dealer": "Wild West Cars & Trucks"
-        },
         {
           "date": "2026-11-09",
           "price": 13980,
@@ -809,6 +763,12 @@
           "price": 13980,
           "mileage": 86025,
           "dealer": "Wild West Cars & Trucks"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 13980,
+          "mileage": 86025,
+          "dealer": "Wild West Cars & Trucks"
         }
       ]
     },
@@ -820,7 +780,7 @@
         "make": "Alfa Romeo",
         "model": "Stelvio",
         "trim": "Ti Sport",
-        "price": 15250,
+        "price": 14950,
         "mileage": 67276,
         "exteriorColor": "Gray",
         "interiorColor": "Black premium leather",
@@ -838,18 +798,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASFAKNN9J7B59218-1.jpg",
-        "photoCount": 23,
+        "photoCount": 24,
         "url": "https://www.carfax.com/vehicle/ZASFAKNN9J7B59218",
-        "listedAt": "2026-08-09 03:14:37",
+        "listedAt": "2026-06-26 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 15550,
-          "mileage": 67276,
-          "dealer": "Autoshopper of Yakima"
-        },
         {
           "date": "2026-11-09",
           "price": 15250,
@@ -865,6 +819,12 @@
         {
           "date": "2026-11-13",
           "price": 15250,
+          "mileage": 67276,
+          "dealer": "Autoshopper of Yakima"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 14950,
           "mileage": 67276,
           "dealer": "Autoshopper of Yakima"
         }
@@ -896,18 +856,12 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASPAKBN4K7C30223-1.jpg",
-        "photoCount": 23,
+        "photoCount": 47,
         "url": "https://gokiatacoma.com/used/Alfa-Romeo/2019-Alfa-Romeo-Stelvio-6267626dac180b21af76d646e32ec0ae.htm",
-        "listedAt": "2026-08-09 03:14:37",
+        "listedAt": "2026-05-26 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 16800,
-          "mileage": 54021,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-09",
           "price": 16800,
@@ -922,6 +876,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 16800,
+          "mileage": 54021,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-15",
           "price": 16800,
           "mileage": 54021,
           "dealer": "Go Kia Tacoma"
@@ -961,12 +921,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-07",
-          "price": 8999,
-          "mileage": 97932,
-          "dealer": "H&N Auto Sales"
-        },
-        {
           "date": "2026-11-09",
           "price": 8999,
           "mileage": 97932,
@@ -980,6 +934,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 8999,
+          "mileage": 97932,
+          "dealer": "H&N Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
           "price": 8999,
           "mileage": 97932,
           "dealer": "H&N Auto Sales"
@@ -1012,18 +972,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZASFAKBN3J7B88430-1.jpg",
-        "photoCount": 34,
+        "photoCount": 70,
         "url": "https://www.seattleluxauto.com/vehicle-details/2018-alfa-romeo-stelvio-ti-awd--crossover-9225085f7001884a96d77ee6eda2f0ff",
         "listedAt": "2026-08-01 11:48:04",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 11997,
-          "mileage": 93723,
-          "dealer": "Lux Auto Sales"
-        },
         {
           "date": "2026-11-09",
           "price": 11997,
@@ -1038,6 +992,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 11997,
+          "mileage": 93723,
+          "dealer": "Lux Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
           "price": 11997,
           "mileage": 93723,
           "dealer": "Lux Auto Sales"
@@ -1070,18 +1030,12 @@
         "accidentCount": 1,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZASPAKAN5K7C67850-1.jpg",
-        "photoCount": 32,
+        "photoCount": 66,
         "url": "https://www.seattleluxauto.com/vehicle-details/2019-alfa-romeo-stelvio-sport-awd--crossover-d03e7b46aeb9d345bd9c1b8b73d44e2f",
         "listedAt": "2026-04-01 11:51:35",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 16350,
-          "mileage": 55827,
-          "dealer": "Lux Auto Sales"
-        },
         {
           "date": "2026-11-09",
           "price": 16350,
@@ -1096,6 +1050,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 16350,
+          "mileage": 55827,
+          "dealer": "Lux Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
           "price": 16350,
           "mileage": 55827,
           "dealer": "Lux Auto Sales"
@@ -1128,18 +1088,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZASPAKBN6N7D41117-1.jpg",
-        "photoCount": 1,
+        "photoCount": 7,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASPAKBN6N7D41117",
         "listedAt": "2026-10-05 09:37:38",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 25187,
-          "mileage": 25195,
-          "dealer": "Bowen Scarff Ford"
-        },
         {
           "date": "2026-11-09",
           "price": 25187,
@@ -1154,6 +1108,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 25187,
+          "mileage": 25195,
+          "dealer": "Bowen Scarff Ford"
+        },
+        {
+          "date": "2026-11-15",
           "price": 25187,
           "mileage": 25195,
           "dealer": "Bowen Scarff Ford"
@@ -1167,15 +1127,15 @@
         "year": 2022,
         "make": "Alfa Romeo",
         "model": "Stelvio",
-        "trim": "Veloce",
+        "trim": "Ti",
         "price": 22490,
         "mileage": 46135,
-        "exteriorColor": "Gray",
+        "exteriorColor": "Vesuvio Gray Metallic",
         "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "ZipStar Auto Sales",
+        "dealer": "Zipstar Auto Sales",
         "officialBrandDealer": false,
         "city": "Lynnwood",
         "state": "WA",
@@ -1186,18 +1146,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAKBNXN7D25714-1.jpg",
-        "photoCount": 1,
+        "photoCount": 3,
         "url": "https://www.zipstarautosales.com/Inventory/Details/e509f212-25f5-46bc-aaa3-1a65bc011f14",
-        "listedAt": "2026-08-09 03:14:36",
+        "listedAt": "2026-07-21 07:00:00",
         "firstSeenDate": "2026-10-12"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 22800,
-          "mileage": 46135,
-          "dealer": "ZipStar Auto Sales"
-        },
         {
           "date": "2026-11-09",
           "price": 22800,
@@ -1215,6 +1169,12 @@
           "price": 22490,
           "mileage": 46135,
           "dealer": "ZipStar Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 22490,
+          "mileage": 46135,
+          "dealer": "Zipstar Auto Sales"
         }
       ]
     },
@@ -1244,18 +1204,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZASPAKEV5R7D79293-1.jpg",
-        "photoCount": 43,
+        "photoCount": 129,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASPAKEV5R7D79293",
-        "listedAt": "2026-07-06 23:44:26",
+        "listedAt": "2026-07-05 14:00:31",
         "firstSeenDate": "2026-10-14"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 65650,
-          "mileage": 19907,
-          "dealer": "Park Place"
-        },
         {
           "date": "2026-11-09",
           "price": 65650,
@@ -1270,6 +1224,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 65650,
+          "mileage": 19907,
+          "dealer": "Park Place LTD"
+        },
+        {
+          "date": "2026-11-15",
           "price": 65650,
           "mileage": 19907,
           "dealer": "Park Place LTD"
@@ -1308,12 +1268,6 @@
         "firstSeenDate": "2026-10-14"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 18700,
-          "mileage": 84360,
-          "dealer": "Prestige Motors"
-        },
         {
           "date": "2026-11-09",
           "price": 18700,
@@ -1354,18 +1308,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASFAKPN2J7B91876-1.jpg",
-        "photoCount": 46,
+        "photoCount": 92,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASFAKPN2J7B91876",
-        "listedAt": "2026-09-05 01:40:06",
+        "listedAt": "2026-07-25 14:00:31",
         "firstSeenDate": "2026-10-14"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 19995,
-          "mileage": 24273,
-          "dealer": "Autoplex Motors"
-        },
         {
           "date": "2026-11-09",
           "price": 19995,
@@ -1383,46 +1331,12 @@
           "price": 19995,
           "mileage": 24273,
           "dealer": "Autoplex Motors"
-        }
-      ]
-    },
-    "ZASPAKBN7L7C99120": {
-      "lastKnown": {
-        "id": "zaspakbn7l7c99120",
-        "vin": "ZASPAKBN7L7C99120",
-        "year": 2020,
-        "make": "Alfa Romeo",
-        "model": "Stelvio",
-        "trim": "Ti Lusso",
-        "price": 22395,
-        "mileage": 19835,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane",
-        "officialBrandDealer": false,
-        "city": "Spokane",
-        "state": "WA",
-        "zip": "99218",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Personal Use",
-        "image": "https://retail.photos.vin/ZASPAKBN7L7C99120-1.jpg",
-        "photoCount": 36,
-        "url": "https://campchevrolet.com/used/Alfa-Romeo/2020-Alfa-Romeo-Stelvio-5f79f543ac180a6828e2834ddf9b6d66.htm",
-        "listedAt": "2026-10-22 05:55:30",
-        "firstSeenDate": "2026-10-22"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-07",
-          "price": 22395,
-          "mileage": 19835,
-          "dealer": "Lithia Chrysler Dodge Jeep Ram FIAT of Spokane"
+          "date": "2026-11-15",
+          "price": 19995,
+          "mileage": 24273,
+          "dealer": "Autoplex Motors"
         }
       ]
     },
@@ -1454,16 +1368,10 @@
         "image": "https://retail.photos.vin/ZASPAKBN1N7D25620-1.jpg",
         "photoCount": 19,
         "url": "https://toyotaofolympia.com/inventory/Used-2022-Alfa_Romeo-Stelvio-Veloce-ZASPAKBN1N7D25620",
-        "listedAt": "2026-10-22 17:26:04",
+        "listedAt": "2026-08-26 07:00:00",
         "firstSeenDate": "2026-10-24"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 20595,
-          "mileage": 63922,
-          "dealer": "Toyota of Olympia"
-        },
         {
           "date": "2026-11-09",
           "price": 20595,
@@ -1481,6 +1389,12 @@
           "price": 20795,
           "mileage": 63922,
           "dealer": "Toyota of Olympia"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 20795,
+          "mileage": 63922,
+          "dealer": "Toyota of Olympia"
         }
       ]
     },
@@ -1495,7 +1409,7 @@
         "price": 16999,
         "mileage": 62490,
         "exteriorColor": "White",
-        "interiorColor": "Black/Red leather",
+        "interiorColor": "Red/Black",
         "seats": 5,
         "drivetrain": "RWD",
         "powertrain": "Gasoline",
@@ -1510,18 +1424,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAJAN4K7C45445-1.jpg",
-        "photoCount": 0,
+        "photoCount": 1,
         "url": "https://www.onestopyakima.com/pre-owned-cars/detail/x/1607752",
-        "listedAt": "2026-10-25 03:57:51",
+        "listedAt": "2026-10-21 14:00:25",
         "firstSeenDate": "2026-10-28"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 16999,
-          "mileage": 62490,
-          "dealer": "One Stop Motors"
-        },
         {
           "date": "2026-11-09",
           "price": 16999,
@@ -1536,6 +1444,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 16999,
+          "mileage": 62490,
+          "dealer": "One Stop Motors"
+        },
+        {
+          "date": "2026-11-15",
           "price": 16999,
           "mileage": 62490,
           "dealer": "One Stop Motors"
@@ -1574,12 +1488,6 @@
         "firstSeenDate": "2026-10-30"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 23498,
-          "mileage": 26669,
-          "dealer": "Fields PAG Bellevue"
-        },
         {
           "date": "2026-11-09",
           "price": 23698,
@@ -1626,18 +1534,12 @@
         "accidentCount": 0,
         "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASPAKBN3M7D14309-1.jpg",
-        "photoCount": 19,
+        "photoCount": 40,
         "url": "https://www.onestopyakima.com/pre-owned-cars/detail/x/1610328",
-        "listedAt": "2026-10-27 10:15:59",
+        "listedAt": "2026-10-21 14:00:49",
         "firstSeenDate": "2026-11-07"
       },
       "observations": [
-        {
-          "date": "2026-11-07",
-          "price": 22205,
-          "mileage": 64883,
-          "dealer": "One Stop Motors"
-        },
         {
           "date": "2026-11-09",
           "price": 17999,
@@ -1652,6 +1554,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 17999,
+          "mileage": 64883,
+          "dealer": "One Stop Motors"
+        },
+        {
+          "date": "2026-11-15",
           "price": 17999,
           "mileage": 64883,
           "dealer": "One Stop Motors"
@@ -1684,9 +1592,9 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASFAKPN2J7B73894-1.jpg",
-        "photoCount": 1,
-        "url": "https://bmwbellevue.com/used/Alfa-Romeo/2018-Alfa-Romeo-Stelvio-b78681c7ac184c6f5ee9fe884780ad02.htm",
-        "listedAt": "2026-11-07 19:04:23",
+        "photoCount": 3,
+        "url": "https://mercedesbenzofbellevue.com/used/Alfa-Romeo/2018-Alfa-Romeo-Stelvio-b78681c7ac184c6f5ee9fe884780ad02.htm",
+        "listedAt": "2026-11-06 08:00:00",
         "firstSeenDate": "2026-11-09"
       },
       "observations": [
@@ -1704,6 +1612,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 17490,
+          "mileage": 34880,
+          "dealer": "BMW of Bellevue"
+        },
+        {
+          "date": "2026-11-15",
           "price": 17490,
           "mileage": 34880,
           "dealer": "BMW of Bellevue"
@@ -1725,7 +1639,7 @@
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Legacy Auto Sales",
+        "dealer": "Legacy Auto Sales 1 LLC",
         "officialBrandDealer": false,
         "city": "Yakima",
         "state": "WA",
@@ -1736,9 +1650,9 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASFAKBN1J7C16709-1.jpg",
-        "photoCount": 3,
-        "url": "https://www.carfax.com/vehicle/ZASFAKBN1J7C16709",
-        "listedAt": "2026-10-08 21:47:08",
+        "photoCount": 10,
+        "url": "https://www.legacy-autosales.com/details/used-2018-alfa-romeo-stelvio/130754478",
+        "listedAt": "2026-10-01 14:00:35",
         "firstSeenDate": "2026-11-09"
       },
       "observations": [
@@ -1759,6 +1673,12 @@
           "price": 12999,
           "mileage": 104664,
           "dealer": "Legacy Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 12999,
+          "mileage": 104664,
+          "dealer": "Legacy Auto Sales 1 LLC"
         }
       ]
     },
@@ -1788,9 +1708,9 @@
         "accidentCount": 0,
         "usageType": "Lease",
         "image": "https://retail.photos.vin/ZASPAKBN1M7C98594-1.jpg",
-        "photoCount": 1,
+        "photoCount": 2,
         "url": null,
-        "listedAt": "2026-11-06 18:42:19",
+        "listedAt": "2026-11-05 08:00:00",
         "firstSeenDate": "2026-11-11"
       },
       "observations": [
@@ -1802,6 +1722,12 @@
         },
         {
           "date": "2026-11-13",
+          "price": 27888,
+          "mileage": 37423,
+          "dealer": "Infiniti of Lynnwood"
+        },
+        {
+          "date": "2026-11-15",
           "price": 27888,
           "mileage": 37423,
           "dealer": "Infiniti of Lynnwood"
@@ -1832,16 +1758,22 @@
         "oneOwner": false,
         "accidentFree": false,
         "accidentCount": 1,
-        "usageType": "Personal Use",
+        "usageType": "Corporate Fleet",
         "image": "https://retail.photos.vin/ZASFAKPN8J7B89551-1.jpg",
-        "photoCount": 1,
+        "photoCount": 3,
         "url": "https://www.autolist.com/alfa+romeo-stelvio#vin=ZASFAKPN8J7B89551",
-        "listedAt": "2026-10-06 23:05:23",
+        "listedAt": "2026-10-06 07:00:00",
         "firstSeenDate": "2026-11-13"
       },
       "observations": [
         {
           "date": "2026-11-13",
+          "price": 17470,
+          "mileage": 51559,
+          "dealer": "Mega Auto Sales"
+        },
+        {
+          "date": "2026-11-15",
           "price": 17470,
           "mileage": 51559,
           "dealer": "Mega Auto Sales"
