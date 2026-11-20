@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-19T18:16:42.878954+00:00",
+  "updatedAt": "2026-11-20T17:47:40.583075+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-13",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-11-14",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -69,7 +69,7 @@
         "model": "Grecale",
         "trim": "GT",
         "price": 29400,
-        "mileage": 42463,
+        "mileage": 43502,
         "exteriorColor": "White",
         "interiorColor": "Black premium leather",
         "seats": 5,
@@ -92,12 +92,6 @@
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-11-13",
-          "price": 29400,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
         {
           "date": "2026-11-14",
           "price": 29400,
@@ -132,6 +126,12 @@
           "date": "2026-11-19",
           "price": 29400,
           "mileage": 42463,
+          "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 29400,
+          "mileage": 43502,
           "dealer": "South Tacoma Auto"
         }
       ]
@@ -169,12 +169,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-13",
-          "price": 33500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
-        {
           "date": "2026-11-14",
           "price": 33500,
           "mileage": 40305,
@@ -206,6 +200,12 @@
         },
         {
           "date": "2026-11-19",
+          "price": 33500,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-20",
           "price": 33500,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
@@ -222,8 +222,8 @@
         "trim": "Modena",
         "price": 31950,
         "mileage": 41675,
-        "exteriorColor": "Other",
-        "interiorColor": "Unspecified",
+        "exteriorColor": "Gray",
+        "interiorColor": "Black",
         "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -239,17 +239,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZN682AVM5P7413045-1.jpg",
         "photoCount": 90,
-        "url": "https://www.swickardautogroup.com/used-Bellingham-2023-Maserati-Grecale-Modena-ZN682AVM5P7413045",
+        "url": "https://www.volkswagenofbellingham.com/used-Bellingham-2023-Maserati-Grecale-Modena-ZN682AVM5P7413045",
         "listedAt": "2026-10-22 21:53:50",
         "firstSeenDate": "2026-10-23"
       },
       "observations": [
-        {
-          "date": "2026-11-13",
-          "price": 32075,
-          "mileage": 41675,
-          "dealer": "Roger Jobs Volkswagen"
-        },
         {
           "date": "2026-11-14",
           "price": 31950,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-19",
+          "price": 31950,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-20",
           "price": 31950,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"
