@@ -200,11 +200,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      - name: Wait for artifact indexing
+        run: sleep 10
       - name: Deploy
         id: deployment
         continue-on-error: true
         uses: actions/deploy-pages@v4
-      - name: Wait for artifact indexing
+      - name: Wait before deployment retry
         if: steps.deployment.outcome == 'failure'
         run: sleep 10
       - name: Retry Pages deployment
