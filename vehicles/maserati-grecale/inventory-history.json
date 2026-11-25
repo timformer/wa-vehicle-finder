@@ -1,15 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-24T20:09:14.948292+00:00",
+  "updatedAt": "2026-11-25T19:15:27.894198+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-18",
-      "vins": [
-        "ZN682AVM0P7433932",
-        "ZN682AVM5P7413045",
-        "ZN6PMDAA7R7450247"
-      ]
-    },
     {
       "date": "2026-11-19",
       "vins": [
@@ -57,6 +49,14 @@
         "ZN682AVM5P7413045",
         "ZN6PMDAA7R7450247"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "vins": [
+        "ZN682AVM0P7433932",
+        "ZN682AVM5P7413045",
+        "ZN6PMDAA7R7450247"
+      ]
     }
   ],
   "vehicles": {
@@ -93,12 +93,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 29400,
-          "mileage": 42463,
-          "dealer": "South Tacoma Auto"
-        },
-        {
           "date": "2026-11-19",
           "price": 29400,
           "mileage": 42463,
@@ -133,6 +127,12 @@
           "price": 29400,
           "mileage": 43502,
           "dealer": "South Tacoma Auto"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 29400,
+          "mileage": 43502,
+          "dealer": "South Tacoma Auto"
         }
       ]
     },
@@ -163,17 +163,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/ZN682AVM0P7433932-1.jpg",
         "photoCount": 67,
-        "url": "https://shelbykia.com/used/Maserati/2023-Maserati-Grecale-da365929ac180cb6fbf5ec49e1b4faa9.htm",
+        "url": "https://newtonkia.cms.dealer.com/used/Maserati/2023-Maserati-Grecale-da365929ac180cb6fbf5ec49e1b4faa9.htm",
         "listedAt": "2026-04-29 14:00:51",
         "firstSeenDate": "2026-09-20"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 33500,
-          "mileage": 40305,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-19",
           "price": 33500,
@@ -209,6 +203,12 @@
           "price": 31800,
           "mileage": 40305,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 31800,
+          "mileage": 40305,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -238,18 +238,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/ZN682AVM5P7413045-1.jpg",
-        "photoCount": 90,
-        "url": "https://www.swickardautogroup.com/used-Bellingham-2023-Maserati-Grecale-Modena-ZN682AVM5P7413045",
+        "photoCount": 124,
+        "url": "https://epicfordfd.cms.dealer.com/used/Maserati/2023-Maserati-Grecale-everett-wa-6429e85aac18580bd9dc5bbe2ac2e965.htm",
         "listedAt": "2026-10-22 21:53:50",
         "firstSeenDate": "2026-10-23"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 31950,
-          "mileage": 41675,
-          "dealer": "Roger Jobs Volkswagen"
-        },
         {
           "date": "2026-11-19",
           "price": 31950,
@@ -282,6 +276,12 @@
         },
         {
           "date": "2026-11-24",
+          "price": 30125,
+          "mileage": 41675,
+          "dealer": "Roger Jobs Volkswagen"
+        },
+        {
+          "date": "2026-11-25",
           "price": 30125,
           "mileage": 41675,
           "dealer": "Roger Jobs Volkswagen"
