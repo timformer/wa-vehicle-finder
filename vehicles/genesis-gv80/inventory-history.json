@@ -1,61 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-24T20:09:13.233284+00:00",
+  "updatedAt": "2026-11-26T18:59:44.939645+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-18",
-      "vins": [
-        "KMUHBDSB0RU209342",
-        "KMUHBDSB1NU080358",
-        "KMUHBDSB6RU208101",
-        "KMUHBDSB8PU111432",
-        "KMUHBDSB8RU198154",
-        "KMUHBDSBXNU096204",
-        "KMUHBESB0TU305162",
-        "KMUHCESB3TU305668",
-        "KMUHCESC0RU183627",
-        "KMUHCESC5MU041055",
-        "KMUHCESC5MU041668",
-        "KMUHCESC6PU143274",
-        "KMUHCESC6RU181218",
-        "KMUHCESC7PU141999",
-        "KMUHCESC8RU203428",
-        "KMUHCESC9MU063057",
-        "KMUHDESC7SU250551",
-        "KMUHDESCXTU305642",
-        "KMUHEESC1SU260392",
-        "KMUHEESC1SU277239",
-        "KMUHEESC3TU305947",
-        "KMUHEESC5SU250965",
-        "KMUHEESC7TU297383",
-        "KMUHEESC7TU297402",
-        "KMUHEESC8SU272443",
-        "KMUHEESCXSU266983",
-        "KMUHFESB0SU258122",
-        "KMUHFESB0SU258539",
-        "KMUHFESB1SU236730",
-        "KMUHFESB1SU240034",
-        "KMUHFESB1SU259330",
-        "KMUHFESB2SU258252",
-        "KMUHFESB2SU259322",
-        "KMUHFESB3SU239936",
-        "KMUHFESB3TU319433",
-        "KMUHFESB4TU319375",
-        "KMUHFESB4TU322602",
-        "KMUHFESB4TU343899",
-        "KMUHFESB5SU236715",
-        "KMUHFESB5SU242384",
-        "KMUHFESB7SU236537",
-        "KMUHFESB8SU259289",
-        "KMUHFESB8TU322411",
-        "KMUHFESB9SU273329",
-        "KMUHFESB9SU273427",
-        "KMUHFESB9TU323311",
-        "KMUHFESB9TU328301",
-        "KMUHFESBXSU249430",
-        "KMUHFESBXTU324046"
-      ]
-    },
     {
       "date": "2026-11-20",
       "vins": [
@@ -203,6 +149,54 @@
         "KMUHFESBXSU241604",
         "KMUHFESBXSU249430"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "vins": [
+        "KMUHBDSB0RU209342",
+        "KMUHBDSB1NU080358",
+        "KMUHBDSB8PU111432",
+        "KMUHBDSB8RU198154",
+        "KMUHBESB0TU305162",
+        "KMUHCESB3TU305668",
+        "KMUHCESC5MU041055",
+        "KMUHCESC5MU041668",
+        "KMUHCESC6RU181218",
+        "KMUHCESC7PU141999",
+        "KMUHCESC8RU171063",
+        "KMUHCESC8RU203428",
+        "KMUHCESC9MU063057",
+        "KMUHDESC7SU250551",
+        "KMUHDESCXTU305642",
+        "KMUHEESC1SU260392",
+        "KMUHEESC1SU277239",
+        "KMUHEESC3TU305947",
+        "KMUHEESC5SU250965",
+        "KMUHEESC7TU297383",
+        "KMUHEESC7TU297402",
+        "KMUHEESC8SU272443",
+        "KMUHEESCXSU266983",
+        "KMUHFESB0SU258122",
+        "KMUHFESB0SU258539",
+        "KMUHFESB1SU236730",
+        "KMUHFESB1SU240034",
+        "KMUHFESB1SU259330",
+        "KMUHFESB2SU258252",
+        "KMUHFESB2SU259322",
+        "KMUHFESB3SU239936",
+        "KMUHFESB3TU319433",
+        "KMUHFESB4TU319375",
+        "KMUHFESB4TU322602",
+        "KMUHFESB5SU236715",
+        "KMUHFESB5SU242384",
+        "KMUHFESB8TU322411",
+        "KMUHFESB9SU273329",
+        "KMUHFESB9SU273427",
+        "KMUHFESB9TU323311",
+        "KMUHFESB9TU328301",
+        "KMUHFESBXSU241604",
+        "KMUHFESBXSU249430"
+      ]
     }
   ],
   "vehicles": {
@@ -214,18 +208,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 66995,
+        "price": 67195,
         "mileage": 4521,
-        "exteriorColor": "Gray",
-        "interiorColor": "Green",
-        "seats": 7,
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Earth Brown/Smokey Green premium leather",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
@@ -233,17 +227,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUHEESC1SU260392-1.jpg",
         "photoCount": 115,
-        "url": "https://genesisofkirkland.com/certified/Genesis/2025-Genesis-GV80-8eb3ca38ac18126fe89fab12ec4fd782.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV80-8e915266ac180f368fa2799b6aca1600.htm",
         "listedAt": "2026-07-02 14:59:29",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 67195,
-          "mileage": 4521,
-          "dealer": "Genesis of Kirkland"
-        },
         {
           "date": "2026-11-20",
           "price": 67195,
@@ -261,6 +249,12 @@
           "price": 66995,
           "mileage": 4521,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 67195,
+          "mileage": 4521,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -272,18 +266,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 67995,
+        "price": 68195,
         "mileage": 9972,
-        "exteriorColor": "Blue",
-        "interiorColor": "Green",
-        "seats": 7,
+        "exteriorColor": "Capri Blue",
+        "interiorColor": "Earth Brown/Smokey Green premium leather",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": true,
         "oneOwner": true,
         "accidentFree": true,
@@ -291,17 +285,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUHEESC1SU277239-1.jpg",
         "photoCount": 111,
-        "url": "https://genesisofkirkland.com/certified/Genesis/2025-Genesis-GV80-a6b91febac18518e9d3001f494d5262d.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV80-a69900f3ac18455350b104e8ad2b560f.htm",
         "listedAt": "2026-04-21 14:59:29",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 68195,
-          "mileage": 9972,
-          "dealer": "Genesis of Kirkland"
-        },
         {
           "date": "2026-11-20",
           "price": 68195,
@@ -319,6 +307,12 @@
           "price": 67995,
           "mileage": 9972,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 68195,
+          "mileage": 9972,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -332,12 +326,12 @@
         "trim": "3.5T Prestige",
         "price": 67998,
         "mileage": 4654,
-        "exteriorColor": "Gray",
-        "interiorColor": "Brown",
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Bordeaux Brown/Slate Gray premium leather",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "CarMax Tri Cities Kennewick",
+        "dealer": "CarMax Tri-Cities - Kennewick",
         "officialBrandDealer": false,
         "city": "Richland",
         "state": "WA",
@@ -355,12 +349,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 67998,
-          "mileage": 4654,
-          "dealer": "CarMax Tri-Cities - Kennewick"
-        },
-        {
           "date": "2026-11-20",
           "price": 67998,
           "mileage": 4654,
@@ -377,6 +365,12 @@
           "price": 67998,
           "mileage": 4654,
           "dealer": "CarMax Tri Cities Kennewick"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 67998,
+          "mileage": 4654,
+          "dealer": "CarMax Tri-Cities - Kennewick"
         }
       ]
     },
@@ -388,10 +382,10 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Advanced",
-        "price": 52198,
-        "mileage": 17832,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
+        "price": 51998,
+        "mileage": 17865,
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Obsidian Black",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
@@ -413,12 +407,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 52598,
-          "mileage": 17832,
-          "dealer": "Jaguar Land Rover Bellevue"
-        },
-        {
           "date": "2026-11-20",
           "price": 51998,
           "mileage": 17832,
@@ -435,6 +423,12 @@
           "price": 52198,
           "mileage": 17832,
           "dealer": "Mercedes-Benz of Lynnwood"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 51998,
+          "mileage": 17865,
+          "dealer": "Mercedes-Benz of Lynnwood"
         }
       ]
     },
@@ -445,19 +439,19 @@
         "year": 2021,
         "make": "Genesis",
         "model": "GV80",
-        "trim": "3.5T Advanced +",
-        "price": 25795,
+        "trim": "3.5T",
+        "price": 25995,
         "mileage": 117237,
-        "exteriorColor": "White",
+        "exteriorColor": "Uyuni White",
         "interiorColor": "Black",
-        "seats": 7,
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -465,17 +459,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUHCESC9MU063057-1.jpg",
         "photoCount": 7,
-        "url": "https://genesisofkirkland.com/used/Genesis/2021-Genesis-GV80-14bc7f88ac18424fa430750eda009f94.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2021-Genesis-GV80-14bde026ac185cc92880da07acdde2e2.htm",
         "listedAt": "2026-06-29 14:59:40",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 25995,
-          "mileage": 117237,
-          "dealer": "Genesis of Kirkland"
-        },
         {
           "date": "2026-11-20",
           "price": 25795,
@@ -493,6 +481,12 @@
           "price": 25795,
           "mileage": 117237,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 25995,
+          "mileage": 117237,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -504,18 +498,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 66795,
+        "price": 65995,
         "mileage": 7832,
-        "exteriorColor": "Blue",
+        "exteriorColor": "Capri Blue",
         "interiorColor": "Black",
-        "seats": 7,
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -523,17 +517,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHEESCXSU266983-1.jpg",
         "photoCount": 79,
-        "url": "https://genesisofkirkland.com/used/Genesis/2025-Genesis-GV80-8eb3d085ac18390d1b72e50d5bdfb448.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2025-Genesis-GV80-8e91551eac182034cbf33ea060a80c6c.htm",
         "listedAt": "2026-05-27 14:59:29",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 66795,
-          "mileage": 7832,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 66795,
@@ -551,6 +539,12 @@
           "price": 66795,
           "mileage": 7832,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 65995,
+          "mileage": 7832,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -562,18 +556,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 47595,
+        "price": 44995,
         "mileage": 11527,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -581,17 +575,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB3TU319433-1.jpg",
         "photoCount": 75,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-1a85c5d6ac180d2bc6526abdcbb85c17.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-1a86d5d3ac18461266c54318b2b1c8ce.htm",
         "listedAt": "2026-08-19 14:59:29",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 47595,
-          "mileage": 11527,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 47595,
@@ -609,6 +597,12 @@
           "price": 47595,
           "mileage": 11527,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 44995,
+          "mileage": 11527,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -622,9 +616,9 @@
         "trim": "2.5T Standard",
         "price": 32471,
         "mileage": 36652,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Obsidian Black leatherette",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Kendall Subaru of Marysville",
@@ -639,17 +633,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB1SU236730-1.jpg",
         "photoCount": 91,
-        "url": "https://www.kendallautogroup.com/inventory/used-2025-genesis-gv80-2-5t-awd-4d-sport-utility-kmuhfesb1su236730/",
+        "url": "https://www.kendallsubarumarysville.com/inventory/used-2025-genesis-gv80-2-5t-awd-4d-sport-utility-kmuhfesb1su236730/",
         "listedAt": "2026-08-26 07:00:00",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 34971,
-          "mileage": 36652,
-          "dealer": "Kendall Subaru of Marysville"
-        },
         {
           "date": "2026-11-20",
           "price": 33881,
@@ -667,6 +655,12 @@
           "price": 32471,
           "mileage": 36652,
           "dealer": "Kendall Subaru of Marysville"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 32471,
+          "mileage": 36652,
+          "dealer": "Kendall Subaru of Marysville"
         }
       ]
     },
@@ -681,8 +675,8 @@
         "price": 30971,
         "mileage": 41412,
         "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 7,
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Kendall Subaru of Marysville",
@@ -697,17 +691,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB9SU273329-1.jpg",
         "photoCount": 91,
-        "url": "https://www.kendallautogroup.com/inventory/used-2025-genesis-gv80-2-5t-awd-4d-sport-utility-kmuhfesb9su273329/",
+        "url": "https://www.kendallsubarumarysville.com/inventory/used-2025-genesis-gv80-2-5t-awd-4d-sport-utility-kmuhfesb9su273329/",
         "listedAt": "2026-08-26 07:00:00",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 33918,
-          "mileage": 41412,
-          "dealer": "Kendall Subaru of Marysville"
-        },
         {
           "date": "2026-11-20",
           "price": 32981,
@@ -725,46 +713,12 @@
           "price": 30971,
           "mileage": 41412,
           "dealer": "Kendall Subaru of Marysville"
-        }
-      ]
-    },
-    "KMUHCESC6PU143274": {
-      "lastKnown": {
-        "id": "kmuhcesc6pu143274",
-        "vin": "KMUHCESC6PU143274",
-        "year": 2023,
-        "make": "Genesis",
-        "model": "GV80",
-        "trim": "3.5T",
-        "price": 37200,
-        "mileage": 48497,
-        "exteriorColor": "Other",
-        "interiorColor": "Black",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "GMC of Riverfront Park",
-        "officialBrandDealer": false,
-        "city": "Spokane",
-        "state": "WA",
-        "zip": "99202",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Lease",
-        "image": "https://retail.photos.vin/KMUHCESC6PU143274-1.jpg",
-        "photoCount": 66,
-        "url": "https://www.gmcofriverfrontpark.com/used-Spokane-2023-Genesis-GV80-+-KMUHCESC6PU143274",
-        "listedAt": "2026-04-22 07:00:00",
-        "firstSeenDate": "2026-11-02"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-18",
-          "price": 37200,
-          "mileage": 48497,
-          "dealer": "GMC of Riverfront Park"
+          "date": "2026-11-26",
+          "price": 30971,
+          "mileage": 41412,
+          "dealer": "Kendall Subaru of Marysville"
         }
       ]
     },
@@ -800,12 +754,6 @@
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 38382,
-          "mileage": 28130,
-          "dealer": "C. Speck Motors"
-        },
         {
           "date": "2026-11-20",
           "price": 38382,
@@ -853,12 +801,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 30887,
-          "mileage": 37020,
-          "dealer": "Carr Vancouver Buick GMC"
-        },
-        {
           "date": "2026-11-20",
           "price": 30887,
           "mileage": 37020,
@@ -875,46 +817,12 @@
           "price": 30887,
           "mileage": 37020,
           "dealer": "Carr Vancouver Buick GMC"
-        }
-      ]
-    },
-    "KMUHFESB8SU259289": {
-      "lastKnown": {
-        "id": "kmuhfesb8su259289",
-        "vin": "KMUHFESB8SU259289",
-        "year": 2025,
-        "make": "Genesis",
-        "model": "GV80",
-        "trim": "2.5T Standard",
-        "price": 39998,
-        "mileage": 34419,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 7,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Liberty Bay Auto",
-        "officialBrandDealer": false,
-        "city": "Poulsbo",
-        "state": "WA",
-        "zip": "98370",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/KMUHFESB8SU259289-1.jpg",
-        "photoCount": 41,
-        "url": "https://www.ruddellgmc.com/used-Port+Angeles-2025-Genesis-GV80-25T-KMUHFESB8SU259289",
-        "listedAt": "2026-07-21 23:12:52",
-        "firstSeenDate": "2026-11-02"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-18",
-          "price": 39998,
-          "mileage": 34419,
-          "dealer": "Liberty Bay Auto"
+          "date": "2026-11-26",
+          "price": 30887,
+          "mileage": 37020,
+          "dealer": "Carr Vancouver Buick GMC"
         }
       ]
     },
@@ -926,14 +834,14 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 44796,
+        "price": 44996,
         "mileage": 11560,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "AutoNation Ford Bellevue",
+        "dealer": "AutoNation Ford  Bellevue",
         "officialBrandDealer": false,
         "city": "Bellevue",
         "state": "WA",
@@ -951,12 +859,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 44996,
-          "mileage": 11560,
-          "dealer": "AutoNation Ford  Bellevue"
-        },
-        {
           "date": "2026-11-20",
           "price": 44996,
           "mileage": 11560,
@@ -973,6 +875,12 @@
           "price": 44796,
           "mileage": 11560,
           "dealer": "AutoNation Ford Bellevue"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 44996,
+          "mileage": 11560,
+          "dealer": "AutoNation Ford  Bellevue"
         }
       ]
     },
@@ -1009,12 +917,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 35752,
-          "mileage": 20456,
-          "dealer": "Advantage Nissan"
-        },
-        {
           "date": "2026-11-20",
           "price": 35752,
           "mileage": 20456,
@@ -1031,6 +933,12 @@
           "price": 35752,
           "mileage": 20456,
           "dealer": "Advantage Nissan"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 35752,
+          "mileage": 20456,
+          "dealer": "Advantage Nissan"
         }
       ]
     },
@@ -1042,14 +950,14 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 57999,
+        "price": 58199,
         "mileage": 11232,
-        "exteriorColor": "Blue",
-        "interiorColor": "White",
-        "seats": 7,
+        "exteriorColor": "Capri Blue",
+        "interiorColor": "Glacier White/Blue",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Jet Chevrolet Used",
+        "dealer": "Jet Chevrolet",
         "officialBrandDealer": false,
         "city": "Federal Way",
         "state": "WA",
@@ -1067,12 +975,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 58990,
-          "mileage": 11232,
-          "dealer": "Jet Chevrolet"
-        },
-        {
           "date": "2026-11-20",
           "price": 58199,
           "mileage": 11232,
@@ -1089,6 +991,12 @@
           "price": 57999,
           "mileage": 11232,
           "dealer": "Jet Chevrolet Used"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 58199,
+          "mileage": 11232,
+          "dealer": "Jet Chevrolet"
         }
       ]
     },
@@ -1100,14 +1008,14 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 58880,
+        "price": 58680,
         "mileage": 3672,
-        "exteriorColor": "Silver",
-        "interiorColor": "Red",
-        "seats": 7,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Bordeaux Brown/Slate Gray",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Auto 206",
+        "dealer": "Auto 206 Inc.",
         "officialBrandDealer": false,
         "city": "Kent",
         "state": "WA",
@@ -1125,12 +1033,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 58680,
-          "mileage": 3672,
-          "dealer": "Auto 206 Inc."
-        },
-        {
           "date": "2026-11-20",
           "price": 58680,
           "mileage": 3672,
@@ -1147,6 +1049,12 @@
           "price": 58880,
           "mileage": 3672,
           "dealer": "Auto 206"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 58680,
+          "mileage": 3672,
+          "dealer": "Auto 206 Inc."
         }
       ]
     },
@@ -1182,12 +1090,6 @@
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 28800,
-          "mileage": 49195,
-          "dealer": "Go Hyundai of Renton"
-        },
         {
           "date": "2026-11-20",
           "price": 29700,
@@ -1229,12 +1131,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 29800,
-          "mileage": 44449,
-          "dealer": "Go Hyundai of Renton"
-        },
-        {
           "date": "2026-11-20",
           "price": 30200,
           "mileage": 42630,
@@ -1250,7 +1146,7 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 31800,
+        "price": 31300,
         "mileage": 35534,
         "exteriorColor": "Storr Green",
         "interiorColor": "Obsidian Black",
@@ -1275,12 +1171,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 31500,
-          "mileage": 35534,
-          "dealer": "Go Hyundai of Renton"
-        },
-        {
           "date": "2026-11-20",
           "price": 31800,
           "mileage": 35534,
@@ -1297,6 +1187,12 @@
           "price": 31800,
           "mileage": 35534,
           "dealer": "Go Hyundai of Renton"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 31300,
+          "mileage": 35534,
+          "dealer": "Go Hyundai of Renton"
         }
       ]
     },
@@ -1310,16 +1206,16 @@
         "trim": "2.5T Standard",
         "price": 33498,
         "mileage": 27396,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Vik Black Pearl Metallic",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Larson Volkswagen of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Tacoma",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98409",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -1327,17 +1223,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB0SU258539-1.jpg",
         "photoCount": 134,
-        "url": "https://www.larsonjeep.com/auto/used-2025-genesis-gv80-25t-standard/125973849/",
+        "url": "https://larsoncadillac.com/used/Genesis/2025-Genesis-GV80-d7a681bcac1844aa32c76a8a322ff8bd.htm",
         "listedAt": "2026-09-25 04:31:33",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 33498,
-          "mileage": 27396,
-          "dealer": "Volkswagen of Tacoma"
-        },
         {
           "date": "2026-11-20",
           "price": 33498,
@@ -1355,6 +1245,12 @@
           "price": 33498,
           "mileage": 27396,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 33498,
+          "mileage": 27396,
+          "dealer": "Larson Volkswagen of Tacoma"
         }
       ]
     },
@@ -1366,11 +1262,11 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 32800,
+        "price": 32000,
         "mileage": 33484,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Go Kia Tacoma",
@@ -1385,17 +1281,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB2SU259322-1.jpg",
         "photoCount": 45,
-        "url": "https://shelbykia.com/used/Genesis/2025-Genesis-GV80-1c0565ccac1806945ded62750ed566f8.htm",
+        "url": "https://newtonkia.cms.dealer.com/used/Genesis/2025-Genesis-GV80-1c0565ccac1806945ded62750ed566f8.htm",
         "listedAt": "2026-10-08 15:00:10",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 32800,
-          "mileage": 33484,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-20",
           "price": 32800,
@@ -1413,6 +1303,12 @@
           "price": 32800,
           "mileage": 33484,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 32000,
+          "mileage": 33484,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -1424,11 +1320,11 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 30800,
+        "price": 30000,
         "mileage": 45886,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Uyuni White",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Go Kia Tacoma",
@@ -1443,17 +1339,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB3SU239936-1.jpg",
         "photoCount": 45,
-        "url": "https://shelbykia.com/used/Genesis/2025-Genesis-GV80-1c055eacac1815683e0f5388fa294e60.htm",
+        "url": "https://newtonkia.cms.dealer.com/used/Genesis/2025-Genesis-GV80-1c055eacac1815683e0f5388fa294e60.htm",
         "listedAt": "2026-10-08 15:00:10",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 30800,
-          "mileage": 45886,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-20",
           "price": 30800,
@@ -1471,6 +1361,12 @@
           "price": 30800,
           "mileage": 45886,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 30000,
+          "mileage": 45886,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -1482,11 +1378,11 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 31300,
+        "price": 31500,
         "mileage": 42536,
-        "exteriorColor": "Black",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Go Kia Tacoma",
@@ -1501,17 +1397,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESBXSU249430-1.jpg",
         "photoCount": 45,
-        "url": "https://shelbykia.com/used/Genesis/2025-Genesis-GV80-023faa84ac180936a0a72ed839b4fb25.htm",
+        "url": "https://newtonkia.cms.dealer.com/used/Genesis/2025-Genesis-GV80-023faa84ac180936a0a72ed839b4fb25.htm",
         "listedAt": "2026-08-15 15:00:10",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 31000,
-          "mileage": 42536,
-          "dealer": "Go Kia Tacoma"
-        },
         {
           "date": "2026-11-20",
           "price": 31000,
@@ -1529,6 +1419,12 @@
           "price": 31300,
           "mileage": 42536,
           "dealer": "Go Kia Tacoma"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 31500,
+          "mileage": 42536,
+          "dealer": "Go Kia Tacoma"
         }
       ]
     },
@@ -1540,11 +1436,11 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 32697,
+        "price": 31997,
         "mileage": 52003,
-        "exteriorColor": "Black",
-        "interiorColor": "Tan",
-        "seats": 7,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Black/Beige",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "BMW Northwest",
@@ -1565,12 +1461,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 32697,
-          "mileage": 52003,
-          "dealer": "BMW Northwest"
-        },
-        {
           "date": "2026-11-20",
           "price": 32697,
           "mileage": 52003,
@@ -1587,6 +1477,12 @@
           "price": 32697,
           "mileage": 52003,
           "dealer": "BMW Northwest"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 31997,
+          "mileage": 52003,
+          "dealer": "BMW Northwest"
         }
       ]
     },
@@ -1601,11 +1497,11 @@
         "price": 28795,
         "mileage": 76419,
         "exteriorColor": "Gold",
-        "interiorColor": "Tan",
+        "interiorColor": "Beige/Black",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Porsche Spokane",
+        "dealer": "Gee Automotive",
         "officialBrandDealer": false,
         "city": "Liberty Lake",
         "state": "WA",
@@ -1623,12 +1519,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 28795,
-          "mileage": 76419,
-          "dealer": "Gee Automotive"
-        },
-        {
           "date": "2026-11-20",
           "price": 28795,
           "mileage": 76419,
@@ -1645,6 +1535,12 @@
           "price": 28795,
           "mileage": 76419,
           "dealer": "Porsche Spokane"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 28795,
+          "mileage": 76419,
+          "dealer": "Gee Automotive"
         }
       ]
     },
@@ -1681,12 +1577,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 46099,
-          "mileage": 29588,
-          "dealer": "Younker Nissan"
-        },
-        {
           "date": "2026-11-20",
           "price": 46099,
           "mileage": 29588,
@@ -1700,6 +1590,12 @@
         },
         {
           "date": "2026-11-24",
+          "price": 46100,
+          "mileage": 29588,
+          "dealer": "Younker Nissan"
+        },
+        {
+          "date": "2026-11-26",
           "price": 46100,
           "mileage": 29588,
           "dealer": "Younker Nissan"
@@ -1714,18 +1610,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Advanced +",
-        "price": 39500,
+        "price": 41898,
         "mileage": 25881,
-        "exteriorColor": "Gray",
-        "interiorColor": "Tan",
+        "exteriorColor": "Silver",
+        "interiorColor": "Off White",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Larson Cadillac",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Fife",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98424",
         "cpo": false,
         "oneOwner": null,
         "accidentFree": null,
@@ -1733,17 +1629,11 @@
         "usageType": "Not listed",
         "image": "https://retail.photos.vin/KMUHCESC7PU141999-1.jpg",
         "photoCount": 93,
-        "url": "https://www.larsonjeep.com/auto/used-2023-genesis-gv80-35t/127087164/",
+        "url": "https://larsoncadillac.com/used/Genesis/2023-Genesis-GV80-8c7ef4e1ac1856330f17d15940aada59.htm",
         "listedAt": "2026-10-29 14:59:40",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 39500,
-          "mileage": 25881,
-          "dealer": "Larson Cadillac"
-        },
         {
           "date": "2026-11-20",
           "price": 40898,
@@ -1761,6 +1651,12 @@
           "price": 39500,
           "mileage": 25881,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 41898,
+          "mileage": 25881,
+          "dealer": "Larson Cadillac"
         }
       ]
     },
@@ -1772,18 +1668,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 41191,
+        "price": 40691,
         "mileage": 20334,
-        "exteriorColor": "Blue",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Capri Blue",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Toyota of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Tacoma",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98409",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -1797,12 +1693,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 41191,
-          "mileage": 20334,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
-        {
           "date": "2026-11-20",
           "price": 41391,
           "mileage": 20334,
@@ -1819,6 +1709,12 @@
           "price": 41191,
           "mileage": 20334,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 40691,
+          "mileage": 20334,
+          "dealer": "Toyota of Tacoma"
         }
       ]
     },
@@ -1830,18 +1726,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 44191,
+        "price": 43691,
         "mileage": 11699,
-        "exteriorColor": "Gray",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Makalu Gray",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Toyota of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Tacoma",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98409",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -1849,17 +1745,11 @@
         "usageType": "Rental Use",
         "image": "https://retail.photos.vin/KMUHFESB4TU322602-1.jpg",
         "photoCount": 88,
-        "url": "https://www.larsonhyundai.com/auto/used-2026-genesis-gv80-25t/125974380/",
+        "url": "https://www.larsonjeep.com/auto/used-2026-genesis-gv80-25t/125974380/",
         "listedAt": "2026-09-25 04:31:33",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 44191,
-          "mileage": 11699,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
         {
           "date": "2026-11-20",
           "price": 44391,
@@ -1877,6 +1767,12 @@
           "price": 44191,
           "mileage": 11699,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 43691,
+          "mileage": 11699,
+          "dealer": "Toyota of Tacoma"
         }
       ]
     },
@@ -1890,12 +1786,12 @@
         "trim": "2.5T",
         "price": 40497,
         "mileage": 18290,
-        "exteriorColor": "White",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Uyuni White",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Larson Chrysler Jeep Dodge of Puyallup",
         "officialBrandDealer": false,
         "city": "Puyallup",
         "state": "WA",
@@ -1913,12 +1809,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 41747,
-          "mileage": 18290,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
-        {
           "date": "2026-11-20",
           "price": 41747,
           "mileage": 18290,
@@ -1935,6 +1825,12 @@
           "price": 40497,
           "mileage": 18290,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 40497,
+          "mileage": 18290,
+          "dealer": "Larson Chrysler Jeep Dodge of Puyallup"
         }
       ]
     },
@@ -1946,18 +1842,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 32199,
+        "price": 200,
         "mileage": 47592,
-        "exteriorColor": "Black",
-        "interiorColor": "Brown",
-        "seats": 7,
+        "exteriorColor": "Vik Black",
+        "interiorColor": "Brown/Beige",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Mercedes-Benz of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Fife",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98424",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -1965,17 +1861,11 @@
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUHBDSB1NU080358-1.jpg",
         "photoCount": 149,
-        "url": "https://www.larsonjeep.com/auto/used-2022-genesis-gv80-25t/126478740/",
+        "url": "https://larsoncadillac.com/used/Genesis/2022-Genesis-GV80-172b21d6ac185c43e2a374ecbabee647.htm",
         "listedAt": "2026-10-07 14:59:40",
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 200,
-          "mileage": 47592,
-          "dealer": "Mercedes-Benz of Tacoma"
-        },
         {
           "date": "2026-11-20",
           "price": 200,
@@ -1993,6 +1883,12 @@
           "price": 32199,
           "mileage": 47592,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 200,
+          "mileage": 47592,
+          "dealer": "Mercedes-Benz of Tacoma"
         }
       ]
     },
@@ -2006,12 +1902,12 @@
         "trim": "2.5T Standard",
         "price": 31999,
         "mileage": 35407,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Larson Chrysler Jeep Dodge of Puyallup",
         "officialBrandDealer": false,
         "city": "Puyallup",
         "state": "WA",
@@ -2029,12 +1925,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 33695,
-          "mileage": 35407,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
-        {
           "date": "2026-11-20",
           "price": 33695,
           "mileage": 35407,
@@ -2051,6 +1941,12 @@
           "price": 31999,
           "mileage": 35407,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 31999,
+          "mileage": 35407,
+          "dealer": "Larson Chrysler Jeep Dodge of Puyallup"
         }
       ]
     },
@@ -2062,18 +1958,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 32691,
+        "price": 32191,
         "mileage": 37378,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Toyota of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Tacoma",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98409",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2086,12 +1982,6 @@
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 32691,
-          "mileage": 37378,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
         {
           "date": "2026-11-20",
           "price": 32891,
@@ -2109,6 +1999,12 @@
           "price": 32691,
           "mileage": 37378,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 32191,
+          "mileage": 37378,
+          "dealer": "Toyota of Tacoma"
         }
       ]
     },
@@ -2145,12 +2041,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 30691,
-          "mileage": 42455,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
-        {
           "date": "2026-11-20",
           "price": 30691,
           "mileage": 42455,
@@ -2166,18 +2056,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 31500,
+        "price": 30999,
         "mileage": 37695,
-        "exteriorColor": "Silver",
-        "interiorColor": "Black",
-        "seats": 7,
+        "exteriorColor": "Savile Silver Metallic",
+        "interiorColor": "Obsidian Black",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Larson Chrysler Jeep Dodge",
+        "dealer": "Toyota of Tacoma",
         "officialBrandDealer": false,
-        "city": "Puyallup",
+        "city": "Tacoma",
         "state": "WA",
-        "zip": "98371",
+        "zip": "98409",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2190,12 +2080,6 @@
         "firstSeenDate": "2026-11-02"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 31500,
-          "mileage": 37695,
-          "dealer": "Larson Chrysler Jeep Dodge"
-        },
         {
           "date": "2026-11-20",
           "price": 31700,
@@ -2213,6 +2097,12 @@
           "price": 31500,
           "mileage": 37695,
           "dealer": "Larson Chrysler Jeep Dodge"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 30999,
+          "mileage": 37695,
+          "dealer": "Toyota of Tacoma"
         }
       ]
     },
@@ -2249,12 +2139,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 30590,
-          "mileage": 57912,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-11-20",
           "price": 30590,
           "mileage": 57912,
@@ -2268,6 +2152,12 @@
         },
         {
           "date": "2026-11-24",
+          "price": 30590,
+          "mileage": 57912,
+          "dealer": "Carvana"
+        },
+        {
+          "date": "2026-11-26",
           "price": 30590,
           "mileage": 57912,
           "dealer": "Carvana"
@@ -2307,12 +2197,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 28998,
-          "mileage": 57187,
-          "dealer": "CarMax Spokane"
-        },
-        {
           "date": "2026-11-20",
           "price": 27998,
           "mileage": 57187,
@@ -2326,6 +2210,12 @@
         },
         {
           "date": "2026-11-24",
+          "price": 27998,
+          "mileage": 57187,
+          "dealer": "CarMax Spokane"
+        },
+        {
+          "date": "2026-11-26",
           "price": 27998,
           "mileage": 57187,
           "dealer": "CarMax Spokane"
@@ -2365,12 +2255,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 47651,
-          "mileage": 32780,
-          "dealer": "West Hills Kia"
-        },
-        {
           "date": "2026-11-20",
           "price": 47651,
           "mileage": 32780,
@@ -2392,16 +2276,16 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T",
-        "price": 37418,
+        "price": 36887,
         "mileage": 38539,
-        "exteriorColor": "Silver",
-        "interiorColor": "Tan",
-        "seats": 7,
+        "exteriorColor": "Savile Silver",
+        "interiorColor": "Black/Beige",
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
         "dealer": "Acura of Seattle",
         "officialBrandDealer": false,
-        "city": "Seattle",
+        "city": "Tukwila",
         "state": "WA",
         "zip": "98188",
         "cpo": false,
@@ -2417,12 +2301,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 39198,
-          "mileage": 38539,
-          "dealer": "Acura of Seattle"
-        },
-        {
           "date": "2026-11-20",
           "price": 39198,
           "mileage": 38539,
@@ -2437,6 +2315,12 @@
         {
           "date": "2026-11-24",
           "price": 37418,
+          "mileage": 38539,
+          "dealer": "Acura of Seattle"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 36887,
           "mileage": 38539,
           "dealer": "Acura of Seattle"
         }
@@ -2475,12 +2359,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 46990,
-          "mileage": 38887,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-11-20",
           "price": 46990,
           "mileage": 38887,
@@ -2494,6 +2372,12 @@
         },
         {
           "date": "2026-11-24",
+          "price": 46590,
+          "mileage": 38887,
+          "dealer": "Carvana"
+        },
+        {
+          "date": "2026-11-26",
           "price": 46590,
           "mileage": 38887,
           "dealer": "Carvana"
@@ -2549,6 +2433,12 @@
           "price": 32590,
           "mileage": 46218,
           "dealer": "Carvana"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 32590,
+          "mileage": 46218,
+          "dealer": "Carvana"
         }
       ]
     },
@@ -2560,7 +2450,7 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Standard",
-        "price": 35590,
+        "price": 34990,
         "mileage": 32733,
         "exteriorColor": "Gray",
         "interiorColor": "Black",
@@ -2585,12 +2475,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-18",
-          "price": 35590,
-          "mileage": 32733,
-          "dealer": "Carvana"
-        },
-        {
           "date": "2026-11-20",
           "price": 35590,
           "mileage": 32733,
@@ -2605,6 +2489,12 @@
         {
           "date": "2026-11-24",
           "price": 35590,
+          "mileage": 32733,
+          "dealer": "Carvana"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 34990,
           "mileage": 32733,
           "dealer": "Carvana"
         }
@@ -2659,40 +2549,40 @@
         "model": "GV80",
         "trim": "2.5T",
         "price": 40590,
-        "mileage": 14771,
-        "exteriorColor": "Savile Silver",
+        "mileage": 14887,
+        "exteriorColor": "Silver",
         "interiorColor": "Black",
         "seats": 5,
-        "drivetrain": "AWD",
+        "drivetrain": null,
         "powertrain": "Gasoline",
-        "dealer": "Carvana - Seattle",
+        "dealer": "Carvana",
         "officialBrandDealer": false,
         "city": "Seattle",
         "state": "WA",
         "zip": "98115",
         "cpo": false,
-        "oneOwner": false,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Rental Use",
+        "oneOwner": null,
+        "accidentFree": null,
+        "accidentCount": null,
+        "usageType": "Not listed",
         "image": "https://retail.photos.vin/KMUHFESB9TU323311-1.jpg",
-        "photoCount": 59,
+        "photoCount": 6,
         "url": "https://www.carvana.com/vehicle/4749964",
-        "listedAt": "2026-09-16 07:00:00",
+        "listedAt": "2026-11-17 00:00:00",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 40590,
-          "mileage": 14771,
-          "dealer": "Carvana"
-        },
         {
           "date": "2026-11-20",
           "price": 40590,
           "mileage": 14771,
           "dealer": "Carvana - Seattle"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 40590,
+          "mileage": 14887,
+          "dealer": "Carvana"
         }
       ]
     },
@@ -2704,18 +2594,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Advanced",
-        "price": 64960,
+        "price": 63995,
         "mileage": 10,
-        "exteriorColor": "Gray",
+        "exteriorColor": "Makalu Gray",
         "interiorColor": "Green",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2723,17 +2613,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHBESB0TU305162-1.jpg",
         "photoCount": 79,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-e73d2e2cac1804804035ae0cf548f1ca.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-e73e20a2ac1804893f899b96699698f3.htm",
         "listedAt": "2026-10-07 17:12:11",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 64960,
-          "mileage": 10,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 64960,
@@ -2751,6 +2635,12 @@
           "price": 64960,
           "mileage": 10,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 63995,
+          "mileage": 10,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -2762,18 +2652,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "2.5T Prestige",
-        "price": 64986,
+        "price": 63995,
         "mileage": 1276,
-        "exteriorColor": "Silver",
+        "exteriorColor": "Savile Silver",
         "interiorColor": "Green",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2781,17 +2671,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHCESB3TU305668-1.jpg",
         "photoCount": 7,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-e73d17d2ac183f1ea59d88f02bd0898d.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-e73e0bb9ac1808c3e00bf2d9d2307fde.htm",
         "listedAt": "2026-07-02 17:12:11",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 64986,
-          "mileage": 1276,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 64986,
@@ -2809,6 +2693,12 @@
           "price": 64986,
           "mileage": 1276,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 63995,
+          "mileage": 1276,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -2822,16 +2712,16 @@
         "trim": "3.5T Advanced",
         "price": 69126,
         "mileage": 8137,
-        "exteriorColor": "White",
+        "exteriorColor": "Alta White",
         "interiorColor": "Green",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2839,17 +2729,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHDESCXTU305642-1.jpg",
         "photoCount": 7,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-e73d1ed8ac185a113b0e3e237467af93.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-e73e127cac18309f1bab8146cbb2cc99.htm",
         "listedAt": "2026-09-04 17:12:11",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 69126,
-          "mileage": 8137,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 69126,
@@ -2867,6 +2751,12 @@
           "price": 69126,
           "mileage": 8137,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 69126,
+          "mileage": 8137,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -2878,18 +2768,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 73752,
+        "price": 71995,
         "mileage": 7907,
-        "exteriorColor": "White",
+        "exteriorColor": "Uyuni White",
         "interiorColor": "Blue",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2897,17 +2787,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHEESC3TU305947-1.jpg",
         "photoCount": 71,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-e73d1b36ac185a113b0e3e2376b6138c.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-e73e0eadac1847c97acf18a4654880f4.htm",
         "listedAt": "2026-10-07 17:12:11",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 73752,
-          "mileage": 7907,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 73752,
@@ -2925,6 +2809,12 @@
           "price": 73752,
           "mileage": 7907,
           "dealer": "Hyundai of Everett"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 71995,
+          "mileage": 7907,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -2936,18 +2826,18 @@
         "make": "Genesis",
         "model": "GV80",
         "trim": "3.5T Prestige",
-        "price": 76480,
+        "price": 72995,
         "mileage": 18,
-        "exteriorColor": "Blue",
+        "exteriorColor": "Capri Blue",
         "interiorColor": "Blue",
         "seats": 7,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Hyundai of Everett",
-        "officialBrandDealer": false,
-        "city": "Everett",
+        "dealer": "Genesis of Kirkland",
+        "officialBrandDealer": true,
+        "city": "Kirkland",
         "state": "WA",
-        "zip": "98203",
+        "zip": "98034",
         "cpo": false,
         "oneOwner": true,
         "accidentFree": true,
@@ -2955,17 +2845,11 @@
         "usageType": "Corporate Use",
         "image": "https://retail.photos.vin/KMUHEESC7TU297383-1.jpg",
         "photoCount": 79,
-        "url": "https://genesisofkirkland.com/used/Genesis/2026-Genesis-GV80-e73d1cd7ac1825319c58e8efd66bc741.htm",
+        "url": "https://hyundaiofeverett.com/used/Genesis/2026-Genesis-GV80-e73e109fac185be1f0e61ab7c87772ce.htm",
         "listedAt": "2026-10-06 17:12:11",
         "firstSeenDate": "2026-11-18"
       },
       "observations": [
-        {
-          "date": "2026-11-18",
-          "price": 76480,
-          "mileage": 18,
-          "dealer": "Hyundai of Everett"
-        },
         {
           "date": "2026-11-20",
           "price": 76480,
@@ -2983,46 +2867,12 @@
           "price": 76480,
           "mileage": 18,
           "dealer": "Hyundai of Everett"
-        }
-      ]
-    },
-    "KMUHFESB4TU343899": {
-      "lastKnown": {
-        "id": "kmuhfesb4tu343899",
-        "vin": "KMUHFESB4TU343899",
-        "year": 2026,
-        "make": "Genesis",
-        "model": "GV80",
-        "trim": "2.5T",
-        "price": 41472,
-        "mileage": 7511,
-        "exteriorColor": "White",
-        "interiorColor": "Not listed",
-        "seats": 5,
-        "drivetrain": "AWD",
-        "powertrain": "Gasoline",
-        "dealer": "Hertz Car Sales Burien, WA",
-        "officialBrandDealer": false,
-        "city": "Burien",
-        "state": "WA",
-        "zip": "98168",
-        "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
-        "image": "https://retail.photos.vin/KMUHFESB4TU343899-1.jpg",
-        "photoCount": 1,
-        "url": "https://www.hertzcarsales.com/rent2buy/Genesis/2026-Genesis-GV80-e4d0a4abac18100891b135ef8373911f.htm",
-        "listedAt": "2026-11-17 10:38:16",
-        "firstSeenDate": "2026-11-18"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-18",
-          "price": 41472,
-          "mileage": 7511,
-          "dealer": "Hertz Car Sales Burien, WA"
+          "date": "2026-11-26",
+          "price": 72995,
+          "mileage": 18,
+          "dealer": "Genesis of Kirkland"
         }
       ]
     },
@@ -3033,28 +2883,28 @@
         "year": 2024,
         "make": "Genesis",
         "model": "GV80",
-        "trim": "3.5T Prestige Signature",
-        "price": 44391,
+        "trim": "3.5T",
+        "price": 46089,
         "mileage": 25408,
         "exteriorColor": "White",
         "interiorColor": "Black",
-        "seats": 7,
+        "seats": 5,
         "drivetrain": "AWD",
         "powertrain": "Gasoline",
-        "dealer": "Bud Clary Auburn Chrysler Dodge Jeep Ram",
+        "dealer": "Bud Clary Auburn VW",
         "officialBrandDealer": false,
         "city": "Auburn",
         "state": "WA",
         "zip": "98002",
         "cpo": false,
-        "oneOwner": null,
-        "accidentFree": null,
-        "accidentCount": null,
-        "usageType": "Not listed",
+        "oneOwner": true,
+        "accidentFree": true,
+        "accidentCount": 0,
+        "usageType": "Personal Use",
         "image": "https://retail.photos.vin/KMUHCESC8RU171063-1.jpg",
-        "photoCount": 2,
+        "photoCount": 12,
         "url": "https://www.budclaryauburnvw.com/inventory/used-2024-genesis-gv80-3-5t-advanced-awd-4d-sport-utility-kmuhcesc8ru171063/",
-        "listedAt": "2026-11-24 12:46:09",
+        "listedAt": "2026-11-24 00:00:00",
         "firstSeenDate": "2026-11-24"
       },
       "observations": [
@@ -3063,6 +2913,12 @@
           "price": 44391,
           "mileage": 25408,
           "dealer": "Bud Clary Auburn Chrysler Dodge Jeep Ram"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 46089,
+          "mileage": 25408,
+          "dealer": "Bud Clary Auburn VW"
         }
       ]
     }
