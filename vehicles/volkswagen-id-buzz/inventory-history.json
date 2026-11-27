@@ -1,28 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-26T18:59:44.027882+00:00",
+  "updatedAt": "2026-11-27T18:58:12.421341+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-20",
-      "vins": [
-        "WVG2WVEB6SH022955",
-        "WVG5WVEB2SH026823",
-        "WVG5WVEBXSH024009",
-        "WVG6YVEB1SH022292",
-        "WVG6YVEB3SH019572",
-        "WVG6YVEB3SH045993",
-        "WVG6YVEB4SH047882",
-        "WVG6YVEB7SH020952",
-        "WVG6YVEBXSH007600",
-        "WVGAWVEB7SH005996",
-        "WVGAWVEBXSH012750",
-        "WVGNYVEB3SH056813",
-        "WVGNYVEB9SH048330",
-        "WVGNYVEBXSH052905",
-        "WVGNYVEBXSH056453",
-        "WVGRWVEB2SH044787"
-      ]
-    },
     {
       "date": "2026-11-21",
       "vins": [
@@ -143,49 +122,29 @@
         "WVGNYVEBXSH056453",
         "WVGRWVEB2SH044787"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "vins": [
+        "WVG2WVEB2SH003366",
+        "WVG5WVEB2SH026823",
+        "WVG5WVEBXSH024009",
+        "WVG6YVEB1SH022292",
+        "WVG6YVEB3SH019572",
+        "WVG6YVEB3SH045993",
+        "WVG6YVEB4SH047882",
+        "WVG6YVEB7SH020952",
+        "WVG6YVEBXSH007600",
+        "WVGAWVEB7SH005996",
+        "WVGNYVEB3SH056813",
+        "WVGNYVEB9SH048330",
+        "WVGNYVEBXSH052905",
+        "WVGNYVEBXSH056453",
+        "WVGRWVEB2SH044787"
+      ]
     }
   ],
   "vehicles": {
-    "WVGAWVEBXSH012750": {
-      "lastKnown": {
-        "id": "wvgawvebxsh012750",
-        "vin": "WVGAWVEBXSH012750",
-        "year": 2025,
-        "make": "Volkswagen",
-        "model": "ID. Buzz",
-        "trim": "Pro S",
-        "price": 47695,
-        "mileage": 1558,
-        "exteriorColor": "Deep Black Pearl",
-        "interiorColor": "Moonlight",
-        "seats": 7,
-        "drivetrain": "RWD",
-        "powertrain": "Electric",
-        "dealer": "BMW of Spokane",
-        "officialBrandDealer": false,
-        "city": "Spokane",
-        "state": "WA",
-        "zip": "99207",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Corporate Use",
-        "image": "https://retail.photos.vin/WVGAWVEBXSH012750-1.jpg",
-        "photoCount": 40,
-        "url": "https://bmwofmiddleburgheights.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-fa86a707ac1843033c35bae5e5d8aeb1.htm",
-        "listedAt": "2025-09-10 16:13:21",
-        "firstSeenDate": "2026-09-08"
-      },
-      "observations": [
-        {
-          "date": "2026-11-20",
-          "price": 47695,
-          "mileage": 1558,
-          "dealer": "BMW of Spokane"
-        }
-      ]
-    },
     "WVG6YVEB3SH045993": {
       "lastKnown": {
         "id": "wvg6yveb3sh045993",
@@ -219,12 +178,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 67163,
-          "mileage": 7299,
-          "dealer": "Wilder Honda"
-        },
-        {
           "date": "2026-11-21",
           "price": 67163,
           "mileage": 7299,
@@ -256,6 +209,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 66963,
+          "mileage": 7299,
+          "dealer": "Wilder Honda"
+        },
+        {
+          "date": "2026-11-27",
           "price": 66963,
           "mileage": 7299,
           "dealer": "Wilder Honda"
@@ -295,12 +254,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 59088,
-          "mileage": null,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-21",
           "price": 59088,
           "mileage": 5219,
@@ -332,6 +285,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 59088,
+          "mileage": 5219,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
           "price": 59088,
           "mileage": 5219,
           "dealer": "Volkswagen of Kirkland"
@@ -364,18 +323,12 @@
         "accidentCount": 0,
         "usageType": "Personal Use",
         "image": "https://retail.photos.vin/WVG6YVEB1SH022292-1.jpg",
-        "photoCount": 4,
+        "photoCount": 5,
         "url": "https://obrienautogroup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-6e04e9e3ac183997d14880287ec8c0fb.htm",
         "listedAt": "2026-10-23 21:39:10",
         "firstSeenDate": "2026-10-26"
       },
       "observations": [
-        {
-          "date": "2026-11-20",
-          "price": 71088,
-          "mileage": 12698,
-          "dealer": "Volkswagen of Kirkland"
-        },
         {
           "date": "2026-11-21",
           "price": 71088,
@@ -411,6 +364,12 @@
           "price": 71088,
           "mileage": 12698,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 71088,
+          "mileage": 12698,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -422,7 +381,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S Plus",
-        "price": 71088,
+        "price": 69988,
         "mileage": 7501,
         "exteriorColor": "Energetic Orange",
         "interiorColor": "Dune",
@@ -447,12 +406,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 71088,
-          "mileage": 7501,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-21",
           "price": 71088,
           "mileage": 7501,
@@ -487,6 +440,12 @@
           "price": 71088,
           "mileage": 7501,
           "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 69988,
+          "mileage": 7501,
+          "dealer": "Volkswagen of Kirkland"
         }
       ]
     },
@@ -498,7 +457,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "Pro S Plus",
-        "price": 71200,
+        "price": 70988,
         "mileage": 1032,
         "exteriorColor": "Cherry Red",
         "interiorColor": "Moonlight",
@@ -523,12 +482,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 71200,
-          "mileage": 1032,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-21",
           "price": 71200,
           "mileage": 1032,
@@ -561,6 +514,12 @@
         {
           "date": "2026-11-26",
           "price": 71200,
+          "mileage": 1032,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 70988,
           "mileage": 1032,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -599,12 +558,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 65725,
-          "mileage": 8615,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-11-21",
           "price": 65725,
           "mileage": 8615,
@@ -639,46 +592,12 @@
           "price": 65725,
           "mileage": 8615,
           "dealer": "Volkswagen of Puyallup"
-        }
-      ]
-    },
-    "WVG2WVEB6SH022955": {
-      "lastKnown": {
-        "id": "wvg2wveb6sh022955",
-        "vin": "WVG2WVEB6SH022955",
-        "year": 2025,
-        "make": "Volkswagen",
-        "model": "ID. Buzz",
-        "trim": "Pro S Plus",
-        "price": 60088,
-        "mileage": 19058,
-        "exteriorColor": "Metro Silver Metallic",
-        "interiorColor": "Copper leatherette",
-        "seats": 7,
-        "drivetrain": "RWD",
-        "powertrain": "Electric",
-        "dealer": "Volkswagen of Kirkland",
-        "officialBrandDealer": true,
-        "city": "Kirkland",
-        "state": "WA",
-        "zip": "98034",
-        "cpo": false,
-        "oneOwner": true,
-        "accidentFree": true,
-        "accidentCount": 0,
-        "usageType": "Lease",
-        "image": "https://retail.photos.vin/WVG2WVEB6SH022955-1.jpg",
-        "photoCount": 1,
-        "url": "https://obrienautogroup.com/used/Volkswagen/2025-Volkswagen-ID.-Buzz-d4cc5e97ac185c1036044b32adb30cfd.htm",
-        "listedAt": "2026-11-05 08:00:00",
-        "firstSeenDate": "2026-11-14"
-      },
-      "observations": [
+        },
         {
-          "date": "2026-11-20",
-          "price": 60088,
-          "mileage": 19058,
-          "dealer": "Volkswagen of Kirkland"
+          "date": "2026-11-27",
+          "price": 65725,
+          "mileage": 8615,
+          "dealer": "Volkswagen of Puyallup"
         }
       ]
     },
@@ -715,12 +634,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 71088,
-          "mileage": 14985,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-21",
           "price": 71088,
           "mileage": 14985,
@@ -752,6 +665,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 71088,
+          "mileage": 14985,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
           "price": 71088,
           "mileage": 14985,
           "dealer": "Volkswagen of Kirkland"
@@ -791,12 +710,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 65790,
-          "mileage": 8819,
-          "dealer": "Campbell Nissan of Edmonds"
-        },
-        {
           "date": "2026-11-21",
           "price": 65790,
           "mileage": 8819,
@@ -828,6 +741,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 65790,
+          "mileage": 8819,
+          "dealer": "Campbell Volkswagen of Edmonds"
+        },
+        {
+          "date": "2026-11-27",
           "price": 65790,
           "mileage": 8819,
           "dealer": "Campbell Volkswagen of Edmonds"
@@ -867,12 +786,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 67195,
-          "mileage": 17738,
-          "dealer": "Wilder Toyota"
-        },
-        {
           "date": "2026-11-21",
           "price": 66163,
           "mileage": 17738,
@@ -904,6 +817,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 65963,
+          "mileage": 17738,
+          "dealer": "Wilder Honda"
+        },
+        {
+          "date": "2026-11-27",
           "price": 65963,
           "mileage": 17738,
           "dealer": "Wilder Honda"
@@ -943,12 +862,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 56296,
-          "mileage": 4028,
-          "dealer": "Dick Hannah Volkswagen"
-        },
-        {
           "date": "2026-11-21",
           "price": 56296,
           "mileage": 4028,
@@ -980,6 +893,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 56296,
+          "mileage": 4028,
+          "dealer": "Dick Hannah Volkswagen"
+        },
+        {
+          "date": "2026-11-27",
           "price": 56296,
           "mileage": 4028,
           "dealer": "Dick Hannah Volkswagen"
@@ -1019,12 +938,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 62568,
-          "mileage": 19287,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-11-21",
           "price": 62568,
           "mileage": 19287,
@@ -1056,6 +969,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 64998,
+          "mileage": 19287,
+          "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-11-27",
           "price": 64998,
           "mileage": 19287,
           "dealer": "Volkswagen of Puyallup"
@@ -1095,12 +1014,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 61191,
-          "mileage": 23374,
-          "dealer": "Daytona Motor Co"
-        },
-        {
           "date": "2026-11-21",
           "price": 61191,
           "mileage": 23374,
@@ -1132,6 +1045,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 58991,
+          "mileage": 23374,
+          "dealer": "Daytona Motor Co"
+        },
+        {
+          "date": "2026-11-27",
           "price": 58991,
           "mileage": 23374,
           "dealer": "Daytona Motor Co"
@@ -1171,12 +1090,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 70899,
-          "mileage": 1946,
-          "dealer": "Volkswagen of Puyallup"
-        },
-        {
           "date": "2026-11-21",
           "price": 70899,
           "mileage": 1946,
@@ -1211,6 +1124,12 @@
           "price": 70899,
           "mileage": 1946,
           "dealer": "Volkswagen of Puyallup"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 70899,
+          "mileage": 1946,
+          "dealer": "Volkswagen of Puyallup"
         }
       ]
     },
@@ -1222,7 +1141,7 @@
         "make": "Volkswagen",
         "model": "ID. Buzz",
         "trim": "1st Edition",
-        "price": 69988,
+        "price": 66988,
         "mileage": 17186,
         "exteriorColor": "Green",
         "interiorColor": "Dune",
@@ -1247,12 +1166,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-20",
-          "price": 69988,
-          "mileage": 17186,
-          "dealer": "Volkswagen of Kirkland"
-        },
-        {
           "date": "2026-11-21",
           "price": 69988,
           "mileage": 17186,
@@ -1285,6 +1198,12 @@
         {
           "date": "2026-11-26",
           "price": 69988,
+          "mileage": 17186,
+          "dealer": "Volkswagen of Kirkland"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 66988,
           "mileage": 17186,
           "dealer": "Volkswagen of Kirkland"
         }
@@ -1348,6 +1267,12 @@
         },
         {
           "date": "2026-11-26",
+          "price": 66675,
+          "mileage": 10825,
+          "dealer": "Dick Hannah Volkswagen"
+        },
+        {
+          "date": "2026-11-27",
           "price": 66675,
           "mileage": 10825,
           "dealer": "Dick Hannah Volkswagen"

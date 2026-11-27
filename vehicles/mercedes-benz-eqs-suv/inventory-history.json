@@ -1,18 +1,7 @@
 {
   "retentionDays": 7,
-  "updatedAt": "2026-11-25T19:15:17.343073+00:00",
+  "updatedAt": "2026-11-27T18:58:16.717165+00:00",
   "snapshots": [
-    {
-      "date": "2026-11-19",
-      "vins": [
-        "4JGDM2EB7PA020340",
-        "4JGDM2EBXPA017058",
-        "4JGDM4EB0PA017484",
-        "4JGDM4EB5PA025239",
-        "4JGDM4EB6PA007249",
-        "4JGDM4EB9PA014227"
-      ]
-    },
     {
       "date": "2026-11-21",
       "vins": [
@@ -39,6 +28,20 @@
     },
     {
       "date": "2026-11-25",
+      "vins": [
+        "4JGDM2DB0PA021833",
+        "4JGDM2EB4PA014964",
+        "4JGDM2EB7PA020340",
+        "4JGDM2EBXPA017058",
+        "4JGDM4EB0PA017484",
+        "4JGDM4EB4PA016774",
+        "4JGDM4EB5PA025239",
+        "4JGDM4EB8PA017166",
+        "4JGDM4EB9PA014227"
+      ]
+    },
+    {
+      "date": "2026-11-27",
       "vins": [
         "4JGDM2DB0PA021833",
         "4JGDM2EB4PA014964",
@@ -86,12 +89,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 44697,
-          "mileage": 26855,
-          "dealer": "Maxx Autos Plus"
-        },
-        {
           "date": "2026-11-23",
           "price": 44497,
           "mileage": 26855,
@@ -99,6 +96,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 43987,
+          "mileage": 26855,
+          "dealer": "Maxx Autos Plus"
+        },
+        {
+          "date": "2026-11-27",
           "price": 43987,
           "mileage": 26855,
           "dealer": "Maxx Autos Plus"
@@ -148,6 +151,12 @@
           "price": 44980,
           "mileage": 26577,
           "dealer": "J&A Auto Sales"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 44980,
+          "mileage": 26577,
+          "dealer": "J&A Auto Sales"
         }
       ]
     },
@@ -184,12 +193,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 48990,
-          "mileage": 47295,
-          "dealer": "Mercedes-Benz of Lynnwood"
-        },
-        {
           "date": "2026-11-21",
           "price": 48990,
           "mileage": 47295,
@@ -203,6 +206,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 49190,
+          "mileage": 47295,
+          "dealer": "Mercedes-Benz of Lynnwood"
+        },
+        {
+          "date": "2026-11-27",
           "price": 49190,
           "mileage": 47295,
           "dealer": "Mercedes-Benz of Lynnwood"
@@ -242,12 +251,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 54991,
-          "mileage": 17939,
-          "dealer": "Legend Auto Sales"
-        },
-        {
           "date": "2026-11-23",
           "price": 54991,
           "mileage": 17939,
@@ -255,6 +258,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 54991,
+          "mileage": 17939,
+          "dealer": "Legend Auto Sales"
+        },
+        {
+          "date": "2026-11-27",
           "price": 54991,
           "mileage": 17939,
           "dealer": "Legend Auto Sales"
@@ -310,6 +319,12 @@
           "price": 52500,
           "mileage": 27605,
           "dealer": "Brotherton Cadillac Northwest"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 52500,
+          "mileage": 27605,
+          "dealer": "Brotherton Cadillac Northwest"
         }
       ]
     },
@@ -346,12 +361,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 58998,
-          "mileage": 12498,
-          "dealer": "Mercedes-Benz of Lynnwood"
-        },
-        {
           "date": "2026-11-21",
           "price": 58998,
           "mileage": 12498,
@@ -365,6 +374,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 58950,
+          "mileage": 12498,
+          "dealer": "Mercedes-Benz of Lynnwood"
+        },
+        {
+          "date": "2026-11-27",
           "price": 58950,
           "mileage": 12498,
           "dealer": "Mercedes-Benz of Lynnwood"
@@ -414,6 +429,12 @@
           "price": 51990,
           "mileage": 36630,
           "dealer": "Mercedes-Benz of Bellingham"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 51990,
+          "mileage": 36630,
+          "dealer": "Mercedes-Benz of Bellingham"
         }
       ]
     },
@@ -450,12 +471,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 39990,
-          "mileage": 42353,
-          "dealer": "Mercedes-Benz of Bellevue"
-        },
-        {
           "date": "2026-11-21",
           "price": 39990,
           "mileage": 42355,
@@ -469,6 +484,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 39790,
+          "mileage": 42355,
+          "dealer": "Mercedes-Benz of Bellevue"
+        },
+        {
+          "date": "2026-11-27",
           "price": 39790,
           "mileage": 42355,
           "dealer": "Mercedes-Benz of Bellevue"
@@ -508,12 +529,6 @@
       },
       "observations": [
         {
-          "date": "2026-11-19",
-          "price": 64355,
-          "mileage": 13747,
-          "dealer": "Carr GMC Buick Vancouver"
-        },
-        {
           "date": "2026-11-21",
           "price": 64355,
           "mileage": 13747,
@@ -545,7 +560,7 @@
         "oneOwner": true,
         "accidentFree": true,
         "accidentCount": 0,
-        "usageType": "Personal Use",
+        "usageType": "Lease",
         "image": "https://retail.photos.vin/4JGDM2DB0PA021833-1.jpg",
         "photoCount": 112,
         "url": "https://mbofbellingham.com/electric-used/Mercedes-Benz/2023-Mercedes-Benz-EQS-450+-21d669faac1827bd9540ac671db65bd6.htm",
@@ -561,6 +576,12 @@
         },
         {
           "date": "2026-11-25",
+          "price": 45950,
+          "mileage": 15514,
+          "dealer": "Mercedes-Benz of Bellingham"
+        },
+        {
+          "date": "2026-11-27",
           "price": 45950,
           "mileage": 15514,
           "dealer": "Mercedes-Benz of Bellingham"
